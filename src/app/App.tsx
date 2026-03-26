@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import type { FormEvent } from "react";
 import "./App.css";
 import "@annotorious/react/annotorious-react.css";
@@ -6,12 +6,39 @@ import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
 import { DEFAULT_INFO_URL } from "../config/iiif";
 import { sanitizeIiifUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
-import { useFrameList } from "../workbench/frames/useFrameList";
+import { useAnnotationStore } from "../workbench/frames/useFrameList";
+import { useIiifDimensions } from "../lib/useIiifDimensions";
+import type { ImageAnnotation } from "@annotorious/annotorious";
+import { annotationToFrame } from "../annotations/annotation-utils";
+import type { FrameDescriptor } from "../workbench/frames/types";
 
 function App() {
   const [inputValue, setInputValue] = useState(DEFAULT_INFO_URL);
   const [infoUrl, setInfoUrl] = useState(DEFAULT_INFO_URL);
-  const { frames, addFrame, clearFrames } = useFrameList(infoUrl);
+  const { annotations, addAnnotation, clearAnnotations } = useAnnotationStore(infoUrl);
+  const { dimensions } = useIiifDimensions(infoUrl);
+
+  const frames = useMemo<FrameDescriptor[]>(() => {
+    if (!dimensions) {
+      return [];
+    }
+
+    return annotations.flatMap((annotation, index) => {
+      const frame = annotationToFrame(annotation, dimensions);
+      if (!frame) {
+        return [];
+      }
+
+      return [
+        {
+          id: frame.id ?? annotation.id ?? `frame-${index + 1}`,
+          paneId: frame.paneId ?? annotation.id ?? `pane-${index + 1}`,
+          order: index + 1,
+          bounds: frame.bounds,
+        },
+      ];
+    });
+  }, [annotations, dimensions]);
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -20,10 +47,8 @@ function App() {
   };
 
   const handleAddPlaceholderFrame = () => {
-    addFrame({
-      bounds: { x: 0.2, y: 0.2, width: 0.25, height: 0.25 },
-      paneId: `pane-${frames.length + 1}`,
-    });
+    const annotation = createPlaceholderAnnotation(infoUrl, annotations.length);
+    addAnnotation(annotation);
   };
 
   return (
@@ -47,15 +72,45 @@ function App() {
       </header>
 
       <main className="workspace">
-        <ViewerWorkbench infoUrl={infoUrl} onFrameAdd={addFrame} />
+        <ViewerWorkbench
+          infoUrl={infoUrl}
+          annotations={annotations}
+          onAnnotationAdd={addAnnotation}
+        />
         <FramesSidebar
           frames={frames}
           onAddMockFrame={handleAddPlaceholderFrame}
-          onClear={clearFrames}
+          onClear={clearAnnotations}
         />
       </main>
     </div>
   );
+}
+
+function createPlaceholderAnnotation(source: string, index: number): ImageAnnotation {
+  const base = (index % 5) * 10;
+  const x = 10 + base;
+  const y = 10 + base;
+  const width = 15;
+  const height = 25;
+  const now = new Date().toISOString();
+
+  return {
+    id: crypto.randomUUID(),
+    type: "Annotation",
+    body: [],
+    target: {
+      type: "Image",
+      source,
+      selector: {
+        type: "FragmentSelector",
+        conformsTo: "http://www.w3.org/TR/media-frags/",
+        value: `xywh=pct:${x},${y},${width},${height}`,
+      },
+    },
+    created: now,
+    modified: now,
+  } as ImageAnnotation;
 }
 
 export default App;

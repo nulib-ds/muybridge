@@ -1,94 +1,107 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
-import type { FrameDescriptor, FrameInput } from './types';
+import { useCallback, useEffect, useMemo, useState } from "react";
+import type { ImageAnnotation } from "@annotorious/annotorious";
 
-const STORAGE_PREFIX = 'muybridge.annotations:';
+const STORAGE_PREFIX = "muybridge.annotations:";
 
 function getStorageKey(infoUrl: string) {
   const trimmed = infoUrl.trim();
   return trimmed ? `${STORAGE_PREFIX}${encodeURIComponent(trimmed)}` : null;
 }
 
-function readStoredFrames(key: string | null): FrameDescriptor[] {
-  if (!key || typeof window === 'undefined') {
+function isValidAnnotation(candidate: unknown): candidate is ImageAnnotation {
+  if (!candidate || typeof candidate !== "object") {
+    return false;
+  }
+
+  const annotation = candidate as ImageAnnotation;
+  if (!annotation.id || typeof annotation.id !== "string") {
+    return false;
+  }
+
+  const target = annotation.target;
+  if (!target || typeof target !== "object") {
+    return false;
+  }
+
+  if (Array.isArray(target)) {
+    return target.every((entry) => typeof entry === "object" && entry !== null);
+  }
+
+  const selector = (target as { selector?: unknown }).selector;
+  if (!selector || typeof selector !== "object") {
+    return false;
+  }
+
+  return true;
+}
+
+function readStoredAnnotations(key: string | null): ImageAnnotation[] {
+  if (!key || typeof window === "undefined") {
     return [];
   }
 
   try {
     const raw = window.localStorage.getItem(key);
-    return raw ? (JSON.parse(raw) as FrameDescriptor[]) : [];
+    if (!raw) {
+      return [];
+    }
+
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed)) {
+      return [];
+    }
+
+    return parsed.filter(isValidAnnotation);
   } catch (error) {
-    console.warn('[frames] failed to parse stored annotations', error);
+    console.warn("[annotations] failed to parse storage", error);
     return [];
   }
 }
 
-function writeStoredFrames(key: string | null, frames: FrameDescriptor[]) {
-  if (!key || typeof window === 'undefined') {
+function writeStoredAnnotations(key: string | null, annotations: ImageAnnotation[]) {
+  if (!key || typeof window === "undefined") {
     return;
   }
 
   try {
-    window.localStorage.setItem(key, JSON.stringify(frames));
+    window.localStorage.setItem(key, JSON.stringify(annotations));
   } catch (error) {
-    console.warn('[frames] failed to persist annotations', error);
+    console.warn("[annotations] failed to persist", error);
   }
 }
 
-export function useFrameList(infoUrl: string) {
+export function useAnnotationStore(infoUrl: string) {
   const storageKey = useMemo(() => getStorageKey(infoUrl), [infoUrl]);
-  const [frames, setFrames] = useState<FrameDescriptor[]>(() => readStoredFrames(storageKey));
+  const [annotations, setAnnotations] = useState<ImageAnnotation[]>(() =>
+    readStoredAnnotations(storageKey),
+  );
 
   useEffect(() => {
-    setFrames(readStoredFrames(storageKey));
+    setAnnotations(readStoredAnnotations(storageKey));
   }, [storageKey]);
 
   useEffect(() => {
-    writeStoredFrames(storageKey, frames);
-  }, [storageKey, frames]);
+    writeStoredAnnotations(storageKey, annotations);
+  }, [annotations, storageKey]);
 
-  const updateFrames = useCallback(
-    (updater: (previous: FrameDescriptor[]) => FrameDescriptor[]) => {
-      setFrames((previous) => updater(previous));
-    },
-    [],
-  );
+  const addAnnotation = useCallback((annotation: ImageAnnotation) => {
+    setAnnotations((previous) => {
+      const index = previous.findIndex((item) => item.id === annotation.id);
+      if (index !== -1) {
+        const copy = [...previous];
+        copy[index] = annotation;
+        return copy;
+      }
+      return [...previous, annotation];
+    });
+  }, []);
 
-  const addFrame = useCallback(
-    (frame: FrameInput) => {
-      updateFrames((previous) => {
-        const nextOrder = frame.order ?? previous.length + 1;
-        const normalized: FrameDescriptor = {
-          id: frame.id ?? crypto.randomUUID(),
-          paneId: frame.paneId ?? `pane-${nextOrder}`,
-          order: nextOrder,
-          bounds: frame.bounds,
-        };
-
-        if (frame.id) {
-          const existingIndex = previous.findIndex((item) => item.id === frame.id);
-          if (existingIndex !== -1) {
-            const copy = [...previous];
-            copy[existingIndex] = {
-              ...copy[existingIndex],
-              ...normalized,
-              order: copy[existingIndex].order,
-            };
-            return copy;
-          }
-        }
-
-        return [...previous, normalized];
-      });
-    },
-    [updateFrames],
-  );
-
-  const clearFrames = useCallback(() => {
-    updateFrames(() => []);
-    if (storageKey && typeof window !== 'undefined') {
+  const clearAnnotations = useCallback(() => {
+    setAnnotations([]);
+    if (storageKey && typeof window !== "undefined") {
       window.localStorage.removeItem(storageKey);
     }
-  }, [updateFrames, storageKey]);
+  }, [storageKey]);
 
-  return { frames, addFrame, clearFrames } as const;
+  return { annotations, addAnnotation, clearAnnotations } as const;
 }

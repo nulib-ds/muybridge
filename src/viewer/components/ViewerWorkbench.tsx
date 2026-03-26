@@ -8,89 +8,31 @@ import {
   type AnnotoriousOpenSeadragonAnnotator,
 } from "@annotorious/react";
 import type { ImageAnnotation } from "@annotorious/annotorious";
-import type { FrameInput } from "../../workbench/frames/types";
-import { annotationToFrame } from "../../annotations/annotation-utils";
 import { AnnotationToolbar } from "../../annotations/AnnotationToolbar";
 
 interface ViewerWorkbenchProps {
   infoUrl: string;
-  onFrameAdd?: (frame: FrameInput) => void;
+  annotations: ImageAnnotation[];
+  onAnnotationAdd?: (annotation: ImageAnnotation) => void;
 }
 
-interface ImageDimensions {
-  width: number;
-  height: number;
-}
-
-const FALLBACK_DIMENSIONS: ImageDimensions = { width: 1, height: 1 };
-
-export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchProps) => {
+export const ViewerWorkbench = memo(({ infoUrl, annotations, onAnnotationAdd }: ViewerWorkbenchProps) => {
   const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
   const [annotatorInstance, setAnnotatorInstance] =
     useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
-  const pendingAnnotationsRef = useRef<ImageAnnotation[]>([]);
   const osdViewer = useViewer();
   const viewerInstance = osdViewer ?? null;
-  const [imageDimensions, setImageDimensions] = useState<ImageDimensions | null>(null);
-  const [dimensionsReady, setDimensionsReady] = useState(false);
-  const [infoRequestVersion, setInfoRequestVersion] = useState(0);
   const [isDrawing, setIsDrawing] = useState(false);
   const navSettingsRef = useRef<OpenSeadragon.GestureSettings | null>(null);
 
-  const requestIiifInfo = useCallback(() => {
-    setInfoRequestVersion((previous) => previous + 1);
-  }, []);
-
   useEffect(() => {
-    pendingAnnotationsRef.current = [];
-    setDimensionsReady(false);
-    setImageDimensions(null);
-  }, [infoUrl]);
-
-  useEffect(() => {
-    const trimmed = infoUrl.trim();
-    if (!trimmed) {
-      setImageDimensions(null);
-      setDimensionsReady(false);
-      return undefined;
+    const annotorious = annotatorInstance;
+    if (!annotorious) {
+      return;
     }
 
-    let cancelled = false;
-    const controller = new AbortController();
-
-    const loadInfo = async () => {
-      try {
-        const response = await fetch(trimmed, { signal: controller.signal });
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-        const payload = (await response.json()) as { width?: number; height?: number } & Record<string, unknown>;
-        const width = Number(payload.width ?? (payload as Record<string, unknown>)["@width"]);
-        const height = Number(payload.height ?? (payload as Record<string, unknown>)["@height"]);
-        if (!Number.isFinite(width) || !Number.isFinite(height)) {
-          throw new Error('IIIF info missing width/height');
-        }
-        if (!cancelled) {
-          setImageDimensions({ width, height });
-          setDimensionsReady(true);
-        }
-      } catch (error) {
-        if (cancelled) {
-          return;
-        }
-        console.warn('[viewer] failed to load IIIF info', error);
-        setDimensionsReady(false);
-        setImageDimensions(null);
-      }
-    };
-
-    loadInfo();
-
-    return () => {
-      cancelled = true;
-      controller.abort();
-    };
-  }, [infoUrl, infoRequestVersion]);
+    annotorious.setAnnotations(annotations, true);
+  }, [annotatorInstance, annotations]);
 
   /* eslint-disable react-hooks/immutability */
   useEffect(() => {
@@ -133,25 +75,7 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
 
     const handleCreate = (annotation: ImageAnnotation) => {
       console.log("[annotorious] createAnnotation", { id: annotation.id });
-      const dims = imageDimensions;
-      const hasTrustedDimensions = Boolean(dims);
-      const usableDimensions = dims ?? FALLBACK_DIMENSIONS;
-
-      if (!hasTrustedDimensions) {
-        console.log("[annotorious] using fallback dimensions", FALLBACK_DIMENSIONS);
-        pendingAnnotationsRef.current = [...pendingAnnotationsRef.current, annotation];
-        requestIiifInfo();
-      }
-
-      const frame = annotationToFrame(annotation, usableDimensions);
-      if (!frame) {
-        console.log("[annotorious] skipping annotation: invalid bounds");
-        return;
-      }
-
-      if (onFrameAdd) {
-        onFrameAdd(frame);
-      }
+      onAnnotationAdd?.(annotation);
       annotoriousRef.current?.setDrawingTool("rectangle");
       annotoriousRef.current?.setDrawingEnabled(false);
       setIsDrawing(false);
@@ -161,38 +85,7 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
     return () => {
       annotorious.off("createAnnotation", handleCreate);
     };
-  }, [annotatorInstance, imageDimensions, onFrameAdd, requestIiifInfo]);
-
-  useEffect(() => {
-    if (
-      !dimensionsReady ||
-      !imageDimensions ||
-      !onFrameAdd ||
-      pendingAnnotationsRef.current.length === 0
-    ) {
-      return;
-    }
-
-    const queuedCount = pendingAnnotationsRef.current.length;
-    console.log("[annotorious] processing queued annotations", {
-      count: queuedCount,
-      dimensions: imageDimensions,
-    });
-
-    const queued = pendingAnnotationsRef.current;
-    pendingAnnotationsRef.current = [];
-
-    queued.forEach((annotation) => {
-      const frame = annotationToFrame(annotation, imageDimensions);
-      if (frame) {
-        onFrameAdd(frame);
-      } else {
-        console.log("[annotorious] queued annotation dropped: invalid bounds", {
-          id: annotation.id,
-        });
-      }
-    });
-  }, [dimensionsReady, imageDimensions, onFrameAdd]);
+  }, [annotatorInstance, onAnnotationAdd]);
 
   const viewerOptions = useMemo(() => {
     const trimmed = infoUrl?.trim();
@@ -267,6 +160,7 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
       >
         <section className="viewer-panel">
           <div className="panel-heading">
+            <h2>IIIF viewer</h2>
             <span>{infoUrl}</span>
           </div>
           <div className={`viewer-stage${isDrawing ? " drawing" : ""}`} data-annotatable>
@@ -277,6 +171,11 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
             )}
           </div>
           <AnnotationToolbar onChange={handleToolbarChange} />
+          <p>
+            Click "Draw rectangle" to enter digitizing mode (crosshair cursor). Drag across the
+            plate, then use Cancel to exit drawing or discard the active shape. Each completed
+            rectangle populates the frame queue on the right.
+          </p>
         </section>
       </OpenSeadragonAnnotator>
     </Annotorious>
