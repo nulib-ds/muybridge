@@ -28,6 +28,36 @@ function getFragmentSelector(annotation: ImageAnnotation): FragmentSelector | nu
   return selector;
 }
 
+function getGeometrySelectorBounds(annotation: ImageAnnotation) {
+  const target = getFirstTarget(annotation);
+  if (!target || typeof target === "string") {
+    return null;
+  }
+
+  const descriptor = Array.isArray(target.selector) ? target.selector[0] : target.selector;
+  if (!descriptor || typeof descriptor !== "object") {
+    return null;
+  }
+
+  const geometry = (descriptor as { geometry?: { bounds?: { minX: number; minY: number; maxX: number; maxY: number } } }).geometry;
+  const bounds = geometry?.bounds;
+  if (!bounds) {
+    return null;
+  }
+
+  const { minX, minY, maxX, maxY } = bounds;
+  if ([minX, minY, maxX, maxY].some((value) => typeof value !== "number")) {
+    return null;
+  }
+
+  return {
+    x: minX,
+    y: minY,
+    width: maxX - minX,
+    height: maxY - minY,
+  };
+}
+
 function parseFragmentValue(value: string) {
   const [, fragmentValue] = value.split("=");
   const normalizedValue = fragmentValue ?? value;
@@ -80,12 +110,23 @@ export function annotationToFrame(
   dimensions: ImageDimensions,
 ): FrameInput | null {
   const selector = getFragmentSelector(annotation);
-  if (!selector) {
-    return null;
+  let bounds: ReturnType<typeof normalizeBounds> = null;
+
+  if (selector) {
+    const { unit, numbers } = parseFragmentValue(selector.value.replace(/^xywh=/, ""));
+    bounds = normalizeBounds(numbers, unit, dimensions);
   }
 
-  const { unit, numbers } = parseFragmentValue(selector.value.replace(/^xywh=/, ""));
-  const bounds = normalizeBounds(numbers, unit, dimensions);
+  if (!bounds) {
+    const geometryBounds = getGeometrySelectorBounds(annotation);
+    if (geometryBounds) {
+      bounds = normalizeBounds(
+        [geometryBounds.x, geometryBounds.y, geometryBounds.width, geometryBounds.height],
+        "pixel",
+        dimensions,
+      );
+    }
+  }
 
   if (!bounds) {
     return null;

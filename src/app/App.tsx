@@ -11,13 +11,12 @@ import { useFrameList } from "../workbench/frames/useFrameList";
 function App() {
   const [inputValue, setInputValue] = useState(DEFAULT_INFO_URL);
   const [infoUrl, setInfoUrl] = useState(DEFAULT_INFO_URL);
-  const { frames, addFrame, clearFrames } = useFrameList();
+  const { frames, addFrame, clearFrames } = useFrameList(infoUrl);
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const nextUrl = sanitizeIiifUrl(inputValue);
     setInfoUrl(nextUrl);
-    clearFrames();
   };
 
   const handleAddPlaceholderFrame = () => {

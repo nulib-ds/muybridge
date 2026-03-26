@@ -27,7 +27,10 @@ export function FramesSidebar({ frames, onAddMockFrame, onClear }: FramesSidebar
         ) : (
           frames.map((frame) => (
             <li key={frame.id}>
-              <span>{frame.paneId}</span>
+              <div>
+                <span>{frame.paneId}</span>
+                <code>{frame.id}</code>
+              </div>
               <code>
                 {frame.bounds.x.toFixed(2)}, {frame.bounds.y.toFixed(2)} /{" "}
                 {frame.bounds.width.toFixed(2)},{frame.bounds.height.toFixed(2)}

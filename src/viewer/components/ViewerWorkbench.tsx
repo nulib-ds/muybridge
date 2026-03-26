@@ -22,69 +22,75 @@ interface ImageDimensions {
   height: number;
 }
 
+const FALLBACK_DIMENSIONS: ImageDimensions = { width: 1, height: 1 };
+
 export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchProps) => {
   const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
-  const handlersRef = useRef<{
-    open?: OpenSeadragon.EventHandler<OpenSeadragon.OpenEvent>;
-    close?: OpenSeadragon.EventHandler<OpenSeadragon.ViewerEvent>;
-  }>({});
-  const frameCounterRef = useRef(0);
-  const pendingFrameRef = useRef<FrameInput | null>(null);
+  const [annotatorInstance, setAnnotatorInstance] =
+    useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
+  const pendingAnnotationsRef = useRef<ImageAnnotation[]>([]);
   const osdViewer = useViewer();
   const viewerInstance = osdViewer ?? null;
   const [imageDimensions, setImageDimensions] = useState<ImageDimensions | null>(null);
+  const [dimensionsReady, setDimensionsReady] = useState(false);
+  const [infoRequestVersion, setInfoRequestVersion] = useState(0);
   const [isDrawing, setIsDrawing] = useState(false);
   const navSettingsRef = useRef<OpenSeadragon.GestureSettings | null>(null);
 
-  const readViewerDimensions = useCallback((): ImageDimensions | null => {
-    if (!viewerInstance) {
-      return null;
-    }
-
-    const firstItem = viewerInstance.world.getItemAt(0);
-    if (!firstItem) {
-      return null;
-    }
-
-    const size = firstItem.getContentSize();
-    return { width: size.x, height: size.y };
-  }, [viewerInstance]);
-
-  const updateDimensions = useCallback(() => {
-    const dims = readViewerDimensions();
-    if (dims) {
-      setImageDimensions(dims);
-      console.log("[viewer] updated dimensions", dims);
-    }
-  }, [readViewerDimensions]);
+  const requestIiifInfo = useCallback(() => {
+    setInfoRequestVersion((previous) => previous + 1);
+  }, []);
 
   useEffect(() => {
-    if (!viewerInstance) {
+    pendingAnnotationsRef.current = [];
+    setDimensionsReady(false);
+    setImageDimensions(null);
+  }, [infoUrl]);
+
+  useEffect(() => {
+    const trimmed = infoUrl.trim();
+    if (!trimmed) {
+      setImageDimensions(null);
+      setDimensionsReady(false);
       return undefined;
     }
 
-    const openHandler: OpenSeadragon.EventHandler<OpenSeadragon.OpenEvent> = () =>
-      updateDimensions();
-    const closeHandler: OpenSeadragon.EventHandler<OpenSeadragon.ViewerEvent> = () =>
-      setImageDimensions(null);
+    let cancelled = false;
+    const controller = new AbortController();
 
-    viewerInstance.addHandler("open", openHandler);
-    viewerInstance.addHandler("close", closeHandler);
-    handlersRef.current = { open: openHandler, close: closeHandler };
-    const rAF = requestAnimationFrame(() => updateDimensions());
+    const loadInfo = async () => {
+      try {
+        const response = await fetch(trimmed, { signal: controller.signal });
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        const payload = (await response.json()) as { width?: number; height?: number } & Record<string, unknown>;
+        const width = Number(payload.width ?? (payload as Record<string, unknown>)["@width"]);
+        const height = Number(payload.height ?? (payload as Record<string, unknown>)["@height"]);
+        if (!Number.isFinite(width) || !Number.isFinite(height)) {
+          throw new Error('IIIF info missing width/height');
+        }
+        if (!cancelled) {
+          setImageDimensions({ width, height });
+          setDimensionsReady(true);
+        }
+      } catch (error) {
+        if (cancelled) {
+          return;
+        }
+        console.warn('[viewer] failed to load IIIF info', error);
+        setDimensionsReady(false);
+        setImageDimensions(null);
+      }
+    };
+
+    loadInfo();
 
     return () => {
-      cancelAnimationFrame(rAF);
-      if (handlersRef.current.open) {
-        viewerInstance.removeHandler("open", handlersRef.current.open);
-      }
-      if (handlersRef.current.close) {
-        viewerInstance.removeHandler("close", handlersRef.current.close);
-      }
-      handlersRef.current = {};
-      setImageDimensions(null);
+      cancelled = true;
+      controller.abort();
     };
-  }, [viewerInstance, updateDimensions]);
+  }, [infoUrl, infoRequestVersion]);
 
   /* eslint-disable react-hooks/immutability */
   useEffect(() => {
@@ -120,26 +126,32 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
   /* eslint-enable react-hooks/immutability */
 
   useEffect(() => {
-    const annotorious = annotoriousRef.current;
+    const annotorious = annotatorInstance;
     if (!annotorious) {
       return undefined;
     }
 
     const handleCreate = (annotation: ImageAnnotation) => {
       console.log("[annotorious] createAnnotation", { id: annotation.id });
-      const dims = imageDimensions ?? readViewerDimensions();
-      if (!dims) {
-        console.log("[annotorious] skipping annotation: image dimensions unknown");
-        return;
+      const dims = imageDimensions;
+      const hasTrustedDimensions = Boolean(dims);
+      const usableDimensions = dims ?? FALLBACK_DIMENSIONS;
+
+      if (!hasTrustedDimensions) {
+        console.log("[annotorious] using fallback dimensions", FALLBACK_DIMENSIONS);
+        pendingAnnotationsRef.current = [...pendingAnnotationsRef.current, annotation];
+        requestIiifInfo();
       }
 
-      const frame = annotationToFrame(annotation, dims);
+      const frame = annotationToFrame(annotation, usableDimensions);
       if (!frame) {
         console.log("[annotorious] skipping annotation: invalid bounds");
         return;
       }
 
-      pendingFrameRef.current = frame;
+      if (onFrameAdd) {
+        onFrameAdd(frame);
+      }
       annotoriousRef.current?.setDrawingTool("rectangle");
       annotoriousRef.current?.setDrawingEnabled(false);
       setIsDrawing(false);
@@ -149,7 +161,38 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
     return () => {
       annotorious.off("createAnnotation", handleCreate);
     };
-  }, [imageDimensions, readViewerDimensions]);
+  }, [annotatorInstance, imageDimensions, onFrameAdd, requestIiifInfo]);
+
+  useEffect(() => {
+    if (
+      !dimensionsReady ||
+      !imageDimensions ||
+      !onFrameAdd ||
+      pendingAnnotationsRef.current.length === 0
+    ) {
+      return;
+    }
+
+    const queuedCount = pendingAnnotationsRef.current.length;
+    console.log("[annotorious] processing queued annotations", {
+      count: queuedCount,
+      dimensions: imageDimensions,
+    });
+
+    const queued = pendingAnnotationsRef.current;
+    pendingAnnotationsRef.current = [];
+
+    queued.forEach((annotation) => {
+      const frame = annotationToFrame(annotation, imageDimensions);
+      if (frame) {
+        onFrameAdd(frame);
+      } else {
+        console.log("[annotorious] queued annotation dropped: invalid bounds", {
+          id: annotation.id,
+        });
+      }
+    });
+  }, [dimensionsReady, imageDimensions, onFrameAdd]);
 
   const viewerOptions = useMemo(() => {
     const trimmed = infoUrl?.trim();
@@ -171,57 +214,6 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
   const handleToolbarChange = (drawing: boolean) => {
     console.log("[toolbar] drawing state change", { drawing });
     setIsDrawing(drawing);
-  };
-
-  const handleConfirmFrame = () => {
-    const annotorious = annotoriousRef.current;
-    if (!annotorious) {
-      console.log("[toolbar] confirm frame ignored: annotorious not ready");
-      return;
-    }
-    if (!onFrameAdd) {
-      console.log("[toolbar] confirm frame ignored: onFrameAdd missing");
-      return;
-    }
-
-    const dims = imageDimensions ?? readViewerDimensions();
-    const selection = annotorious.getSelected?.() ?? [];
-    let frame: FrameInput | null = null;
-
-    if (selection[0] && dims) {
-      frame = annotationToFrame(selection[0] as ImageAnnotation, dims);
-      console.log("[toolbar] confirm frame from selection", { frame });
-    } else if (selection[0] && !dims) {
-      console.log(
-        "[toolbar] selection present but dimensions unknown, falling back to pending frame",
-      );
-    }
-
-    if (!frame) {
-      frame = pendingFrameRef.current;
-      console.log("[toolbar] confirm frame using pending cache", { frame });
-    }
-
-    if (!frame) {
-      console.log("[toolbar] confirm frame ignored: no selection or pending frame");
-      return;
-    }
-
-    frameCounterRef.current += 1;
-    const sequence = frameCounterRef.current;
-    const enrichedFrame: FrameInput = {
-      ...frame,
-      id: frame.id ?? `frame-${sequence}`,
-      paneId: frame.paneId ?? `pane-${sequence}`,
-      order: sequence,
-    };
-
-    console.log("[toolbar] confirm frame", { frame: enrichedFrame });
-    onFrameAdd(enrichedFrame);
-    annotorious.cancelSelected?.();
-    pendingFrameRef.current = null;
-    annotoriousRef.current?.setDrawingEnabled(false);
-    setIsDrawing(false);
   };
 
   useEffect(() => {
@@ -259,14 +251,15 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
     };
   }, [viewerInstance, isDrawing]);
 
-  useEffect(() => {
-    console.log(annotoriousRef);
-  }, [annotoriousRef, isDrawing]);
+  const handleAnnotoriousRef = useCallback((instance: AnnotoriousOpenSeadragonAnnotator | null) => {
+    annotoriousRef.current = instance;
+    setAnnotatorInstance(instance);
+  }, []);
 
   return (
     <Annotorious>
       <OpenSeadragonAnnotator
-        ref={annotoriousRef}
+        ref={handleAnnotoriousRef}
         drawingEnabled={isDrawing}
         drawingMode="click"
         tool="rectangle"
@@ -283,7 +276,7 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
               <p className="viewer-placeholder">Paste an info.json to begin.</p>
             )}
           </div>
-          <AnnotationToolbar onChange={handleToolbarChange} onConfirm={handleConfirmFrame} />
+          <AnnotationToolbar onChange={handleToolbarChange} />
         </section>
       </OpenSeadragonAnnotator>
     </Annotorious>

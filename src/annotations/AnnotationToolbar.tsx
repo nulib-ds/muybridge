@@ -3,10 +3,9 @@ import { useAnnotator, type AnnotoriousOpenSeadragonAnnotator } from "@annotorio
 
 interface AnnotationToolbarProps {
   onChange?: (drawing: boolean) => void;
-  onConfirm?: () => void;
 }
 
-export function AnnotationToolbar({ onChange, onConfirm }: AnnotationToolbarProps) {
+export function AnnotationToolbar({ onChange }: AnnotationToolbarProps) {
   const annotator = useAnnotator<AnnotoriousOpenSeadragonAnnotator<ImageAnnotation>>();
 
   const handleDrawRectangle = () => {
@@ -16,18 +15,10 @@ export function AnnotationToolbar({ onChange, onConfirm }: AnnotationToolbarProp
     onChange?.(true);
   };
 
-  const handleConfirm = () => {
-    console.log('[toolbar] create frame clicked');
-    onConfirm?.();
-  };
-
   return (
     <div className="annotation-toolbar">
       <button type="button" onClick={handleDrawRectangle}>
         Draw rectangle
-      </button>
-      <button type="button" onClick={handleConfirm}>
-        Create frame
       </button>
     </div>
   );
