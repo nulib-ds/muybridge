@@ -1,4 +1,4 @@
-import type { FrameDescriptor } from './types';
+import type { FrameDescriptor } from "./types";
 
 interface FramesSidebarProps {
   frames: FrameDescriptor[];
@@ -13,10 +13,6 @@ export function FramesSidebar({ frames, onAddMockFrame, onClear }: FramesSidebar
         <h2>Frame queue</h2>
         <span>{frames.length} items</span>
       </div>
-      <p>
-        Rectangle annotations land here. Each entry mirrors a future GIF frame, including pane ID and
-        normalized bounds.
-      </p>
       <div className="frame-panel-actions">
         <button type="button" onClick={onAddMockFrame} disabled={!onAddMockFrame}>
           Add placeholder frame
@@ -33,8 +29,8 @@ export function FramesSidebar({ frames, onAddMockFrame, onClear }: FramesSidebar
             <li key={frame.id}>
               <span>{frame.paneId}</span>
               <code>
-                {frame.bounds.x.toFixed(2)}, {frame.bounds.y.toFixed(2)} / {frame.bounds.width.toFixed(2)},
-                {frame.bounds.height.toFixed(2)}
+                {frame.bounds.x.toFixed(2)}, {frame.bounds.y.toFixed(2)} /{" "}
+                {frame.bounds.width.toFixed(2)},{frame.bounds.height.toFixed(2)}
               </code>
             </li>
           ))

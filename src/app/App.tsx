@@ -1,12 +1,12 @@
-import { useState } from 'react';
-import type { FormEvent } from 'react';
-import './App.css';
-import '@annotorious/react/annotorious-react.css';
-import { ViewerWorkbench } from '../viewer/components/ViewerWorkbench';
-import { DEFAULT_INFO_URL } from '../config/iiif';
-import { sanitizeIiifUrl } from '../lib/iiif';
-import { FramesSidebar } from '../workbench/frames/FramesSidebar';
-import { useFrameList } from '../workbench/frames/useFrameList';
+import { useState } from "react";
+import type { FormEvent } from "react";
+import "./App.css";
+import "@annotorious/react/annotorious-react.css";
+import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
+import { DEFAULT_INFO_URL } from "../config/iiif";
+import { sanitizeIiifUrl } from "../lib/iiif";
+import { FramesSidebar } from "../workbench/frames/FramesSidebar";
+import { useFrameList } from "../workbench/frames/useFrameList";
 
 function App() {
   const [inputValue, setInputValue] = useState(DEFAULT_INFO_URL);
@@ -30,16 +30,8 @@ function App() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <div>
-          <p className="eyebrow">Muybridge workbench</p>
-          <h1>Load IIIF plates, annotate panes, export motion.</h1>
-          <p className="lede">
-            Paste an Image API v2 <code>info.json</code> endpoint to hydrate the OpenSeadragon viewer. Rectangle
-            annotations from Annotorious will stream into the frame queue on the right.
-          </p>
-        </div>
         <form className="iiif-form" onSubmit={handleSubmit}>
-          <label htmlFor="infoUrl">IIIF info.json</label>
+          <label htmlFor="infoUrl">Image URI</label>
           <div className="field-row">
             <input
               id="infoUrl"

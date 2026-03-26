@@ -274,7 +274,6 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
       >
         <section className="viewer-panel">
           <div className="panel-heading">
-            <h2>IIIF viewer</h2>
             <span>{infoUrl}</span>
           </div>
           <div className={`viewer-stage${isDrawing ? " drawing" : ""}`} data-annotatable>
@@ -285,11 +284,6 @@ export const ViewerWorkbench = memo(({ infoUrl, onFrameAdd }: ViewerWorkbenchPro
             )}
           </div>
           <AnnotationToolbar onChange={handleToolbarChange} onConfirm={handleConfirmFrame} />
-          <p>
-            Click "Draw rectangle" to enter digitizing mode (crosshair cursor). Drag across the
-            plate, then use Cancel to exit drawing or discard the active shape. Each completed
-            rectangle populates the frame queue on the right.
-          </p>
         </section>
       </OpenSeadragonAnnotator>
     </Annotorious>
