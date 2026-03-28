@@ -135,8 +135,8 @@ h1 {
 
 .frame-list li {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   padding: 0.35rem 0.5rem;
   gap: 0.5rem;
 }
@@ -149,4 +149,53 @@ h1 {
 .frame-placeholder {
   text-align: center;
   color: #555;
+}
+
+.frame-group-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  width: 100%;
+}
+
+.frame-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.frame-row span {
+  font-size: 0.8rem;
+  color: #333;
+}
+
+.frame-group-preview {
+  height: 4rem;
+  width: 4rem;
+}
+
+.frame-preview-stage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #eee;
+  overflow: hidden;
+}
+
+.frame-preview-stage img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}
+
+.frame-preview-placeholder {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.a9s-rotation-handle,
+.a9s-rotation-handle-line-bg,
+.a9s-rotation-handle-line-fg {
+  display: none;
 }

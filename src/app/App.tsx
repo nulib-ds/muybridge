@@ -8,7 +8,6 @@ import { sanitizeIiifUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
 import { useAnnotationStore } from "../workbench/frames/useFrameList";
 import { useIiifDimensions } from "../lib/useIiifDimensions";
-import type { ImageAnnotation } from "@annotorious/annotorious";
 import { annotationToFrame } from "../annotations/annotation-utils";
 import type { FrameDescriptor } from "../workbench/frames/types";
 
@@ -46,11 +45,6 @@ function App() {
     setInfoUrl(nextUrl);
   };
 
-  const handleAddPlaceholderFrame = () => {
-    const annotation = createPlaceholderAnnotation(infoUrl, annotations.length);
-    addAnnotation(annotation);
-  };
-
   return (
     <div className="app-shell">
       <header className="app-header">
@@ -79,38 +73,12 @@ function App() {
         />
         <FramesSidebar
           frames={frames}
-          onAddMockFrame={handleAddPlaceholderFrame}
+          infoUrl={infoUrl}
           onClear={clearAnnotations}
         />
       </main>
     </div>
   );
-}
-
-function createPlaceholderAnnotation(source: string, index: number): ImageAnnotation {
-  const base = (index % 5) * 10;
-  const x = 10 + base;
-  const y = 10 + base;
-  const width = 15;
-  const height = 25;
-  const now = new Date().toISOString();
-
-  return {
-    id: crypto.randomUUID(),
-    type: "Annotation",
-    body: [],
-    target: {
-      type: "Image",
-      source,
-      selector: {
-        type: "FragmentSelector",
-        conformsTo: "http://www.w3.org/TR/media-frags/",
-        value: `xywh=pct:${x},${y},${width},${height}`,
-      },
-    },
-    created: now,
-    modified: now,
-  } as ImageAnnotation;
 }
 
 export default App;
