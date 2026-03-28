@@ -223,7 +223,8 @@ h1 {
 .frame-preview-stage {
   position: relative;
   width: 100%;
-  height: 200px;
+  aspect-ratio: var(--frame-preview-aspect, 1);
+  height: 300px;
   background-color: #eee;
   overflow: hidden;
 }

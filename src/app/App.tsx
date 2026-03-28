@@ -17,7 +17,7 @@ function App() {
   const [infoUrl, setInfoUrl] = useState(DEFAULT_INFO_URL);
   const { annotations, addAnnotation, clearAnnotations } = useAnnotationStore(infoUrl);
   const { dimensions } = useIiifDimensions(infoUrl);
-  const [animationDuration, setAnimationDuration] = useState(6);
+  const [animationDuration, setAnimationDuration] = useState(2);
 
   const frames = useMemo<FrameDescriptor[]>(() => {
     if (!dimensions) {
@@ -79,11 +79,7 @@ function App() {
           durationSeconds={animationDuration}
           onDurationChange={setAnimationDuration}
         />
-        <FramesSidebar
-          frames={frames}
-          infoUrl={infoUrl}
-          onClear={clearAnnotations}
-        />
+        <FramesSidebar frames={frames} infoUrl={infoUrl} onClear={clearAnnotations} />
       </main>
     </div>
   );

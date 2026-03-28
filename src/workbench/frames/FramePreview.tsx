@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import type { CSSProperties } from "react";
 import type { FrameDescriptor } from "./types";
 import { getIiifImageServiceUrl } from "../../lib/iiif";
 
@@ -46,13 +47,18 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
 
   const currentFrame = frames[currentIndex] ?? null;
   const currentSource = previewSources[currentIndex] ?? null;
+  const firstFrame = frames[0] ?? null;
   const aspectRatio = useMemo(() => {
-    if (!currentFrame || currentFrame.bounds.height <= 0) {
+    if (!firstFrame || firstFrame.bounds.height <= 0) {
       return 1;
     }
-    const ratio = currentFrame.bounds.width / currentFrame.bounds.height;
+    const ratio = firstFrame.bounds.width / firstFrame.bounds.height;
     return Number.isFinite(ratio) && ratio > 0 ? Number(ratio.toFixed(3)) : 1;
-  }, [currentFrame]);
+  }, [firstFrame]);
+  const stageStyle = useMemo(
+    () => ({ "--frame-preview-aspect": aspectRatio }) as CSSProperties,
+    [aspectRatio],
+  );
 
   useEffect(() => {
     setCurrentIndex(0);
@@ -81,7 +87,7 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
 
   return (
     <div className="frame-group-preview">
-      <div className="frame-preview-stage" style={{ aspectRatio }}>
+      <div className="frame-preview-stage" style={stageStyle}>
         {currentSource ? (
           <img src={currentSource} alt="Frame preview" loading="lazy" />
         ) : (
