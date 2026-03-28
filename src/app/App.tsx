@@ -10,12 +10,14 @@ import { useAnnotationStore } from "../workbench/frames/useFrameList";
 import { useIiifDimensions } from "../lib/useIiifDimensions";
 import { annotationToFrame } from "../annotations/annotation-utils";
 import type { FrameDescriptor } from "../workbench/frames/types";
+import { FramePreviewPanel } from "../workbench/frames/FramePreviewPanel";
 
 function App() {
   const [inputValue, setInputValue] = useState(DEFAULT_INFO_URL);
   const [infoUrl, setInfoUrl] = useState(DEFAULT_INFO_URL);
   const { annotations, addAnnotation, clearAnnotations } = useAnnotationStore(infoUrl);
   const { dimensions } = useIiifDimensions(infoUrl);
+  const [animationDuration, setAnimationDuration] = useState(6);
 
   const frames = useMemo<FrameDescriptor[]>(() => {
     if (!dimensions) {
@@ -70,6 +72,12 @@ function App() {
           infoUrl={infoUrl}
           annotations={annotations}
           onAnnotationAdd={addAnnotation}
+        />
+        <FramePreviewPanel
+          frames={frames}
+          infoUrl={infoUrl}
+          durationSeconds={animationDuration}
+          onDurationChange={setAnimationDuration}
         />
         <FramesSidebar
           frames={frames}

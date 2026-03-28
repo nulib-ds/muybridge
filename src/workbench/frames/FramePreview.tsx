@@ -3,11 +3,12 @@ import type { FrameDescriptor } from "./types";
 import { getIiifImageServiceUrl } from "../../lib/iiif";
 
 const PREVIEW_STAGE_SIZE = 220;
-const FRAME_INTERVAL_MS = 600;
+const DEFAULT_FRAME_INTERVAL_MS = 600;
 
 interface FramePreviewProps {
   infoUrl: string;
   frames: FrameDescriptor[];
+  durationSeconds: number;
 }
 
 function formatPercent(value: number) {
@@ -15,9 +16,18 @@ function formatPercent(value: number) {
   return (clamped * 100).toFixed(2);
 }
 
-export function FramePreview({ infoUrl, frames }: FramePreviewProps) {
+export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const imageService = useMemo(() => getIiifImageServiceUrl(infoUrl), [infoUrl]);
+  const frameSignature = useMemo(() => frames.map((frame) => frame.id).join("|"), [frames]);
+  const frameIntervalMs = useMemo(() => {
+    if (frames.length === 0 || durationSeconds <= 0) {
+      return DEFAULT_FRAME_INTERVAL_MS;
+    }
+    const perFrameSeconds = durationSeconds / frames.length;
+    const clampedSeconds = perFrameSeconds > 0 ? perFrameSeconds : durationSeconds;
+    return Math.max(16, clampedSeconds * 1000);
+  }, [durationSeconds, frames.length]);
 
   const previewSources = useMemo(() => {
     if (!imageService) {
@@ -46,7 +56,7 @@ export function FramePreview({ infoUrl, frames }: FramePreviewProps) {
 
   useEffect(() => {
     setCurrentIndex(0);
-  }, [frames.length, imageService]);
+  }, [frameSignature, imageService, durationSeconds]);
 
   useEffect(() => {
     if (frames.length <= 1) {
@@ -58,12 +68,12 @@ export function FramePreview({ infoUrl, frames }: FramePreviewProps) {
         const next = previous + 1;
         return next >= frames.length ? 0 : next;
       });
-    }, FRAME_INTERVAL_MS);
+    }, frameIntervalMs);
 
     return () => {
       window.clearInterval(timer);
     };
-  }, [frames.length]);
+  }, [frames.length, frameSignature, frameIntervalMs]);
 
   if (!frames.length) {
     return null;
