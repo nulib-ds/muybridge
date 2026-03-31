@@ -11,13 +11,19 @@ import { useIiifDimensions } from "../lib/useIiifDimensions";
 import { annotationToFrame } from "../annotations/annotation-utils";
 import type { FrameDescriptor } from "../workbench/frames/types";
 import { FramePreviewPanel } from "../workbench/frames/FramePreviewPanel";
+import { PlateSelector } from "../workbench/plates/PlateSelector";
+import { defaultPlate, findPlateByInfoUrl, plateCatalog } from "../workbench/plates/plateCatalog";
+import type { PlateEntry } from "../workbench/plates/types";
+
+const INITIAL_INFO_URL = defaultPlate?.imageUri ?? DEFAULT_INFO_URL;
 
 function App() {
-  const [inputValue, setInputValue] = useState(DEFAULT_INFO_URL);
-  const [infoUrl, setInfoUrl] = useState(DEFAULT_INFO_URL);
+  const [inputValue, setInputValue] = useState(INITIAL_INFO_URL);
+  const [infoUrl, setInfoUrl] = useState(INITIAL_INFO_URL);
   const { annotations, addAnnotation, clearAnnotations } = useAnnotationStore(infoUrl);
   const { dimensions } = useIiifDimensions(infoUrl);
   const [animationDuration, setAnimationDuration] = useState(2);
+  const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
 
   const frames = useMemo<FrameDescriptor[]>(() => {
     if (!dimensions) {
@@ -47,9 +53,59 @@ function App() {
     setInfoUrl(nextUrl);
   };
 
+  const handlePlateSelect = (plate: PlateEntry) => {
+    const nextUrl = sanitizeIiifUrl(plate.imageUri);
+    setInputValue(nextUrl);
+    setInfoUrl(nextUrl);
+  };
+
   return (
     <div className="app-shell">
       <header className="app-header">
+        <div className="plate-toolbar">
+          <PlateSelector
+            plates={plateCatalog}
+            selectedInfoUrl={infoUrl}
+            onSelect={handlePlateSelect}
+          />
+          {activePlate ? (
+            <div className="plate-metadata-panel">
+              <h2>{activePlate.label}</h2>
+              <p>{activePlate.summary}</p>
+              <ul>
+                <li>
+                  <strong>Date</strong>
+                  <span>{activePlate.date}</span>
+                </li>
+                <li>
+                  <strong>Medium</strong>
+                  <span>{activePlate.medium}</span>
+                </li>
+                <li>
+                  <strong>Homepage</strong>
+                  <a href={activePlate.homepageId} target="_blank" rel="noreferrer">
+                    {activePlate.homepageLabel || activePlate.homepageId}
+                  </a>
+                </li>
+              </ul>
+              {activePlate.metadata.length ? (
+                <div className="plate-extra-metadata">
+                  {activePlate.metadata.map((entry) => (
+                    <div key={`${entry.label}-${entry.value}`}>
+                      <strong>{entry.label}</strong>
+                      <span>{entry.value}</span>
+                    </div>
+                  ))}
+                </div>
+              ) : null}
+            </div>
+          ) : (
+            <div className="plate-metadata-panel">
+              <h2>Select a plate</h2>
+              <p>Choose a plate from the catalog to hydrate the viewer with stored frames.</p>
+            </div>
+          )}
+        </div>
         <form className="iiif-form" onSubmit={handleSubmit}>
           <label htmlFor="infoUrl">Image URI</label>
           <div className="field-row">

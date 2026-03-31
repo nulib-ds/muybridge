@@ -33,3 +33,16 @@ export function getIiifImageServiceUrl(infoUrl: string): string | null {
 
   return withoutTrailingSlash || null;
 }
+
+/**
+ * Returns a thumbnail endpoint derived from an info.json URL.
+ */
+export function getIiifThumbnailUrl(infoUrl: string, width = 240): string | null {
+  const serviceUrl = getIiifImageServiceUrl(infoUrl);
+  if (!serviceUrl) {
+    return null;
+  }
+
+  const safeWidth = Number.isFinite(width) && width > 0 ? Math.round(width) : 240;
+  return `${serviceUrl}/full/${safeWidth},/0/default.jpg`;
+}

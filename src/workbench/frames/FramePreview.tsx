@@ -45,7 +45,6 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
     });
   }, [frames, imageService]);
 
-  const currentFrame = frames[currentIndex] ?? null;
   const currentSource = previewSources[currentIndex] ?? null;
   const firstFrame = frames[0] ?? null;
   const aspectRatio = useMemo(() => {
