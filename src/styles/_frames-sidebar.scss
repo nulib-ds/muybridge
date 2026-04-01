@@ -1,0 +1,88 @@
+@use "./tokens" as *;
+
+.frames-panel {
+  padding: $space-sm;
+  display: flex;
+  flex-direction: column;
+  gap: $space-sm;
+}
+
+.frame-panel-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-sm;
+}
+
+.frame-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.frame-list li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0.35rem 0.5rem;
+  gap: $space-sm;
+}
+
+.frame-list code {
+  font-size: 0.8rem;
+  color: $color-text-medium;
+}
+
+.frame-placeholder {
+  text-align: center;
+  color: $color-text-muted;
+}
+
+.frame-thumbnail {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.frame-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.frame-thumbnail-placeholder {
+  font-size: 0.75rem;
+  color: $color-text-muted;
+  text-align: center;
+  padding: $space-xs;
+}
+
+.frame-metadata {
+  display: flex;
+  flex-direction: column;
+  gap: $space-xs;
+  flex: 1;
+  min-width: 0;
+}
+
+.frame-meta-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: $space-sm;
+}
+
+.frame-meta-heading strong {
+  font-size: 0.9rem;
+  color: $color-emphasis;
+}
+
+.frame-meta-bounds {
+  word-break: break-all;
+}

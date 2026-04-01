@@ -7,6 +7,8 @@ interface FramePreviewPanelProps {
   infoUrl: string;
   durationSeconds: number;
   onDurationChange?: (duration: number) => void;
+  onExportManifest?: () => void;
+  canExportManifest?: boolean;
 }
 
 export function FramePreviewPanel({
@@ -14,6 +16,8 @@ export function FramePreviewPanel({
   infoUrl,
   durationSeconds,
   onDurationChange,
+  onExportManifest,
+  canExportManifest,
 }: FramePreviewPanelProps) {
   const handleDurationChange = (event: ChangeEvent<HTMLInputElement>) => {
     const value = Number(event.target.value);
@@ -46,6 +50,14 @@ export function FramePreviewPanel({
       ) : (
         <p className="frame-preview-placeholder">Draw a rectangle to see the animation loop.</p>
       )}
+      <button
+        type="button"
+        onClick={onExportManifest}
+        disabled={!onExportManifest || !canExportManifest}
+        className="manifest-export-button"
+      >
+        Export IIIF manifest
+      </button>
     </aside>
   );
 }

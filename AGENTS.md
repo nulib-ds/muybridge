@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-This Vite + React workbench renders IIIF Image API v2 resources and records annotations for Muybridge plates. Keep sources in `src/`: viewer wiring (`src/app/`), OpenSeadragon + Annotorious composition (`src/viewer/`), Annotorious helpers (`src/annotations/`), and GIF assembly helpers (`src/workbench/frames/`). Shared parsing utilities live in `src/lib/`. Tests mirror this hierarchy under `tests/`.
+This Vite + React workbench renders IIIF Image API v2 resources and records annotations for Muybridge plates. Keep sources in `src/`: viewer wiring (`src/app/`), OpenSeadragon + Annotorious composition (`src/viewer/`), Annotorious helpers (`src/annotations/`), and GIF assembly helpers (`src/workbench/frames/`). Shared parsing utilities live in `src/lib/`. Tests mirror this hierarchy under `tests/`. Cross-functional “skills” live under `skills/` (e.g., `skills/styling.md`) so collaborators can see workflow expectations at a glance.
 
 ## Build, Test, and Development Commands
 `npm install` / `npm ci` sync dependencies (Annotorious, OpenSeadragon bindings, gif encoder). `npm run dev` starts Vite at `http://localhost:5173`. `npm run build` produces the optimized bundle in `dist/`; verify with `npm run preview`. `npm test` (or `npm run test:ci`) runs Vitest suites. `npm run lint` and `npm run format` apply ESLint + Prettier rules; both must pass before commits.

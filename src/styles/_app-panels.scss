@@ -1,0 +1,13 @@
+@use "./tokens" as *;
+
+.panel-heading {
+  display: flex;
+  flex-direction: column;
+  gap: $space-xs;
+}
+
+.panel-heading span {
+  font-size: 0.85rem;
+  color: $color-text-muted;
+  word-break: break-all;
+}

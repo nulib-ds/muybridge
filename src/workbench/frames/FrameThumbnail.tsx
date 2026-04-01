@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import type { FrameDescriptor } from "./types";
 import { getIiifImageServiceUrl } from "../../lib/iiif";
 
-const THUMBNAIL_SIZE = 120;
+const THUMBNAIL_SIZE = 50;
 
 interface FrameThumbnailProps {
   frame: FrameDescriptor;
@@ -31,7 +31,11 @@ export function FrameThumbnail({ frame, infoUrl }: FrameThumbnailProps) {
   return (
     <div className="frame-thumbnail">
       {source ? (
-        <img src={source} alt={`Frame ${frame.id}`} loading="lazy" />
+        <img
+          src={source}
+          alt={`Frame ${frame.order ?? "preview"}`}
+          loading="lazy"
+        />
       ) : (
         <span className="frame-thumbnail-placeholder">Preview unavailable</span>
       )}

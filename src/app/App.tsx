@@ -1,6 +1,5 @@
 import { useMemo, useState } from "react";
 import type { FormEvent } from "react";
-import "./App.css";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
 import { DEFAULT_INFO_URL } from "../config/iiif";
@@ -14,8 +13,18 @@ import { FramePreviewPanel } from "../workbench/frames/FramePreviewPanel";
 import { PlateSelector } from "../workbench/plates/PlateSelector";
 import { defaultPlate, findPlateByInfoUrl, plateCatalog } from "../workbench/plates/plateCatalog";
 import type { PlateEntry } from "../workbench/plates/types";
+import { buildManifestFromFrames } from "../workbench/frames/manifest";
 
 const INITIAL_INFO_URL = defaultPlate?.imageUri ?? DEFAULT_INFO_URL;
+
+function toDownloadName(label: string | undefined) {
+  const fallback = label?.trim() || "muybridge-plate";
+  return fallback
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .replace(/-{2,}/g, "-") || "muybridge-plate";
+}
 
 function App() {
   const [inputValue, setInputValue] = useState(INITIAL_INFO_URL);
@@ -57,6 +66,36 @@ function App() {
     const nextUrl = sanitizeIiifUrl(plate.imageUri);
     setInputValue(nextUrl);
     setInfoUrl(nextUrl);
+  };
+
+  const handleManifestExport = () => {
+    if (!dimensions || !frames.length) {
+      return;
+    }
+
+    const manifest = buildManifestFromFrames({
+      infoUrl,
+      frames,
+      dimensions,
+      durationSeconds: animationDuration,
+      label: activePlate?.label,
+      summary: activePlate?.summary,
+    });
+
+    if (!manifest) {
+      return;
+    }
+
+    const blob = new Blob([JSON.stringify(manifest, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const anchor = document.createElement("a");
+    const slug = toDownloadName(activePlate?.label);
+    anchor.href = url;
+    anchor.download = `${slug}-animation-manifest.json`;
+    document.body.appendChild(anchor);
+    anchor.click();
+    document.body.removeChild(anchor);
+    URL.revokeObjectURL(url);
   };
 
   return (
@@ -134,6 +173,8 @@ function App() {
           infoUrl={infoUrl}
           durationSeconds={animationDuration}
           onDurationChange={setAnimationDuration}
+          onExportManifest={handleManifestExport}
+          canExportManifest={Boolean(dimensions && frames.length)}
         />
         <FramesSidebar frames={frames} infoUrl={infoUrl} onClear={clearAnnotations} />
       </main>

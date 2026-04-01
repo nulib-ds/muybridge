@@ -32,11 +32,9 @@ export function FramesSidebar({ frames, infoUrl, onClear }: FramesSidebarProps) 
               <FrameThumbnail infoUrl={infoUrl} frame={frame} />
               <div className="frame-metadata">
                 <div className="frame-meta-heading">
-                  <strong>{frame.paneId}</strong>
-                  <code>#{frame.order}</code>
+                  <strong>Frame {frame.order}</strong>
                 </div>
                 <code className="frame-meta-bounds">{formatBounds(frame)}</code>
-                <code className="frame-meta-id">{frame.id}</code>
               </div>
             </li>
           ))

@@ -1,0 +1,43 @@
+@use "./tokens" as *;
+
+.viewer-panel {
+  padding: $space-sm;
+  display: flex;
+  flex-direction: column;
+  gap: $space-sm;
+}
+
+.viewer-panel p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.viewer-stage {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.viewer-stage > * {
+  width: 100%;
+  height: 100%;
+}
+
+.viewer-stage.drawing,
+.viewer-stage.drawing .osd-viewer,
+.viewer-stage.drawing .osd-viewer canvas {
+  cursor: crosshair;
+}
+
+.osd-viewer {
+  width: 100%;
+  height: 100%;
+}
+
+.a9s-rotation-handle,
+.a9s-rotation-handle-line-bg,
+.a9s-rotation-handle-line-fg {
+  display: none;
+}
