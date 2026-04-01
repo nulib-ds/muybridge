@@ -116,6 +116,12 @@ export const ViewerWorkbench = memo(
 
       return {
         tileSources: trimmed,
+        showNavigationControl: false,
+        showHomeControl: false,
+        showFullPageControl: false,
+        showRotationControl: false,
+        showFlipControl: false,
+        showZoomControl: false,
         gestureSettingsMouse: {
           clickToZoom: false,
           dblClickToZoom: false,
@@ -183,9 +189,7 @@ export const ViewerWorkbench = memo(
           theme="light"
         >
           <section className="viewer-panel">
-            <div className="panel-heading">
-              <span>{infoUrl}</span>
-            </div>
+            <AnnotationToolbar onChange={handleToolbarChange} />
             <div className={`viewer-stage${isDrawing ? " drawing" : ""}`} data-annotatable>
               {viewerOptions ? (
                 <OpenSeadragonViewer className="osd-viewer" options={viewerOptions} />
@@ -193,7 +197,9 @@ export const ViewerWorkbench = memo(
                 <p className="viewer-placeholder">IIIF Image URI</p>
               )}
             </div>
-            <AnnotationToolbar onChange={handleToolbarChange} />
+            <div className="panel-heading">
+              <span>{infoUrl}</span>
+            </div>
           </section>
         </OpenSeadragonAnnotator>
       </Annotorious>

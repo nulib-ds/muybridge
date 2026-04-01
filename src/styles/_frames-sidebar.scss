@@ -1,11 +1,18 @@
 @use "./tokens" as *;
 
 .frames-panel {
-  padding: $space-sm;
   display: flex;
   flex-direction: column;
   gap: $space-sm;
+  width: 320px;
+  max-width: 360px;
+  flex-shrink: 0;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: $color-panel; // Intentional contrast panel per styling skill exception.
 }
+
+/* Preview and queue flow naturally; no absolute positioning. */
 
 .frame-panel-actions {
   display: flex;

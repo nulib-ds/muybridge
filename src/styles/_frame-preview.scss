@@ -1,7 +1,6 @@
 @use "./tokens" as *;
 
 .frame-preview-panel {
-  padding: $space-sm;
   display: flex;
   flex-direction: column;
   gap: $space-sm;
@@ -25,8 +24,11 @@
   position: relative;
   width: 100%;
   aspect-ratio: var(--frame-preview-aspect, 1);
-  height: 300px;
+  height: 25vh;
+  min-height: 200px;
   overflow: hidden;
+  background-color: #000;
+  padding: $space-md;
 }
 
 .frame-preview-stage img {

@@ -1,10 +1,13 @@
 @use "./tokens" as *;
 
 .viewer-panel {
-  padding: $space-sm;
+  padding-bottom: calc($space-sm * 6);
   display: flex;
   flex-direction: column;
   gap: $space-sm;
+  position: relative;
+  width: 100%;
+  background-color: $color-panel; // Intentional contrast panel per styling guidance.
 }
 
 .viewer-panel p {
@@ -34,6 +37,16 @@
 .osd-viewer {
   width: 100%;
   height: 100%;
+}
+
+.annotation-toolbar {
+  position: absolute;
+  left: 50%;
+  bottom: $space-sm;
+  transform: translateX(-50%);
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-sm;
 }
 
 .a9s-rotation-handle,

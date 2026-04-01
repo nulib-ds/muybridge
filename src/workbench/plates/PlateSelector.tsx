@@ -30,10 +30,6 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
 
   return (
     <div className={`plate-picker${isOpen ? " open" : ""}`}>
-      <div className="plate-picker-heading">
-        <strong>Plate catalog</strong>
-        <span>{plates.length ? `${plates.length} entries` : "No catalog items"}</span>
-      </div>
       <button
         type="button"
         className="plate-picker-toggle"
@@ -41,6 +37,7 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
         disabled={!plates.length}
         aria-haspopup="listbox"
         aria-expanded={isOpen}
+        aria-label="Select a plate from the catalog"
       >
         {selectedPlate ? (
           <>
@@ -53,7 +50,7 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
             </div>
             <div className="plate-picker-labels">
               <strong>{selectedPlate.label}</strong>
-              <span>{selectedPlate.date || selectedPlate.summary}</span>
+              <span>{selectedPlate.summary}</span>
             </div>
           </>
         ) : (
@@ -80,7 +77,7 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
                 </div>
                 <div className="plate-picker-labels">
                   <strong>{plate.label}</strong>
-                  <span>{plate.summary || plate.date}</span>
+                  <span>{plate.summary}</span>
                 </div>
               </button>
             </li>

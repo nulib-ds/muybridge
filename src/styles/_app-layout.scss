@@ -3,10 +3,14 @@
 .app-shell {
   min-height: 100vh;
   display: flex;
+  color: $color-text-strong;
+}
+
+.app-content {
+  flex: 1;
+  display: flex;
   flex-direction: column;
   gap: $space-md;
-  padding: $space-sm;
-  color: $color-text-strong;
 }
 
 .app-header,
