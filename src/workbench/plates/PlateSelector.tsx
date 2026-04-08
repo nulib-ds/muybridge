@@ -1,4 +1,4 @@
-import { Avatar, Button, Card, Dialog, Flex, Text, TextField } from "@radix-ui/themes";
+import { Avatar, Box, Button, Card, Dialog, Flex, Text, TextField } from "@radix-ui/themes";
 import { useEffect, useMemo, useState } from "react";
 import type { PlateEntry } from "./types";
 import { useInView } from "../../lib/useInView";
@@ -64,6 +64,7 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
 
   const handleSelect = (plate: PlateEntry) => {
     onSelect?.(plate);
+    setIsOpen(false);
   };
 
   return (
@@ -208,44 +209,53 @@ function PlateCatalogItem({ plate, selected, onSelect }: PlateCatalogItemProps) 
   const { ref, hasIntersected } = useInView<HTMLDivElement>({ rootMargin: "150px" });
 
   return (
-    <div ref={ref}>
-      <Card
-        variant={selected ? "surface" : "classic"}
-        size="2"
-        style={{ height: "auto", padding: "0.5rem" }}
-        asChild
-      >
-        <Dialog.Close asChild>
-          <button
-            type="button"
-            className="plate-option-card"
-            onClick={() => onSelect(plate)}
-            data-selected={selected}
-          >
-            {hasIntersected ? (
-              <Flex align="center" gap="1">
-                <Avatar
-                  size="3"
-                  src={plate.thumbnailUrl ?? undefined}
-                  fallback={plate.label.charAt(0)}
-                  radius="none"
-                  style={{ width: "50px", height: "50px" }}
-                />
-                <Text weight="medium" truncate>
-                  {plate.label}
-                </Text>
-              </Flex>
-            ) : (
-              <Flex align="center" gap="1">
-                <div className="plate-avatar-placeholder" />
-                <Text color="gray" weight="medium" truncate>
-                  {plate.label}
-                </Text>
-              </Flex>
-            )}
-          </button>
-        </Dialog.Close>
-      </Card>
-    </div>
+    <Card
+      ref={ref}
+      variant={selected ? "surface" : "classic"}
+      size="2"
+      style={{
+        cursor: "pointer",
+        padding: "0.75rem",
+        border: selected ? "1px solid var(--accent-9)" : undefined,
+      }}
+      onClick={() => onSelect(plate)}
+      onKeyDown={(event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          onSelect(plate);
+        }
+      }}
+      role="button"
+      tabIndex={0}
+    >
+      {hasIntersected ? (
+        <Flex align="center" gap="3">
+          <Avatar
+            size="3"
+            src={plate.thumbnailUrl ?? undefined}
+            fallback={plate.label.charAt(0)}
+            radius="none"
+            style={{ width: "50px", height: "50px" }}
+          />
+          <Text weight="medium" truncate>
+            {plate.label}
+          </Text>
+        </Flex>
+      ) : (
+        <Flex align="center" gap="3">
+          <Box
+            style={{
+              width: "50px",
+              height: "50px",
+              borderRadius: "8px",
+              backgroundColor: "var(--gray-a2, rgba(0,0,0,0.05))",
+            }}
+          />
+          <Text color="gray" weight="medium" truncate>
+            {plate.label}
+          </Text>
+        </Flex>
+      )}
+    </Card>
   );
 }

@@ -1,7 +1,0 @@
-@use "./tokens" as *;
-
-.annotation-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $space-sm;
-}

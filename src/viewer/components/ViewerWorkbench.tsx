@@ -1,3 +1,4 @@
+import { Card, Flex, Text, VisuallyHidden } from "@radix-ui/themes";
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type OpenSeadragon from "openseadragon";
 import {
@@ -13,11 +14,12 @@ import { AnnotationToolbar } from "../../annotations/AnnotationToolbar";
 interface ViewerWorkbenchProps {
   infoUrl: string;
   annotations: ImageAnnotation[];
+  highlightedAnnotationId?: string | null;
   onAnnotationAdd?: (annotation: ImageAnnotation) => void;
 }
 
 export const ViewerWorkbench = memo(
-  ({ infoUrl, annotations, onAnnotationAdd }: ViewerWorkbenchProps) => {
+  ({ infoUrl, annotations, highlightedAnnotationId, onAnnotationAdd }: ViewerWorkbenchProps) => {
     const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
     const [annotatorInstance, setAnnotatorInstance] =
       useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
@@ -35,6 +37,29 @@ export const ViewerWorkbench = memo(
 
       annotorious.setAnnotations(annotations, true);
     }, [annotatorInstance, annotations]);
+
+    useEffect(() => {
+      const annotorious = annotatorInstance;
+      if (!annotorious) {
+        return undefined;
+      }
+
+      if (!highlightedAnnotationId) {
+        annotorious.setStyle(() => undefined);
+        return undefined;
+      }
+
+      annotorious.setStyle((annotation) => {
+        if (annotation.id === highlightedAnnotationId) {
+          return { stroke: "#d92d20", strokeWidth: 2.5 };
+        }
+        return undefined;
+      });
+
+      return () => {
+        annotorious.setStyle(() => undefined);
+      };
+    }, [annotatorInstance, highlightedAnnotationId]);
 
     /* eslint-disable react-hooks/immutability */
     useEffect(() => {
@@ -188,19 +213,21 @@ export const ViewerWorkbench = memo(
           tool="rectangle"
           theme="light"
         >
-          <section className="viewer-panel">
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              gap: "16px",
+              minHeight: "60vh",
+              position: "relative",
+            }}
+          >
             <AnnotationToolbar onChange={handleToolbarChange} />
-            <div className={`viewer-stage${isDrawing ? " drawing" : ""}`} data-annotatable>
-              {viewerOptions ? (
-                <OpenSeadragonViewer className="osd-viewer" options={viewerOptions} />
-              ) : (
-                <p className="viewer-placeholder">IIIF Image URI</p>
-              )}
+            <div data-annotatable>
+              <OpenSeadragonViewer options={viewerOptions} />
             </div>
-            <div className="panel-heading">
-              <span>{infoUrl}</span>
-            </div>
-          </section>
+            <VisuallyHidden>{infoUrl}</VisuallyHidden>
+          </div>
         </OpenSeadragonAnnotator>
       </Annotorious>
     );

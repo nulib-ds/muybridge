@@ -1,3 +1,4 @@
+import { Button, Flex, Text, TextField } from "@radix-ui/themes";
 import { useState } from "react";
 import type { FormEvent } from "react";
 import { sanitizeIiifUrl } from "../../lib/iiif";
@@ -21,20 +22,27 @@ export function PlateUrlForm({ initialValue = "", onSubmit }: PlateUrlFormProps)
   };
 
   return (
-    <form className="iiif-form" onSubmit={handleSubmit}>
-      <label htmlFor="manualInfoUrl">Image URI</label>
-      <div className="field-row">
-        <input
-          id="manualInfoUrl"
-          name="manualInfoUrl"
-          type="url"
-          value={value}
-          onChange={(event) => setValue(event.target.value)}
-          placeholder="https://example.org/iiif/<id>/info.json"
-          required
-        />
-        <button type="submit">Load plate</button>
-      </div>
+    <form onSubmit={handleSubmit}>
+      <Flex direction="column" gap="2">
+        <Text asChild size="2" weight="medium">
+          <label htmlFor="manualInfoUrl">Image URI</label>
+        </Text>
+        <Flex gap="2" wrap="wrap">
+          <TextField.Root
+            id="manualInfoUrl"
+            name="manualInfoUrl"
+            type="url"
+            value={value}
+            onChange={(event) => setValue(event.target.value)}
+            placeholder="https://example.org/iiif/<id>/info.json"
+            required
+            style={{ flex: "1 1 260px" }}
+          />
+          <Button type="submit" variant="soft">
+            Load plate
+          </Button>
+        </Flex>
+      </Flex>
     </form>
   );
 }

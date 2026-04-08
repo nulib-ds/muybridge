@@ -1,3 +1,4 @@
+import { Flex, Text } from "@radix-ui/themes";
 import { useMemo } from "react";
 import type { FrameDescriptor } from "./types";
 import { getIiifImageServiceUrl } from "../../lib/iiif";
@@ -29,16 +30,30 @@ export function FrameThumbnail({ frame, infoUrl }: FrameThumbnailProps) {
   }, [frame, imageService]);
 
   return (
-    <div className="frame-thumbnail">
+    <Flex
+      align="center"
+      justify="center"
+      style={{
+        width: 50,
+        height: 50,
+        borderRadius: 6,
+        backgroundColor: "var(--gray-a2, rgba(0,0,0,0.04))",
+        overflow: "hidden",
+        flexShrink: 0,
+      }}
+    >
       {source ? (
         <img
           src={source}
           alt={`Frame ${frame.order ?? "preview"}`}
           loading="lazy"
+          style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
         />
       ) : (
-        <span className="frame-thumbnail-placeholder">Preview unavailable</span>
+        <Text size="1" color="gray" align="center">
+          Preview unavailable
+        </Text>
       )}
-    </div>
+    </Flex>
   );
 }

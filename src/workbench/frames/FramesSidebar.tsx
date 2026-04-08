@@ -1,5 +1,5 @@
-import { Button, Card, Code, Flex, Text, TextField } from "@radix-ui/themes";
-import type { ChangeEvent } from "react";
+import { Button, Card, Code, Flex, ScrollArea, Separator, Text, TextField, VisuallyHidden } from "@radix-ui/themes";
+import type { ChangeEvent, KeyboardEvent } from "react";
 import type { FrameDescriptor } from "./types";
 import { FrameThumbnail } from "./FrameThumbnail";
 import { FramePreview } from "./FramePreview";
@@ -12,6 +12,10 @@ interface FramesSidebarProps {
   onExportManifest?: () => void;
   canExportManifest?: boolean;
   onClear?: () => void;
+  onFrameHover?: (annotationId: string | null) => void;
+  onFrameSelect?: (annotationId: string) => void;
+  hoveredAnnotationId?: string | null;
+  selectedAnnotationId?: string | null;
 }
 
 function formatBounds(frame: FrameDescriptor) {
@@ -26,6 +30,10 @@ export function FramesSidebar({
   onExportManifest,
   canExportManifest,
   onClear,
+  onFrameHover,
+  onFrameSelect,
+  hoveredAnnotationId,
+  selectedAnnotationId,
 }: FramesSidebarProps) {
   const handleDurationChange = (event: ChangeEvent<HTMLInputElement>) => {
     const value = Number(event.target.value);
@@ -36,50 +44,87 @@ export function FramesSidebar({
   };
   const frameSequenceKey = frames.map((frame) => frame.id).join("|");
   const previewKey = `${infoUrl}-${frameSequenceKey}-${durationSeconds}`;
+  const activeAnnotationId = hoveredAnnotationId ?? selectedAnnotationId ?? null;
 
   return (
-    <aside className="frames-panel">
-      <div className="panel-heading" role="region" aria-label="Frame queue">
-        <span>{frames.length} items</span>
-      </div>
-      <Flex
-        className="frame-panel-actions"
-        align="center"
-        justify="between"
-        wrap="wrap"
-        gap="3"
-      >
+    <Card
+      variant="surface"
+      size="3"
+      style={{
+        height: "100%",
+        minHeight: 400,
+        display: "flex",
+        flexDirection: "column",
+        gap: "16px",
+        borderRadius: 0,
+      }}
+    >
+      <VisuallyHidden asChild>
+        <span>Frame queue ({frames.length} items)</span>
+      </VisuallyHidden>
+      <Flex align="center" justify="between">
         <Text size="2" weight="medium">
-          Frame queue ({frames.length})
+          Frames ({frames.length})
         </Text>
         <Button type="button" variant="ghost" color="gray" onClick={onClear} disabled={!onClear}>
           Clear list
         </Button>
       </Flex>
-      <ol className="frame-list">
-        {frames.length === 0 ? (
-          <li className="frame-placeholder">
-            <Text color="gray">
-              No frames yet — draw a rectangle to get started.
-            </Text>
-          </li>
-        ) : (
-          frames.map((frame) => (
-            <li key={frame.id}>
-              <Card variant="surface" size="1">
-                <Flex gap="3" align="center">
-                  <FrameThumbnail infoUrl={infoUrl} frame={frame} />
-                  <Flex direction="column" gap="1" style={{ minWidth: 0 }}>
-                    <Text weight="medium">Frame {frame.order}</Text>
-                    <Code color="gray">{formatBounds(frame)}</Code>
-                  </Flex>
-                </Flex>
-              </Card>
-            </li>
-          ))
-        )}
-      </ol>
-      <div className="frame-preview-panel">
+      <ScrollArea style={{ flex: 1 }}>
+        <Flex asChild direction="column" gap="2" pr="2">
+          <ol style={{ listStyle: "none", margin: 0, padding: 0 }}>
+            {frames.length === 0 ? (
+              <li>
+                <Card variant="surface" size="1">
+                  <Text color="gray">No frames yet — draw a rectangle to get started.</Text>
+                </Card>
+              </li>
+            ) : (
+              frames.map((frame) => {
+                const annotationId = frame.paneId || frame.id;
+                const isHovered = Boolean(hoveredAnnotationId && hoveredAnnotationId === annotationId);
+                const isSelected = Boolean(selectedAnnotationId && selectedAnnotationId === annotationId);
+                return (
+                  <li key={frame.id}>
+                    <Card
+                      variant="surface"
+                      size="1"
+                      onMouseEnter={() => onFrameHover?.(annotationId)}
+                      onMouseLeave={() => onFrameHover?.(null)}
+                      onClick={() => onFrameSelect?.(annotationId)}
+                      onKeyDown={(event: KeyboardEvent<HTMLDivElement>) => {
+                        if (event.key === "Enter" || event.key === " ") {
+                          event.preventDefault();
+                          onFrameSelect?.(annotationId);
+                        }
+                      }}
+                      role="button"
+                      tabIndex={0}
+                      style={{
+                        cursor: "pointer",
+                        borderLeft: `3px solid ${isSelected ? "#d92d20" : "transparent"}`,
+                        backgroundColor: isHovered
+                          ? "var(--gray-a2, rgba(0,0,0,0.04))"
+                          : undefined,
+                      }}
+                    >
+                      <Flex gap="3" align="center">
+                        <FrameThumbnail infoUrl={infoUrl} frame={frame} />
+                        <Flex direction="column" gap="1" style={{ minWidth: 0 }}>
+                          <Text weight="medium">Frame {frame.order}</Text>
+                          <Code color="gray">{formatBounds(frame)}</Code>
+                        </Flex>
+                      </Flex>
+                    </Card>
+                  </li>
+                );
+              })
+            )}
+          </ol>
+        </Flex>
+      </ScrollArea>
+      <Separator size="4" />
+      <Flex direction="column" gap="3">
         <div role="region" aria-label="Animation preview">
           {frames.length ? (
             <FramePreview
@@ -87,6 +132,7 @@ export function FramesSidebar({
               infoUrl={infoUrl}
               frames={frames}
               durationSeconds={durationSeconds}
+              activeAnnotationId={activeAnnotationId}
             />
           ) : (
             <Text color="gray">Draw a rectangle to see the animation loop.</Text>
@@ -114,7 +160,7 @@ export function FramesSidebar({
         >
           Export IIIF manifest
         </Button>
-      </div>
-    </aside>
+      </Flex>
+    </Card>
   );
 }

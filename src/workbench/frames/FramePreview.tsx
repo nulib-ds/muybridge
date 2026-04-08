@@ -1,3 +1,4 @@
+import { Text } from "@radix-ui/themes";
 import { useEffect, useMemo, useState } from "react";
 import type { CSSProperties } from "react";
 import type { FrameDescriptor } from "./types";
@@ -10,6 +11,7 @@ interface FramePreviewProps {
   infoUrl: string;
   frames: FrameDescriptor[];
   durationSeconds: number;
+  activeAnnotationId?: string | null;
 }
 
 function formatPercent(value: number) {
@@ -17,7 +19,7 @@ function formatPercent(value: number) {
   return (clamped * 100).toFixed(2);
 }
 
-export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewProps) {
+export function FramePreview({ infoUrl, frames, durationSeconds, activeAnnotationId }: FramePreviewProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const imageService = useMemo(() => getIiifImageServiceUrl(infoUrl), [infoUrl]);
   const frameSignature = useMemo(() => frames.map((frame) => frame.id).join("|"), [frames]);
@@ -45,22 +47,45 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
     });
   }, [frames, imageService]);
 
+  const activeFrameIndex = useMemo(() => {
+    if (!activeAnnotationId) {
+      return -1;
+    }
+    return frames.findIndex((frame) => (frame.paneId || frame.id) === activeAnnotationId);
+  }, [frames, activeAnnotationId]);
+
   const currentSource = previewSources[currentIndex] ?? null;
-  const firstFrame = frames[0] ?? null;
+  const activeSource = activeFrameIndex >= 0 ? previewSources[activeFrameIndex] ?? null : null;
+  const referenceFrame = useMemo(() => {
+    if (activeFrameIndex >= 0) {
+      return frames[activeFrameIndex];
+    }
+    return frames[0] ?? null;
+  }, [frames, activeFrameIndex]);
   const aspectRatio = useMemo(() => {
-    if (!firstFrame || firstFrame.bounds.height <= 0) {
+    if (!referenceFrame || referenceFrame.bounds.height <= 0) {
       return 1;
     }
-    const ratio = firstFrame.bounds.width / firstFrame.bounds.height;
+    const ratio = referenceFrame.bounds.width / referenceFrame.bounds.height;
     return Number.isFinite(ratio) && ratio > 0 ? Number(ratio.toFixed(3)) : 1;
-  }, [firstFrame]);
-  const stageStyle = useMemo(
-    () => ({ "--frame-preview-aspect": aspectRatio }) as CSSProperties,
+  }, [referenceFrame]);
+  const stageStyle = useMemo<CSSProperties>(
+    () => ({
+      width: "100%",
+      minHeight: 200,
+      backgroundColor: "#000",
+      padding: "12px",
+      borderRadius: "12px",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      aspectRatio: aspectRatio > 0 ? String(aspectRatio) : undefined,
+    }),
     [aspectRatio],
   );
 
   useEffect(() => {
-    if (frames.length <= 1) {
+    if (frames.length <= 1 || activeFrameIndex >= 0) {
       return undefined;
     }
 
@@ -74,19 +99,26 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
     return () => {
       window.clearInterval(timer);
     };
-  }, [frames.length, frameSignature, frameIntervalMs]);
+  }, [frames.length, frameSignature, frameIntervalMs, activeFrameIndex]);
 
   if (!frames.length) {
     return null;
   }
 
   return (
-    <div className="frame-group-preview">
-      <div className="frame-preview-stage" style={stageStyle}>
-        {currentSource ? (
-          <img src={currentSource} alt="Frame preview" loading="lazy" />
+    <div style={{ width: "100%" }}>
+      <div style={stageStyle}>
+        {(activeSource ?? currentSource) ? (
+          <img
+            src={(activeSource ?? currentSource) as string}
+            alt="Frame preview"
+            loading="lazy"
+            style={{ width: "100%", height: "100%", objectFit: "contain" }}
+          />
         ) : (
-          <span className="frame-preview-placeholder">Preview unavailable</span>
+          <Text color="gray" size="1">
+            Preview unavailable
+          </Text>
         )}
       </div>
     </div>
