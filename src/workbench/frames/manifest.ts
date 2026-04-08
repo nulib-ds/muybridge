@@ -12,7 +12,6 @@ interface ManifestBuildOptions {
   dimensions: ImageDimensions | null;
   durationSeconds: number;
   label?: string;
-  summary?: string;
 }
 
 export interface IiifManifest {
@@ -20,7 +19,6 @@ export interface IiifManifest {
   id: string;
   type: "Manifest";
   label: LanguageMap;
-  summary?: LanguageMap;
   items: IiifCanvas[];
 }
 
@@ -102,7 +100,6 @@ export function buildManifestFromFrames({
   dimensions,
   durationSeconds,
   label,
-  summary,
 }: ManifestBuildOptions): IiifManifest | null {
   if (!frames.length || !dimensions) {
     return null;
@@ -228,9 +225,6 @@ export function buildManifestFromFrames({
     items: [animationCanvas, staticCanvas],
   };
 
-  if (summary?.trim()) {
-    manifest.summary = toLanguageMap(summary, summary);
-  }
 
   return manifest;
 }

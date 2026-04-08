@@ -13,7 +13,8 @@
     "format": "prettier --check \"src/**/*.{ts,tsx}\"",
     "format:write": "prettier --write \"src/**/*.{ts,tsx}\"",
     "preview": "vite",
-    "preview:dist": "vite preview"
+    "preview:dist": "vite preview",
+    "generate:plates": "node scripts/generate-plates.mjs"
   },
   "dependencies": {
     "@annotorious/react": "^3.8.0",

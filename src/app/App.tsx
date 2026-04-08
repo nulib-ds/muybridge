@@ -1,4 +1,4 @@
-import { Card, Flex, Heading, Link, Separator, Text } from "@radix-ui/themes";
+import { Card, Flex, Heading, Separator, Text } from "@radix-ui/themes";
 import { useMemo, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
@@ -70,7 +70,6 @@ function App() {
       dimensions,
       durationSeconds: animationDuration,
       label: activePlate?.label,
-      summary: activePlate?.summary,
     });
 
     if (!manifest) {
@@ -119,31 +118,6 @@ function App() {
                     <Heading size="4" weight="medium">
                       {activePlate.label}
                     </Heading>
-                    <Text color="gray" size="2">
-                      {activePlate.summary}
-                    </Text>
-                    <Flex wrap="wrap" gap="4">
-                      <Flex direction="column" gap="1" minWidth="120px">
-                        <Text size="1" color="gray" weight="medium">
-                          Date
-                        </Text>
-                        <Text>{activePlate.date}</Text>
-                      </Flex>
-                      <Flex direction="column" gap="1" minWidth="120px">
-                        <Text size="1" color="gray" weight="medium">
-                          Medium
-                        </Text>
-                        <Text>{activePlate.medium}</Text>
-                      </Flex>
-                      <Flex direction="column" gap="1" minWidth="120px">
-                        <Text size="1" color="gray" weight="medium">
-                          Homepage
-                        </Text>
-                        <Link href={activePlate.homepageId} target="_blank" rel="noreferrer">
-                          {activePlate.homepageLabel || activePlate.homepageId}
-                        </Link>
-                      </Flex>
-                    </Flex>
                     {activePlate.metadata.length ? (
                       <>
                         <Separator size="4" />
@@ -165,11 +139,7 @@ function App() {
                       </>
                     ) : null}
                   </Flex>
-                ) : (
-                  <Text color="gray" size="2">
-                    Select a plate from the catalog to hydrate the viewer with stored frames.
-                  </Text>
-                )}
+                ) : null}
               </Flex>
             </Card>
           </div>

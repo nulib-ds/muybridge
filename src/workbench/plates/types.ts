@@ -6,11 +6,6 @@ export interface PlateMetadataField {
 export interface PlateCsvEntry {
   label: string;
   imageUri: string;
-  summary: string;
-  date: string;
-  medium: string;
-  homepageId: string;
-  homepageLabel: string;
   metadata: PlateMetadataField[];
 }
 

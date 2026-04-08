@@ -3,11 +3,6 @@ import type { PlateCsvEntry, PlateMetadataField } from "./types";
 const REQUIRED_COLUMNS = {
   label: "label",
   imageUri: "image uri",
-  summary: "summary",
-  date: "date",
-  medium: "medium",
-  homepageId: "homepage id",
-  homepageLabel: "homepage label",
 } as const;
 
 type RequiredField = keyof typeof REQUIRED_COLUMNS;
@@ -108,11 +103,6 @@ export function parsePlateCsv(source: string): PlateCsvEntry[] {
       const record: Record<RequiredField, string> = {
         label: "",
         imageUri: "",
-        summary: "",
-        date: "",
-        medium: "",
-        homepageId: "",
-        homepageLabel: "",
       };
       let isViable = true;
 
