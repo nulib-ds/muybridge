@@ -118,6 +118,9 @@ function App() {
                     <Heading size="4" weight="medium">
                       {activePlate.label}
                     </Heading>
+                    <Text size="2" color="gray">
+                      {infoUrl}
+                    </Text>
                     {activePlate.metadata.length ? (
                       <>
                         <Separator size="4" />

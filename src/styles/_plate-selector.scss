@@ -9,6 +9,14 @@
   text-align: left;
 }
 
+.plate-avatar-placeholder {
+  width: 50px;
+  height: 50px;
+  background-color: $color-panel;
+  flex-shrink: 0;
+}
+
+
 .plate-option-card:focus-visible {
   outline: 2px solid $color-emphasis;
   outline-offset: 2px;

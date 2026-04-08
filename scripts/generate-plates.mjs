@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -98,6 +98,37 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const projectRoot = resolve(__dirname, '..');
 const sourcePath = resolve(projectRoot, 'data/nga_data.csv');
 const targetPath = resolve(projectRoot, 'data/plates.csv');
+const publicDir = resolve(projectRoot, 'public');
+const chunkDir = resolve(publicDir, 'plates/chunks');
+const manifestPath = resolve(publicDir, 'plates/chunks.json');
+const chunkSize = 60;
+
+function slugify(value, fallback) {
+  const slug = value
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  return slug || fallback;
+}
+
+function getThumbnailUrl(infoUrl, width = 240) {
+  const trimmed = infoUrl.trim();
+  if (!trimmed) {
+    return null;
+  }
+  const suffix = '/info.json';
+  const normalized = trimmed.replace(/\/$/, '');
+  if (!normalized.endsWith(suffix)) {
+    return null;
+  }
+  const service = normalized.slice(0, -suffix.length);
+  if (!service) {
+    return null;
+  }
+  const safeWidth = Number.isFinite(width) && width > 0 ? Math.round(width) : 240;
+  return `${service}/full/${safeWidth},/0/default.jpg`;
+}
 
 const source = readFileSync(sourcePath, 'utf8');
 const rows = tokenizeCsv(source);
@@ -128,10 +159,10 @@ const outputRows = body
   .map((row) => {
     const labelIndex = columnIndex.get(REQUIRED_COLUMNS.label);
     const imageIndex = columnIndex.get(REQUIRED_COLUMNS.imageUri);
+    const objectIndex = columnIndex.get(REQUIRED_COLUMNS.objectId);
     const rawLabel = row[labelIndex] ?? '';
     const label = rawLabel.trim();
     const imageUrl = sanitizeIiifUrl(row[imageIndex] ?? '');
-    const objectIndex = columnIndex.get(REQUIRED_COLUMNS.objectId);
     const objectId = (row[objectIndex] ?? '').trim();
     if (!label || !imageUrl) {
       return null;
@@ -158,3 +189,56 @@ const csvLines = [
 
 writeFileSync(targetPath, `${csvLines}\n`, 'utf8');
 console.log(`Wrote ${outputRows.length} rows to ${targetPath}`);
+
+rmSync(chunkDir, { recursive: true, force: true });
+mkdirSync(chunkDir, { recursive: true });
+
+const plateEntries = outputRows.map((row, index) => {
+  const id = `${slugify(row.label, `plate-${index + 1}`)}-${index + 1}`;
+  const thumbnailUrl = getThumbnailUrl(row.imageUrl, 240);
+  const metadata = [];
+  if (row.plateNumber) {
+    metadata.push({ label: 'Plate Number', value: String(row.plateNumber) });
+  }
+  if (row.objectId) {
+    metadata.push({ label: 'Object ID', value: row.objectId });
+  }
+  return {
+    id,
+    label: row.label,
+    imageUri: row.imageUrl,
+    thumbnailUrl,
+    metadata,
+  };
+});
+
+const chunkManifest = [];
+plateEntries.forEach((_, index) => {
+  if (index % chunkSize !== 0) {
+    return;
+  }
+  const chunkIndex = Math.floor(index / chunkSize);
+  const chunkId = String(chunkIndex).padStart(3, '0');
+  const slice = plateEntries.slice(index, index + chunkSize);
+  const fileName = `chunk-${chunkId}.json`;
+  const chunkPath = resolve(chunkDir, fileName);
+  writeFileSync(chunkPath, `${JSON.stringify(slice, null, 2)}\n`, 'utf8');
+  chunkManifest.push({
+    id: chunkId,
+    path: `/plates/chunks/${fileName}`,
+    startIndex: index,
+    count: slice.length,
+  });
+});
+
+mkdirSync(resolve(publicDir, 'plates'), { recursive: true });
+writeFileSync(
+  manifestPath,
+  `${JSON.stringify({
+    total: plateEntries.length,
+    chunkSize,
+    chunks: chunkManifest,
+  }, null, 2)}\n`,
+  'utf8',
+);
+console.log(`Wrote ${chunkManifest.length} plate chunks to ${manifestPath}`);
