@@ -1,67 +1,19 @@
 @use "./tokens" as *;
 
-.plate-picker {
-  padding: $space-sm;
-  display: flex;
-  flex-direction: column;
-  gap: $space-sm;
-  width: 100%;
-}
-
-.plate-picker-heading {
-  display: flex;
-  justify-content: space-between;
-  font-size: 0.9rem;
-  color: $color-text-medium;
-}
-
-.plate-picker-heading strong {
-  font-size: 0.95rem;
-  color: $color-text-strong;
-}
-
-.plate-picker-thumb {
-  width: 48px;
-  height: 48px;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 500;
-}
-
-.plate-picker-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.plate-option-card {
+  all: unset;
   display: block;
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+  text-align: left;
 }
 
-.plate-picker-labels {
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-  font-size: 0.85rem;
+.plate-option-card:focus-visible {
+  outline: 2px solid $color-emphasis;
+  outline-offset: 2px;
 }
 
-.plate-picker-labels strong {
-  font-size: 1rem;
-  color: $color-text-strong;
+.plate-option-card[data-selected="true"] {
+  outline: 2px solid $color-emphasis;
 }
-
-.plate-picker-dropdown {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  max-height: 260px;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-
-.plate-picker-dropdown li {
-  margin: 0;
-}
-
-/* Buttons intentionally unstyled to preserve browser defaults. */

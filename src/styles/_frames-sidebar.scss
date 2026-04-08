@@ -14,32 +14,17 @@
 
 /* Preview and queue flow naturally; no absolute positioning. */
 
-.frame-panel-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $space-sm;
-}
-
 .frame-list {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: $space-xs;
 }
 
 .frame-list li {
-  display: flex;
-  justify-content: flex-start;
-  align-items: stretch;
-  padding: 0.35rem 0.5rem;
-  gap: $space-sm;
-}
-
-.frame-list code {
-  font-size: 0.8rem;
-  color: $color-text-medium;
+  margin: 0;
 }
 
 .frame-placeholder {
@@ -69,27 +54,4 @@
   color: $color-text-muted;
   text-align: center;
   padding: $space-xs;
-}
-
-.frame-metadata {
-  display: flex;
-  flex-direction: column;
-  gap: $space-xs;
-  flex: 1;
-  min-width: 0;
-}
-
-.frame-meta-heading {
-  display: flex;
-  justify-content: space-between;
-  gap: $space-sm;
-}
-
-.frame-meta-heading strong {
-  font-size: 0.9rem;
-  color: $color-emphasis;
-}
-
-.frame-meta-bounds {
-  word-break: break-all;
 }

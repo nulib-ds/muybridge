@@ -1,7 +1,7 @@
 import { sanitizeIiifUrl, getIiifThumbnailUrl } from "../../lib/iiif";
 import { parsePlateCsv } from "./plateParser";
 import type { PlateEntry } from "./types";
-import source from "./plates.csv?raw";
+import source from "../../../data/plates.csv?raw";
 
 function slugify(value: string, fallback: string) {
   const slug = value

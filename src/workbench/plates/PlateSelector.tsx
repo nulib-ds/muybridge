@@ -1,3 +1,4 @@
+import { Avatar, Button, Card, Dialog, Flex, Text } from "@radix-ui/themes";
 import { useMemo, useState } from "react";
 import type { PlateEntry } from "./types";
 
@@ -16,74 +17,89 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
     return plates.find((plate) => plate.imageUri === selectedInfoUrl) ?? null;
   }, [plates, selectedInfoUrl]);
 
-  const handleToggle = () => {
-    if (!plates.length) {
-      return;
-    }
-    setIsOpen((value) => !value);
-  };
-
   const handleSelect = (plate: PlateEntry) => {
     onSelect?.(plate);
-    setIsOpen(false);
   };
 
   return (
-    <div className={`plate-picker${isOpen ? " open" : ""}`}>
-      <button
-        type="button"
-        className="plate-picker-toggle"
-        onClick={handleToggle}
-        disabled={!plates.length}
-        aria-haspopup="listbox"
-        aria-expanded={isOpen}
-        aria-label="Select a plate from the catalog"
+    <Dialog.Root open={isOpen} onOpenChange={setIsOpen}>
+      <Dialog.Trigger>
+        <Button
+          variant="surface"
+          size="3"
+          style={{ width: "100%", justifyContent: "flex-start" }}
+          disabled={!plates.length}
+        >
+          {selectedPlate ? (
+            <Flex align="center" gap="3" style={{ width: "100%" }}>
+              <Avatar
+                size="2"
+                src={selectedPlate.thumbnailUrl ?? undefined}
+                fallback={selectedPlate.label.charAt(0)}
+                radius="none"
+              />
+              <Text weight="medium" truncate>
+                {selectedPlate.label}
+              </Text>
+            </Flex>
+          ) : (
+            <Text>Choose a plate</Text>
+          )}
+        </Button>
+      </Dialog.Trigger>
+      <Dialog.Content
+        size="4"
+        style={{ width: "min(92vw, 1100px)", height: "80vh" }}
       >
-        {selectedPlate ? (
-          <>
-            <div className="plate-picker-thumb">
-              {selectedPlate.thumbnailUrl ? (
-                <img src={selectedPlate.thumbnailUrl} alt="" aria-hidden="true" />
-              ) : (
-                <span>{selectedPlate.label.charAt(0)}</span>
-              )}
-            </div>
-            <div className="plate-picker-labels">
-              <strong>{selectedPlate.label}</strong>
-              <span>{selectedPlate.summary}</span>
-            </div>
-          </>
-        ) : (
-          <span>Choose a plate</span>
-        )}
-      </button>
-      {isOpen && (
-        <ul className="plate-picker-dropdown" role="listbox">
-          {plates.map((plate) => (
-            <li key={plate.id}>
-              <button
-                type="button"
-                className="plate-picker-option"
-                onClick={() => handleSelect(plate)}
-                role="option"
-                aria-selected={selectedPlate?.id === plate.id}
+        <Flex direction="column" gap="4" style={{ height: "100%" }}>
+          <Flex justify="between" align="center" gap="3">
+            <Dialog.Title>Select a plate</Dialog.Title>
+            <Dialog.Close>
+              <Button variant="ghost" color="gray">
+                Close
+              </Button>
+            </Dialog.Close>
+          </Flex>
+          <Dialog.Description>
+            Browse stored Muybridge plates and pick one to hydrate the viewer.
+          </Dialog.Description>
+          <Flex direction="column" gap="1" style={{ flex: 1, overflowY: "auto" }}>
+            {plates.map((plate) => (
+              <Card
+                key={plate.id}
+                variant={selectedPlate?.id === plate.id ? "surface" : "classic"}
+                size="2"
+                style={{ height: "auto", padding: "0.5rem" }}
+                asChild
               >
-                <div className="plate-picker-thumb">
-                  {plate.thumbnailUrl ? (
-                    <img src={plate.thumbnailUrl} alt="" aria-hidden="true" />
-                  ) : (
-                    <span>{plate.label.charAt(0)}</span>
-                  )}
-                </div>
-                <div className="plate-picker-labels">
-                  <strong>{plate.label}</strong>
-                  <span>{plate.summary}</span>
-                </div>
-              </button>
-            </li>
-          ))}
-        </ul>
-      )}
-    </div>
+                <Dialog.Close asChild>
+                  <button
+                    type="button"
+                    className="plate-option-card"
+                    onClick={() => handleSelect(plate)}
+                    data-selected={selectedPlate?.id === plate.id}
+                    >
+                      <Flex direction="column" gap="1">
+                        <Flex align="center" gap="1">
+                          <Avatar
+                            size="3"
+                            src={plate.thumbnailUrl ?? undefined}
+                            fallback={plate.label.charAt(0)}
+                            radius="none"
+                            style={{ width: "50px", height: "50px" }}
+                          />
+                          <Text weight="medium" truncate>
+                            {plate.label}
+                          </Text>
+                        </Flex>
+                      </Flex>
+                    </button>
+                </Dialog.Close>
+              </Card>
+            ))}
+          </Flex>
+        </Flex>
+      </Dialog.Content>
+    </Dialog.Root>
   );
 }

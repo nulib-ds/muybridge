@@ -1,3 +1,4 @@
+import { Card, Flex, Heading, Link, Separator, Text } from "@radix-ui/themes";
 import { useMemo, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
@@ -100,48 +101,77 @@ function App() {
         </main>
         <header className="app-header">
           <div className="plate-toolbar">
-            <div className="plate-metadata-panel">
-              <PlateSelector
-                plates={plateCatalog}
-                selectedInfoUrl={infoUrl}
-                onSelect={handlePlateSelect}
-              />
-              {activePlate ? (
-                <>
-                  <p>{activePlate.summary}</p>
-                  <ul>
-                    <li>
-                      <strong>Date</strong>
-                      <span>{activePlate.date}</span>
-                    </li>
-                    <li>
-                      <strong>Medium</strong>
-                      <span>{activePlate.medium}</span>
-                    </li>
-                    <li>
-                      <strong>Homepage</strong>
-                      <a href={activePlate.homepageId} target="_blank" rel="noreferrer">
-                        {activePlate.homepageLabel || activePlate.homepageId}
-                      </a>
-                    </li>
-                  </ul>
-                  {activePlate.metadata.length ? (
-                    <div className="plate-extra-metadata">
-                      {activePlate.metadata.map((entry) => (
-                        <div key={`${entry.label}-${entry.value}`}>
-                          <strong>{entry.label}</strong>
-                          <span>{entry.value}</span>
-                        </div>
-                      ))}
-                    </div>
-                  ) : null}
-                </>
-              ) : (
-                <div className="plate-metadata-empty">
-                  <p>Select a plate from the catalog to hydrate the viewer with stored frames.</p>
-                </div>
-              )}
-            </div>
+            <Card size="3" variant="surface" style={{ flex: 1 }}>
+              <Flex direction="column" gap="3">
+                <Flex direction="column" gap="1">
+                  <Text size="1" color="gray" weight="medium">
+                    Plate catalog
+                  </Text>
+                  <PlateSelector
+                    plates={plateCatalog}
+                    selectedInfoUrl={infoUrl}
+                    onSelect={handlePlateSelect}
+                  />
+                </Flex>
+                <Separator size="4" />
+                {activePlate ? (
+                  <Flex direction="column" gap="3">
+                    <Heading size="4" weight="medium">
+                      {activePlate.label}
+                    </Heading>
+                    <Text color="gray" size="2">
+                      {activePlate.summary}
+                    </Text>
+                    <Flex wrap="wrap" gap="4">
+                      <Flex direction="column" gap="1" minWidth="120px">
+                        <Text size="1" color="gray" weight="medium">
+                          Date
+                        </Text>
+                        <Text>{activePlate.date}</Text>
+                      </Flex>
+                      <Flex direction="column" gap="1" minWidth="120px">
+                        <Text size="1" color="gray" weight="medium">
+                          Medium
+                        </Text>
+                        <Text>{activePlate.medium}</Text>
+                      </Flex>
+                      <Flex direction="column" gap="1" minWidth="120px">
+                        <Text size="1" color="gray" weight="medium">
+                          Homepage
+                        </Text>
+                        <Link href={activePlate.homepageId} target="_blank" rel="noreferrer">
+                          {activePlate.homepageLabel || activePlate.homepageId}
+                        </Link>
+                      </Flex>
+                    </Flex>
+                    {activePlate.metadata.length ? (
+                      <>
+                        <Separator size="4" />
+                        <Flex wrap="wrap" gap="4">
+                          {activePlate.metadata.map((entry) => (
+                            <Flex
+                              key={`${entry.label}-${entry.value}`}
+                              direction="column"
+                              gap="1"
+                              minWidth="120px"
+                            >
+                              <Text size="1" color="gray" weight="medium">
+                                {entry.label}
+                              </Text>
+                              <Text>{entry.value}</Text>
+                            </Flex>
+                          ))}
+                        </Flex>
+                      </>
+                    ) : null}
+                  </Flex>
+                ) : (
+                  <Text color="gray" size="2">
+                    Select a plate from the catalog to hydrate the viewer with stored frames.
+                  </Text>
+                )}
+              </Flex>
+            </Card>
           </div>
         </header>
       </div>

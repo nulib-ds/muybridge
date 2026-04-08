@@ -60,10 +60,6 @@ export function FramePreview({ infoUrl, frames, durationSeconds }: FramePreviewP
   );
 
   useEffect(() => {
-    setCurrentIndex(0);
-  }, [frameSignature, imageService, durationSeconds]);
-
-  useEffect(() => {
     if (frames.length <= 1) {
       return undefined;
     }

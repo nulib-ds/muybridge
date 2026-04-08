@@ -1,3 +1,4 @@
+import { Button, Card, Code, Flex, Text, TextField } from "@radix-ui/themes";
 import type { ChangeEvent } from "react";
 import type { FrameDescriptor } from "./types";
 import { FrameThumbnail } from "./FrameThumbnail";
@@ -33,30 +34,47 @@ export function FramesSidebar({
     }
     onDurationChange(Number.isFinite(value) ? value : 0);
   };
+  const frameSequenceKey = frames.map((frame) => frame.id).join("|");
+  const previewKey = `${infoUrl}-${frameSequenceKey}-${durationSeconds}`;
 
   return (
     <aside className="frames-panel">
       <div className="panel-heading" role="region" aria-label="Frame queue">
         <span>{frames.length} items</span>
       </div>
-      <div className="frame-panel-actions">
-        <button type="button" onClick={onClear} disabled={!onClear}>
+      <Flex
+        className="frame-panel-actions"
+        align="center"
+        justify="between"
+        wrap="wrap"
+        gap="3"
+      >
+        <Text size="2" weight="medium">
+          Frame queue ({frames.length})
+        </Text>
+        <Button type="button" variant="ghost" color="gray" onClick={onClear} disabled={!onClear}>
           Clear list
-        </button>
-      </div>
+        </Button>
+      </Flex>
       <ol className="frame-list">
         {frames.length === 0 ? (
-          <li className="frame-placeholder">No frames yet — draw a rectangle to get started.</li>
+          <li className="frame-placeholder">
+            <Text color="gray">
+              No frames yet — draw a rectangle to get started.
+            </Text>
+          </li>
         ) : (
           frames.map((frame) => (
             <li key={frame.id}>
-              <FrameThumbnail infoUrl={infoUrl} frame={frame} />
-              <div className="frame-metadata">
-                <div className="frame-meta-heading">
-                  <strong>Frame {frame.order}</strong>
-                </div>
-                <code className="frame-meta-bounds">{formatBounds(frame)}</code>
-              </div>
+              <Card variant="surface" size="1">
+                <Flex gap="3" align="center">
+                  <FrameThumbnail infoUrl={infoUrl} frame={frame} />
+                  <Flex direction="column" gap="1" style={{ minWidth: 0 }}>
+                    <Text weight="medium">Frame {frame.order}</Text>
+                    <Code color="gray">{formatBounds(frame)}</Code>
+                  </Flex>
+                </Flex>
+              </Card>
             </li>
           ))
         )}
@@ -64,14 +82,21 @@ export function FramesSidebar({
       <div className="frame-preview-panel">
         <div role="region" aria-label="Animation preview">
           {frames.length ? (
-            <FramePreview infoUrl={infoUrl} frames={frames} durationSeconds={durationSeconds} />
+            <FramePreview
+              key={previewKey}
+              infoUrl={infoUrl}
+              frames={frames}
+              durationSeconds={durationSeconds}
+            />
           ) : (
-            <p className="frame-preview-placeholder">Draw a rectangle to see the animation loop.</p>
+            <Text color="gray">Draw a rectangle to see the animation loop.</Text>
           )}
         </div>
-        <label className="animation-duration-field" htmlFor="animationDuration">
-          <span>Duration (seconds)</span>
-          <input
+        <Flex direction="column" gap="2">
+          <Text asChild size="2" weight="medium">
+            <label htmlFor="animationDuration">Duration (seconds)</label>
+          </Text>
+          <TextField.Root
             id="animationDuration"
             type="number"
             min="0.1"
@@ -79,16 +104,16 @@ export function FramesSidebar({
             inputMode="decimal"
             value={durationSeconds}
             onChange={handleDurationChange}
+            style={{ width: "100%" }}
           />
-        </label>
-        <button
+        </Flex>
+        <Button
           type="button"
           onClick={onExportManifest}
           disabled={!onExportManifest || !canExportManifest}
-          className="manifest-export-button"
         >
           Export IIIF manifest
-        </button>
+        </Button>
       </div>
     </aside>
   );
