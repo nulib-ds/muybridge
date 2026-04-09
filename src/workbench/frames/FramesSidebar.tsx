@@ -21,6 +21,10 @@ interface FramesSidebarProps {
   onDurationChange?: (duration: number) => void;
   onExportManifest?: () => void;
   canExportManifest?: boolean;
+  onExportGif?: () => void;
+  canExportGif?: boolean;
+  isExportingGif?: boolean;
+  gifError?: string | null;
   onClear?: () => void;
   onFrameHover?: (annotationId: string | null) => void;
   onFrameSelect?: (annotationId: string) => void;
@@ -39,6 +43,10 @@ export function FramesSidebar({
   onDurationChange,
   onExportManifest,
   canExportManifest,
+  onExportGif,
+  canExportGif,
+  isExportingGif,
+  gifError,
   onClear,
   onFrameHover,
   onFrameSelect,
@@ -55,6 +63,7 @@ export function FramesSidebar({
   const frameSequenceKey = frames.map((frame) => frame.id).join("|");
   const previewKey = `${infoUrl}-${frameSequenceKey}-${durationSeconds}`;
   const activeAnnotationId = hoveredAnnotationId ?? selectedAnnotationId ?? null;
+  const gifButtonLabel = isExportingGif ? "Exporting GIF..." : "Export animated GIF";
 
   return (
     <Card
@@ -164,13 +173,27 @@ export function FramesSidebar({
             style={{ width: "100%" }}
           />
         </Flex>
-        <Button
-          type="button"
-          onClick={onExportManifest}
-          disabled={!onExportManifest || !canExportManifest}
-        >
-          Export IIIF manifest
-        </Button>
+        <Flex direction="column" gap="2">
+          <Button
+            type="button"
+            onClick={onExportGif}
+            disabled={!onExportGif || !canExportGif || Boolean(isExportingGif)}
+          >
+            {gifButtonLabel}
+          </Button>
+          <Button
+            type="button"
+            onClick={onExportManifest}
+            disabled={!onExportManifest || !canExportManifest}
+          >
+            Export IIIF manifest
+          </Button>
+          {gifError ? (
+            <Text size="1" color="crimson">
+              {gifError}
+            </Text>
+          ) : null}
+        </Flex>
       </Flex>
     </Card>
   );

@@ -1,4 +1,4 @@
-import { Box, Card, Flex, Heading, Text } from "@radix-ui/themes";
+import { Box, Card, Flex, Text } from "@radix-ui/themes";
 import { useCallback, useMemo, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
@@ -13,6 +13,7 @@ import { PlateSelector } from "../workbench/plates/PlateSelector";
 import { defaultPlate, findPlateByInfoUrl, plateCatalog } from "../workbench/plates/plateCatalog";
 import type { PlateEntry } from "../workbench/plates/types";
 import { buildManifestFromFrames } from "../workbench/frames/manifest";
+import { useGifExport } from "../workbench/frames/useGifExport";
 
 const INITIAL_INFO_URL = defaultPlate?.imageUri ?? DEFAULT_INFO_URL;
 
@@ -35,6 +36,7 @@ function App() {
   const [hoveredAnnotationId, setHoveredAnnotationId] = useState<string | null>(null);
   const [selectedAnnotationId, setSelectedAnnotationId] = useState<string | null>(null);
   const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
+  const { exportGif, isExporting: isExportingGif, error: gifExportError } = useGifExport();
 
   const frames = useMemo<FrameDescriptor[]>(() => {
     if (!dimensions) {
@@ -103,6 +105,34 @@ function App() {
     document.body.removeChild(anchor);
     URL.revokeObjectURL(url);
   };
+
+  const handleGifExport = useCallback(async () => {
+    if (!dimensions || !frames.length) {
+      return;
+    }
+    try {
+      const result = await exportGif({
+        infoUrl,
+        frames,
+        dimensions,
+        durationSeconds: animationDuration,
+      });
+      const slug = toDownloadName(activePlate?.label);
+      const url = URL.createObjectURL(result.blob);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = `${slug}-animation.gif`;
+      document.body.appendChild(anchor);
+      anchor.click();
+      document.body.removeChild(anchor);
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      if (error instanceof DOMException && error.name === "AbortError") {
+        return;
+      }
+      console.error("GIF export failed", error);
+    }
+  }, [dimensions, frames, exportGif, infoUrl, animationDuration, activePlate?.label]);
 
   return (
     <Flex direction={{ initial: "column", md: "row" }} height="100%">
@@ -201,6 +231,10 @@ function App() {
           onDurationChange={setAnimationDuration}
           onExportManifest={handleManifestExport}
           canExportManifest={Boolean(dimensions && frames.length)}
+          onExportGif={handleGifExport}
+          canExportGif={Boolean(dimensions && frames.length)}
+          isExportingGif={isExportingGif}
+          gifError={gifExportError}
           onClear={clearAnnotations}
           onFrameHover={handleFrameHover}
           onFrameSelect={handleFrameSelect}

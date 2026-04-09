@@ -19,7 +19,12 @@ function formatPercent(value: number) {
   return (clamped * 100).toFixed(2);
 }
 
-export function FramePreview({ infoUrl, frames, durationSeconds, activeAnnotationId }: FramePreviewProps) {
+export function FramePreview({
+  infoUrl,
+  frames,
+  durationSeconds,
+  activeAnnotationId,
+}: FramePreviewProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const imageService = useMemo(() => getIiifImageServiceUrl(infoUrl), [infoUrl]);
   const frameSignature = useMemo(() => frames.map((frame) => frame.id).join("|"), [frames]);
@@ -55,7 +60,7 @@ export function FramePreview({ infoUrl, frames, durationSeconds, activeAnnotatio
   }, [frames, activeAnnotationId]);
 
   const currentSource = previewSources[currentIndex] ?? null;
-  const activeSource = activeFrameIndex >= 0 ? previewSources[activeFrameIndex] ?? null : null;
+  const activeSource = activeFrameIndex >= 0 ? (previewSources[activeFrameIndex] ?? null) : null;
   const referenceFrame = useMemo(() => {
     if (activeFrameIndex >= 0) {
       return frames[activeFrameIndex];
@@ -72,7 +77,7 @@ export function FramePreview({ infoUrl, frames, durationSeconds, activeAnnotatio
   const stageStyle = useMemo<CSSProperties>(
     () => ({
       width: "100%",
-      minHeight: 200,
+      maxHeight: 200,
       backgroundColor: "#000",
       padding: "12px",
       borderRadius: "12px",
