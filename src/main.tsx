@@ -7,7 +7,14 @@ import App from "./app/App.tsx";
 
 createRoot(document.getElementById("root") as HTMLElement).render(
   <StrictMode>
-    <Theme appearance="light" accentColor="indigo" grayColor="slate" panelBackground="solid">
+    <Theme
+      appearance="dark"
+      accentColor="iris"
+      grayColor="mauve"
+      panelBackground="solid"
+      radius="none"
+      scaling="100%"
+    >
       <App />
     </Theme>
   </StrictMode>,
