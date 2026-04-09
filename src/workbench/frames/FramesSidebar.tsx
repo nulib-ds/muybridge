@@ -1,4 +1,14 @@
-import { Button, Card, Code, Flex, ScrollArea, Separator, Text, TextField, VisuallyHidden } from "@radix-ui/themes";
+import {
+  Button,
+  Card,
+  Code,
+  Flex,
+  ScrollArea,
+  Separator,
+  Text,
+  TextField,
+  VisuallyHidden,
+} from "@radix-ui/themes";
 import type { ChangeEvent, KeyboardEvent } from "react";
 import type { FrameDescriptor } from "./types";
 import { FrameThumbnail } from "./FrameThumbnail";
@@ -51,8 +61,7 @@ export function FramesSidebar({
       variant="surface"
       size="3"
       style={{
-        height: "100%",
-        minHeight: 400,
+        height: "100vh",
         display: "flex",
         flexDirection: "column",
         gap: "16px",
@@ -82,8 +91,12 @@ export function FramesSidebar({
             ) : (
               frames.map((frame) => {
                 const annotationId = frame.paneId || frame.id;
-                const isHovered = Boolean(hoveredAnnotationId && hoveredAnnotationId === annotationId);
-                const isSelected = Boolean(selectedAnnotationId && selectedAnnotationId === annotationId);
+                const isHovered = Boolean(
+                  hoveredAnnotationId && hoveredAnnotationId === annotationId,
+                );
+                const isSelected = Boolean(
+                  selectedAnnotationId && selectedAnnotationId === annotationId,
+                );
                 return (
                   <li key={frame.id}>
                     <Card
@@ -103,9 +116,7 @@ export function FramesSidebar({
                       style={{
                         cursor: "pointer",
                         borderLeft: `3px solid ${isSelected ? "#d92d20" : "transparent"}`,
-                        backgroundColor: isHovered
-                          ? "var(--gray-a2, rgba(0,0,0,0.04))"
-                          : undefined,
+                        backgroundColor: isHovered ? "var(--gray-a2, rgba(0,0,0,0.04))" : undefined,
                       }}
                     >
                       <Flex gap="3" align="center">

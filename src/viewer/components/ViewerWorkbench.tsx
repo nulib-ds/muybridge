@@ -218,7 +218,7 @@ export const ViewerWorkbench = memo(
               display: "flex",
               flexDirection: "column",
               gap: "16px",
-              minHeight: "60vh",
+              minHeight: "100%",
               position: "relative",
             }}
           >

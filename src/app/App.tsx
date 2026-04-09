@@ -105,63 +105,95 @@ function App() {
   };
 
   return (
-    <Flex direction={{ initial: "column", md: "row" }} minHeight="100vh" color="inherit">
-      <Flex direction="column" flexGrow="1" style={{ flexBasis: 0 }}>
+    <Flex direction={{ initial: "column", md: "row" }} height="100%">
+      <Flex
+        direction="column"
+        flexGrow="1"
+        style={{
+          flexBasis: 0,
+          height: "100vh",
+          position: "relative",
+          backgroundColor: "var(--gray-4)",
+        }}
+      >
         <ViewerWorkbench
           infoUrl={infoUrl}
           annotations={annotations}
           highlightedAnnotationId={highlightedAnnotationId}
           onAnnotationAdd={addAnnotation}
         />
-        <Card variant="surface" size="4">
-          <Flex direction="column" gap="4">
-            <Flex direction={{ initial: "column", sm: "row" }} gap="3" align="start">
-              <Flex direction="column" gap="1" flexGrow="1">
-                <Text size="1" color="gray" weight="medium">
-                  Plate catalog
-                </Text>
-                <PlateSelector
-                  plates={plateCatalog}
-                  selectedInfoUrl={infoUrl}
-                  onSelect={handlePlateSelect}
-                />
+        <Box
+          style={{
+            width: "100%",
+            height: "15rem",
+            position: "absolute",
+            bottom: 0,
+            left: 0,
+            backgroundColor: "var(--gray-a3)",
+            backdropFilter: "blur(6px)", // Standard
+            WebkitBackdropFilter: "blur(6px)", // Safari Support (Note the capital W)
+            maskImage: "linear-gradient(to bottom, transparent, black 10rem)", // Fade out effect at the top
+          }}
+        />
+        <Box
+          style={{
+            width: "100%",
+            height: "5rem",
+            position: "absolute",
+            bottom: 0,
+            left: 0,
+            backgroundColor: "var(--gray-a5)",
+            backdropFilter: "blur(10px)", // Standard
+            WebkitBackdropFilter: "blur(10px)", // Safari Support (Note the capital W)
+            maskImage: "linear-gradient(to bottom, transparent, black 3rem)", // Fade out effect at the top
+          }}
+        />
+        <Box
+          style={{
+            width: "100%",
+            position: "absolute",
+            bottom: 0,
+            left: 0,
+          }}
+          p="5"
+        >
+          <Card variant="surface" size="3">
+            <Flex direction="column" gap="4">
+              <Flex direction={{ initial: "column", sm: "row" }} gap="3" align="start">
+                <Flex direction="column" gap="1" flexGrow="1">
+                  <PlateSelector
+                    plates={plateCatalog}
+                    selectedInfoUrl={infoUrl}
+                    onSelect={handlePlateSelect}
+                  />
+                </Flex>
               </Flex>
+              {activePlate ? (
+                <Flex direction="column" gap="3">
+                  {activePlate.metadata.length ? (
+                    <Flex wrap="wrap" gap="4">
+                      {activePlate.metadata.map((entry) => (
+                        <Flex
+                          key={`${entry.label}-${entry.value}`}
+                          direction="column"
+                          gap="1"
+                          minWidth="140px"
+                        >
+                          <Text size="1" color="gray" weight="medium">
+                            {entry.label}
+                          </Text>
+                          <Text>{entry.value}</Text>
+                        </Flex>
+                      ))}
+                    </Flex>
+                  ) : null}
+                </Flex>
+              ) : null}
             </Flex>
-            {activePlate ? (
-              <Flex direction="column" gap="3">
-                <Heading size="4" weight="medium">
-                  {activePlate.label}
-                </Heading>
-                <Text size="2" color="gray">
-                  {infoUrl}
-                </Text>
-                {activePlate.metadata.length ? (
-                  <Flex wrap="wrap" gap="4">
-                    {activePlate.metadata.map((entry) => (
-                      <Flex
-                        key={`${entry.label}-${entry.value}`}
-                        direction="column"
-                        gap="1"
-                        minWidth="140px"
-                      >
-                        <Text size="1" color="gray" weight="medium">
-                          {entry.label}
-                        </Text>
-                        <Text>{entry.value}</Text>
-                      </Flex>
-                    ))}
-                  </Flex>
-                ) : null}
-              </Flex>
-            ) : null}
-          </Flex>
-        </Card>
+          </Card>
+        </Box>
       </Flex>
-      <Box
-        width={{ initial: "100%", md: "360px" }}
-        flexShrink={0}
-        style={{ borderLeft: "1px solid rgba(0,0,0,0.05)" }}
-      >
+      <Box width={{ initial: "100%", md: "360px" }}>
         <FramesSidebar
           frames={frames}
           infoUrl={infoUrl}
