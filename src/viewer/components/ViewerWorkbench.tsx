@@ -18,6 +18,20 @@ interface ViewerWorkbenchProps {
   onAnnotationAdd?: (annotation: ImageAnnotation) => void;
 }
 
+function resolveCssColor(value: string | null | undefined) {
+  if (!value || typeof window === "undefined" || !document.body) {
+    return value ?? null;
+  }
+  const probe = document.createElement("div");
+  probe.style.color = value;
+  probe.style.position = "absolute";
+  probe.style.left = "-9999px";
+  document.body.appendChild(probe);
+  const resolved = window.getComputedStyle(probe).color;
+  document.body.removeChild(probe);
+  return resolved || value;
+}
+
 export const ViewerWorkbench = memo(
   ({ infoUrl, annotations, highlightedAnnotationId, onAnnotationAdd }: ViewerWorkbenchProps) => {
     const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
@@ -26,6 +40,22 @@ export const ViewerWorkbench = memo(
     const osdViewer = useViewer();
     const viewerInstance = osdViewer ?? null;
     const [isDrawing, setIsDrawing] = useState(false);
+    const [accentStrokeColor, setAccentStrokeColor] = useState("#d92d20");
+
+    useEffect(() => {
+      if (typeof window === "undefined") {
+        return;
+      }
+      const themeRoot = document.querySelector<HTMLElement>(".radix-themes");
+      const target = themeRoot ?? document.documentElement;
+      const computed = window.getComputedStyle(target).getPropertyValue("--accent-10");
+      if (computed?.trim()) {
+        const normalized = resolveCssColor(computed.trim());
+        if (normalized) {
+          setAccentStrokeColor(normalized);
+        }
+      }
+    }, []);
     const navSettingsRef = useRef<OpenSeadragon.GestureSettings | null>(null);
     const updateTimerRef = useRef<number | null>(null);
 
@@ -51,7 +81,7 @@ export const ViewerWorkbench = memo(
 
       annotorious.setStyle((annotation) => {
         if (annotation.id === highlightedAnnotationId) {
-          return { stroke: "#d92d20", strokeWidth: 2.5 };
+          return { stroke: accentStrokeColor, strokeWidth: 2.5 };
         }
         return undefined;
       });
@@ -59,7 +89,7 @@ export const ViewerWorkbench = memo(
       return () => {
         annotorious.setStyle(() => undefined);
       };
-    }, [annotatorInstance, highlightedAnnotationId]);
+    }, [annotatorInstance, highlightedAnnotationId, accentStrokeColor]);
 
     /* eslint-disable react-hooks/immutability */
     useEffect(() => {

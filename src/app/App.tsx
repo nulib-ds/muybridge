@@ -1,5 +1,5 @@
 import { Box, Card, Flex, Text } from "@radix-ui/themes";
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
 import { DEFAULT_INFO_URL } from "../config/iiif";
@@ -14,6 +14,7 @@ import { defaultPlate, findPlateByInfoUrl, plateCatalog } from "../workbench/pla
 import type { PlateEntry } from "../workbench/plates/types";
 import { buildManifestFromFrames } from "../workbench/frames/manifest";
 import { useGifExport } from "../workbench/frames/useGifExport";
+import { DEFAULT_FRAME_DURATION_SECONDS, defaultDurationForFrames } from "../workbench/frames/duration";
 
 const INITIAL_INFO_URL = defaultPlate?.imageUri ?? DEFAULT_INFO_URL;
 
@@ -32,7 +33,8 @@ function App() {
   const [infoUrl, setInfoUrl] = useState(INITIAL_INFO_URL);
   const { annotations, addAnnotation, clearAnnotations } = useAnnotationStore(infoUrl);
   const { dimensions } = useIiifDimensions(infoUrl);
-  const [animationDuration, setAnimationDuration] = useState(2);
+  const [animationDuration, setAnimationDuration] = useState(DEFAULT_FRAME_DURATION_SECONDS);
+  const [hasCustomDuration, setHasCustomDuration] = useState(false);
   const [hoveredAnnotationId, setHoveredAnnotationId] = useState<string | null>(null);
   const [selectedAnnotationId, setSelectedAnnotationId] = useState<string | null>(null);
   const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
@@ -75,6 +77,25 @@ function App() {
 
   const handleFrameSelect = useCallback((annotationId: string) => {
     setSelectedAnnotationId((current) => (current === annotationId ? null : annotationId));
+  }, []);
+
+  useEffect(() => {
+    if (hasCustomDuration) {
+      return;
+    }
+    const defaultDuration = defaultDurationForFrames(frames.length);
+    setAnimationDuration((current) => (current === defaultDuration ? current : defaultDuration));
+  }, [frames.length, hasCustomDuration]);
+
+  useEffect(() => {
+    if (frames.length === 0 && hasCustomDuration) {
+      setHasCustomDuration(false);
+    }
+  }, [frames.length, hasCustomDuration]);
+
+  const handleDurationChange = useCallback((duration: number) => {
+    setAnimationDuration(duration);
+    setHasCustomDuration(true);
   }, []);
 
   const handleManifestExport = () => {
@@ -228,7 +249,7 @@ function App() {
           frames={frames}
           infoUrl={infoUrl}
           durationSeconds={animationDuration}
-          onDurationChange={setAnimationDuration}
+          onDurationChange={handleDurationChange}
           onExportManifest={handleManifestExport}
           canExportManifest={Boolean(dimensions && frames.length)}
           onExportGif={handleGifExport}

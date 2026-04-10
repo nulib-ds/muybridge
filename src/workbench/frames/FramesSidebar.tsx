@@ -5,11 +5,19 @@ import {
   Flex,
   ScrollArea,
   Separator,
+  Slider,
   Text,
   TextField,
   VisuallyHidden,
 } from "@radix-ui/themes";
 import type { ChangeEvent, KeyboardEvent } from "react";
+import {
+  DURATION_INPUT_STEP_SECONDS,
+  DURATION_STEP_SECONDS,
+  MAX_DURATION_SECONDS,
+  MIN_DURATION_SECONDS,
+  sanitizeDuration,
+} from "./duration";
 import type { FrameDescriptor } from "./types";
 import { FrameThumbnail } from "./FrameThumbnail";
 import { FramePreview } from "./FramePreview";
@@ -53,17 +61,27 @@ export function FramesSidebar({
   hoveredAnnotationId,
   selectedAnnotationId,
 }: FramesSidebarProps) {
-  const handleDurationChange = (event: ChangeEvent<HTMLInputElement>) => {
-    const value = Number(event.target.value);
+  const safeDurationSeconds = sanitizeDuration(durationSeconds);
+  const handleDurationInputChange = (event: ChangeEvent<HTMLInputElement>) => {
     if (!onDurationChange) {
       return;
     }
-    onDurationChange(Number.isFinite(value) ? value : 0);
+    const value = Number(event.target.value);
+    onDurationChange(sanitizeDuration(value));
+  };
+  const handleDurationSliderChange = (values: number[]) => {
+    if (!onDurationChange) {
+      return;
+    }
+    const [value] = values;
+    onDurationChange(sanitizeDuration(value ?? safeDurationSeconds));
   };
   const frameSequenceKey = frames.map((frame) => frame.id).join("|");
   const previewKey = `${infoUrl}-${frameSequenceKey}-${durationSeconds}`;
   const activeAnnotationId = hoveredAnnotationId ?? selectedAnnotationId ?? null;
   const gifButtonLabel = isExportingGif ? "Exporting GIF..." : "Export animated GIF";
+  const durationLabelId = "animationDurationLabel";
+  const durationInputId = "animationDurationInput";
 
   return (
     <Card
@@ -124,7 +142,7 @@ export function FramesSidebar({
                       tabIndex={0}
                       style={{
                         cursor: "pointer",
-                        borderLeft: `3px solid ${isSelected ? "#d92d20" : "transparent"}`,
+                        borderLeft: `3px solid ${isSelected ? "var(--accent-10)" : "transparent"}`,
                         backgroundColor: isHovered ? "var(--gray-a2, rgba(0,0,0,0.04))" : undefined,
                       }}
                     >
@@ -160,18 +178,32 @@ export function FramesSidebar({
         </div>
         <Flex direction="column" gap="2">
           <Text asChild size="2" weight="medium">
-            <label htmlFor="animationDuration">Duration (seconds)</label>
+            <label id={durationLabelId} htmlFor={durationInputId}>
+              Duration (seconds)
+            </label>
           </Text>
-          <TextField.Root
-            id="animationDuration"
-            type="number"
-            min="0.1"
-            step="0.1"
-            inputMode="decimal"
-            value={durationSeconds}
-            onChange={handleDurationChange}
-            style={{ width: "100%" }}
-          />
+          <Flex gap="3" align="center">
+            <Slider
+              min={MIN_DURATION_SECONDS}
+              max={MAX_DURATION_SECONDS}
+              step={DURATION_STEP_SECONDS}
+              value={[safeDurationSeconds]}
+              onValueChange={handleDurationSliderChange}
+              aria-labelledby={durationLabelId}
+              style={{ flexGrow: 1 }}
+            />
+            <TextField.Root
+              id={durationInputId}
+              type="number"
+              min={`${MIN_DURATION_SECONDS}`}
+              max={`${MAX_DURATION_SECONDS}`}
+              step={DURATION_INPUT_STEP_SECONDS}
+              inputMode="decimal"
+              value={safeDurationSeconds}
+              onChange={handleDurationInputChange}
+              style={{ width: "88px" }}
+            />
+          </Flex>
         </Flex>
         <Flex direction="column" gap="2">
           <Button
