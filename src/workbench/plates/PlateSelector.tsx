@@ -1,4 +1,14 @@
-import { Avatar, Box, Button, Card, Dialog, Flex, Text, TextField } from "@radix-ui/themes";
+import {
+  Avatar,
+  Box,
+  Button,
+  Card,
+  ChevronDownIcon,
+  Dialog,
+  Flex,
+  Text,
+  TextField,
+} from "@radix-ui/themes";
 import { useEffect, useMemo, useState } from "react";
 import type { PlateEntry } from "./types";
 import { useInView } from "../../lib/useInView";
@@ -14,8 +24,14 @@ interface PlateSelectorProps {
 
 export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelectorProps) {
   const [isOpen, setIsOpen] = useState(false);
-  const { entries: catalogEntries, loading: chunkLoading, error: chunkError, hasMore, ready, requestNextChunk } =
-    usePlateChunkSource(isOpen);
+  const {
+    entries: catalogEntries,
+    loading: chunkLoading,
+    error: chunkError,
+    hasMore,
+    ready,
+    requestNextChunk,
+  } = usePlateChunkSource(isOpen);
   const [pageIndex, setPageIndex] = useState(0);
   const [searchTerm, setSearchTerm] = useState("");
   const handleDialogToggle = (open: boolean) => {
@@ -71,9 +87,9 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
     <Dialog.Root open={isOpen} onOpenChange={handleDialogToggle}>
       <Dialog.Trigger>
         <Button
-          variant="surface"
+          variant="ghost"
           size="3"
-          style={{ width: "100%", justifyContent: "flex-start" }}
+          style={{ width: "100%", justifyContent: "flex-start", cursor: "pointer" }}
           disabled={!plates.length}
         >
           {selectedPlate ? (
@@ -84,8 +100,15 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
                 fallback={selectedPlate.label.charAt(0)}
                 radius="none"
               />
-              <Text weight="medium" truncate>
-                {selectedPlate.label}
+              <Text weight="bold" truncate size="4">
+                {selectedPlate.label}{" "}
+                <ChevronDownIcon
+                  style={{
+                    marginLeft: "0.5rem",
+                    top: "-2px",
+                    position: "relative",
+                  }}
+                />
               </Text>
             </Flex>
           ) : (
@@ -93,10 +116,7 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
           )}
         </Button>
       </Dialog.Trigger>
-      <Dialog.Content
-        size="4"
-        style={{ width: "min(92vw, 1100px)", height: "80vh" }}
-      >
+      <Dialog.Content size="4" style={{ width: "min(92vw, 1100px)", height: "80vh" }}>
         <Flex direction="column" gap="4" style={{ height: "100%" }}>
           <Flex justify="between" align="center" gap="3">
             <Dialog.Title>Select a plate</Dialog.Title>
@@ -138,7 +158,9 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
                     const nextIndex = pageIndex + 1;
                     setPageIndex(nextIndex);
                     const needed = (nextIndex + 1) * PAGE_SIZE;
-                    const poolSize = normalizedFilter ? filteredEntries.length : catalogEntries.length;
+                    const poolSize = normalizedFilter
+                      ? filteredEntries.length
+                      : catalogEntries.length;
                     if (poolSize < needed && hasMore && !chunkLoading) {
                       requestNextChunk();
                     }
@@ -148,12 +170,8 @@ export function PlateSelector({ plates, selectedInfoUrl, onSelect }: PlateSelect
                 </Button>
               </Flex>
             </Flex>
-            {!ready && !chunkError ? (
-              <Text color="gray">Loading catalog…</Text>
-            ) : null}
-            {chunkError ? (
-              <Text color="red">{chunkError.message}</Text>
-            ) : null}
+            {!ready && !chunkError ? <Text color="gray">Loading catalog…</Text> : null}
+            {chunkError ? <Text color="red">{chunkError.message}</Text> : null}
             {filteredEntries
               .slice(pageIndex * PAGE_SIZE, pageIndex * PAGE_SIZE + PAGE_SIZE)
               .map((plate) => (

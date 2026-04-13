@@ -80,7 +80,7 @@ export function FramePreview({
       maxHeight: 200,
       backgroundColor: "#000",
       padding: "12px",
-      borderRadius: "12px",
+      borderRadius: 0,
       display: "flex",
       alignItems: "center",
       justifyContent: "center",

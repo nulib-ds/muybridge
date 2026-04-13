@@ -1,9 +1,9 @@
-import { Flex, Text } from "@radix-ui/themes";
+import { Flex, Inset, Text } from "@radix-ui/themes";
 import { useMemo } from "react";
 import type { FrameDescriptor } from "./types";
 import { getIiifImageServiceUrl } from "../../lib/iiif";
 
-const THUMBNAIL_SIZE = 50;
+const THUMBNAIL_SIZE = 100;
 
 interface FrameThumbnailProps {
   frame: FrameDescriptor;
@@ -30,30 +30,20 @@ export function FrameThumbnail({ frame, infoUrl }: FrameThumbnailProps) {
   }, [frame, imageService]);
 
   return (
-    <Flex
-      align="center"
-      justify="center"
-      style={{
-        width: 50,
-        height: 50,
-        borderRadius: 6,
-        backgroundColor: "var(--gray-a2, rgba(0,0,0,0.04))",
-        overflow: "hidden",
-        flexShrink: 0,
-      }}
+    <Inset
+      clip="padding-box"
+      side="left"
+      pr="current"
+      style={{ width: "50px", height: "50px", backgroundColor: "var(--gray-12)" }}
     >
-      {source ? (
-        <img
-          src={source}
-          alt={`Frame ${frame.order ?? "preview"}`}
-          loading="lazy"
-          style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
-        />
-      ) : (
-        <Text size="1" color="gray" align="center">
-          Preview unavailable
-        </Text>
-      )}
-    </Flex>
+      <img
+        src={
+          source || "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        }
+        alt={`Frame ${frame.order ?? "preview"}`}
+        loading="lazy"
+        style={{ display: "block", objectFit: "cover", width: 50, height: "100%" }}
+      />
+    </Inset>
   );
 }

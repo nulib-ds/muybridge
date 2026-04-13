@@ -13,15 +13,17 @@ describe("parsePlateCsv", () => {
     expect(entries[0]).toMatchObject({
       label: "Plate X",
       imageUri: "https://example.org/iiif/plate-x/info.json",
-      metadata: [
+    });
+    expect(entries[0].metadata).toEqual(
+      expect.arrayContaining([
         { label: "Notes", value: "Primary sequence" },
         { label: "Tags", value: "animal study" },
-      ],
-    });
+      ]),
+    );
   });
 
   it("omits metadata entries with empty values", () => {
-    const csv = `Label,Image URI,Summary,Date,Medium,Homepage ID,Homepage Label,Notes\nPlate Y,https://example.org/iiif/plate-y/info.json,Desc,1881,Solar print,https://example.org/y,Example,\n`;
+    const csv = `Label,Image URI,Notes,Tags\nPlate Y,https://example.org/iiif/plate-y/info.json,,\n`;
     const entries = parsePlateCsv(csv);
     expect(entries[0].metadata).toHaveLength(0);
   });

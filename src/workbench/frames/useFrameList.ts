@@ -96,6 +96,21 @@ export function useAnnotationStore(infoUrl: string) {
     });
   }, []);
 
+  const removeAnnotation = useCallback((annotationId: string) => {
+    setAnnotations((previous) => previous.filter((annotation) => annotation.id !== annotationId));
+  }, []);
+
+  const reorderAnnotations = useCallback((orderedAnnotationIds: string[]) => {
+    setAnnotations((previous) => {
+      const idSet = new Set(orderedAnnotationIds);
+      const ordered = orderedAnnotationIds
+        .map((annotationId) => previous.find((annotation) => annotation.id === annotationId))
+        .filter((annotation): annotation is ImageAnnotation => Boolean(annotation));
+      const remaining = previous.filter((annotation) => !idSet.has(annotation.id));
+      return [...ordered, ...remaining];
+    });
+  }, []);
+
   const clearAnnotations = useCallback(() => {
     setAnnotations([]);
     if (storageKey && typeof window !== "undefined") {
@@ -103,5 +118,5 @@ export function useAnnotationStore(infoUrl: string) {
     }
   }, [storageKey]);
 
-  return { annotations, addAnnotation, clearAnnotations } as const;
+  return { annotations, addAnnotation, clearAnnotations, removeAnnotation, reorderAnnotations } as const;
 }
