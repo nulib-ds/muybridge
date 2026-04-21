@@ -21,6 +21,7 @@ import {
 
 const INITIAL_INFO_URL = defaultPlate?.imageUri ?? DEFAULT_INFO_URL;
 const GIF_EXPORT_ENDPOINT = "/api/export-gif";
+const MANIFEST_EXPORT_ENDPOINT = "/api/iiif/manifest";
 const AUTO_EXPORT_DEBOUNCE_MS = 1200;
 
 function toDownloadName(label: string | undefined) {
@@ -34,17 +35,8 @@ function toDownloadName(label: string | undefined) {
   );
 }
 
-function getPlateNumberValue(plate: PlateEntry | null) {
-  if (!plate) {
-    return null;
-  }
-  const entry = plate.metadata.find((field) => field.label.trim().toLowerCase() === "plate number");
-  const digits = entry?.value?.match(/\d+/g)?.join("");
-  return digits ?? null;
-}
-
-async function persistGifToDisk(blob: Blob, plateNumber: string) {
-  const params = new URLSearchParams({ plateNumber });
+async function persistGifToDisk(blob: Blob, slug: string) {
+  const params = new URLSearchParams({ slug });
   const response = await fetch(`${GIF_EXPORT_ENDPOINT}?${params.toString()}`, {
     method: "POST",
     headers: {
@@ -87,6 +79,7 @@ function App() {
   const [selectedAnnotationId, setSelectedAnnotationId] = useState<string | null>(null);
   const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
   const { exportGif, isExporting: isEncodingGif, error: gifExportError } = useGifExport();
+  const [latestManifestUrl, setLatestManifestUrl] = useState<string | null>(null);
   const [gifSaveError, setGifSaveError] = useState<string | null>(null);
   const [isSavingGif, setIsSavingGif] = useState(false);
   const [pendingGifSignature, setPendingGifSignature] = useState<string | null>(null);
@@ -170,10 +163,18 @@ function App() {
     setHasCustomDuration(true);
   }, []);
 
-  const handleManifestExport = () => {
+  const handleManifestExport = async () => {
     if (!dimensions || !frames.length) {
       return;
     }
+
+    const slug = toDownloadName(activePlate?.label);
+    const manifestUrl = `${window.location.origin}/api/iiif/${slug}.json`;
+    const thumbnailUrl = `${window.location.origin}/api/iiif/${slug}.gif`;
+
+    const plateNumber = activePlate?.metadata.find(
+      (f) => f.label.trim().toLowerCase() === "plate number",
+    )?.value;
 
     const manifest = buildManifestFromFrames({
       infoUrl,
@@ -181,34 +182,38 @@ function App() {
       dimensions,
       durationSeconds: animationDuration,
       label: activePlate?.label,
+      manifestId: manifestUrl,
+      thumbnailUrl,
+      plateNumber,
     });
 
     if (!manifest) {
       return;
     }
 
-    const blob = new Blob([JSON.stringify(manifest, null, 2)], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const anchor = document.createElement("a");
-    const slug = toDownloadName(activePlate?.label);
-    anchor.href = url;
-    anchor.download = `${slug}-animation-manifest.json`;
-    document.body.appendChild(anchor);
-    anchor.click();
-    document.body.removeChild(anchor);
-    URL.revokeObjectURL(url);
+    try {
+      const params = new URLSearchParams({ slug });
+      const response = await fetch(`${MANIFEST_EXPORT_ENDPOINT}?${params}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(manifest, null, 2),
+      });
+      if (!response.ok) {
+        console.error("Failed to save manifest", await response.text().catch(() => null));
+        return;
+      }
+      setLatestManifestUrl(manifestUrl);
+      console.log("IIIF manifest available at:", manifestUrl);
+    } catch (error) {
+      console.error("Manifest export failed", error);
+    }
   };
 
   const exportGifToFile = useCallback(async () => {
     if (!dimensions || !frames.length) {
       throw new Error("Frames unavailable for GIF export");
     }
-    const plateNumber = getPlateNumberValue(activePlate);
-    if (!plateNumber) {
-      const message = "Missing plate number for the selected plate.";
-      setGifSaveError(message);
-      throw new Error(message);
-    }
+    const slug = toDownloadName(activePlate?.label);
     setGifSaveError(null);
     let result: Awaited<ReturnType<typeof exportGif>>;
     try {
@@ -227,7 +232,7 @@ function App() {
     }
     setIsSavingGif(true);
     try {
-      const publicPath = await persistGifToDisk(result.blob, plateNumber);
+      const publicPath = await persistGifToDisk(result.blob, slug);
       const cacheBustingPath = `${publicPath}?t=${Date.now()}`;
       setLatestGifPath(cacheBustingPath);
       return getFramesSignature(frames);
@@ -391,6 +396,7 @@ function App() {
           onDurationChange={handleDurationChange}
           onExportManifest={handleManifestExport}
           canExportManifest={Boolean(dimensions && frames.length)}
+          manifestUrl={latestManifestUrl}
           onExportGif={handleGifExport}
           canExportGif={Boolean(dimensions && frames.length)}
           isExportingGif={isEncodingGif || isSavingGif}

@@ -88,6 +88,7 @@ interface FramesSidebarProps {
   onDurationChange?: (duration: number) => void;
   onExportManifest?: () => void;
   canExportManifest?: boolean;
+  manifestUrl?: string | null;
   onExportGif?: () => void;
   canExportGif?: boolean;
   isExportingGif?: boolean;
@@ -113,6 +114,7 @@ export function FramesSidebar({
   onDurationChange,
   onExportManifest,
   canExportManifest,
+  manifestUrl,
   onExportGif,
   canExportGif,
   isExportingGif,
@@ -316,6 +318,13 @@ export function FramesSidebar({
           >
             Export IIIF manifest
           </Button>
+          {manifestUrl ? (
+            <Text asChild size="1" color="gray">
+              <a href={manifestUrl} target="_blank" rel="noopener noreferrer">
+                {manifestUrl}
+              </a>
+            </Text>
+          ) : null}
           {gifError ? (
             <Text size="1" color="crimson">
               {gifError}

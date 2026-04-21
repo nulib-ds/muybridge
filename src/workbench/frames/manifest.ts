@@ -12,6 +12,20 @@ interface ManifestBuildOptions {
   dimensions: ImageDimensions | null;
   durationSeconds: number;
   label?: string;
+  manifestId?: string;
+  thumbnailUrl?: string;
+  plateNumber?: string;
+}
+
+interface IiifThumbnail {
+  id: string;
+  type: "Image";
+  format: "image/gif";
+}
+
+interface IiifMetadataEntry {
+  label: LanguageMap;
+  value: LanguageMap;
 }
 
 export interface IiifManifest {
@@ -19,6 +33,8 @@ export interface IiifManifest {
   id: string;
   type: "Manifest";
   label: LanguageMap;
+  metadata?: IiifMetadataEntry[];
+  thumbnail?: IiifThumbnail[];
   items: IiifCanvas[];
 }
 
@@ -53,8 +69,7 @@ interface IiifBody {
   format: "image/jpeg";
   height: number;
   width: number;
-  service: [IiifImageService];
-  selector?: IiifSelector;
+  service?: [IiifImageService];
 }
 
 interface IiifImageService {
@@ -63,11 +78,6 @@ interface IiifImageService {
   profile: "level2";
 }
 
-interface IiifSelector {
-  type: "FragmentSelector";
-  conformsTo: "http://www.w3.org/TR/media-frags/";
-  value: string;
-}
 
 function toLanguageMap(value: string | undefined, fallback: string): LanguageMap {
   const label = value?.trim() || fallback;
@@ -100,6 +110,9 @@ export function buildManifestFromFrames({
   dimensions,
   durationSeconds,
   label,
+  manifestId: explicitManifestId,
+  thumbnailUrl,
+  plateNumber,
 }: ManifestBuildOptions): IiifManifest | null {
   if (!frames.length || !dimensions) {
     return null;
@@ -121,7 +134,7 @@ export function buildManifestFromFrames({
   const safeDuration = durationSeconds > 0 ? durationSeconds : frames.length;
   const totalDuration = toTemporalValue(safeDuration);
   const frameDuration = frames.length ? safeDuration / frames.length : safeDuration;
-  const manifestId = `urn:uuid:${createUuid()}`;
+  const manifestId = explicitManifestId ?? `urn:uuid:${createUuid()}`;
   const animationCanvasId = `${manifestId}/canvas/animation`;
   const staticCanvasId = `${manifestId}/canvas/static`;
 
@@ -133,11 +146,6 @@ export function buildManifestFromFrames({
     const regionHeight = formatPercent(frame.bounds.height);
     const annotationWidth = Math.round(frame.bounds.width * dimensions.width);
     const annotationHeight = Math.round(frame.bounds.height * dimensions.height);
-    const selector: IiifSelector = {
-      type: "FragmentSelector",
-      conformsTo: "http://www.w3.org/TR/media-frags/",
-      value: `xywh=pct:${regionX},${regionY},${regionWidth},${regionHeight}`,
-    };
     const regionResource = `${imageService}/pct:${regionX},${regionY},${regionWidth},${regionHeight}/full/0/default.jpg`;
     const startTime = toTemporalValue(index * frameDuration);
     const endTime = toTemporalValue((index + 1) * frameDuration);
@@ -151,14 +159,6 @@ export function buildManifestFromFrames({
         format: "image/jpeg",
         height: annotationHeight,
         width: annotationWidth,
-        selector,
-        service: [
-          {
-            id: imageService,
-            type: "ImageService2",
-            profile: "level2",
-          },
-        ],
       },
       target: `${animationCanvasId}#t=${startTime},${endTime}`,
     };
@@ -217,11 +217,20 @@ export function buildManifestFromFrames({
     ],
   };
 
+  const metadata: IiifMetadataEntry[] = [
+    { label: { en: ["Date"] }, value: { en: ["1887"] } },
+    ...(plateNumber ? [{ label: { en: ["Plate Number"] }, value: { en: [plateNumber] } }] : []),
+  ];
+
   const manifest: IiifManifest = {
     "@context": PRESENTATION_CONTEXT,
     id: manifestId,
     type: "Manifest",
     label: toLanguageMap(label, "Muybridge plate sequence"),
+    metadata,
+    ...(thumbnailUrl && {
+      thumbnail: [{ id: thumbnailUrl, type: "Image", format: "image/gif" }],
+    }),
     items: [animationCanvas, staticCanvas],
   };
 
