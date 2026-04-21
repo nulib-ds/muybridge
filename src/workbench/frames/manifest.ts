@@ -59,6 +59,7 @@ interface IiifAnnotation {
   id: string;
   type: "Annotation";
   motivation: "painting";
+  label: LanguageMap;
   body: IiifBody;
   target: string;
 }
@@ -153,6 +154,7 @@ export function buildManifestFromFrames({
       id: buildAnnotationId(animationPageId, index),
       type: "Annotation",
       motivation: "painting",
+      label: { en: [`${index + 1}`] },
       body: {
         id: regionResource,
         type: "Image",
