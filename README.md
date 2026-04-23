@@ -1,40 +1,23 @@
-# Muybridge Workbench
+# Canopy Template
 
-A Vite + React + TypeScript playground for loading IIIF Image API v2 endpoints, drawing Annotorious
-rectangles over a vanilla OpenSeadragon viewer, and exporting the annotated panes as an animated GIF.
+This repository offers a trimmed down starting point for new Canopy IIIF projects. When you need deeper documentation, examples, or release notes, vist the main project at https://canopy-iiif.github.io/app/.
 
-## Getting started
+## Getting Started
 
-```bash
-npm install
-npm run dev
-```
+Walk through the [Quick Start guide](https://canopy-iiif.github.io/app/docs/user-guides/canopy-get-started.html) to stand up your new digital project, configure `canopy.yml` using IIIF collections and manifests, and add pages and layouts under `content/`.
 
-The dev server boots on [http://localhost:5173](http://localhost:5173). Paste any Image API v2
-`info.json` URL into the header form to hydrate the viewer. By default the input points to the NGA
-sample `https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/info.json`, which stays public
-and unblocked now that the viewer declares `isTiledImage`. Placeholder buttons in the sidebar create
-mock frames until the Annotorious hooks are wired up.
+## Preview from the monorepo
 
-## Available scripts
+Working inside `canopy-iiif/app`? Run `npm run preview:template` to stage this starter into `.template-preview/`, install its dependencies, and launch `npm run dev`. Stop the script with `Ctrl+C` when you are done.
 
-- `npm run dev` – Start Vite with HMR for the workbench.
-- `npm run build` – Type-check and emit the production bundle.
-- `npm run preview` – Serve the built bundle locally.
-- `npm run lint` / `npm run lint:fix` – Run ESLint across the repo.
-- `npm run test` / `npm run test:ci` – Execute Vitest in watch or CI mode.
-- `npm run format` / `npm run format:write` – Validate or apply Prettier across `src/`.
+## Updates
 
-## Directory layout
+Keep your project current by running `npm install @canopy-iiif/app@latest @samvera/clover-iiif@latest` whenever a new release ships, or trigger the _Update Canopy App_ GitHub action (Actions tab → _Update Canopy App_ → _Run workflow_) and let it open a pull request that bumps both dependencies for you. Read the [Developer documentation](https://canopy-iiif.github.io/app/docs/developers) for more information.
 
-```
-src/
-├── app/            # Shell, layout, and form controls
-├── annotations/    # Annotorious adapters and hooks
-├── config/         # IIIF defaults, environment-driven settings
-├── lib/            # Shared helpers (e.g., info.json sanitizers)
-├── viewer/         # OpenSeadragon + Annotorious composition
-└── workbench/      # Frame queue + GIF prep utilities
-```
+## Contributing
 
-Keep sensitive configuration in `.env.local` as documented in `AGENTS.md`.
+All development happens in https://github.com/canopy-iiif/app. If you are interested in shaping Canopy IIIF, please open an issue, share feedback, or send a pull request.
+
+## License
+
+Canopy IIIF (Canopy) is an open-source project by Mat Jordan, released under the MIT License. By working directly with IIIF resources, Canopy keeps materials with the libraries, museums, and archives that serve them, along with their metadata, rights statements, and terms of use. Implementers should be aware of the rights and terms governing the materials they reference, publish, and deploy to the web using Canopy.

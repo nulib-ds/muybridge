@@ -1,0 +1,198 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.vam.ac.uk/collections/O1267239/manifest.json",
+  "type": "Manifest",
+  "behavior": [
+    "individuals"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Impeachment of Warren Hastings"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Object Type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Print"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Brief Description"
+        ]
+      },
+      "value": {
+        "none": [
+          "Print 'Sheridan holding a scroll in an depiction of the Impeachment of Warren Hastings', engraving by Aitken, Great Britain, 1789, Harry Beard Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Materials and Techniques"
+        ]
+      },
+      "value": {
+        "none": [
+          "Engraving, printed ink on paper, hand finished with watercolour"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Place"
+        ]
+      },
+      "value": {
+        "none": [
+          "Great Britain (published)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Accession Number"
+        ]
+      },
+      "value": {
+        "none": [
+          "S.3192-2013"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "Image and metadata usage subject to V&A <a href=\"https://www.vam.ac.uk/info/va-websites-terms-conditions\">Terms and Conditions</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Manifest"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://iiif.vam.ac.uk/collections/O1267239/manifest.json"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "The Impeachment of Warren Hastings"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "©Victoria and Albert Museum, London"
+      ]
+    }
+  },
+  "summary": {
+    "none": [
+      "Print 'Sheridan holding a scroll in an depiction of the Impeachment of Warren Hastings', engraving by Aitken, Great Britain, 1789, Harry Beard Collection"
+    ]
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "homepage": [
+        {
+          "id": "http://collections.vam.ac.uk/item/O1267239",
+          "type": "unknown"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://framemark.vam.ac.uk/logos/valogo_social_2021/full/200,200/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.vam.ac.uk/collections/O1267239/canvas/c0",
+      "type": "Canvas",
+      "height": 2500,
+      "width": 1873,
+      "label": {
+        "none": [
+          "Image 0"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://framemark.vam.ac.uk/collections/2013GU1495/full/!100,100/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.vam.ac.uk/collections/O1267239/canvas/c0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.vam.ac.uk/collections/O1267239/canvas/c0/annotation/a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.vam.ac.uk/collections/O1267239/canvas/c0",
+              "body": {
+                "id": "https://framemark.vam.ac.uk/collections/2013GU1495/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2500,
+                "width": 1873,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://framemark.vam.ac.uk/collections/2013GU1495",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

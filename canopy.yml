@@ -1,0 +1,41 @@
+title: Muybridge in Motion
+collection:
+  - https://api.dc.library.northwestern.edu/api/v2/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc?as=iiif
+manifest:
+  - https://iiif.vam.ac.uk/collections/O1267239/manifest.json
+  - https://iiif.vam.ac.uk/collections/O755793/manifest.json
+  - https://iiif.vam.ac.uk/collections/O136839/manifest.json
+  - https://iiif.vam.ac.uk/collections/O74660/manifest.json
+metadata:
+  - Animal
+  - Motion
+  - Provider
+  - Frame count
+featured:
+  - https://iiif.vam.ac.uk/collections/O74660/manifest.json
+search:
+  page:
+    title: Search
+    description: Discover results across the entire collection.
+  results:
+    work:
+      layout: grid
+      result: figure
+    page:
+      layout: list
+      result: article
+  index:
+    metadata:
+      enabled: true
+      all: false
+    summary:
+      enabled: true
+    annotations:
+      enabled: false
+      motivation:
+        - commenting
+        - tagging
+theme:
+  appearance: dark
+  accentColor: iris
+  grayColor: mauve

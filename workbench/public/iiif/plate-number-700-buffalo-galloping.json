@@ -1,0 +1,450 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 700. Buffalo galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "700"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 700. Buffalo galloping"
+        ]
+      },
+      "height": 537,
+      "width": 917,
+      "duration": 1,
+      "placeholderCanvas": {
+        "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 917,
+        "height": 537,
+        "items": [
+          {
+            "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 917,
+                  "height": 537
+                },
+                "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:1.6447,2.0749,24.0863,21.8924/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 537,
+                "width": 917
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0,0.063"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:26.1284,2.1373,23.8304,21.7790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 534,
+                "width": 907
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.063,0.125"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:50.4751,2.2451,23.7939,21.7790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 534,
+                "width": 906
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.125,0.188"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:74.5614,2.5286,24.1594,21.6088/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 530,
+                "width": 920
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.188,0.25"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:1.6447,26.8031,23.9401,21.8924/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 537,
+                "width": 912
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.25,0.313"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:25.8772,26.8598,24.0497,22.1193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 916
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.313,0.375"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:50.1462,27.1434,24.0497,21.9491/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 539,
+                "width": 916
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.375,0.438"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:74.4518,27.2568,24.2325,21.9491/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 539,
+                "width": 923
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.438,0.5"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:1.6813,51.8716,23.6477,21.2685/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 522,
+                "width": 901
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.5,0.563"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:25.6944,52.0418,23.9766,21.2685/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 522,
+                "width": 913
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.563,0.625"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:50.0365,52.0985,24.0863,21.3820/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 525,
+                "width": 917
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.625,0.688"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:74.4883,52.2119,24.1228,21.2685/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 522,
+                "width": 919
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.688,0.75"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:1.4985,76.3730,23.7573,22.1193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 905
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.75,0.813"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:25.5117,76.5998,23.9766,22.1193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 913
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.813,0.875"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:49.8904,76.5998,24.0497,22.1760/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 544,
+                "width": 916
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.875,0.938"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/pct:74.3787,76.4864,24.1228,22.4029/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 550,
+                "width": 919
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.938,1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 700. Buffalo galloping"
+        ]
+      },
+      "height": 2454,
+      "width": 3808,
+      "placeholderCanvas": {
+        "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 516,
+        "items": [
+          {
+            "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 516
+                },
+                "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2454,
+                "width": 3808,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/53c83e9d-7a7f-46c7-8701-13fd2d26decc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-700-buffalo-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

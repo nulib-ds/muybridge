@@ -1,0 +1,216 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 716. Cat; walking; change to galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "716"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 716. Cat; walking; change to galloping"
+        ]
+      },
+      "height": 725,
+      "width": 1107,
+      "duration": 0.3,
+      "placeholderCanvas": {
+        "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 1107,
+        "height": 725,
+        "items": [
+          {
+            "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1107,
+                  "height": 725
+                },
+                "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:1.5063,3.1567,15.9067,20.7541/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 725,
+                "width": 1107
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:17.5495,3.0737,16.2253,20.9276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 731,
+                "width": 1129
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:40.7736,6.0577,9.7070,11.3774/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 398,
+                "width": 675
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.2,0.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 716. Cat; walking; change to galloping"
+        ]
+      },
+      "height": 3495,
+      "width": 6957,
+      "placeholderCanvas": {
+        "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 402,
+        "items": [
+          {
+            "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 402
+                },
+                "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3495,
+                "width": 6957,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5174/api/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
