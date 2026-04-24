@@ -30,7 +30,7 @@ async function collectRequestBody(req: IncomingMessage) {
 }
 
 async function writeGifToDisk(root: string, slug: string, contents: Buffer) {
-  const directory = resolve(root, 'public', 'iiif');
+  const directory = resolve(root, '..', 'assets', 'images', 'thumbnails');
   await mkdir(directory, { recursive: true });
   const fileName = `${slug}.gif`;
   const filePath = resolve(directory, fileName);
@@ -91,7 +91,7 @@ const MANIFEST_EXPORT_ROUTE = '/api/iiif/manifest';
 const MANIFEST_SERVE_PREFIX = '/api/iiif/';
 
 async function writeManifestToDisk(root: string, slug: string, contents: string) {
-  const directory = resolve(root, 'public', 'iiif');
+  const directory = resolve(root, '..', 'assets', 'iiif');
   await mkdir(directory, { recursive: true });
   const fileName = `${slug}.json`;
   const filePath = resolve(directory, fileName);
@@ -148,7 +148,9 @@ async function handleManifestRequest(
     const isJson = filename.endsWith('.json');
     const isGif = filename.endsWith('.gif');
     if (!isJson && !isGif) return false;
-    const filePath = resolve(root, 'public', 'iiif', filename);
+    const filePath = isJson
+      ? resolve(root, '..', 'assets', 'iiif', filename)
+      : resolve(root, '..', 'assets', 'images', 'thumbnails', filename);
     try {
       const contents = isJson ? await readFile(filePath, 'utf-8') : await readFile(filePath);
       res.statusCode = 200;

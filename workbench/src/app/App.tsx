@@ -1,8 +1,8 @@
-import { Box, Card, Flex, Text } from "@radix-ui/themes";
+import { Box, Flex, Text } from "@radix-ui/themes";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
-import { DEFAULT_INFO_URL } from "../config/iiif";
+import { CANOPY_BASE_URL, DEFAULT_INFO_URL } from "../config/iiif";
 import { sanitizeIiifUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
 import { useAnnotationStore } from "../workbench/frames/useFrameList";
@@ -39,9 +39,7 @@ async function persistGifToDisk(blob: Blob, slug: string) {
   const params = new URLSearchParams({ slug });
   const response = await fetch(`${GIF_EXPORT_ENDPOINT}?${params.toString()}`, {
     method: "POST",
-    headers: {
-      "Content-Type": "image/gif",
-    },
+    headers: { "Content-Type": "image/gif" },
     body: blob,
   });
   if (!response.ok) {
@@ -56,9 +54,7 @@ async function persistGifToDisk(blob: Blob, slug: string) {
 }
 
 function getFramesSignature(frames: FrameDescriptor[]): string | null {
-  if (!frames.length) {
-    return null;
-  }
+  if (!frames.length) return null;
   return frames
     .map((frame) => {
       const { x, y, width, height } = frame.bounds;
@@ -70,14 +66,25 @@ function getFramesSignature(frames: FrameDescriptor[]): string | null {
 
 function App() {
   const [infoUrl, setInfoUrl] = useState(INITIAL_INFO_URL);
-  const { annotations, addAnnotation, clearAnnotations, removeAnnotation, reorderAnnotations } =
-    useAnnotationStore(infoUrl);
+  const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
+  const slug = useMemo(
+    () => (activePlate ? toDownloadName(activePlate.label) : null),
+    [activePlate],
+  );
+  const {
+    annotations,
+    loadedDuration,
+    loadedGifPath,
+    addAnnotation,
+    clearAnnotations,
+    removeAnnotation,
+    reorderAnnotations,
+  } = useAnnotationStore(infoUrl, slug);
   const { dimensions } = useIiifDimensions(infoUrl);
   const [animationDuration, setAnimationDuration] = useState(DEFAULT_FRAME_DURATION_SECONDS);
   const [hasCustomDuration, setHasCustomDuration] = useState(false);
   const [hoveredAnnotationId, setHoveredAnnotationId] = useState<string | null>(null);
   const [selectedAnnotationId, setSelectedAnnotationId] = useState<string | null>(null);
-  const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
   const { exportGif, isExporting: isEncodingGif, error: gifExportError } = useGifExport();
   const [latestManifestUrl, setLatestManifestUrl] = useState<string | null>(null);
   const [gifSaveError, setGifSaveError] = useState<string | null>(null);
@@ -86,16 +93,10 @@ function App() {
   const [latestGifPath, setLatestGifPath] = useState<string | null>(null);
 
   const frames = useMemo<FrameDescriptor[]>(() => {
-    if (!dimensions) {
-      return [];
-    }
-
+    if (!dimensions) return [];
     return annotations.flatMap((annotation, index) => {
       const frame = annotationToFrame(annotation, dimensions);
-      if (!frame) {
-        return [];
-      }
-
+      if (!frame) return [];
       return [
         {
           id: frame.id ?? annotation.id ?? `frame-${index + 1}`,
@@ -112,6 +113,9 @@ function App() {
   const lastExportedSignatureRef = useRef<string | null>(framesSignature);
   const lastFrameCountRef = useRef(frames.length);
   const autoExportTimeoutRef = useRef<number | null>(null);
+  const manifestSaveTimerRef = useRef<number | null>(null);
+
+  // ─── Plate / frame / duration handlers ───────────────────────────────────
 
   const handlePlateSelect = (plate: PlateEntry) => {
     const nextUrl = sanitizeIiifUrl(plate.imageUri);
@@ -144,13 +148,30 @@ function App() {
     [reorderAnnotations],
   );
 
+  // Apply loaded duration from persisted manifest when switching plates.
   useEffect(() => {
-    if (hasCustomDuration) {
-      return;
+    if (loadedDuration !== null) {
+      setAnimationDuration(loadedDuration);
+      setHasCustomDuration(true);
     }
+  }, [loadedDuration]);
+
+  // Restore GIF preview from persisted manifest thumbnail on plate load.
+  useEffect(() => {
+    if (loadedGifPath !== null) {
+      setLatestGifPath(`${loadedGifPath}?t=${Date.now()}`);
+    } else {
+      setLatestGifPath(null);
+    }
+  }, [loadedGifPath]);
+
+  // Default duration tracks frame count unless the user has set a custom value
+  // or a saved duration has been loaded.
+  useEffect(() => {
+    if (hasCustomDuration || loadedDuration !== null) return;
     const defaultDuration = defaultDurationForFrames(frames.length);
     setAnimationDuration((current) => (current === defaultDuration ? current : defaultDuration));
-  }, [frames.length, hasCustomDuration]);
+  }, [frames.length, hasCustomDuration, loadedDuration]);
 
   useEffect(() => {
     if (frames.length === 0 && hasCustomDuration) {
@@ -163,15 +184,13 @@ function App() {
     setHasCustomDuration(true);
   }, []);
 
-  const handleManifestExport = async () => {
-    if (!dimensions || !frames.length) {
-      return;
-    }
+  // ─── Manifest save ────────────────────────────────────────────────────────
 
-    const slug = toDownloadName(activePlate?.label);
-    const manifestUrl = `${window.location.origin}/api/iiif/${slug}.json`;
-    const thumbnailUrl = `${window.location.origin}/api/iiif/${slug}.gif`;
+  const saveManifestToDisk = useCallback(async () => {
+    if (!frames.length || !dimensions || !slug) return;
 
+    const manifestUrl = `${CANOPY_BASE_URL}/iiif/${slug}.json`;
+    const thumbnailUrl = `${CANOPY_BASE_URL}/images/thumbnails/${slug}.gif`;
     const plateNumber = activePlate?.metadata.find(
       (f) => f.label.trim().toLowerCase() === "plate number",
     )?.value;
@@ -187,9 +206,7 @@ function App() {
       plateNumber,
     });
 
-    if (!manifest) {
-      return;
-    }
+    if (!manifest) return;
 
     try {
       const params = new URLSearchParams({ slug });
@@ -203,43 +220,59 @@ function App() {
         return;
       }
       setLatestManifestUrl(manifestUrl);
-      console.log("IIIF manifest available at:", manifestUrl);
     } catch (error) {
-      console.error("Manifest export failed", error);
+      console.error("Manifest save failed", error);
     }
-  };
+  }, [frames, dimensions, slug, animationDuration, infoUrl, activePlate]);
+
+  // Auto-save manifest whenever frames or duration change (debounced).
+  useEffect(() => {
+    if (!framesSignature || !dimensions || !slug) return;
+
+    if (manifestSaveTimerRef.current !== null) {
+      window.clearTimeout(manifestSaveTimerRef.current);
+    }
+
+    manifestSaveTimerRef.current = window.setTimeout(() => {
+      manifestSaveTimerRef.current = null;
+      saveManifestToDisk();
+    }, AUTO_EXPORT_DEBOUNCE_MS);
+
+    return () => {
+      if (manifestSaveTimerRef.current !== null) {
+        window.clearTimeout(manifestSaveTimerRef.current);
+        manifestSaveTimerRef.current = null;
+      }
+    };
+  }, [framesSignature, animationDuration, dimensions, slug, saveManifestToDisk]);
+
+  const handleManifestExport = useCallback(() => {
+    saveManifestToDisk();
+  }, [saveManifestToDisk]);
+
+  // ─── GIF export ───────────────────────────────────────────────────────────
 
   const exportGifToFile = useCallback(async () => {
     if (!dimensions || !frames.length) {
       throw new Error("Frames unavailable for GIF export");
     }
-    const slug = toDownloadName(activePlate?.label);
+    const gifSlug = toDownloadName(activePlate?.label);
     setGifSaveError(null);
     let result: Awaited<ReturnType<typeof exportGif>>;
     try {
-      result = await exportGif({
-        infoUrl,
-        frames,
-        dimensions,
-        durationSeconds: animationDuration,
-      });
+      result = await exportGif({ infoUrl, frames, dimensions, durationSeconds: animationDuration });
     } catch (error) {
-      if (error instanceof DOMException && error.name === "AbortError") {
-        throw error;
-      }
+      if (error instanceof DOMException && error.name === "AbortError") throw error;
       console.error("GIF export failed", error);
       throw error instanceof Error ? error : new Error("Failed to encode GIF");
     }
     setIsSavingGif(true);
     try {
-      const publicPath = await persistGifToDisk(result.blob, slug);
-      const cacheBustingPath = `${publicPath}?t=${Date.now()}`;
-      setLatestGifPath(cacheBustingPath);
+      const publicPath = await persistGifToDisk(result.blob, gifSlug);
+      setLatestGifPath(`${publicPath}?t=${Date.now()}`);
       return getFramesSignature(frames);
     } catch (error) {
-      if (error instanceof DOMException && error.name === "AbortError") {
-        throw error;
-      }
+      if (error instanceof DOMException && error.name === "AbortError") throw error;
       const message = error instanceof Error ? error.message : "Failed to write GIF to disk";
       setGifSaveError(message);
       console.error("GIF save failed", error);
@@ -257,10 +290,7 @@ function App() {
         setPendingGifSignature((current) => (current === signature ? null : current));
       }
     } catch (error) {
-      if (error instanceof DOMException && error.name === "AbortError") {
-        return;
-      }
-      // Error surfaced via gifSaveError or console logging upstream.
+      if (error instanceof DOMException && error.name === "AbortError") return;
     }
   }, [exportGifToFile]);
 
@@ -292,22 +322,16 @@ function App() {
   }, []);
 
   useEffect(() => {
-    if (!pendingGifSignature || isEncodingGif || isSavingGif) {
-      return;
-    }
+    if (!pendingGifSignature || isEncodingGif || isSavingGif) return;
     autoExportTimeoutRef.current = window.setTimeout(async () => {
       autoExportTimeoutRef.current = null;
       try {
         const signature = await exportGifToFile();
-        if (!signature) {
-          return;
-        }
+        if (!signature) return;
         lastExportedSignatureRef.current = signature;
         setPendingGifSignature((current) => (current === signature ? null : current));
       } catch (error) {
-        if (error instanceof DOMException && error.name === "AbortError") {
-          return;
-        }
+        if (error instanceof DOMException && error.name === "AbortError") return;
         console.error("Automatic GIF export failed", error);
         setPendingGifSignature(null);
       }
@@ -319,6 +343,8 @@ function App() {
       }
     };
   }, [pendingGifSignature, isEncodingGif, isSavingGif, exportGifToFile]);
+
+  // ─── Render ───────────────────────────────────────────────────────────────
 
   return (
     <Flex direction={{ initial: "column", md: "row" }} height="100%">
@@ -339,20 +365,9 @@ function App() {
           onAnnotationAdd={addAnnotation}
         />
         <Box
-          style={{
-            width: "100%",
-            position: "absolute",
-            bottom: 0,
-            zIndex: 1,
-          }}
+          style={{ width: "100%", position: "absolute", bottom: 0, zIndex: 1 }}
         >
-          <Box
-            p="5"
-            style={{
-              background: "white",
-              boxShadow: "var(--shadow-5)",
-            }}
-          >
+          <Box p="5" style={{ background: "white", boxShadow: "var(--shadow-5)" }}>
             <Flex direction="column" gap="4">
               <Flex direction={{ initial: "column", sm: "row" }} gap="3" align="start">
                 <Flex direction="column" gap="1" flexGrow="1">
