@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitest/config';
 import react from '@vitejs/plugin-react';
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import type { Plugin } from 'vite';
@@ -89,6 +89,8 @@ async function handleGifExportRequest(
 
 const MANIFEST_EXPORT_ROUTE = '/api/iiif/manifest';
 const MANIFEST_SERVE_PREFIX = '/api/iiif/';
+const COLLECTION_FILENAME = 'collection.json';
+const CANOPY_BASE_URL = 'http://localhost:5001';
 
 async function writeManifestToDisk(root: string, slug: string, contents: string) {
   const directory = resolve(root, '..', 'assets', 'iiif');
@@ -101,6 +103,63 @@ async function writeManifestToDisk(root: string, slug: string, contents: string)
     publicPath: `/api/iiif/${fileName}`,
     fileName,
   };
+}
+
+interface CollectionItem {
+  id: string;
+  type: 'Manifest';
+  label: Record<string, string[]>;
+  thumbnail?: Array<{ id: string; type: string; format: string }>;
+}
+
+function plateNumberFromFilename(filename: string): number {
+  const match = filename.match(/^plate-number-(\d+)-/);
+  return match ? parseInt(match[1], 10) : Infinity;
+}
+
+async function rebuildCollection(root: string): Promise<void> {
+  const directory = resolve(root, '..', 'assets', 'iiif');
+  const files = await readdir(directory).catch(() => [] as string[]);
+  const manifestFiles = files.filter(
+    (f) => f.endsWith('.json') && f !== COLLECTION_FILENAME,
+  );
+
+  const items: Array<CollectionItem & { _plateNumber: number }> = [];
+  for (const file of manifestFiles) {
+    const filePath = resolve(directory, file);
+    try {
+      const content = await readFile(filePath, 'utf-8');
+      const manifest = JSON.parse(content) as Record<string, unknown>;
+      if (manifest.type !== 'Manifest') continue;
+      const item: CollectionItem & { _plateNumber: number } = {
+        id: typeof manifest.id === 'string' ? manifest.id : `${CANOPY_BASE_URL}/iiif/${file}`,
+        type: 'Manifest',
+        label: (manifest.label as Record<string, string[]>) ?? { en: [file.replace('.json', '')] },
+        _plateNumber: plateNumberFromFilename(file),
+      };
+      if (Array.isArray(manifest.thumbnail) && manifest.thumbnail.length > 0) {
+        item.thumbnail = manifest.thumbnail as CollectionItem['thumbnail'];
+      }
+      items.push(item);
+    } catch {
+      // skip unreadable / malformed files
+    }
+  }
+
+  items.sort((a, b) => a._plateNumber - b._plateNumber);
+
+  const collectionItems: CollectionItem[] = items.map(({ _plateNumber: _, ...item }) => item);
+
+  const collection = {
+    '@context': 'https://iiif.io/api/presentation/3/context.json',
+    id: `${CANOPY_BASE_URL}/iiif/${COLLECTION_FILENAME}`,
+    type: 'Collection',
+    label: { en: ['Muybridge Animal Locomotion'] },
+    items: collectionItems,
+  };
+
+  const collectionPath = resolve(directory, COLLECTION_FILENAME);
+  await writeFile(collectionPath, JSON.stringify(collection, null, 2), 'utf-8');
 }
 
 async function handleManifestRequest(
@@ -133,6 +192,10 @@ async function handleManifestRequest(
       res.statusCode = 201;
       res.setHeader('Content-Type', 'application/json');
       res.end(JSON.stringify({ ok: true, filePath, fileName, publicPath }));
+      // Rebuild collection after response is sent — non-blocking for the client.
+      rebuildCollection(root).catch((error) => {
+        console.error('Failed to rebuild IIIF collection', error);
+      });
       return true;
     } catch (error) {
       console.error('Failed to persist manifest', error);
