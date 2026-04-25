@@ -3,18 +3,22 @@
   "id": "assets/iiif/collection.json",
   "type": "Collection",
   "label": {
-    "en": ["Muybridge Animal Locomotion"]
+    "en": [
+      "Muybridge Animal Locomotion"
+    ]
   },
   "items": [
     {
       "id": "assets/iiif/plate-number-1-walking.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 1. Walking"]
+        "en": [
+          "Plate Number 1. Walking"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-1-walking.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-1-walking.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -24,11 +28,13 @@
       "id": "assets/iiif/plate-number-2-walking.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 2. Walking"]
+        "en": [
+          "Plate Number 2. Walking"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-2-walking.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-2-walking.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -38,11 +44,13 @@
       "id": "assets/iiif/plate-number-187-dancing-fancy.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 187. Dancing (fancy)"]
+        "en": [
+          "Plate Number 187. Dancing (fancy)"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-187-dancing-fancy.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-187-dancing-fancy.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -52,11 +60,13 @@
       "id": "assets/iiif/plate-number-626-annie-g-galloping.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 626. \"Annie G.\" galloping"]
+        "en": [
+          "Plate Number 626. \"Annie G.\" galloping"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-626-annie-g-galloping.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-626-annie-g-galloping.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -66,11 +76,13 @@
       "id": "assets/iiif/plate-number-700-buffalo-galloping.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 700. Buffalo galloping"]
+        "en": [
+          "Plate Number 700. Buffalo galloping"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-700-buffalo-galloping.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-700-buffalo-galloping.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -80,11 +92,13 @@
       "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 716. Cat; walking; change to galloping"]
+        "en": [
+          "Plate Number 716. Cat; walking; change to galloping"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
           "type": "Image",
           "format": "image/gif"
         }
@@ -94,11 +108,13 @@
       "id": "assets/iiif/plate-number-729-tigress-walking.json",
       "type": "Manifest",
       "label": {
-        "en": ["Plate Number 729. Tigress walking"]
+        "en": [
+          "Plate Number 729. Tigress walking"
+        ]
       },
       "thumbnail": [
         {
-          "id": "assets/iiif/plate-number-729-tigress-walking.gif",
+          "id": "http://localhost:5001/images/thumbnails/plate-number-729-tigress-walking.gif",
           "type": "Image",
           "format": "image/gif"
         }

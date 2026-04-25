@@ -1,12 +1,16 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json",
+  "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json",
   "type": "Manifest",
   "label": {
     "en": [
       "Plate Number 729. Tigress walking"
     ]
   },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "metadata": [
     {
       "label": {
@@ -35,14 +39,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.gif",
+      "id": "http://localhost:5001/images/thumbnails/plate-number-729-tigress-walking.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation",
+      "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -52,177 +56,260 @@
       "height": 597,
       "width": 1006,
       "duration": 1.2,
-      "behavior": [
-        "auto-advance",
-        "repeat"
-      ],
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 1006,
+        "height": 597,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-729-tigress-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1006,
+                  "height": 597
+                },
+                "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
-          "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1",
+          "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/1",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7797,2.0384,23.8791,29.6954/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7837,2.0388,23.8898,29.6867/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 597,
                 "width": 1006
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0,0.1"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0,0.1"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/2",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2924,2.0384,24.2690,30.3077/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2909,2.0388,24.2698,30.2834/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 609,
                 "width": 1022
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.1,0.2"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.1,0.2"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/3",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.0975,2.1404,23.9766,29.8995/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.1069,2.1382,23.9848,29.8856/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 601,
                 "width": 1010
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.2,0.3"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.2,0.3"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/4",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.7076,2.0384,24.3177,30.2056/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.7091,2.0388,24.3173,30.1840/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 607,
                 "width": 1024
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.3,0.4"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.3,0.4"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/5",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.6425,35.2163,24.1762,29.7550/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.6412,35.2064,24.1748,29.7364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 598,
                 "width": 1018
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.4,0.5"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.4,0.5"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/6",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.3845,35.3074,24.1544,29.9373/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.3859,35.3058,24.1510,29.9354/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 602,
                 "width": 1017
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.5,0.6"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.5,0.6"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/7",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.0177,35.3530,24.0674,30.3018/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.0119,35.3555,24.0560,30.2834/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 609,
                 "width": 1013
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.6,0.7"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.6,0.7"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/8",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6726,35.4897,24.1544,30.1651/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6616,35.5047,24.1510,30.1840/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 607,
                 "width": 1017
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.7,0.8"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.7,0.8"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/9",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7060,68.3983,24.0094,29.6563/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7124,68.3739,24.0085,29.6370/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 596,
                 "width": 1011
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.8,0.9"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.8,0.9"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/10",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2594,68.6641,24.1907,29.6563/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2672,68.6723,24.1985,29.6370/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 596,
                 "width": 1019
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.9,1"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=0.9,1"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/11",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:49.9579,68.7780,24.2995,29.6943/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:49.9644,68.7718,24.2935,29.6867/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 597,
                 "width": 1023
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=1,1.1"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=1,1.1"
             },
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/12",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
               "body": {
-                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6200,68.9679,24.2451,29.3905/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6141,68.9707,24.2460,29.3884/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 591,
                 "width": 1021
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=1.1,1.2"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/animation#t=1.1,1.2"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/static",
+      "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -231,13 +318,40 @@
       },
       "height": 2011,
       "width": 4211,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 382,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 382
+                },
+                "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
-          "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/static/page/1",
+          "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/static/page/1/annotation/1",
+              "id": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -254,7 +368,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5174/api/iiif/plate-number-729-tigress-walking.json/canvas/static"
+              "target": "http://localhost:5001/iiif/plate-number-729-tigress-walking.json/canvas/static"
             }
           ]
         }
