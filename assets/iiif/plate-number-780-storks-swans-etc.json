@@ -1,0 +1,378 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 780. Storks, swans, etc."
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "780"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-780-storks-swans-etc.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 780. Storks, swans, etc."
+        ]
+      },
+      "height": 661,
+      "width": 973,
+      "duration": 10,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 973,
+        "height": 661,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-780-storks-swans-etc.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 973,
+                  "height": 661
+                },
+                "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:1.3136,1.9192,23.8264,30.1512/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 973
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=0,0.833"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:25.7404,1.7790,24.0406,29.8361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 982
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=0.833,1.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:50.1570,1.7301,24.3478,29.8516/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 994
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=1.667,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:74.9589,2.1533,24.2142,29.5257/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 989
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=2.5,3.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:1.3546,34.4673,24.0673,30.9946/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 679,
+                "width": 983
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=3.333,4.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:25.8627,34.3428,23.9872,30.6709/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 980
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=4.167,5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:50.2772,34.6416,24.2944,29.9988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 992
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=5,5.833"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:74.9990,35.0897,24.2142,29.2768/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 989
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=5.833,6.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:1.5282,68.0510,23.9605,29.7249/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 979
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=6.667,7.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:25.7959,67.6776,24.1474,29.9490/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 656,
+                "width": 986
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=7.5,8.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:50.3574,67.6278,24.1486,30.1481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 986
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=8.333,9.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/pct:74.9589,67.4784,23.8814,30.0993/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 975
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/animation#t=9.167,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 780. Storks, swans, etc."
+        ]
+      },
+      "height": 2191,
+      "width": 4084,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 429,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 429
+                },
+                "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2191,
+                "width": 4084,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/83ebbdd6-748b-45b6-93d7-d807cdcc2263",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-780-storks-swans-etc.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

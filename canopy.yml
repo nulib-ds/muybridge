@@ -8,6 +8,8 @@ metadata:
   - Frame count
 featured:
   - assets/iiif/plate-number-700-buffalo-galloping.json
+  - assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json
+  - assets/iiif/plate-number-716-cat-walking-change-to-galloping.json
 search:
   page:
     title: Search
@@ -31,6 +33,6 @@ search:
         - commenting
         - tagging
 theme:
-  appearance: dark
-  accentColor: iris
-  grayColor: mauve
+  appearance: light
+  accentColor: gold
+  grayColor: sand

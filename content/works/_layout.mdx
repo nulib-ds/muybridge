@@ -10,11 +10,14 @@ import {
   References,
 } from "@canopy-iiif/app/ui/server";
 
-<Container variant="wide" className="canopy-work--layout">
-  <div className="canopy-work--primary">
-    <Viewer iiifContent={props.manifest.id} />
-  </div>
-  <div className="canopy-work--secondary">
+<Container variant="wide">
+  <Viewer
+    iiifContent={props.manifest.id}
+    options={{
+      canvasHeight: "50vh",
+    }}
+  />
+  <div>
     <header>
       <Label manifest={props.manifest} as="h1" />
       <Summary manifest={props.manifest} as="p" className="canopy-lead" />

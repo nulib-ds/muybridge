@@ -1,0 +1,594 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 173. Ascending steps and jumping off"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "173"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-173-ascending-steps-and-jumping-off.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 173. Ascending steps and jumping off"
+        ]
+      },
+      "height": 915,
+      "width": 390,
+      "duration": 3.1,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 390,
+        "height": 915,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-173-ascending-steps-and-jumping-off.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 390,
+                  "height": 915
+                },
+                "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:0.5767,0.6677,8.0346,47.3454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 915,
+                "width": 390
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0,0.129"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:8.6581,0.7472,8.0350,47.3033/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 914,
+                "width": 390
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.129,0.258"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:16.8054,0.7997,8.1396,47.3255/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 915,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.258,0.388"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:25.1416,0.7951,8.1077,47.1758/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 394
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.388,0.517"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:33.3928,0.9041,8.1416,47.0215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 909,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.517,0.646"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:41.6374,0.8666,8.0339,47.0441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 909,
+                "width": 390
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.646,0.775"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:49.8750,0.8159,8.0810,47.0188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 909,
+                "width": 392
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.775,0.904"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:58.0650,0.7248,8.2079,47.2152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 913,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=0.904,1.033"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:66.3533,0.6735,8.2874,47.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 914,
+                "width": 402
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.033,1.163"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:74.7063,0.6970,8.1938,47.2182/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 913,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.163,1.292"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:83.0125,0.4854,8.2500,47.4063/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 916,
+                "width": 400
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.292,1.421"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:91.3748,0.6264,8.1133,47.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 914,
+                "width": 394
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.421,1.55"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:0.6200,51.3481,7.7062,47.1751/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.55,1.679"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:8.5041,51.4716,8.1491,47.0292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 909,
+                "width": 396
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.679,1.808"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:16.8124,51.5295,8.0616,47.0897/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 910,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.808,1.938"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:25.1482,51.4090,8.0721,47.1711/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 392
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=1.938,2.067"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:33.3593,51.3023,8.1657,47.3357/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 915,
+                "width": 396
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.067,2.196"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:41.7497,51.5844,8.1657,47.0536/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 910,
+                "width": 396
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.196,2.325"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:50.0278,51.2618,8.1660,47.3527/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 915,
+                "width": 396
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.325,2.454"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:58.3155,51.3686,8.0873,47.1584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 393
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.454,2.583"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:66.5527,51.3451,8.2032,47.1947/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.583,2.713"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:74.8214,51.3216,8.2313,47.0301/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 909,
+                "width": 400
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.713,2.842"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:83.1744,51.3921,8.2594,46.8419/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 905,
+                "width": 401
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.842,2.971"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:91.5274,51.1099,8.1470,47.2182/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 913,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/animation#t=2.971,3.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 173. Ascending steps and jumping off"
+        ]
+      },
+      "height": 1933,
+      "width": 4854,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 319,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 319
+                },
+                "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1933,
+                "width": 4854,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-173-ascending-steps-and-jumping-off.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 657. \"Lotta\" rolling a box"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "657"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-657-lotta-rolling-a-box.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 657. \"Lotta\" rolling a box"
+        ]
+      },
+      "height": 627,
+      "width": 1037,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 1037,
+        "height": 627,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-657-lotta-rolling-a-box.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1037,
+                  "height": 627
+                },
+                "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:1.7523,3.1313,24.0088,29.1446/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 627,
+                "width": 1037
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:26.2764,2.7854,23.9392,29.5744/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1034
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:50.5916,2.5445,23.9810,29.8991/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 643,
+                "width": 1035
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:74.9917,2.3489,23.8404,30.2064/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 1029
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:1.8637,35.8526,23.8278,29.3682/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 1029
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:26.1929,35.7967,23.8974,29.6196/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 1032
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:50.6473,36.1041,23.8556,29.1469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 627,
+                "width": 1030
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:74.8650,35.8806,23.8569,29.6196/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 1030
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:2.0866,68.9931,23.5493,29.7314/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 1017
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:26.1789,68.9372,23.9430,29.4078/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 1034
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:50.6056,69.0490,23.7860,29.3961/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 1027
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/pct:74.8829,68.9667,23.8141,29.5152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 1028
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 657. \"Lotta\" rolling a box"
+        ]
+      },
+      "height": 2152,
+      "width": 4318,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 399,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 399
+                },
+                "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2152,
+                "width": 4318,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-657-lotta-rolling-a-box.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

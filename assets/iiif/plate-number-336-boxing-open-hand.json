@@ -1,0 +1,378 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 336. Boxing, open hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "336"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-336-boxing-open-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 336. Boxing, open hand"
+        ]
+      },
+      "height": 751,
+      "width": 811,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 811,
+        "height": 751,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-336-boxing-open-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 811,
+                  "height": 751
+                },
+                "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:0.9285,0.8354,23.9684,31.6160/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 751,
+                "width": 811
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0,0.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:25.3487,0.5751,24.6116,31.9619/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 759,
+                "width": 832
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.167,0.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:50.4119,0.2075,24.2406,32.2356/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 820
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.333,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:75.1364,0.1845,24.0471,32.3045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 767,
+                "width": 813
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.5,0.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:0.9791,34.6028,23.9665,31.6612/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 811
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.667,0.833"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:25.5423,34.5109,24.4180,31.7990/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 755,
+                "width": 826
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.833,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:50.4442,34.6488,24.3213,31.7321/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 753,
+                "width": 823
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1,1.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:75.1848,34.3501,23.9987,31.9599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 759,
+                "width": 812
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.167,1.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:0.6404,68.5157,24.4503,31.4544/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 747,
+                "width": 827
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.333,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:25.5423,68.4467,24.5309,31.5463/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 749,
+                "width": 830
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.5,1.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:50.5087,68.3778,24.1922,31.5463/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 749,
+                "width": 818
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.667,1.833"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/pct:75.0235,68.2859,24.4019,31.6842/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 825
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.833,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 336. Boxing, open hand"
+        ]
+      },
+      "height": 2374,
+      "width": 3382,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 562,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 562
+                },
+                "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2374,
+                "width": 3382,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/fd715325-d636-4b8e-a212-aa1faf0ebee9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-336-boxing-open-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 781. Chickens scared by a torpedo"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "781"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-781-chickens-scared-by-a-torpedo.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 781. Chickens scared by a torpedo"
+        ]
+      },
+      "height": 469,
+      "width": 653,
+      "duration": 3,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 653,
+        "height": 469,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-781-chickens-scared-by-a-torpedo.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 653,
+                  "height": 469
+                },
+                "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:0.7581,1.3443,16.0503,21.7977/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 653
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0,0.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:17.1994,1.0276,15.9968,21.9356/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 472,
+                "width": 651
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.125,0.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:33.7212,0.9009,15.8180,22.1256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 476,
+                "width": 644
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.25,0.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:50.1760,0.8798,16.1755,22.4211/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 658
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.375,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:66.7648,0.8798,16.1085,22.3789/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 482,
+                "width": 655
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.5,0.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:83.1638,1.0276,15.8851,21.9567/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 646
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.625,0.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:0.7669,25.7077,15.9643,22.6764/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 488,
+                "width": 650
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.75,0.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:17.0989,25.7288,16.3766,22.6534/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 488,
+                "width": 666
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=0.875,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:33.7212,25.8133,16.1420,22.4634/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 657
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1,1.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:50.2319,26.1300,16.1085,21.9567/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 655
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.125,1.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:66.7425,25.7288,16.0415,22.3156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 653
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.25,1.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:83.1414,25.7922,15.9409,22.0609/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 475,
+                "width": 649
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.375,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:0.8563,51.1901,15.8851,22.2963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 646
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.5,1.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:17.0765,51.1057,16.2761,22.5689/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 486,
+                "width": 662
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.625,1.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:33.5090,51.0001,16.3319,22.7801/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 490,
+                "width": 665
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.75,1.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:50.2542,50.8735,16.0862,22.9316/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 494,
+                "width": 655
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=1.875,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:66.7202,50.7046,16.0303,23.4134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 504,
+                "width": 652
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2,2.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:83.1303,50.3245,15.8851,24.1523/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 646
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.125,2.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:0.7893,76.1447,15.9074,23.0967/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 647
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.25,2.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:17.0318,76.5037,16.0973,22.6112/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 655
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.375,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:33.5090,76.5444,16.3096,22.4845/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 664
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.5,2.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:50.2765,76.7977,16.1420,22.1678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.625,2.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:66.8430,77.0933,15.9298,21.5978/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 465,
+                "width": 648
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.75,2.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/pct:83.2085,76.6077,15.8516,21.7878/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 645
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/animation#t=2.875,3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 781. Chickens scared by a torpedo"
+        ]
+      },
+      "height": 2153,
+      "width": 4069,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 423,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 423
+                },
+                "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2153,
+                "width": 4069,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/737c883c-678c-4c75-a1af-284f0eb683df",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-781-chickens-scared-by-a-torpedo.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
