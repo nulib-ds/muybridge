@@ -5,9 +5,10 @@
 @layer properties {
   :root,
   :host {
-    --font-sans: "Inter", system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
-    --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
-    --font-mono: "IBM Plex Mono", "ui-monospace", Menlo, Consolas, monospace;
+    --font-sans:
+      "Noto Sans", system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+    --font-serif: "Noto Serif Display", Georgia, "Times New Roman", serif;
+    --font-mono: "Noto Sans Mono", "ui-monospace", Menlo, Consolas, monospace;
     --default-font-family: var(--font-serif);
   }
 }
@@ -36,23 +37,21 @@
   h3,
   h4,
   .canopy-logo {
-    font-family: var(--font-serif);
     font-weight: 500;
     letter-spacing: -0.025em;
   }
 
   .canopy-logo {
-    font-family: var(--font-serif);
-    font-weight: 400;
+    font-weight: 300;
     font-size: 2rem !important;
-    letter-spacing: 0;
+    letter-spacing: -0.025em;
     font-style: italic;
     position: relative;
 
     &::after {
       position: absolute;
       content: "";
-      bottom: 0.7em;
+      bottom: 0.2em;
       font-size: 0.5em;
       width: 100%;
       height: 2px;
@@ -66,8 +65,7 @@
   }
 
   p {
-    font-family: var(--font-serif);
-    font-size: 1.222rem;
+    font-size: 1.111rem;
     line-height: 1.6;
     color: var(--color-gray-800);
   }
