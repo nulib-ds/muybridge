@@ -18,9 +18,6 @@ search:
     work:
       layout: grid
       result: figure
-    page:
-      layout: list
-      result: article
   index:
     metadata:
       enabled: true
@@ -33,6 +30,6 @@ search:
         - commenting
         - tagging
 theme:
-  appearance: light
-  accentColor: gold
+  appearance: dark
+  accentColor: amber
   grayColor: sand

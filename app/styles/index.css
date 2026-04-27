@@ -6,7 +6,7 @@
   :root,
   :host {
     --font-sans: system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
-    --font-serif: "Fraunces", Georgia, "Times New Roman", serif;
+    --font-serif: "Caudex", Georgia, "Times New Roman", serif;
     --font-mono: "IBM Plex Mono", "ui-monospace", Menlo, Consolas, monospace;
     --default-font-family: var(--font-serif);
   }
@@ -39,5 +39,35 @@
     font-family: var(--font-serif);
     font-weight: 500;
     letter-spacing: -0.025em;
+  }
+
+  .canopy-logo {
+    font-family: var(--font-serif);
+    font-weight: 700;
+    font-size: 2rem !important;
+    letter-spacing: -0.025em;
+  }
+}
+
+@layer components {
+  .canopy-header__desktop-nav,
+  .canopy-header__actions {
+    display: none !important;
+  }
+
+  .canopy-search-form {
+    border: none !important;
+  }
+  .canopy-header {
+    justify-content: space-between;
+  }
+
+  .canopy-header__brand {
+    flex: 0 0 auto;
+    flex-grow: 1;
+  }
+
+  .canopy-header__desktop-search {
+    max-width: 400px;
   }
 }
