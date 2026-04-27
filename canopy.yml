@@ -4,8 +4,6 @@ collection:
 metadata:
   - Animal
   - Motion
-  - Provider
-  - Frame count
 featured:
   - assets/iiif/plate-number-700-buffalo-galloping.json
   - assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json
@@ -16,6 +14,13 @@ search:
   page:
     title: Search
     description: Discover results across the entire collection.
+  results:
+    work:
+      layout: grid
+      result: figure
+    page:
+      layout: list
+      result: article
   index:
     metadata:
       enabled: true

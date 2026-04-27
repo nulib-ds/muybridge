@@ -1,4 +1,4 @@
-import { Box, Flex, Text } from "@radix-ui/themes";
+import { Box, Flex, Text, TextField } from "@radix-ui/themes";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
@@ -75,6 +75,8 @@ function App() {
     annotations,
     loadedDuration,
     loadedGifPath,
+    loadedAnimal,
+    loadedMovement,
     addAnnotation,
     clearAnnotations,
     removeAnnotation,
@@ -91,6 +93,8 @@ function App() {
   const [isSavingGif, setIsSavingGif] = useState(false);
   const [pendingGifSignature, setPendingGifSignature] = useState<string | null>(null);
   const [latestGifPath, setLatestGifPath] = useState<string | null>(null);
+  const [animal, setAnimal] = useState("");
+  const [movement, setMovement] = useState("");
 
   const frames = useMemo<FrameDescriptor[]>(() => {
     if (!dimensions) return [];
@@ -165,6 +169,20 @@ function App() {
     }
   }, [loadedGifPath]);
 
+  // Reset animal/movement on every plate switch, then populate from manifest if present.
+  useEffect(() => {
+    setAnimal("");
+    setMovement("");
+  }, [slug]);
+
+  useEffect(() => {
+    if (loadedAnimal !== null) setAnimal(loadedAnimal);
+  }, [loadedAnimal]);
+
+  useEffect(() => {
+    if (loadedMovement !== null) setMovement(loadedMovement);
+  }, [loadedMovement]);
+
   // Default duration tracks frame count unless the user has set a custom value
   // or a saved duration has been loaded.
   useEffect(() => {
@@ -204,6 +222,8 @@ function App() {
       manifestId: manifestUrl,
       thumbnailUrl,
       plateNumber,
+      animal: animal || undefined,
+      movement: movement || undefined,
     });
 
     if (!manifest) return;
@@ -223,7 +243,7 @@ function App() {
     } catch (error) {
       console.error("Manifest save failed", error);
     }
-  }, [frames, dimensions, slug, animationDuration, infoUrl, activePlate]);
+  }, [frames, dimensions, slug, animationDuration, infoUrl, activePlate, animal, movement]);
 
   // Auto-save manifest whenever frames or duration change (debounced).
   useEffect(() => {
@@ -397,6 +417,30 @@ function App() {
                       ))}
                     </Flex>
                   ) : null}
+                  <Flex wrap="wrap" gap="4">
+                    <Flex direction="column" gap="1" style={{ minWidth: "160px" }}>
+                      <Text as="label" size="1" color="gray" weight="medium" htmlFor="field-animal">
+                        Animal
+                      </Text>
+                      <TextField.Root
+                        id="field-animal"
+                        value={animal}
+                        onChange={(e) => setAnimal(e.target.value)}
+                        placeholder="e.g. Human, Dog"
+                      />
+                    </Flex>
+                    <Flex direction="column" gap="1" style={{ minWidth: "160px" }}>
+                      <Text as="label" size="1" color="gray" weight="medium" htmlFor="field-movement">
+                        Movement
+                      </Text>
+                      <TextField.Root
+                        id="field-movement"
+                        value={movement}
+                        onChange={(e) => setMovement(e.target.value)}
+                        placeholder="e.g. Walking, Jumping"
+                      />
+                    </Flex>
+                  </Flex>
                 </Flex>
               ) : null}
             </Flex>

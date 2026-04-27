@@ -175,7 +175,7 @@ function parseManifestFirstCanvas(
 // ─── Disk read ────────────────────────────────────────────────────────────────
 
 type DiskReadResult =
-  | { status: "found"; annotations: ImageAnnotation[]; duration: number | null; gifPath: string | null }
+  | { status: "found"; annotations: ImageAnnotation[]; duration: number | null; gifPath: string | null; animal: string | null; movement: string | null }
   | { status: "not_found" }
   | { status: "unavailable" };
 
@@ -185,6 +185,22 @@ function extractGifPath(manifest: Record<string, unknown>, slug: string): string
   const first = thumbnail[0] as Record<string, unknown> | undefined;
   if (!first || typeof first.id !== "string") return null;
   return `/api/iiif/${slug}.gif`;
+}
+
+function extractMetadataField(manifest: Record<string, unknown>, fieldLabel: string): string | null {
+  const metadata = manifest.metadata;
+  if (!Array.isArray(metadata)) return null;
+  for (const entry of metadata) {
+    const e = entry as Record<string, unknown>;
+    const label = e.label as Record<string, string[]> | undefined;
+    const values = label?.en;
+    if (!Array.isArray(values) || values[0]?.toLowerCase() !== fieldLabel.toLowerCase()) continue;
+    const value = e.value as Record<string, string[]> | undefined;
+    const strings = value?.en;
+    if (!Array.isArray(strings) || !strings.length) return null;
+    return strings.join(", ");
+  }
+  return null;
 }
 
 async function readManifestFromDisk(slug: string): Promise<DiskReadResult> {
@@ -198,7 +214,9 @@ async function readManifestFromDisk(slug: string): Promise<DiskReadResult> {
     if (manifest.type !== "Manifest") return { status: "unavailable" };
     const [annotations, duration] = parseManifestFirstCanvas(manifest);
     const gifPath = extractGifPath(manifest, slug);
-    return { status: "found", annotations, duration, gifPath };
+    const animal = extractMetadataField(manifest, "animal");
+    const movement = extractMetadataField(manifest, "movement");
+    return { status: "found", annotations, duration, gifPath, animal, movement };
   } catch {
     return { status: "unavailable" };
   }
@@ -213,11 +231,15 @@ export function useAnnotationStore(infoUrl: string, slug: string | null) {
   );
   const [loadedDuration, setLoadedDuration] = useState<number | null>(null);
   const [loadedGifPath, setLoadedGifPath] = useState<string | null>(null);
+  const [loadedAnimal, setLoadedAnimal] = useState<string | null>(null);
+  const [loadedMovement, setLoadedMovement] = useState<string | null>(null);
 
   // Per slug: load localStorage immediately, then async manifest read (takes priority).
   useEffect(() => {
     setLoadedDuration(null);
     setLoadedGifPath(null);
+    setLoadedAnimal(null);
+    setLoadedMovement(null);
     setAnnotations(readStoredAnnotations(storageKey));
 
     if (!slug) return;
@@ -231,6 +253,8 @@ export function useAnnotationStore(infoUrl: string, slug: string | null) {
         writeStoredAnnotations(storageKey, result.annotations);
         setLoadedDuration(result.duration);
         setLoadedGifPath(result.gifPath);
+        setLoadedAnimal(result.animal);
+        setLoadedMovement(result.movement);
       } else if (result.status === "unavailable") {
         console.warn("[annotations] manifest unavailable, using localStorage");
       }
@@ -287,6 +311,8 @@ export function useAnnotationStore(infoUrl: string, slug: string | null) {
     annotations,
     loadedDuration,
     loadedGifPath,
+    loadedAnimal,
+    loadedMovement,
     addAnnotation,
     clearAnnotations,
     removeAnnotation,
