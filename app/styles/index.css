@@ -5,8 +5,8 @@
 @layer properties {
   :root,
   :host {
-    --font-sans: system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
-    --font-serif: "Caudex", Georgia, "Times New Roman", serif;
+    --font-sans: "Inter", system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+    --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
     --font-mono: "IBM Plex Mono", "ui-monospace", Menlo, Consolas, monospace;
     --default-font-family: var(--font-serif);
   }
@@ -43,10 +43,39 @@
 
   .canopy-logo {
     font-family: var(--font-serif);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 2rem !important;
-    letter-spacing: -0.025em;
+    letter-spacing: 0;
+    font-style: italic;
+    position: relative;
+
+    &::after {
+      position: absolute;
+      content: "";
+      bottom: 0.7em;
+      font-size: 0.5em;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        var(--color-accent-300)
+      );
+      z-index: -1;
+    }
   }
+
+  p {
+    font-family: var(--font-serif);
+    font-size: 1.222rem;
+    line-height: 1.6;
+    color: var(--color-gray-800);
+  }
+}
+
+.muybridge-lead {
+  line-height: 1.6;
+  padding: 2.618rem 0;
 }
 
 @layer components {
@@ -64,10 +93,9 @@
 
   .canopy-header__brand {
     flex: 0 0 auto;
-    flex-grow: 1;
   }
 
   .canopy-header__desktop-search {
-    max-width: 400px;
+    max-width: 600px;
   }
 }

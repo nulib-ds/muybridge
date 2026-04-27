@@ -13,7 +13,7 @@ export function Head() {
         crossOrigin="true"
       />
       <link
-        href="https://fonts.googleapis.com/css2?family=Caudex:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,300;1,6..72,400;1,6..72,500;1,6..72,600&family=Inter:wght@300;400;500&display=swap"
         rel="stylesheet"
       />
     </>
@@ -23,7 +23,7 @@ export function Head() {
 export function App({children}) {
   return (
     <>
-      <CanopyHeader navigation={undefined} />
+      <CanopyHeader />
       <main>{children}</main>
       <CanopyFooter>
         <p>Copyright 2025 Site Title, MIT License. A Canopy IIIF Project.</p>

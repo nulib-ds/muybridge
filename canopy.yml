@@ -10,14 +10,12 @@ featured:
   - assets/iiif/plate-number-700-buffalo-galloping.json
   - assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json
   - assets/iiif/plate-number-716-cat-walking-change-to-galloping.json
+  - assets/iiif/plate-number-626-annie-g-galloping.json
+  - assets/iiif/plate-number-712-dog-jumping-hurdle-mastiff-dread.json
 search:
   page:
     title: Search
     description: Discover results across the entire collection.
-  results:
-    work:
-      layout: grid
-      result: figure
   index:
     metadata:
       enabled: true
@@ -31,5 +29,5 @@ search:
         - tagging
 theme:
   appearance: dark
-  accentColor: amber
-  grayColor: sand
+  accentColor: gold
+  grayColor: slate

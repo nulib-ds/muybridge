@@ -1,6 +1,6 @@
 routes:
   search: /search
-  works: /works
+  works: /plate
 common:
   actions:
     open: "Open"
@@ -11,7 +11,7 @@ common:
     show: "Show"
     hide: "Hide"
   nouns:
-    search: "Search"
+    search: "Find Plates"
     filters: "Filters"
     results: "results"
     values: "values"
@@ -32,7 +32,7 @@ common:
     breadcrumb: "Breadcrumb"
     home: "Home"
   types:
-    work: "Works"
+    work: "Plates"
     page: "Pages"
     docs: "Docs"
   statuses:
@@ -43,12 +43,12 @@ common:
     unavailable_detail: "{content} is unavailable."
     failed: "Unable to load {content}."
     loading_content: "Loading {content}…"
-    summary_content: "Showing {shown} of {total} {content}"
+    summary_content: "Showing {shown} of {total} plates"
     search_summary: 'Found {shown} of {total} in {type} for "{query}"'
     no_matches: "No matches found."
   phrases:
-    placeholder_search: "Search…"
-    results_label: "Search results"
+    placeholder_search: "Search by keyword, ex: horse, 192, or running"
+    results_label: "Results"
     open_content: "Open {content}"
     close_content: "Close {content}"
     show_content: "Show {content}"
