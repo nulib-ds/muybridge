@@ -15,6 +15,7 @@ interface ManifestBuildOptions {
   manifestId?: string;
   thumbnailUrl?: string;
   plateNumber?: string;
+  provider?: string;
   animal?: string;
   movement?: string;
 }
@@ -135,6 +136,7 @@ export function buildManifestFromFrames({
   manifestId: explicitManifestId,
   thumbnailUrl,
   plateNumber,
+  provider,
   animal,
   movement,
 }: ManifestBuildOptions): IiifManifest | null {
@@ -302,6 +304,8 @@ export function buildManifestFromFrames({
   const metadata: IiifMetadataEntry[] = [
     { label: { en: ["Date"] }, value: { en: ["1887"] } },
     ...(plateNumber ? [{ label: { en: ["Plate Number"] }, value: { en: [plateNumber] } }] : []),
+    { label: { en: ["Frames"] }, value: { en: [String(frames.length)] } },
+    ...(provider?.trim() ? [{ label: { en: ["Provider"] }, value: { en: [provider.trim()] } }] : []),
     ...(animal?.trim() ? [{ label: { en: ["Animal"] }, value: { en: splitValues(animal) } }] : []),
     ...(movement?.trim() ? [{ label: { en: ["Movement"] }, value: { en: splitValues(movement) } }] : []),
   ];

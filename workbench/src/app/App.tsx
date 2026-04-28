@@ -67,6 +67,12 @@ function getFramesSignature(frames: FrameDescriptor[]): string | null {
 function App() {
   const [infoUrl, setInfoUrl] = useState(INITIAL_INFO_URL);
   const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
+  const activePlateProvider = useMemo(
+    () =>
+      activePlate?.metadata.find((entry) => entry.label.trim().toLowerCase() === "provider")
+        ?.value,
+    [activePlate],
+  );
   const slug = useMemo(
     () => (activePlate ? toDownloadName(activePlate.label) : null),
     [activePlate],
@@ -111,6 +117,24 @@ function App() {
       ];
     });
   }, [annotations, dimensions]);
+  const activePlateMetadata = useMemo(() => {
+    if (!activePlate) {
+      return [];
+    }
+
+    const metadata = [...activePlate.metadata];
+    const providerIndex = metadata.findIndex(
+      (entry) => entry.label.trim().toLowerCase() === "provider",
+    );
+    const framesEntry = { label: "Frames", value: String(frames.length) };
+
+    if (providerIndex >= 0) {
+      metadata.splice(providerIndex + 1, 0, framesEntry);
+      return metadata;
+    }
+
+    return [...metadata, framesEntry];
+  }, [activePlate, frames.length]);
 
   const highlightedAnnotationId = hoveredAnnotationId ?? selectedAnnotationId ?? null;
   const framesSignature = useMemo(() => getFramesSignature(frames), [frames]);
@@ -222,6 +246,7 @@ function App() {
       manifestId: manifestUrl,
       thumbnailUrl,
       plateNumber,
+      provider: activePlateProvider,
       animal: animal || undefined,
       movement: movement || undefined,
     });
@@ -243,7 +268,7 @@ function App() {
     } catch (error) {
       console.error("Manifest save failed", error);
     }
-  }, [frames, dimensions, slug, animationDuration, infoUrl, activePlate, animal, movement]);
+  }, [frames, dimensions, slug, animationDuration, infoUrl, activePlate, activePlateProvider, animal, movement]);
 
   // Auto-save manifest whenever frames or duration change (debounced).
   useEffect(() => {
@@ -400,9 +425,9 @@ function App() {
               </Flex>
               {activePlate ? (
                 <Flex direction="column" gap="3">
-                  {activePlate.metadata.length ? (
+                  {activePlateMetadata.length ? (
                     <Flex wrap="wrap" gap="4">
-                      {activePlate.metadata.map((entry) => (
+                      {activePlateMetadata.map((entry) => (
                         <Flex
                           key={`${entry.label}-${entry.value}`}
                           direction="column"

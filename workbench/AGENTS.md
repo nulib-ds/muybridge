@@ -5,7 +5,7 @@ This Vite + React workbench renders IIIF Image API v2 resources and records anno
 
 ## Build, Test, and Development Commands
 `npm install` / `npm ci` sync dependencies (Annotorious, OpenSeadragon bindings, gif encoder). `npm run dev` starts Vite at `http://localhost:5173`. `npm run build` produces the optimized bundle in `dist/`; verify with `npm run preview`. `npm test` (or `npm run test:ci`) runs Vitest suites. `npm run lint` and `npm run format` apply ESLint + Prettier rules; both must pass before commits.
-`npm run generate:plates` ingests `data/nga_data.csv`, normalizes each `title` + `image_iiifurl` into IIIF `info.json` endpoints, and emits a sorted `data/plates.csv` with derived `Plate Number` and NGA `Object ID` metadata so the workbench always mirrors the upstream catalog. Update `data/nga_data.csv` before running the generator.
+`npm run generate:plates` reads `data/plates.csv`, normalizes each `Image URI` into an IIIF `info.json` endpoint when needed, and emits the chunked catalog under `public/plates/` that the workbench loads at runtime. Update `data/plates.csv` before running the generator.
 
 ## Coding Style & Naming Conventions
 TypeScript strict mode, 2-space indentation, and trailing commas are mandatory. Components/hooks use PascalCase (`PlateViewer`) or camelCase (`useGifFrames`); utility files use kebab-case. Keep one exported component per file and prefer named exports. Name Annotorious overlays `<target>.overlay.ts`. IIIF endpoints live in `src/config/iiif.ts`; never commit `.env*`, `dist/`, or generated GIFs.

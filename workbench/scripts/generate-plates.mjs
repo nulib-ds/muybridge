@@ -3,9 +3,10 @@ import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const REQUIRED_COLUMNS = {
-  label: 'title',
-  imageUri: 'image_iiifurl',
-  objectId: 'objectid',
+  label: 'label',
+  imageUri: 'image uri',
+  plateNumber: 'plate number',
+  provider: 'provider',
 };
 
 function normalizeHeader(label) {
@@ -87,17 +88,9 @@ function extractPlateNumber(label) {
   return Number.isFinite(numeric) ? numeric : null;
 }
 
-function escapeCsvCell(value) {
-  if (/[,"\n]/.test(value)) {
-    return `"${value.replace(/"/g, '""')}"`;
-  }
-  return value;
-}
-
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const projectRoot = resolve(__dirname, '..');
-const sourcePath = resolve(projectRoot, 'data/nga_data.csv');
-const targetPath = resolve(projectRoot, 'data/plates.csv');
+const sourcePath = resolve(projectRoot, 'data/plates.csv');
 const publicDir = resolve(projectRoot, 'public');
 const chunkDir = resolve(publicDir, 'plates/chunks');
 const manifestPath = resolve(publicDir, 'plates/chunks.json');
@@ -155,20 +148,25 @@ requiredEntries.forEach(([, normalized]) => {
   }
 });
 
-const outputRows = body
+const plateEntries = body
   .map((row) => {
     const labelIndex = columnIndex.get(REQUIRED_COLUMNS.label);
     const imageIndex = columnIndex.get(REQUIRED_COLUMNS.imageUri);
-    const objectIndex = columnIndex.get(REQUIRED_COLUMNS.objectId);
+    const plateNumberIndex = columnIndex.get(REQUIRED_COLUMNS.plateNumber);
+    const providerIndex = columnIndex.get(REQUIRED_COLUMNS.provider);
     const rawLabel = row[labelIndex] ?? '';
     const label = rawLabel.trim();
     const imageUrl = sanitizeIiifUrl(row[imageIndex] ?? '');
-    const objectId = (row[objectIndex] ?? '').trim();
+    const rawPlateNumber = (row[plateNumberIndex] ?? '').trim();
+    const provider = (row[providerIndex] ?? '').trim();
     if (!label || !imageUrl) {
       return null;
     }
-    const plateNumber = extractPlateNumber(label);
-    return { label, imageUrl, plateNumber, objectId };
+    const parsedPlateNumber = Number.parseInt(rawPlateNumber, 10);
+    const plateNumber = Number.isFinite(parsedPlateNumber)
+      ? parsedPlateNumber
+      : extractPlateNumber(label);
+    return { label, imageUrl, plateNumber, provider };
   })
   .filter(Boolean)
   .sort((a, b) => {
@@ -180,28 +178,18 @@ const outputRows = body
     return a.label.localeCompare(b.label);
   });
 
-const csvLines = [
-  ['Label', 'Image URI', 'Plate Number', 'Object ID'],
-  ...outputRows.map((row) => [row.label, row.imageUrl, row.plateNumber ?? '', row.objectId ?? '']),
-]
-  .map((row) => row.map((cell) => escapeCsvCell(cell)).join(','))
-  .join('\n');
-
-writeFileSync(targetPath, `${csvLines}\n`, 'utf8');
-console.log(`Wrote ${outputRows.length} rows to ${targetPath}`);
-
 rmSync(chunkDir, { recursive: true, force: true });
 mkdirSync(chunkDir, { recursive: true });
 
-const plateEntries = outputRows.map((row, index) => {
+const chunkEntries = plateEntries.map((row, index) => {
   const id = `${slugify(row.label, `plate-${index + 1}`)}-${index + 1}`;
   const thumbnailUrl = getThumbnailUrl(row.imageUrl, 240);
   const metadata = [];
   if (row.plateNumber) {
     metadata.push({ label: 'Plate Number', value: String(row.plateNumber) });
   }
-  if (row.objectId) {
-    metadata.push({ label: 'Object ID', value: row.objectId });
+  if (row.provider) {
+    metadata.push({ label: 'Provider', value: row.provider });
   }
   return {
     id,
@@ -213,13 +201,13 @@ const plateEntries = outputRows.map((row, index) => {
 });
 
 const chunkManifest = [];
-plateEntries.forEach((_, index) => {
+chunkEntries.forEach((_, index) => {
   if (index % chunkSize !== 0) {
     return;
   }
   const chunkIndex = Math.floor(index / chunkSize);
   const chunkId = String(chunkIndex).padStart(3, '0');
-  const slice = plateEntries.slice(index, index + chunkSize);
+  const slice = chunkEntries.slice(index, index + chunkSize);
   const fileName = `chunk-${chunkId}.json`;
   const chunkPath = resolve(chunkDir, fileName);
   writeFileSync(chunkPath, `${JSON.stringify(slice, null, 2)}\n`, 'utf8');

@@ -62,5 +62,13 @@ describe("buildManifestFromFrames", () => {
     expect(annotations[1].target).toMatch(/#t=1,2/);
     expect(staticCanvas.height).toEqual(800);
     expect(staticCanvas.width).toEqual(1000);
+    expect(manifest.metadata).toEqual(
+      expect.arrayContaining([
+        {
+          label: { en: ["Frames"] },
+          value: { en: ["2"] },
+        },
+      ]),
+    );
   });
 });
