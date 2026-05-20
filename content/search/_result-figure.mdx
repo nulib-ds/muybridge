@@ -1,9 +1,11 @@
-import {Card} from "@canopy-iiif/app/ui";
+import AnimatedCard from "../../app/components/AnimatedCard";
+import frameMap from "../../.cache/search/first-frame-map.json";
 
-<Card
+<AnimatedCard
   href={props.record?.href}
   title={props.record?.title || props.record?.href || "Untitled"}
   src={props.record?.type === "work" ? props.record?.thumbnail : undefined}
+  staticSrc={frameMap[props.record?.thumbnail?.split("/").pop()?.replace(".gif", "")]}
   imgWidth={props.record?.thumbnailWidth}
   imgHeight={props.record?.thumbnailHeight}
   aspectRatio={props.thumbnailAspectRatio}

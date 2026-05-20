@@ -1,0 +1,642 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 21. Walking, both elbows bent"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-21-walking-both-elbows-bent.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 21. Walking, both elbows bent"
+        ]
+      },
+      "height": 666,
+      "width": 280,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 280,
+        "height": 666,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-21-walking-both-elbows-bent.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 280,
+                  "height": 666
+                },
+                "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:0.9854,2.4445,7.2191,29.3491/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 280
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:8.7524,2.5165,7.6999,29.0989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:16.9722,2.4204,7.7139,29.2431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 664,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:25.1357,2.4925,7.8404,29.1470/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 662,
+                "width": 304
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:33.4820,2.4445,7.5734,29.0989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 294
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:41.5893,2.4445,7.8544,29.0509/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:49.9215,2.4180,7.7066,28.9572/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:58.2192,2.4450,7.7164,28.8763/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:66.4508,2.3164,7.6706,28.9632/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:74.6131,2.1962,7.8216,29.0549/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 304
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:82.9499,2.1762,7.5523,29.1149/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 293
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:91.1463,2.2363,7.6460,28.9948/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 658,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:0.9458,33.9866,15.7617,31.2155/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:17.7207,33.8874,15.4243,31.2062/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 599
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:34.1735,33.7721,15.5796,31.2279/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:50.9671,33.6567,15.0906,31.1414/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 707,
+                "width": 586
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:67.3392,33.5657,15.3042,31.3190/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 594
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:83.8309,33.4557,15.0413,31.3208/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 584
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:1.0931,67.6305,15.5584,31.3465/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 604
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:17.9863,67.3399,15.2029,31.6682/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 719,
+                "width": 590
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:34.5006,67.1801,15.4559,31.6777/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 719,
+                "width": 600
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:51.2126,67.1367,15.0442,31.6243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 718,
+                "width": 584
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:67.5800,67.0219,15.2531,31.5926/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 592
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/pct:83.8634,67.2222,15.0197,31.3417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 583
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 21. Walking, both elbows bent"
+        ]
+      },
+      "height": 2270,
+      "width": 3882,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 468,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 468
+                },
+                "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2270,
+                "width": 3882,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/fa9e6168-df3a-4971-abcb-3e510e179b66",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-21-walking-both-elbows-bent.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

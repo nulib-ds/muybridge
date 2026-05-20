@@ -1,0 +1,642 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 28. Walking and carrying a 50-lb. dumbbell in right hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 28. Walking and carrying a 50-lb. dumbbell in right hand"
+        ]
+      },
+      "height": 677,
+      "width": 382,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 382,
+        "height": 677,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 382,
+                  "height": 677
+                },
+                "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:0.5802,2.6596,7.9155,45.0133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:8.7443,2.7926,7.9776,44.6144/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 671,
+                "width": 385
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:16.8877,2.6596,8.1848,45.2128/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:25.3833,2.3271,7.9776,45.4122/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 385
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:33.6925,2.1941,7.9983,45.6117/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 386
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:41.9188,2.1941,8.1434,45.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 691,
+                "width": 393
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:50.2694,1.9947,8.1227,46.0771/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 693,
+                "width": 392
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:58.6200,1.9282,8.0398,46.2766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 388
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:66.9499,1.9947,8.1019,46.3431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 697,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:75.3419,2.1277,8.0191,46.3431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 697,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:83.6718,2.1277,7.9776,46.2766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 385
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:91.7944,2.1941,7.9362,46.2101/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 383
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:0.6216,50.7979,7.7497,47.2739/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:8.6821,50.9309,8.1434,47.2074/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 393
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:16.9291,51.0638,8.0191,47.4734/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 714,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:25.1969,51.3298,8.2677,47.5399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 715,
+                "width": 399
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:33.6096,51.5293,8.0191,47.0080/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 707,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:41.9188,51.4628,8.1019,47.2739/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:50.2901,51.4628,8.1019,47.2739/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:58.5785,51.4628,8.1848,47.4069/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 713,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:66.9499,51.7287,8.0398,47.0745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 388
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:75.3626,51.7287,7.9569,47.0080/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 707,
+                "width": 384
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:83.6303,51.6622,7.9776,46.8750/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 385
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/pct:91.7944,51.6622,7.8119,46.8085/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 704,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 28. Walking and carrying a 50-lb. dumbbell in right hand"
+        ]
+      },
+      "height": 1504,
+      "width": 4826,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 249,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 249
+                },
+                "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1504,
+                "width": 4826,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d8482c6a-aaad-45e6-abe4-48f308f8aa41",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

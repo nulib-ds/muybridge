@@ -1,0 +1,858 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 24. Walking with shoes on"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-24-walking-with-shoes-on.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 24. Walking with shoes on"
+        ]
+      },
+      "height": 647,
+      "width": 296,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 296,
+        "height": 647,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-24-walking-with-shoes-on.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 296,
+                  "height": 647
+                },
+                "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:1.1240,1.3741,7.7040,30.7201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 296
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:9.1948,1.4389,7.6685,30.6770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 295
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:17.3367,1.3594,7.7294,30.7780/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:25.3738,1.2482,7.8262,31.0902/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:33.5834,1.3517,7.6969,31.1171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 656,
+                "width": 296
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:41.5926,1.3517,7.8815,30.9100/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:49.9285,1.4035,7.8815,30.8323/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:58.1650,1.2741,7.8673,30.8323/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:66.3731,1.3000,7.7679,30.7287/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:74.4676,1.7401,7.8531,30.2369/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:82.6615,1.7401,7.7679,30.3145/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:90.8128,1.4294,7.8389,30.4181/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:0.9629,34.6876,7.8702,31.1324/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 656,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:9.1763,34.7344,7.8836,31.1047/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:17.3794,34.5403,7.7395,31.1731/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:25.3555,34.7560,7.8933,30.9358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:33.5684,34.7992,7.7040,30.8495/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 296
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:41.6510,34.7344,7.9643,30.8280/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 306
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:49.8520,34.6175,8.0170,30.7076/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 308
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:58.1417,34.6486,7.9752,30.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 645,
+                "width": 306
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:66.4406,34.6175,7.7877,30.4129/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:74.5351,34.5243,7.8389,30.3508/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:82.7659,34.6486,7.8559,29.8848/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 630,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:90.9797,34.5243,7.7196,29.8848/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 630,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:0.7892,68.5091,8.0683,30.0252/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 310
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:9.1718,68.5282,7.8525,30.0051/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:17.3661,68.0992,7.6803,30.4612/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 295
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:25.4724,68.0777,7.7631,30.3965/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:33.4841,67.8835,7.8815,30.7201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:41.8034,67.8188,7.7276,30.7417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:49.8979,67.7541,7.9170,30.7417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 304
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:58.1344,67.4952,7.9170,31.0869/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 304
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:66.4300,67.2363,7.8460,31.2594/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:74.6192,67.1284,7.8223,31.3026/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:82.8438,66.9127,7.9525,31.4320/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 662,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/pct:91.2105,66.5957,7.5851,31.4254/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 662,
+                "width": 291
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 24. Walking with shoes on"
+        ]
+      },
+      "height": 2107,
+      "width": 3841,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 439,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 439
+                },
+                "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2107,
+                "width": 3841,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/55a80ec2-39ae-4dd0-a2f0-c67f79123ced",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-24-walking-with-shoes-on.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 22. Walking with high-heeled boots on"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-22-walking-with-high-heeled-boots-on.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 22. Walking with high-heeled boots on"
+        ]
+      },
+      "height": 655,
+      "width": 303,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 303,
+        "height": 655,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-22-walking-with-high-heeled-boots-on.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 303,
+                  "height": 655
+                },
+                "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:0.6100,2.1782,7.9854,31.1084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:8.7873,2.0272,8.0334,31.2594/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:17.0485,1.9447,7.9167,31.1262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 656,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:25.2531,1.9906,7.8531,30.9893/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 653,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:33.4610,1.9660,7.9036,30.8477/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:41.6786,1.9660,7.9309,30.7495/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:49.8688,1.7695,8.0401,30.8477/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:58.1546,1.6958,8.0128,30.7249/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 304
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:66.3311,1.6713,7.9309,30.6512/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:74.5213,1.7760,7.9974,30.4237/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:82.7346,1.8507,7.8364,30.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 638,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:91.0027,1.8766,7.3667,30.2369/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 279
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:0.8293,35.3300,7.6538,30.8504/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 290
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:8.7709,35.2337,7.9492,30.8811/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:17.1038,35.1461,7.8239,30.7430/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:25.2154,35.1639,7.8893,30.6592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:33.4526,34.8931,7.9897,30.9300/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:41.6702,34.9362,7.9015,30.9574/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:49.9194,34.7192,7.9678,31.2607/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 302
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:58.1152,34.7178,7.9494,31.1731/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 301
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:66.3884,34.5668,7.8535,31.4105/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 662,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:74.5776,34.6746,7.8895,31.3242/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:82.8149,34.5883,7.8895,31.4320/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 662,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:91.0041,34.6288,7.5313,31.3053/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 286
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:0.9417,68.1578,7.5178,30.8064/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 285
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:8.8072,68.1078,7.9851,30.8348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:16.9888,68.0370,7.8823,30.9460/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:25.2446,68.0017,7.9805,30.8752/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:33.5117,68.0370,7.8906,30.8045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 299
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:41.6381,67.9663,8.0592,30.8752/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 306
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:50.0118,67.9663,7.7840,30.6775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 295
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:58.0513,68.0017,8.0592,30.6630/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 306
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:66.4053,68.1431,7.9216,30.5216/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 643,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:74.5628,68.0638,7.9805,30.3094/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 303
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:82.8382,67.9930,7.9019,30.1679/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 300
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/pct:91.0939,67.8162,7.5678,30.1679/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 287
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 22. Walking with high-heeled boots on"
+        ]
+      },
+      "height": 2107,
+      "width": 3791,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 445,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 445
+                },
+                "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2107,
+                "width": 3791,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/83b4273e-af43-4b0f-9994-6de1bc7373d5",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-22-walking-with-high-heeled-boots-on.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

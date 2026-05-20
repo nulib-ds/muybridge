@@ -1,0 +1,642 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 29. Walking and carrying a bucket of water in each hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 29. Walking and carrying a bucket of water in each hand"
+        ]
+      },
+      "height": 724,
+      "width": 358,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 358,
+        "height": 724,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 358,
+                  "height": 724
+                },
+                "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:0.0000,0.4430,7.3526,45.8228/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 724,
+                "width": 358
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:7.6402,0.4430,8.1947,45.7595/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 399
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:16.1840,0.5063,8.0509,45.5696/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 392
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:24.5841,0.5696,8.0304,45.5063/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 719,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:32.9636,0.7595,8.0715,45.3797/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 393
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:41.3432,0.8228,8.1125,45.4430/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 718,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:49.7843,0.8861,8.0509,45.4430/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 718,
+                "width": 392
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:58.2255,0.8861,8.1947,45.6962/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 722,
+                "width": 399
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:66.7077,0.9494,8.1125,45.6962/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 722,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:75.1078,0.9494,8.1331,45.9494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 726,
+                "width": 396
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:83.5284,1.0127,7.9482,45.9494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 726,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:91.7848,1.0759,7.9893,46.1392/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 729,
+                "width": 389
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:0.0411,49.6835,7.2910,46.8987/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 355
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:7.7018,49.6835,8.1125,46.9620/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 742,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:16.1224,49.6835,8.1742,47.3418/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 748,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:24.5430,49.8101,8.1125,47.4051/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 749,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:32.9226,49.5570,8.1125,47.9747/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 758,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:41.3021,49.6203,8.2152,48.1013/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 400
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:49.7638,49.5570,8.1742,48.2911/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 763,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:58.1844,49.9367,8.2974,48.1013/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 404
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:66.6872,50.0633,8.1742,48.1646/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 761,
+                "width": 398
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:75.0667,50.3797,8.1125,47.8481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 756,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:83.5284,50.5063,7.9893,47.5949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 389
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/pct:91.8053,50.8228,7.9482,47.2785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 747,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 29. Walking and carrying a bucket of water in each hand"
+        ]
+      },
+      "height": 1580,
+      "width": 4869,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 260,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 260
+                },
+                "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1580,
+                "width": 4869,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/a2639530-e614-42fb-a41f-b52eacd8e75b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-29-walking-and-carrying-a-bucket-of-water-in-each-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

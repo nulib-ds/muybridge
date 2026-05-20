@@ -5,6 +5,8 @@
   "private": true,
   "main": "app/scripts/canopy-build.mjs",
   "scripts": {
+    "prebuild": "tsx scripts/generate-frame-map.mts",
+    "predev": "tsx scripts/generate-frame-map.mts",
     "build": "tsx app/scripts/canopy-build.mts",
     "dev": "tsx app/scripts/canopy-build.mts"
   },
