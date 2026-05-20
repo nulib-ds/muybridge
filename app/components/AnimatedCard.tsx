@@ -25,6 +25,7 @@ export default function AnimatedCard({
   const [inView, setInView] = useState(false);
   const [staticLoaded, setStaticLoaded] = useState(false);
   const [active, setActive] = useState(false);
+  const [everActive, setEverActive] = useState(false);
 
   useEffect(() => {
     const el = containerRef.current;
@@ -68,7 +69,10 @@ export default function AnimatedCard({
       !window.matchMedia("(prefers-reduced-motion: reduce)").matches);
 
   function activate() {
-    if (canAnimate) setActive(true);
+    if (canAnimate) {
+      setActive(true);
+      setEverActive(true);
+    }
   }
   function deactivate() {
     setActive(false);
@@ -112,7 +116,7 @@ export default function AnimatedCard({
                   }}
                 >
                   <img
-                    src={src}
+                    src={everActive ? src : undefined}
                     alt=""
                     style={{width: "100%", height: "100%", objectFit: "cover"}}
                   />
