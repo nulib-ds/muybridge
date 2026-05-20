@@ -3,7 +3,7 @@ import React, {useEffect, useRef, useState} from "react";
 interface Props {
   href: string;
   title?: string;
-  src: string;
+  src?: string;
   staticSrc?: string;
   imgWidth?: number;
   imgHeight?: number;
@@ -93,7 +93,9 @@ export default function AnimatedCard({
       <figure>
         <div
           className="canopy-card-media"
-          style={{"--canopy-card-padding": `${paddingPercent}%`} as React.CSSProperties}
+          style={
+            {"--canopy-card-padding": `${paddingPercent}%`} as React.CSSProperties
+          }
         >
           {inView && (
             <>
@@ -125,9 +127,7 @@ export default function AnimatedCard({
             </>
           )}
         </div>
-        <figcaption>
-          {title && <span>{title}</span>}
-        </figcaption>
+        <figcaption>{title && <span>{title}</span>}</figcaption>
       </figure>
     </a>
   );
