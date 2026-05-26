@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 150. Descending stairs, stooping, lifting a pitcher and turning"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "150"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 150. Descending stairs, stooping, lifting a pitcher and turning"
+        ]
+      },
+      "height": 837,
+      "width": 367,
+      "duration": 4.1,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 367,
+        "height": 837,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 367,
+                  "height": 837
+                },
+                "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:1.6835,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0,0.171"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:13.9692,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.171,0.342"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:26.2548,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.342,0.512"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:38.5405,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.512,0.683"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:50.8261,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.683,0.854"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:63.1118,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.854,1.025"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:75.3974,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.025,1.196"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:87.6831,1.0469,11.2998,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 837,
+                "width": 367
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.196,1.367"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:1.7434,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.367,1.537"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:13.9758,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.537,1.708"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:26.2082,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.708,1.879"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:38.4406,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.879,2.05"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:50.6730,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.05,2.221"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:62.9054,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.221,2.392"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:75.1377,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.392,2.562"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:87.3701,35.3069,11.0001,29.6390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 357
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.562,2.733"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:2.0432,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.733,2.904"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:14.2214,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.904,3.075"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:26.3997,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.075,3.246"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:38.5780,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.246,3.417"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:50.7563,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.417,3.587"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:62.9346,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.587,3.758"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:75.1128,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.758,3.929"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/pct:87.2911,68.3394,10.7303,30.3971/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.929,4.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 150. Descending stairs, stooping, lifting a pitcher and turning"
+        ]
+      },
+      "height": 2695,
+      "width": 3246,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 664,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 664
+                },
+                "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2695,
+                "width": 3246,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/bd16cb8d-3ad7-44eb-87a8-c5d0983aa5d9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 153. Jumping, running straight high jump"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "153"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-153-jumping-running-straight-high-jump.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 153. Jumping, running straight high jump"
+        ]
+      },
+      "height": 684,
+      "width": 376,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 376,
+        "height": 684,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-153-jumping-running-straight-high-jump.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 376,
+                  "height": 684
+                },
+                "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:0.7219,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:8.9608,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:17.1998,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:25.4387,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:33.6776,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:41.9166,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:50.1555,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:58.3945,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:66.6334,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:74.8724,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:83.1113,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:91.3502,3.0728,7.9027,44.2390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:0.6750,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:8.9262,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:17.1774,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:25.4287,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:33.6799,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:41.9311,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:50.1823,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:58.4336,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:66.6848,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:74.9360,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:83.1872,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/pct:91.4385,50.4156,7.8310,47.9207/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 153. Jumping, running straight high jump"
+        ]
+      },
+      "height": 1547,
+      "width": 4759,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 260,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 260
+                },
+                "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1547,
+                "width": 4759,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-153-jumping-running-straight-high-jump.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

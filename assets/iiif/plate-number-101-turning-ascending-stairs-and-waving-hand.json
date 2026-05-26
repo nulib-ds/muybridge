@@ -44,7 +44,7 @@
       },
       "value": {
         "en": [
-          "1"
+          "33"
         ]
       }
     },
@@ -79,7 +79,7 @@
       },
       "height": 785,
       "width": 268,
-      "duration": 0.1,
+      "duration": 3.3,
       "placeholderCanvas": {
         "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/placeholder",
         "type": "Canvas",
@@ -122,13 +122,589 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:1.4320,1.4087,7.7046,30.7177/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:1.4380,1.4096,7.7078,30.7361/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 785,
                 "width": 268
               },
               "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:10.3250,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:19.2120,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:28.0989,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:36.9859,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:45.8729,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:54.7599,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:63.6468,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:72.5338,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:81.4208,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:90.3077,1.4096,7.7078,30.7361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:1.4192,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:10.1118,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:18.8043,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:27.4969,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:36.1894,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:44.8819,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:53.5745,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:62.2670,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:70.9595,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:79.6521,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:88.3446,34.2612,7.5134,31.3678/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 261
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:1.4192,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:9.9645,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:18.5097,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:27.0549,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:35.6001,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:44.1453,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:52.6905,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:61.2357,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:69.7810,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:78.3262,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:86.8714,68.1160,7.3660,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 256
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=3.2,3.3"
             }
           ]
         }

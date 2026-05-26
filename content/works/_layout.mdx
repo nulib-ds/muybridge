@@ -15,7 +15,7 @@ import {
     iiifContent={props.manifest.id}
     options={{
       canvasHeight: "50vh",
-      canvasBackgroundColor: "transparent",
+      canvasBackgroundColor: "#6661",
     }}
   />
   <div>
@@ -31,19 +31,6 @@ import {
     </div>
   </div>
 </Container>
-{/* <Container>
-  <Scroll
-    iiifContent={props.manifest.id}
-    options={{
-      offset: 16,
-      figure: {
-        aspectRatio: 1,
-        display: "thumbnail",
-        width: "200px",
-      },
-    }}
-  />
-</Container> */}
 <Container>
   <h2>Related Items</h2>
   <RelatedItems iiifContent={props.manifest.id} top={3} />

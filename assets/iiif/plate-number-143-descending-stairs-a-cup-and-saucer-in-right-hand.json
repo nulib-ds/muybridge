@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 143. Descending stairs, a cup and saucer in right hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "143"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 143. Descending stairs, a cup and saucer in right hand"
+        ]
+      },
+      "height": 654,
+      "width": 332,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 332,
+        "height": 654,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 332,
+                  "height": 654
+                },
+                "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:91.3365,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:83.0957,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:74.8548,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:66.6139,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:58.3731,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:50.1322,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:41.8914,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:33.6505,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:25.4097,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:17.1688,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:8.9280,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:0.6871,1.0130,7.9998,31.4214/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 332
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:91.3365,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:83.0745,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:74.8126,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:66.5506,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:58.2887,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:50.0267,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:41.7647,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:33.5028,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:25.2408,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:16.9789,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:8.7169,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:0.4549,35.0422,8.0209,31.0428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:91.4632,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:83.1802,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:74.8973,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:66.6144,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:58.3315,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:50.0485,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:41.7656,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:33.4827,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:25.1998,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:16.9169,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:8.6339,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/pct:0.3510,68.1041,7.8732,31.6737/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 143. Descending stairs, a cup and saucer in right hand"
+        ]
+      },
+      "height": 2082,
+      "width": 4149,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 401,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 401
+                },
+                "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2082,
+                "width": 4149,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/9e9a25be-cc4f-4764-a14a-fdba2d94f29d",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-143-descending-stairs-a-cup-and-saucer-in-right-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

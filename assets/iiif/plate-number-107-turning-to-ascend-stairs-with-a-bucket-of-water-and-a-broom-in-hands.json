@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 107. Turning to ascend stairs with a bucket of water and a broom in hands"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "107"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 107. Turning to ascend stairs with a bucket of water and a broom in hands"
+        ]
+      },
+      "height": 699,
+      "width": 312,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 312,
+        "height": 699,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 312,
+                  "height": 699
+                },
+                "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:91.5085,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:83.4166,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:75.3247,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:67.2577,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:59.1658,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:51.0739,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:42.9820,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:34.9151,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:26.8232,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:18.7313,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:10.6643,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:2.5724,0.6270,7.7922,31.3032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 699,
+                "width": 312
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:91.6583,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:83.7413,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:75.8492,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:67.9321,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:60.0400,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:52.1229,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:44.2308,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:36.3137,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:28.4216,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:20.5045,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:12.6124,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:4.6953,33.9006,7.6174,31.7510/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 709,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:91.8332,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:83.5914,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:75.3497,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:67.1079,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:58.8661,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:50.6244,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:42.3826,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:34.1409,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:25.8991,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:17.6573,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:9.4156,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/pct:1.1738,68.2938,7.9421,30.8554/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 689,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 107. Turning to ascend stairs with a bucket of water and a broom in hands"
+        ]
+      },
+      "height": 2233,
+      "width": 4004,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 446,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 446
+                },
+                "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2233,
+                "width": 4004,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/0d1eab26-455f-4d72-bd32-a663e9977237",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-107-turning-to-ascend-stairs-with-a-bucket-of-water-and-a-broom-in-hands.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
