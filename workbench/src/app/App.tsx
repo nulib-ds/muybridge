@@ -7,7 +7,7 @@ import { sanitizeIiifUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
 import { useAnnotationStore } from "../workbench/frames/useFrameList";
 import { useIiifDimensions } from "../lib/useIiifDimensions";
-import { annotationToFrame } from "../annotations/annotation-utils";
+import { annotationToFrame, getAnnotationPixelBounds } from "../annotations/annotation-utils";
 import type { FrameDescriptor } from "../workbench/frames/types";
 import { PlateSelector } from "../workbench/plates/PlateSelector";
 import { defaultPlate, findPlateByInfoUrl, plateCatalog } from "../workbench/plates/plateCatalog";
@@ -174,6 +174,45 @@ function App() {
       reorderAnnotations(annotationIds);
     },
     [reorderAnnotations],
+  );
+
+  const handleAnnotationSelect = useCallback((id: string | null) => {
+    setSelectedAnnotationId(id);
+  }, []);
+
+  const handleDuplicateAndOffset = useCallback(
+    (count: number, offsetPx: number) => {
+      if (!selectedAnnotationId) return;
+      const source = annotations.find((a) => a.id === selectedAnnotationId);
+      if (!source) return;
+      const pixelBounds = getAnnotationPixelBounds(source);
+      if (!pixelBounds) return;
+      const { x, y, width: w, height: h } = pixelBounds;
+      for (let i = 0; i < count; i++) {
+        const newX = x + (i + 1) * (w + offsetPx);
+        const newId = crypto.randomUUID();
+        const newAnnotation = {
+          id: newId,
+          bodies: [],
+          target: {
+            annotation: newId,
+            selector: {
+              type: "RECTANGLE",
+              geometry: {
+                x: newX,
+                y,
+                w,
+                h,
+                rot: 0,
+                bounds: { minX: newX, minY: y, maxX: newX + w, maxY: y + h },
+              },
+            },
+          },
+        } as unknown as import("@annotorious/annotorious").ImageAnnotation;
+        addAnnotation(newAnnotation);
+      }
+    },
+    [selectedAnnotationId, annotations, addAnnotation],
   );
 
   // Apply loaded duration from persisted manifest when switching plates.
@@ -407,12 +446,15 @@ function App() {
           infoUrl={infoUrl}
           annotations={annotations}
           highlightedAnnotationId={highlightedAnnotationId}
+          selectedAnnotationId={selectedAnnotationId}
           onAnnotationAdd={addAnnotation}
+          onDuplicateAndOffset={handleDuplicateAndOffset}
+          onAnnotationSelect={handleAnnotationSelect}
         />
         <Box
-          style={{ width: "100%", position: "absolute", bottom: 0, zIndex: 1 }}
+          style={{ width: "100%", position: "absolute", bottom: 0, zIndex: 1, pointerEvents: "none" }}
         >
-          <Box p="5" style={{ background: "white", boxShadow: "var(--shadow-5)" }}>
+          <Box p="5" style={{ background: "white", boxShadow: "var(--shadow-5)", pointerEvents: "auto" }}>
             <Flex direction="column" gap="4">
               <Flex direction={{ initial: "column", sm: "row" }} gap="3" align="start">
                 <Flex direction="column" gap="1" flexGrow="1">

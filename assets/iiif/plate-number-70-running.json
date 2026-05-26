@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-70-running.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 70. Running"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "70"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-70-running.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 70. Running"
+        ]
+      },
+      "height": 757,
+      "width": 359,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 359,
+        "height": 757,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-70-running.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 359,
+                  "height": 757
+                },
+                "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:1.8041,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:13.7685,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:25.7329,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:37.6972,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:49.6616,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:61.6260,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:73.5904,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:85.5547,1.2804,11.3335,30.1705/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:1.4876,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:13.7896,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:26.0917,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:38.3937,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:50.6958,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:62.9978,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:75.2999,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:87.6019,34.0919,11.6711,31.8511/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 799,
+                "width": 370
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:1.5298,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:13.7052,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:25.8806,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:38.0560,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:50.2315,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:62.4069,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:74.5823,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/pct:86.7577,68.0770,11.5445,30.9441/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 776,
+                "width": 366
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 70. Running"
+        ]
+      },
+      "height": 2508,
+      "width": 3170,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 633,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 633
+                },
+                "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2508,
+                "width": 3170,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/8d97453a-5cc4-489f-99cc-32e3966cbbd7",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-70-running.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

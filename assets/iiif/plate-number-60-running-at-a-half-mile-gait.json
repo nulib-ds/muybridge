@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 60. Running at a half-mile gait"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "60"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-60-running-at-a-half-mile-gait.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 60. Running at a half-mile gait"
+        ]
+      },
+      "height": 743,
+      "width": 624,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 624,
+        "height": 743,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-60-running-at-a-half-mile-gait.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 624,
+                  "height": 743
+                },
+                "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:1.2883,2.2483,18.3849,29.9278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:19.9679,2.2483,18.3849,29.9278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:38.6475,2.2483,18.3849,29.9278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:57.3271,2.2483,18.3849,29.9278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:76.0067,2.2483,18.3849,29.9278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:1.0638,34.7258,18.9178,30.8505/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:20.2763,34.7258,18.9178,30.8505/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:39.4887,34.7258,18.9178,30.8505/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:58.7011,34.7258,18.9178,30.8505/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:77.9136,34.7258,18.9178,30.8505/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:1.3501,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:10.7046,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:20.0590,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:29.4135,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:38.7679,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:48.1224,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:57.4768,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:66.8313,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:76.1857,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/pct:85.5402,68.1974,8.7652,30.3082/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 297
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 60. Running at a half-mile gait"
+        ]
+      },
+      "height": 2481,
+      "width": 3394,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 585,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 585
+                },
+                "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2481,
+                "width": 3394,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/ec097a59-92ff-446e-8b44-cde94b1f10d9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-60-running-at-a-half-mile-gait.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

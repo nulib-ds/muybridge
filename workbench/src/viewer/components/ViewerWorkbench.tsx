@@ -15,7 +15,10 @@ interface ViewerWorkbenchProps {
   infoUrl: string;
   annotations: ImageAnnotation[];
   highlightedAnnotationId?: string | null;
+  selectedAnnotationId?: string | null;
   onAnnotationAdd?: (annotation: ImageAnnotation) => void;
+  onDuplicateAndOffset?: (count: number, offsetPx: number) => void;
+  onAnnotationSelect?: (id: string | null) => void;
 }
 
 function resolveCssColor(value: string | null | undefined) {
@@ -33,7 +36,7 @@ function resolveCssColor(value: string | null | undefined) {
 }
 
 export const ViewerWorkbench = memo(
-  ({ infoUrl, annotations, highlightedAnnotationId, onAnnotationAdd }: ViewerWorkbenchProps) => {
+  ({ infoUrl, annotations, highlightedAnnotationId, selectedAnnotationId, onAnnotationAdd, onDuplicateAndOffset, onAnnotationSelect }: ViewerWorkbenchProps) => {
     const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
     const [annotatorInstance, setAnnotatorInstance] =
       useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
@@ -67,6 +70,20 @@ export const ViewerWorkbench = memo(
 
       annotorious.setAnnotations(annotations, true);
     }, [annotatorInstance, annotations]);
+
+    useEffect(() => {
+      const annotorious = annotatorInstance;
+      if (!annotorious) return undefined;
+
+      const handleSelectionChanged = (selected: ImageAnnotation[]) => {
+        onAnnotationSelect?.(selected.length > 0 ? selected[0].id : null);
+      };
+
+      annotorious.on("selectionChanged", handleSelectionChanged);
+      return () => {
+        annotorious.off("selectionChanged", handleSelectionChanged);
+      };
+    }, [annotatorInstance, onAnnotationSelect]);
 
     useEffect(() => {
       const annotorious = annotatorInstance;
@@ -186,10 +203,35 @@ export const ViewerWorkbench = memo(
       };
     }, [infoUrl]);
 
+    const selectedAnnotation = useMemo(
+      () => (selectedAnnotationId ? (annotations.find((a) => a.id === selectedAnnotationId) ?? null) : null),
+      [annotations, selectedAnnotationId],
+    );
+
+    useEffect(() => {
+      if (!annotatorInstance) return;
+      if (selectedAnnotationId) {
+        annotatorInstance.setSelected(selectedAnnotationId, false);
+      } else {
+        annotatorInstance.setSelected();
+      }
+    }, [annotatorInstance, selectedAnnotationId]);
+
     const handleToolbarChange = (drawing: boolean) => {
       console.log("[toolbar] drawing state change", { drawing });
       setIsDrawing(drawing);
     };
+
+    useEffect(() => {
+      const handleKeyDown = (e: KeyboardEvent) => {
+        if (e.key === "Escape" && isDrawing) {
+          annotoriousRef.current?.setDrawingEnabled(false);
+          setIsDrawing(false);
+        }
+      };
+      window.addEventListener("keydown", handleKeyDown);
+      return () => window.removeEventListener("keydown", handleKeyDown);
+    }, [isDrawing]);
 
     useEffect(() => {
       if (!viewerInstance) {
@@ -252,7 +294,12 @@ export const ViewerWorkbench = memo(
               position: "relative",
             }}
           >
-            <AnnotationToolbar onChange={handleToolbarChange} />
+            <AnnotationToolbar
+              isDrawing={isDrawing}
+              onChange={handleToolbarChange}
+              selectedAnnotation={selectedAnnotation}
+              onDuplicateAndOffset={onDuplicateAndOffset}
+            />
             <div data-annotatable>
               <OpenSeadragonViewer options={viewerOptions} />
             </div>

@@ -1,0 +1,456 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 73. Turning around in surprise and running away"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "73"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-73-turning-around-in-surprise-and-running-away.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 73. Turning around in surprise and running away"
+        ]
+      },
+      "height": 859,
+      "width": 623,
+      "duration": 1.5,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 623,
+        "height": 859,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-73-turning-around-in-surprise-and-running-away.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 623,
+                  "height": 859
+                },
+                "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:1.7736,1.3488,18.4156,32.1843/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 859,
+                "width": 623
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:20.8986,1.3488,19.1756,32.1843/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 859,
+                "width": 649
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:40.7265,1.2946,19.0587,32.1843/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 859,
+                "width": 645
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:60.6297,1.3488,18.4936,32.1843/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 859,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:80.1445,1.4229,18.4156,32.1843/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 859,
+                "width": 623
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:1.7145,36.0060,18.3269,30.6857/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:20.9577,36.0060,18.9700,30.6857/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 642
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:40.5417,36.0060,19.0674,30.6857/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 645
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:60.4959,35.8825,18.7556,30.6857/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 635
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:80.0019,35.9566,18.6387,30.6857/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:2.0396,68.7898,18.1791,29.7115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:21.1055,68.7898,18.6858,29.7115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 632
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:40.5417,68.8145,18.8612,29.7115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 638
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:60.2796,68.7651,18.7832,29.7115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 635
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/pct:79.9106,68.7651,18.5104,29.7115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/animation#t=1.4,1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 73. Turning around in surprise and running away"
+        ]
+      },
+      "height": 2669,
+      "width": 3383,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 631,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 631
+                },
+                "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2669,
+                "width": 3383,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/1c7bac00-ecc5-4c0d-9b61-5f1828df030a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-73-turning-around-in-surprise-and-running-away.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,6 +28,10 @@ function getFragmentSelector(annotation: ImageAnnotation): FragmentSelector | nu
   return selector;
 }
 
+export function getAnnotationPixelBounds(annotation: ImageAnnotation) {
+  return getGeometrySelectorBounds(annotation);
+}
+
 function getGeometrySelectorBounds(annotation: ImageAnnotation) {
   const target = getFirstTarget(annotation);
   if (!target || typeof target === "string") {

@@ -58,3 +58,16 @@ code {
     height: 100%;
   }
 }
+
+/* Force click-to-select through the SVG layer to the OSD GL canvas for unselected
+   annotations. The GL canvas uses viewport.viewportToImageCoordinates() for correct
+   hit testing at any zoom level; the SVG layer's np() coordinate math only works at
+   1:1. Shapes inside .selected retain pointer-events so drag-to-move and resize
+   handles continue to work once an annotation is selected. */
+.a9s-annotationlayer .a9s-annotation:not(.selected) rect,
+.a9s-annotationlayer .a9s-annotation:not(.selected) path,
+.a9s-annotationlayer .a9s-annotation:not(.selected) polygon,
+.a9s-annotationlayer .a9s-annotation:not(.selected) ellipse,
+.a9s-annotationlayer .a9s-annotation:not(.selected) circle {
+  pointer-events: none !important;
+}

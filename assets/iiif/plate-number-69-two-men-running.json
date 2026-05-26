@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 69. Two men running"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "69"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-69-two-men-running.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 69. Two men running"
+        ]
+      },
+      "height": 614,
+      "width": 727,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 727,
+        "height": 614,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-69-two-men-running.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 727,
+                  "height": 614
+                },
+                "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.1892,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 727
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.7815,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 727
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.3737,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 727
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.9659,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 727
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:79.5581,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 727
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.2091,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 720
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.6229,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 720
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.0367,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 720
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.4506,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 720
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:78.8644,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 720
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.1694,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:10.0666,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:18.9638,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:27.8610,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:36.7581,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:45.6553,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:54.5525,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:63.4497,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:72.3469,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:81.2440,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 710,
+                "width": 327
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 69. Two men running"
+        ]
+      },
+      "height": 2097,
+      "width": 3812,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 440,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 440
+                },
+                "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2097,
+                "width": 3812,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-69-two-men-running.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
