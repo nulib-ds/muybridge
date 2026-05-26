@@ -1,0 +1,204 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 101. Turning, ascending stairs and waving hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "101"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-101-turning-ascending-stairs-and-waving-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 101. Turning, ascending stairs and waving hand"
+        ]
+      },
+      "height": 785,
+      "width": 268,
+      "duration": 0.1,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 268,
+        "height": 785,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-101-turning-ascending-stairs-and-waving-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 268,
+                  "height": 785
+                },
+                "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/pct:1.4320,1.4087,7.7046,30.7177/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 785,
+                "width": 268
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/animation#t=0,0.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 101. Turning, ascending stairs and waving hand"
+        ]
+      },
+      "height": 2554,
+      "width": 3477,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 588,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 588
+                },
+                "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2554,
+                "width": 3477,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/f4c4f786-fc9c-44e7-b7a9-7f71439adea3",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-101-turning-ascending-stairs-and-waving-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

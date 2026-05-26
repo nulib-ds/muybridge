@@ -10,6 +10,7 @@ import {
 } from "@annotorious/react";
 import type { ImageAnnotation } from "@annotorious/annotorious";
 import { AnnotationToolbar } from "../../annotations/AnnotationToolbar";
+import { getAnnotationPixelBounds } from "../../annotations/annotation-utils";
 
 interface ViewerWorkbenchProps {
   infoUrl: string;
@@ -35,15 +36,30 @@ function resolveCssColor(value: string | null | undefined) {
   return resolved || value;
 }
 
+// useViewer() must be called inside <OpenSeadragonAnnotator>'s context tree.
+// ViewerWorkbench renders that provider itself, so it can't call useViewer()
+// at its own level — the context isn't there yet. This bridge component lives
+// inside the annotator tree and passes the viewer up via a callback.
+function ViewerConsumer({ onViewer }: { onViewer: (v: OpenSeadragon.Viewer | null) => void }) {
+  const viewer = useViewer();
+  const onViewerRef = useRef(onViewer);
+  onViewerRef.current = onViewer;
+  useEffect(() => {
+    onViewerRef.current(viewer ?? null);
+  }, [viewer]);
+  return null;
+}
+
 export const ViewerWorkbench = memo(
   ({ infoUrl, annotations, highlightedAnnotationId, selectedAnnotationId, onAnnotationAdd, onDuplicateAndOffset, onAnnotationSelect }: ViewerWorkbenchProps) => {
     const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
     const [annotatorInstance, setAnnotatorInstance] =
       useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
-    const osdViewer = useViewer();
-    const viewerInstance = osdViewer ?? null;
+    const [viewerInstance, setViewerInstance] = useState<OpenSeadragon.Viewer | null>(null);
     const [isDrawing, setIsDrawing] = useState(false);
     const [accentStrokeColor, setAccentStrokeColor] = useState("#d92d20");
+    const [previewParams, setPreviewParams] = useState<{ count: number; offsetPx: number; direction: "left" | "right" } | null>(null);
+    const [previewRects, setPreviewRects] = useState<Array<{ x: number; y: number; width: number; height: number }>>([]);
 
     useEffect(() => {
       if (typeof window === "undefined") {
@@ -217,6 +233,50 @@ export const ViewerWorkbench = memo(
       }
     }, [annotatorInstance, selectedAnnotationId]);
 
+    const handlePreviewChange = useCallback(
+      (params: { count: number; offsetPx: number } | null) => {
+        setPreviewParams(params);
+      },
+      [],
+    );
+
+    const computePreviewRects = useCallback(() => {
+      if (!previewParams || !selectedAnnotation || !viewerInstance) {
+        setPreviewRects([]);
+        return;
+      }
+      const bounds = getAnnotationPixelBounds(selectedAnnotation);
+      if (!bounds) {
+        setPreviewRects([]);
+        return;
+      }
+      const { x, y, width: w, height: h } = bounds;
+      const { count, offsetPx, direction } = previewParams;
+      const rects: Array<{ x: number; y: number; width: number; height: number }> = [];
+      for (let i = 0; i < count; i++) {
+        const step = (i + 1) * (w + offsetPx);
+        const newX = direction === "left" ? x - step : x + step;
+        try {
+          const vpRect = viewerInstance.viewport.imageToViewportRectangle(newX, y, w, h);
+          const elemRect = viewerInstance.viewport.viewportToViewerElementRectangle(vpRect);
+          rects.push({ x: elemRect.x, y: elemRect.y, width: elemRect.width, height: elemRect.height });
+        } catch {
+          // viewport not ready
+        }
+      }
+      setPreviewRects(rects);
+    }, [previewParams, selectedAnnotation, viewerInstance]);
+
+    useEffect(() => {
+      computePreviewRects();
+    }, [computePreviewRects]);
+
+    useEffect(() => {
+      if (!viewerInstance) return undefined;
+      viewerInstance.addHandler("update-viewport", computePreviewRects);
+      return () => viewerInstance.removeHandler("update-viewport", computePreviewRects);
+    }, [viewerInstance, computePreviewRects]);
+
     const handleToolbarChange = (drawing: boolean) => {
       console.log("[toolbar] drawing state change", { drawing });
       setIsDrawing(drawing);
@@ -285,6 +345,7 @@ export const ViewerWorkbench = memo(
           tool="rectangle"
           theme="light"
         >
+          <ViewerConsumer onViewer={setViewerInstance} />
           <div
             style={{
               display: "flex",
@@ -299,9 +360,37 @@ export const ViewerWorkbench = memo(
               onChange={handleToolbarChange}
               selectedAnnotation={selectedAnnotation}
               onDuplicateAndOffset={onDuplicateAndOffset}
+              onPreviewChange={handlePreviewChange}
             />
             <div data-annotatable>
               <OpenSeadragonViewer options={viewerOptions} />
+              {previewRects.length > 0 && (
+                <svg
+                  style={{
+                    position: "absolute",
+                    top: 0,
+                    left: 0,
+                    width: "100%",
+                    height: "100%",
+                    pointerEvents: "none",
+                    overflow: "visible",
+                    zIndex: 10,
+                  }}
+                >
+                  {previewRects.map((rect, i) => (
+                    <rect
+                      key={i}
+                      x={rect.x}
+                      y={rect.y}
+                      width={Math.max(0, rect.width)}
+                      height={Math.max(0, rect.height)}
+                      fill="rgba(255, 0, 0, 0.2)"
+                      stroke="red"
+                      strokeWidth={2}
+                    />
+                  ))}
+                </svg>
+              )}
             </div>
             <VisuallyHidden>{infoUrl}</VisuallyHidden>
           </div>

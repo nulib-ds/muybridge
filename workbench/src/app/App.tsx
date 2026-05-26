@@ -181,7 +181,7 @@ function App() {
   }, []);
 
   const handleDuplicateAndOffset = useCallback(
-    (count: number, offsetPx: number) => {
+    (count: number, offsetPx: number, direction: "left" | "right" = "right") => {
       if (!selectedAnnotationId) return;
       const source = annotations.find((a) => a.id === selectedAnnotationId);
       if (!source) return;
@@ -189,7 +189,8 @@ function App() {
       if (!pixelBounds) return;
       const { x, y, width: w, height: h } = pixelBounds;
       for (let i = 0; i < count; i++) {
-        const newX = x + (i + 1) * (w + offsetPx);
+        const step = (i + 1) * (w + offsetPx);
+        const newX = direction === "left" ? x - step : x + step;
         const newId = crypto.randomUUID();
         const newAnnotation = {
           id: newId,

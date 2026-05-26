@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 94. Ascending stairs and looking around with basin in hands"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "94"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 94. Ascending stairs and looking around with basin in hands"
+        ]
+      },
+      "height": 1026,
+      "width": 298,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 298,
+        "height": 1026,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 298,
+                  "height": 1026
+                },
+                "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:0.6467,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:8.9360,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:17.2253,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:25.5145,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:33.8038,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:42.0931,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:50.3824,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:58.6716,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:66.9609,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:75.2502,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:83.5394,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:91.8287,0.8111,7.9170,46.8880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1026,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:0.6934,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:8.8587,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:17.0241,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:25.1894,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:33.3547,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:41.5200,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:49.6854,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:57.8507,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:66.0160,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:74.1813,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:82.3466,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/pct:90.5120,50.8303,7.6601,47.0084/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1029,
+                "width": 288
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 94. Ascending stairs and looking around with basin in hands"
+        ]
+      },
+      "height": 2188,
+      "width": 3761,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 465,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 465
+                },
+                "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2188,
+                "width": 3761,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

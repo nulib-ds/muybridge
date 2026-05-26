@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 91. Ascending stairs"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "91"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-91-ascending-stairs.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 91. Ascending stairs"
+        ]
+      },
+      "height": 1046,
+      "width": 581,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 581,
+        "height": 1046,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-91-ascending-stairs.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 581,
+                  "height": 1046
+                },
+                "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:0.8829,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:16.9172,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:32.9516,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:48.9859,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:65.0203,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:81.0546,2.3891,15.7101,45.2822/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1046,
+                "width": 581
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:0.8328,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:16.5665,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:32.3001,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:48.0338,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:63.7675,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/pct:79.5011,51.0032,15.4094,47.7310/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1103,
+                "width": 570
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 91. Ascending stairs"
+        ]
+      },
+      "height": 2310,
+      "width": 3701,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 499,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 499
+                },
+                "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2310,
+                "width": 3701,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/3bd7710e-5e2e-4028-8779-1b190cdc8459",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-91-ascending-stairs.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
