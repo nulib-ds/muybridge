@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 214. Lifting a child from the ground and turning around"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "214"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 214. Lifting a child from the ground and turning around"
+        ]
+      },
+      "height": 641,
+      "width": 362,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 362,
+        "height": 641,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 362,
+                  "height": 641
+                },
+                "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:0.6669,1.3237,9.2534,30.6057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 362
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:10.3283,1.0830,9.7258,30.5255/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 381
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:20.3331,1.0028,9.6399,30.9266/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:30.1877,1.1231,9.6184,31.1272/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:40.0638,1.2435,8.8885,30.7260/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:49.2099,1.3237,9.0173,30.8063/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 353
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:58.4204,1.0830,7.9438,30.8865/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 311
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:66.5789,1.3638,7.1279,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 279
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:74.1792,1.4842,6.8703,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 631,
+                "width": 269
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:81.4317,1.5644,5.2816,30.1645/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 207
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:87.0997,1.4440,5.9256,30.1645/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 232
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:93.3688,1.5644,5.9901,30.2046/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 235
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:0.6626,35.3389,9.4681,29.2419/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 613,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:10.5172,35.2988,9.5755,29.2419/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 613,
+                "width": 375
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:20.3503,35.3791,9.5755,29.4023/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 375
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:30.2049,35.2186,9.5540,30.0842/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 631,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:40.0381,35.1384,8.9529,30.0842/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 631,
+                "width": 351
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:49.2915,35.2186,8.8241,30.0842/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 631,
+                "width": 346
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:58.4376,35.1785,7.8364,30.3249/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 307
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:66.6176,35.2587,7.2138,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 631,
+                "width": 282
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:74.0461,35.1785,7.0635,30.5656/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 277
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:81.4531,35.0983,5.2816,30.4452/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 638,
+                "width": 207
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:87.1641,35.0983,6.0759,30.5656/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 238
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:93.5621,35.1384,5.8827,30.6057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 230
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:0.4908,68.2310,9.6399,30.8865/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:10.7319,68.1508,9.2964,30.8865/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 364
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:20.3503,68.1909,9.6184,30.8464/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:30.2479,68.4717,9.6184,31.0469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:40.0810,68.5118,8.9529,31.0068/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 351
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:49.2271,68.8327,8.8885,30.7260/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 348
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:58.4591,68.9531,7.9223,30.2848/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 310
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:66.6605,68.8728,7.1924,30.6859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 643,
+                "width": 282
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:74.0676,68.9531,7.1709,30.4854/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 281
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:81.5390,69.2339,5.3889,30.3249/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 211
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:87.2285,68.7525,6.1403,30.7260/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 240
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/pct:93.6265,69.0333,6.0330,30.4051/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 236
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 214. Lifting a child from the ground and turning around"
+        ]
+      },
+      "height": 2096,
+      "width": 3916,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 428,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 428
+                },
+                "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2096,
+                "width": 3916,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/c130697a-0488-46b7-9022-99f536616c28",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-214-lifting-a-child-from-the-ground-and-turning-around.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

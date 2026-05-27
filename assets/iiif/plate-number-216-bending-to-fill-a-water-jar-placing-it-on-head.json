@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 216. Bending to fill a water jar, placing it on head"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "216"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 216. Bending to fill a water jar, placing it on head"
+        ]
+      },
+      "height": 633,
+      "width": 337,
+      "duration": 5.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 337,
+        "height": 633,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 337,
+                  "height": 633
+                },
+                "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:0.5108,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0,0.144"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:8.7564,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.144,0.289"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:17.0020,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.289,0.433"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:25.2475,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.433,0.578"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:33.4931,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.578,0.722"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:41.7387,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.722,0.867"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:49.9843,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=0.867,1.011"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:58.2299,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.011,1.156"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:66.4755,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.156,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:74.7210,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.3,1.444"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:82.9666,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.444,1.589"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:91.2122,2.6775,7.8943,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 337
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.589,1.733"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:0.4897,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.733,1.878"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:8.7422,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=1.878,2.022"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:16.9947,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.022,2.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:25.2472,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.167,2.311"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:33.4998,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.311,2.456"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:41.7523,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.456,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:50.0048,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.6,2.744"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:58.2573,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.744,2.889"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:66.5098,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=2.889,3.033"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:74.7623,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.033,3.178"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:83.0148,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.178,3.322"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:91.2674,35.5766,7.8310,29.5150/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.322,3.467"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:0.4053,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.467,3.611"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:8.6601,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.611,3.756"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:16.9149,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.756,3.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:25.1697,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=3.9,4.044"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:33.4246,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.044,4.189"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:41.6794,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.189,4.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:49.9342,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.333,4.478"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:58.1891,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.478,4.622"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:66.4439,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.622,4.767"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:74.6987,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.767,4.911"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:82.9535,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=4.911,5.056"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/pct:91.2084,68.2188,7.8099,30.0719/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/animation#t=5.056,5.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 216. Bending to fill a water jar, placing it on head"
+        ]
+      },
+      "height": 2104,
+      "width": 4270,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 394,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 394
+                },
+                "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2104,
+                "width": 4270,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/5b884532-bbbc-4881-84c8-e1934bb4a31c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-216-bending-to-fill-a-water-jar-placing-it-on-head.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

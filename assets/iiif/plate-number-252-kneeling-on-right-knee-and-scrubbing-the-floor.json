@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 252. Kneeling on right knee and scrubbing the floor"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "252"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 252. Kneeling on right knee and scrubbing the floor"
+        ]
+      },
+      "height": 587,
+      "width": 289,
+      "duration": 4.5,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 289,
+        "height": 587,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 289,
+                  "height": 587
+                },
+                "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:0.9285,1.6820,6.2406,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 289
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0,0.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:7.3850,1.6820,6.3053,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 292
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.125,0.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:14.1438,1.6820,7.5794,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 351
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.25,0.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:22.0687,1.6820,7.6657,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 355
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.375,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:30.2526,1.6820,7.7521,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.5,0.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:38.5878,1.6820,7.4930,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 347
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.625,0.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:46.5558,1.6820,7.6873,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 356
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.75,0.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:54.8910,1.6820,7.3418,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=0.875,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:62.8158,1.6820,7.5578,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 350
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1,1.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:70.9566,1.6820,8.3351,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 386
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.125,1.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:79.9395,1.9368,8.1840,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 379
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.25,1.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:88.6849,2.0897,9.5876,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 444
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.375,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:0.9933,34.1488,5.8735,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 272
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.5,1.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:7.4930,33.9450,6.0030,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 278
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.625,1.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:14.2518,34.0469,7.3202,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 339
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.75,1.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:22.0471,34.1998,7.8169,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 362
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=1.875,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:30.2707,33.9246,7.5452,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 349
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2,2.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:38.3553,34.4179,7.5832,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 351
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.125,2.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:46.7059,34.6421,7.3932,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 342
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.25,2.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:54.6739,34.7317,7.6402,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 354
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.375,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:62.8725,34.5524,7.4692,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 346
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.5,2.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:70.8432,35.0008,8.5330,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 395
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.625,2.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:79.9346,34.9559,8.4191,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 390
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.75,2.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:88.8715,35.1353,9.5399,29.9185/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=2.875,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:0.9623,66.5088,6.1001,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 282
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3,3.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:7.4430,66.4590,6.1001,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 282
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.125,3.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:14.1566,66.7080,7.4088,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 343
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.25,3.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:22.0717,66.6583,7.6199,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 353
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.375,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:30.3043,66.7579,7.6199,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 353
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.5,3.625"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:38.3680,66.8078,7.6832,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 356
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.625,3.75"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:46.6216,66.8078,7.5988,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 352
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.75,3.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:54.7486,67.0070,7.4721,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 346
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=3.875,4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:62.7912,67.1067,7.7465,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 359
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=4,4.125"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:70.8760,67.1565,8.6753,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 402
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=4.125,4.25"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:79.9529,67.1565,8.4431,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 391
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=4.25,4.375"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/pct:88.8609,67.4554,9.2874,31.0388/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 609,
+                "width": 430
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/animation#t=4.375,4.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 252. Kneeling on right knee and scrubbing the floor"
+        ]
+      },
+      "height": 1962,
+      "width": 4631,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 339,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 339
+                },
+                "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1962,
+                "width": 4631,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

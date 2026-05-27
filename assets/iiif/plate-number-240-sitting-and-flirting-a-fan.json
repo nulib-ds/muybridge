@@ -1,0 +1,510 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 240. Sitting and flirting a fan"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "240"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-240-sitting-and-flirting-a-fan.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 240. Sitting and flirting a fan"
+        ]
+      },
+      "height": 760,
+      "width": 575,
+      "duration": 1.8,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 575,
+        "height": 760,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-240-sitting-and-flirting-a-fan.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 575,
+                  "height": 760
+                },
+                "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:0.7557,1.9376,11.3982,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:12.5503,1.9376,12.1369,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:25.1681,1.9376,12.1158,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 611
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:37.6381,1.9376,12.2847,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:50.3615,1.9376,9.6040,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 485
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:60.4675,1.9376,9.4774,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 478
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:70.3413,1.9376,9.5829,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 483
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:80.1729,1.9376,9.5829,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 483
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:89.9411,1.9376,9.2030,45.2307/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 464
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:0.7345,50.8425,10.9971,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 555
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:12.1281,50.8425,12.3058,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:24.8515,50.8425,12.3269,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:37.3637,50.8425,12.4958,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 630
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:50.2982,50.8425,9.4774,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 478
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:57.7024,50.8425,10.9971,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 555
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:70.1935,51.4760,9.6462,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 487
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:80.1518,51.2860,9.3718,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 473
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/pct:90.0045,51.4760,9.1396,46.0542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 774,
+                "width": 461
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/animation#t=1.7,1.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 240. Sitting and flirting a fan"
+        ]
+      },
+      "height": 1681,
+      "width": 5045,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 267,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 267
+                },
+                "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1681,
+                "width": 5045,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/4c8530d6-5c87-4515-83c4-d38f2f762a7b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-240-sitting-and-flirting-a-fan.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

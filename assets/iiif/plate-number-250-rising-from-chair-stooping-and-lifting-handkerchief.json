@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 250. Rising from chair, stooping and lifting handkerchief"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "250"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 250. Rising from chair, stooping and lifting handkerchief"
+        ]
+      },
+      "height": 712,
+      "width": 456,
+      "duration": 3.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 456,
+        "height": 712,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 456,
+                  "height": 712
+                },
+                "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:0.1242,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0,0.133"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:16.6510,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.133,0.267"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:33.1778,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.267,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:49.7046,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.4,0.533"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:66.2315,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.533,0.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:82.7583,0.5333,16.2067,22.5867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 712,
+                "width": 456
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.667,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:0.2139,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.8,0.933"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:16.7206,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=0.933,1.067"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:33.2273,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.067,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:49.7341,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.2,1.333"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:66.2408,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.333,1.467"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:82.7475,25.3333,15.9375,23.4667/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.467,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:0.4099,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.6,1.733"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:16.9786,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.733,1.867"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:33.5474,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=1.867,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:50.1161,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2,2.133"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:66.6848,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.133,2.267"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:83.2535,50.9956,15.7149,22.3704/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 705,
+                "width": 442
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.267,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:0.6757,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.4,2.533"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:17.2964,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.533,2.667"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:33.9172,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.667,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:50.5380,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.8,2.933"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:67.1587,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=2.933,3.067"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/pct:83.7795,75.8844,15.4824,23.2593/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 435
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/animation#t=3.067,3.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 250. Rising from chair, stooping and lifting handkerchief"
+        ]
+      },
+      "height": 3152,
+      "width": 2811,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 897,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 897
+                },
+                "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3152,
+                "width": 2811,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/046a4c4e-606a-47c5-ac5d-603d8b4ef397",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-250-rising-from-chair-stooping-and-lifting-handkerchief.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

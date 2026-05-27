@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 217. Stooping, lifting and carrying a 30-lb. basket"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "217"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 217. Stooping, lifting and carrying a 30-lb. basket"
+        ]
+      },
+      "height": 618,
+      "width": 374,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 374,
+        "height": 618,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 374,
+                  "height": 618
+                },
+                "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:0.4981,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:8.7760,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:17.0539,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:25.3318,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:33.6097,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:41.8876,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:50.1655,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:58.4434,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:66.7213,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:74.9993,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:83.2772,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:91.5551,1.4295,7.9998,31.4366/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 618,
+                "width": 374
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:0.4559,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:8.7315,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:17.0072,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:25.2828,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:33.5585,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:41.8341,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:50.1098,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:58.3854,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:66.6610,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:74.9367,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:83.2123,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:91.4880,35.1259,8.1687,30.2313/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 594,
+                "width": 382
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:0.2870,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:8.6071,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:16.9273,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:25.2474,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:33.5675,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:41.8876,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:50.2077,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:58.5279,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:66.8480,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:75.1681,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:83.4882,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/pct:91.8084,68.1192,8.0420,31.1353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 217. Stooping, lifting and carrying a 30-lb. basket"
+        ]
+      },
+      "height": 1965,
+      "width": 4675,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 336,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 336
+                },
+                "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1965,
+                "width": 4675,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

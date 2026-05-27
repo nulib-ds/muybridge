@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 236. Placing chair and sitting down"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "236"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-236-placing-chair-and-sitting-down.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 236. Placing chair and sitting down"
+        ]
+      },
+      "height": 695,
+      "width": 376,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 376,
+        "height": 695,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-236-placing-chair-and-sitting-down.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 376,
+                  "height": 695
+                },
+                "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:91.5274,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:83.2643,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:75.0013,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:66.7383,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:58.4753,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:50.2123,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:41.9492,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:33.6862,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:25.4232,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:17.1602,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:8.8972,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:0.6341,2.4917,7.8457,46.5325/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 695,
+                "width": 376
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:91.5274,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:83.2796,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:75.0318,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:66.7841,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:58.5363,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:50.2886,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:42.0408,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:33.7931,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:25.5453,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:17.2975,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:9.0498,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/pct:0.8020,53.1103,7.7888,44.8859/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 670,
+                "width": 373
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 236. Placing chair and sitting down"
+        ]
+      },
+      "height": 1493,
+      "width": 4793,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 249,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 249
+                },
+                "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1493,
+                "width": 4793,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/36b259e3-40ef-4859-93fa-11e838b753cc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-236-placing-chair-and-sitting-down.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 219. Stooping, and lifting broom and sweeping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "219"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 219. Stooping, and lifting broom and sweeping"
+        ]
+      },
+      "height": 1267,
+      "width": 621,
+      "duration": 4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 621,
+        "height": 1267,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 621,
+                  "height": 1267
+                },
+                "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:0.6839,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0,0.182"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:8.9460,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.182,0.364"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:17.2080,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.364,0.545"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:25.4701,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.545,0.727"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:33.7321,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.727,0.909"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:41.9942,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.909,1.091"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:50.2563,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.091,1.273"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:58.5183,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.273,1.455"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:66.7804,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.455,1.636"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:75.0425,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.636,1.818"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:83.3045,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.818,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:91.5666,1.4109,8.0927,46.3999/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1267,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2,2.182"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:0.7599,51.0679,7.6558,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 588
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.182,2.364"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:8.6160,51.0145,7.9407,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.364,2.545"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:16.8718,51.0678,7.9787,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.545,2.727"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:25.5250,51.0679,7.6558,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 588
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.727,2.909"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:33.7801,51.0679,7.6558,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 588
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.909,3.091"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:42.0351,51.0679,7.6558,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 588
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.091,3.273"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:50.2902,51.0679,7.6558,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 588
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.273,3.455"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:62.5069,51.0679,12.1011,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 929
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.455,3.636"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:75.0553,51.0679,12.1011,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 929
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.636,3.818"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/pct:87.4430,51.0679,11.7781,47.2542/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1291,
+                "width": 904
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.818,4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 219. Stooping, and lifting broom and sweeping"
+        ]
+      },
+      "height": 2731,
+      "width": 7676,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 285,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 285
+                },
+                "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2731,
+                "width": 7676,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/c3b8ecfd-2e30-428a-a371-2a20ad322ae9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

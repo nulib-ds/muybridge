@@ -77,6 +77,7 @@ export const ViewerWorkbench = memo(
     }, []);
     const navSettingsRef = useRef<Pick<OpenSeadragon.GestureSettings, "dragToPan" | "scrollToZoom"> | null>(null);
     const updateTimerRef = useRef<number | null>(null);
+    const suppressSetSelectedRef = useRef(false);
 
     useEffect(() => {
       const annotorious = annotatorInstance;
@@ -92,6 +93,7 @@ export const ViewerWorkbench = memo(
       if (!annotorious) return undefined;
 
       const handleSelectionChanged = (selected: ImageAnnotation[]) => {
+        suppressSetSelectedRef.current = true;
         onAnnotationSelect?.(selected.length > 0 ? selected[0].id : null);
       };
 
@@ -161,11 +163,14 @@ export const ViewerWorkbench = memo(
       }
 
       const handleCreate = (annotation: ImageAnnotation) => {
-        console.log("[annotorious] createAnnotation", { id: annotation.id });
         onAnnotationAdd?.(annotation);
         annotoriousRef.current?.setDrawingTool("rectangle");
         annotoriousRef.current?.setDrawingEnabled(false);
         setIsDrawing(false);
+        // setDrawingEnabled(false) may fire selectionChanged([]) and set the suppress flag.
+        // Reset it so the setSelected effect will select the new annotation in Annotorious.
+        suppressSetSelectedRef.current = false;
+        onAnnotationSelect?.(annotation.id);
       };
 
       const handleUpdate = (annotation: ImageAnnotation) => {
@@ -223,6 +228,12 @@ export const ViewerWorkbench = memo(
 
     useEffect(() => {
       if (!annotatorInstance) return;
+      // Don't echo Annotorious's own selectionChanged events back into it.
+      // Only call setSelected when the change originated externally (e.g. sidebar click).
+      if (suppressSetSelectedRef.current) {
+        suppressSetSelectedRef.current = false;
+        return;
+      }
       if (selectedAnnotationId) {
         annotatorInstance.setSelected(selectedAnnotationId, false);
       } else {

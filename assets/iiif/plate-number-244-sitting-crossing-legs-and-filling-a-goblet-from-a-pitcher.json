@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 244. Sitting, crossing legs and filling a goblet from a pitcher"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "244"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 244. Sitting, crossing legs and filling a goblet from a pitcher"
+        ]
+      },
+      "height": 720,
+      "width": 427,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 427,
+        "height": 720,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 427,
+                  "height": 720
+                },
+                "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:1.9034,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:14.0728,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:26.2421,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:38.4115,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:50.5809,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:62.7503,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:74.9197,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:87.0891,1.9964,11.9184,30.1243/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 427
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:1.9034,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:14.0553,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:26.2073,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:38.3593,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:50.5113,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:62.6632,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:74.8152,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:86.9672,34.4874,11.6779,31.0870/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 743,
+                "width": 419
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:2.0103,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:14.1437,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:26.2770,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:38.4104,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:50.5438,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:62.6772,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:74.8106,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/pct:86.9440,68.1015,11.4641,30.2447/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 411
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 244. Sitting, crossing legs and filling a goblet from a pitcher"
+        ]
+      },
+      "height": 2389,
+      "width": 3586,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 533,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 533
+                },
+                "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2389,
+                "width": 3586,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

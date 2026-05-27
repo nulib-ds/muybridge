@@ -1,0 +1,834 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 253. Kneeling; elbows on chair and hands clasped"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "253"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 253. Kneeling; elbows on chair and hands clasped"
+        ]
+      },
+      "height": 632,
+      "width": 340,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 340,
+        "height": 632,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 340,
+                  "height": 632
+                },
+                "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:90.9764,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:82.7688,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:74.5611,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:66.3535,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:58.1459,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:49.9382,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:41.7306,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:33.5229,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:25.3153,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:17.1076,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:8.9000,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:0.6923,2.4552,8.0420,29.6292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:90.8920,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:82.7080,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:74.5240,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:66.3400,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:58.1561,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:49.9721,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:41.7881,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:33.6041,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:25.4201,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:17.2361,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:9.0521,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:0.8681,35.1812,8.0420,29.8384/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 340
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.3,2.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:90.8920,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.4,2.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:82.6902,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.5,2.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:74.4883,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.6,2.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:66.2865,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.7,2.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:58.0847,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.8,2.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:49.8828,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=2.9,3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:41.6810,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3,3.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:33.4791,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3.1,3.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:25.2773,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3.2,3.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:17.0755,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3.3,3.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:8.8736,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3.4,3.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/pct:0.6718,68.3257,7.8943,30.2988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 334
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/animation#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 253. Kneeling; elbows on chair and hands clasped"
+        ]
+      },
+      "height": 2132,
+      "width": 4227,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 404,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 404
+                },
+                "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2132,
+                "width": 4227,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6e45f581-67ea-4359-a3ed-0cd8deb16b1a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-253-kneeling-elbows-on-chair-and-hands-clasped.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
