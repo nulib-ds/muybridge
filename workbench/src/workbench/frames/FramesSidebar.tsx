@@ -34,7 +34,6 @@ import {
 } from "./duration";
 import type { FrameDescriptor } from "./types";
 import { FrameThumbnail } from "./FrameThumbnail";
-import { FramePreview } from "./FramePreview";
 
 const FRAME_DRAG_DATA_TYPE = "frame";
 
@@ -145,9 +144,6 @@ export function FramesSidebar({
     const [value] = values;
     onDurationChange(sanitizeDuration(value ?? safeDurationSeconds));
   };
-  const frameSequenceKey = frames.map((frame) => frame.id).join("|");
-  const previewKey = `${infoUrl}-${frameSequenceKey}-${durationSeconds}`;
-  const activeAnnotationId = hoveredAnnotationId ?? selectedAnnotationId ?? null;
   const gifButtonLabel = isExportingGif ? "Exporting GIF..." : "Export animated GIF";
   const durationLabelId = "animationDurationLabel";
   const durationInputId = "animationDurationInput";
@@ -243,19 +239,6 @@ export function FramesSidebar({
         </Flex>
       </ScrollArea>
       <Flex direction="column" gap="3">
-        <div role="region" aria-label="Animation preview">
-          {frames.length ? (
-            <FramePreview
-              key={previewKey}
-              infoUrl={infoUrl}
-              frames={frames}
-              durationSeconds={durationSeconds}
-              activeAnnotationId={activeAnnotationId}
-            />
-          ) : (
-            <Text color="gray">Draw a rectangle to see the animation loop.</Text>
-          )}
-        </div>
         {gifPreviewSrc ? (
           <figure style={{ margin: 0 }}>
             <img
@@ -269,9 +252,6 @@ export function FramesSidebar({
                 borderRadius: "var(--radius-2)",
               }}
             />
-            <Text asChild size="1" color="gray">
-              <figcaption>Auto-exported GIF</figcaption>
-            </Text>
           </figure>
         ) : null}
         <Flex direction="column" gap="2">

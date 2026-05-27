@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 598. \"Daisy\" trotting, saddled"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "598"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-598-daisy-trotting-saddled.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 598. \"Daisy\" trotting, saddled"
+        ]
+      },
+      "height": 621,
+      "width": 621,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 621,
+        "height": 621,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-598-daisy-trotting-saddled.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 621,
+                  "height": 621
+                },
+                "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:0.8228,0.0000,19.6519,23.2584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:20.6646,0.0000,19.6519,23.2584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:40.5063,0.0000,19.6519,23.2584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:60.3481,0.0000,19.6519,23.2584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:80.1899,0.0000,19.6519,23.2584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:0.8861,25.9176,19.6519,22.9963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:20.6962,25.9176,19.6519,22.9963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:40.5380,25.9176,19.6519,22.9963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:60.3797,25.9176,19.6519,22.9963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:80.2215,25.9176,19.6519,22.9963/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 614,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:0.8861,51.7228,19.8101,21.9850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:20.6646,51.7228,19.8101,21.9850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:40.4747,51.7228,19.8101,21.9850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:60.2848,51.7228,19.8101,21.9850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:80.0949,51.7228,19.8101,21.9850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 626
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:0.6962,76.2547,19.6835,22.9213/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:20.5063,76.2547,19.6835,22.9213/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:40.2848,76.2547,19.6835,22.9213/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:60.0949,76.2547,19.6835,22.9213/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/pct:79.8734,76.2547,19.6835,22.9213/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 598. \"Daisy\" trotting, saddled"
+        ]
+      },
+      "height": 2670,
+      "width": 3160,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 676,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 676
+                },
+                "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2670,
+                "width": 3160,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6a54fe11-3a26-4109-bcf4-f01b88e4d4ca",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-598-daisy-trotting-saddled.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

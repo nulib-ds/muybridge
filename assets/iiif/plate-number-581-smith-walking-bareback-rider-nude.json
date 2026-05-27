@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 581. \"Smith\" walking, bareback; rider nude"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "581"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-581-smith-walking-bareback-rider-nude.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 581. \"Smith\" walking, bareback; rider nude"
+        ]
+      },
+      "height": 580,
+      "width": 674,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 674,
+        "height": 580,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-581-smith-walking-bareback-rider-nude.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 674,
+                  "height": 580
+                },
+                "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:0.5412,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:17.0545,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:33.5677,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:50.0809,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:66.5942,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:83.1074,1.9254,15.6758,27.9639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 674
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:0.5813,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:17.1547,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:33.7281,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:50.3014,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:66.8748,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:83.4482,32.1746,15.7360,28.0054/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 676
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:0.9822,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:9.2326,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:17.4830,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:25.7334,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:33.9838,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:42.2342,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:50.4846,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:58.7350,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:66.9854,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:75.2357,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:83.4861,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/pct:91.7365,62.2576,7.2967,36.4819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 757,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 581. \"Smith\" walking, bareback; rider nude"
+        ]
+      },
+      "height": 2074,
+      "width": 4299,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 386,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 386
+                },
+                "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2074,
+                "width": 4299,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/1f87b1f0-b7c1-464c-b7a2-9484d903bb28",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-581-smith-walking-bareback-rider-nude.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
