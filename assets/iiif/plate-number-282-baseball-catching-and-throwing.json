@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 282. Baseball, catching and throwing"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "282"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-282-baseball-catching-and-throwing.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 282. Baseball, catching and throwing"
+        ]
+      },
+      "height": 660,
+      "width": 486,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 486,
+        "height": 660,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-282-baseball-catching-and-throwing.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 486,
+                  "height": 660
+                },
+                "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:0.8363,0.9067,18.4221,23.4133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 486
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:20.3961,0.9067,18.4221,23.4133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 486
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:39.9559,0.9067,18.4221,23.4133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 486
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:59.5157,0.9067,18.4221,23.4133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 486
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:79.0755,0.9067,18.4221,23.4133/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 660,
+                "width": 486
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:0.5226,51.2267,19.1921,22.8267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 506
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:20.2456,51.2267,19.1921,22.8267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 506
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:39.9686,51.2267,19.1921,22.8267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 506
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:59.6916,51.2267,19.1921,22.8267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 506
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:79.4146,51.2267,19.1921,22.8267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 506
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:0.8363,26.2933,18.5362,22.9867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 489
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:20.4722,26.2933,18.5362,22.9867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 489
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:40.1082,26.2933,18.5362,22.9867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 489
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:59.7441,26.2933,18.5362,22.9867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 489
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:79.3801,26.2933,18.5362,22.9867/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 648,
+                "width": 489
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:0.3229,75.9733,19.0210,22.6933/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 502
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:20.0645,75.9733,19.0210,22.6933/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 502
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:39.8060,75.9733,19.0210,22.6933/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 502
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:59.5475,75.9733,19.0210,22.6933/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 502
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/pct:79.2890,75.9733,19.0210,22.6933/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 502
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 282. Baseball, catching and throwing"
+        ]
+      },
+      "height": 2820,
+      "width": 2637,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 856,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 856
+                },
+                "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2820,
+                "width": 2637,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/8f6a6aa0-b0a4-4e68-bd90-506b6874a4cc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-282-baseball-catching-and-throwing.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
