@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 207. Stooping and lifting train"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "207"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-207-stooping-and-lifting-train.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 207. Stooping and lifting train"
+        ]
+      },
+      "height": 951,
+      "width": 709,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 709,
+        "height": 951,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-207-stooping-and-lifting-train.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 709,
+                  "height": 951
+                },
+                "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:0.5509,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:17.0394,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:33.5279,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:50.0163,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:66.5048,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:82.9933,1.5009,15.6915,45.5785/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 951,
+                "width": 709
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:0.5066,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:17.0289,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:33.5511,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:50.0734,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:66.5956,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/pct:83.1179,51.0930,15.7253,47.1233/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 983,
+                "width": 710
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 207. Stooping and lifting train"
+        ]
+      },
+      "height": 2086,
+      "width": 4517,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 369,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 369
+                },
+                "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2086,
+                "width": 4517,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/e7e62e53-6722-41ba-ae13-78edf03c02c4",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-207-stooping-and-lifting-train.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

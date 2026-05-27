@@ -75,7 +75,7 @@ export const ViewerWorkbench = memo(
         }
       }
     }, []);
-    const navSettingsRef = useRef<OpenSeadragon.GestureSettings | null>(null);
+    const navSettingsRef = useRef<Pick<OpenSeadragon.GestureSettings, "dragToPan" | "scrollToZoom"> | null>(null);
     const updateTimerRef = useRef<number | null>(null);
 
     useEffect(() => {
@@ -136,20 +136,17 @@ export const ViewerWorkbench = memo(
       ).gestureSettingsMouse;
       if (!navSettingsRef.current) {
         navSettingsRef.current = {
-          clickToZoom: settings.clickToZoom,
           dragToPan: settings.dragToPan,
           scrollToZoom: settings.scrollToZoom,
         };
       }
 
       const enableNav = !isDrawing;
-      settings.clickToZoom = enableNav;
       settings.dragToPan = enableNav;
       settings.scrollToZoom = enableNav;
 
       return () => {
         if (navSettingsRef.current) {
-          settings.clickToZoom = navSettingsRef.current.clickToZoom;
           settings.dragToPan = navSettingsRef.current.dragToPan;
           settings.scrollToZoom = navSettingsRef.current.scrollToZoom;
         }

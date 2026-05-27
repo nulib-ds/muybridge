@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 178. Stepping on and over a trestle"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "178"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-178-stepping-on-and-over-a-trestle.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 178. Stepping on and over a trestle"
+        ]
+      },
+      "height": 832,
+      "width": 371,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 371,
+        "height": 832,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-178-stepping-on-and-over-a-trestle.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 371,
+                  "height": 832
+                },
+                "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:1.3488,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:9.4919,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:17.6351,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:25.7782,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:33.9213,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:42.0645,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:50.2076,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:58.3507,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:66.4939,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:74.6370,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:82.7802,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:90.9233,3.2470,7.8267,45.4256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:1.2728,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:9.4434,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:17.6141,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:25.7848,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:33.9554,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:42.1261,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:50.2967,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:58.4674,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:66.6380,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:74.8087,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:82.9793,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/pct:91.1500,51.9173,7.9597,45.9664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 842,
+                "width": 377
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 178. Stepping on and over a trestle"
+        ]
+      },
+      "height": 1832,
+      "width": 4741,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 309,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 309
+                },
+                "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1832,
+                "width": 4741,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-178-stepping-on-and-over-a-trestle.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

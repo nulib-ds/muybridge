@@ -444,6 +444,7 @@ function App() {
         }}
       >
         <ViewerWorkbench
+          key={infoUrl}
           infoUrl={infoUrl}
           annotations={annotations}
           highlightedAnnotationId={highlightedAnnotationId}

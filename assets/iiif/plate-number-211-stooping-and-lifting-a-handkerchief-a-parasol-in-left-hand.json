@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 211. Stooping and lifting a handkerchief, a parasol in left hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "211"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 211. Stooping and lifting a handkerchief, a parasol in left hand"
+        ]
+      },
+      "height": 1017,
+      "width": 610,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 610,
+        "height": 1017,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 610,
+                  "height": 1017
+                },
+                "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:1.2361,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:17.5687,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:33.9014,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:50.2341,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:66.5668,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:82.8995,1.9334,15.6900,46.1693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1017,
+                "width": 610
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:1.1452,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:17.4796,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:33.8140,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:50.1484,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:66.4828,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/pct:82.8172,51.4320,15.8717,46.4099/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1022,
+                "width": 617
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 211. Stooping and lifting a handkerchief, a parasol in left hand"
+        ]
+      },
+      "height": 2202,
+      "width": 3890,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 453,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 453
+                },
+                "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2202,
+                "width": 3890,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/3a5f118c-d0f4-4987-984a-9339aa58f86a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-211-stooping-and-lifting-a-handkerchief-a-parasol-in-left-hand.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

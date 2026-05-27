@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 209. Stooping and lifting a handkerchief"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "209"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-209-stooping-and-lifting-a-handkerchief.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 209. Stooping and lifting a handkerchief"
+        ]
+      },
+      "height": 677,
+      "width": 621,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 621,
+        "height": 677,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-209-stooping-and-lifting-a-handkerchief.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 621,
+                  "height": 677
+                },
+                "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:0.8834,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:17.3242,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:33.7650,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:50.2058,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:66.6466,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:83.0873,1.2274,16.1545,29.2058/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 677,
+                "width": 621
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:0.6657,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:17.1548,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:33.6439,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:50.1329,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:66.6220,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:83.1111,34.0433,16.3069,31.9856/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 627
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:0.6222,69.3863,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:7.9454,69.3863,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:15.2687,69.3863,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:22.9395,69.2782,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:30.6119,69.3141,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:38.1093,69.3502,9.1440,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 351
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:47.7186,69.4585,9.4271,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 362
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:57.5673,69.2419,9.4271,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 362
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:67.4379,69.1697,9.4488,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 363
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:77.3302,69.1336,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:84.9147,69.2419,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/pct:92.1291,69.2058,7.1411,30.0361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 696,
+                "width": 274
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 209. Stooping and lifting a handkerchief"
+        ]
+      },
+      "height": 2317,
+      "width": 3842,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 482,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 482
+                },
+                "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2317,
+                "width": 3842,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-209-stooping-and-lifting-a-handkerchief.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

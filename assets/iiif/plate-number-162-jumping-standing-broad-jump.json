@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 162. Jumping, standing broad jump"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "162"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-162-jumping-standing-broad-jump.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 162. Jumping, standing broad jump"
+        ]
+      },
+      "height": 629,
+      "width": 424,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 424,
+        "height": 629,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-162-jumping-standing-broad-jump.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 424,
+                  "height": 629
+                },
+                "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:0.8876,2.5919,8.4009,44.3066/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 629,
+                "width": 424
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:9.6624,2.7048,7.9576,43.7059/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 621,
+                "width": 402
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:17.7889,2.8550,7.3455,44.5319/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 371
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:25.2399,3.0803,6.8178,44.6821/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 634,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:32.2477,3.0803,6.5856,45.2078/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 333
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:39.0233,3.3056,10.5750,44.9074/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 638,
+                "width": 534
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:49.8304,3.1554,10.7438,45.4331/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 645,
+                "width": 543
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:60.7854,3.5309,6.6278,44.7572/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 335
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:67.5820,3.3807,6.8600,44.9074/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 638,
+                "width": 347
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:74.6109,3.5309,7.2822,44.6821/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 634,
+                "width": 368
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:81.9993,3.3807,7.9998,44.7572/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 404
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:90.2947,3.4558,8.8864,45.1327/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 641,
+                "width": 449
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:0.8823,51.9678,8.4853,44.6070/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 429
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:9.5154,52.8689,8.0209,43.9311/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 624,
+                "width": 405
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:17.8107,52.7187,7.3033,43.7809/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 369
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:25.1773,53.4697,6.6489,43.1802/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 613,
+                "width": 336
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:32.2062,53.9203,6.5012,42.9549/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 328
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:38.8762,53.5448,10.7016,43.7809/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 541
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:49.7467,53.4697,10.8283,44.0813/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 626,
+                "width": 547
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:60.7016,53.6950,6.7123,43.9311/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 624,
+                "width": 339
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:67.5616,53.9203,6.7756,43.6308/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 620,
+                "width": 342
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:74.5061,53.6950,7.2822,43.6308/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 620,
+                "width": 368
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:81.9782,53.4697,8.0209,44.2315/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 628,
+                "width": 405
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/pct:90.3791,53.5448,8.8652,44.1564/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 627,
+                "width": 448
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 162. Jumping, standing broad jump"
+        ]
+      },
+      "height": 1420,
+      "width": 5052,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 225,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 225
+                },
+                "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1420,
+                "width": 5052,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/5655914d-00f1-4593-936c-ce701407c728",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-162-jumping-standing-broad-jump.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

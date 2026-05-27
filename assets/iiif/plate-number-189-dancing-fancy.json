@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 189. Dancing (fancy)"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "189"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-189-dancing-fancy.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 189. Dancing (fancy)"
+        ]
+      },
+      "height": 890,
+      "width": 605,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 605,
+        "height": 890,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-189-dancing-fancy.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 605,
+                  "height": 890
+                },
+                "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:0.6649,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:17.3739,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:34.0829,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:50.7919,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:67.5009,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:84.2099,1.8050,13.7158,45.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 890,
+                "width": 605
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:0.5509,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:17.4119,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:34.2729,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:51.1338,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:67.9948,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/pct:84.8558,52.0028,13.8678,47.0018/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 924,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 189. Dancing (fancy)"
+        ]
+      },
+      "height": 1966,
+      "width": 4410,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 357,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 357
+                },
+                "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1966,
+                "width": 4410,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/a146ecc9-e7c5-4264-8199-94ad82572e22",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-189-dancing-fancy.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

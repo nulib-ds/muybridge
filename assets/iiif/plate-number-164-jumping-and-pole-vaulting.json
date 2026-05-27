@@ -1,0 +1,582 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 164. Jumping and pole-vaulting"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "164"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-164-jumping-and-pole-vaulting.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 164. Jumping and pole-vaulting"
+        ]
+      },
+      "height": 787,
+      "width": 338,
+      "duration": 2.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 338,
+        "height": 787,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-164-jumping-and-pole-vaulting.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 338,
+                  "height": 787
+                },
+                "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.8169,2.1939,7.0289,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 338
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:8.3627,2.1939,6.6296,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 318
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:15.5672,2.1939,7.5682,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 364
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:23.5669,2.1675,10.5014,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 504
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:34.5791,2.1939,10.6804,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 513
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:45.8961,2.1939,8.6942,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 418
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.1448,2.1939,10.6054,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 509
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:66.2479,2.1939,10.4635,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 503
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:77.3226,2.1939,7.4925,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 360
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:85.3696,2.1939,6.5463,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 314
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5461,2.1939,7.0289,45.7368/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 338
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.7945,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:9.9692,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:19.1439,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:28.3186,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:37.4932,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:46.6679,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.8426,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:65.0173,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:74.1919,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:83.3666,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5413,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 344
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/animation#t=2.1,2.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 164. Jumping and pole-vaulting"
+        ]
+      },
+      "height": 1720,
+      "width": 4804,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 286,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 286
+                },
+                "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1720,
+                "width": 4804,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-164-jumping-and-pole-vaulting.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
