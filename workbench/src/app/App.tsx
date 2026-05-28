@@ -2,7 +2,7 @@ import { Box, Flex, Text, TextField } from "@radix-ui/themes";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
-import { CANOPY_BASE_URL, DEFAULT_INFO_URL, IIIF_BASE_URL } from "../config/iiif";
+import { CANOPY_BASE_URL, DEFAULT_INFO_URL, IIIF_BASE_URL, THUMBNAILS_BASE_URL } from "../config/iiif";
 import { sanitizeIiifUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
 import { useAnnotationStore } from "../workbench/frames/useFrameList";
@@ -272,7 +272,7 @@ function App() {
     if (!frames.length || !dimensions || !slug) return;
 
     const manifestUrl = `${IIIF_BASE_URL}/${slug}.json`;
-    const thumbnailUrl = `${CANOPY_BASE_URL}/images/thumbnails/${slug}.gif`;
+    const thumbnailUrl = `${THUMBNAILS_BASE_URL}/${slug}.gif`;
     const plateNumber = activePlate?.metadata.find(
       (f) => f.label.trim().toLowerCase() === "plate number",
     )?.value;
