@@ -53,6 +53,9 @@ const VIEWER_OPTIONS = {
   showTitle: false,
   showIIIFBadge: false,
   informationPanel: {open: false, renderToggle: false},
+  openSeadragon: {
+    showNavigator: false,
+  },
 };
 
 const CAPTION_STYLE: React.CSSProperties = {
