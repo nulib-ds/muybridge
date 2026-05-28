@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 103. Turning and ascending stairs with a pitcher and goblet in hands"
+    ]
+  },
+  "height": 2343,
+  "width": 3522,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 532,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/45fba049-a5bf-41ad-a82d-81f7feb1bb92/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 532
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/45fba049-a5bf-41ad-a82d-81f7feb1bb92/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2343,
+            "width": 3522,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/45fba049-a5bf-41ad-a82d-81f7feb1bb92",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-103-turning-and-ascending-stairs-with-a-pitcher-and-goblet-in-hands-original.json"
+        }
+      ]
+    }
+  ]
+}

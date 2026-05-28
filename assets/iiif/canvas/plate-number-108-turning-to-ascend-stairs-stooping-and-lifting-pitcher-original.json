@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 108. Turning to ascend stairs, stooping and lifting pitcher"
+    ]
+  },
+  "height": 2196,
+  "width": 3847,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 457,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/59371e0a-4f4f-48ce-9357-16c3b1aeaa7a/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 457
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/59371e0a-4f4f-48ce-9357-16c3b1aeaa7a/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2196,
+            "width": 3847,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/59371e0a-4f4f-48ce-9357-16c3b1aeaa7a",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-108-turning-to-ascend-stairs-stooping-and-lifting-pitcher-original.json"
+        }
+      ]
+    }
+  ]
+}

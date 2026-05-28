@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 648. \"Hornet\" jumping over three horses"
+    ]
+  },
+  "height": 534,
+  "width": 611,
+  "duration": 1.5,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 611,
+    "height": 534,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-648-hornet-jumping-over-three-horses.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 611,
+              "height": 534
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:83.4848,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0,0.063"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:66.9362,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.063,0.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:50.3876,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.125,0.188"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:33.8389,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.188,0.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:17.2903,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.25,0.313"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:0.7417,0.7454,16.3613,22.8192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 534,
+            "width": 611
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.313,0.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:83.6126,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.375,0.438"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:67.0515,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.438,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:50.4904,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.5,0.563"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:33.9294,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.563,0.625"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:17.3683,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.625,0.688"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:0.8072,25.0269,15.9992,22.7852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 533,
+            "width": 598
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.688,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:83.6340,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.75,0.813"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:67.0931,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.813,0.875"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:50.5523,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.875,0.938"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:34.0115,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=0.938,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:17.4706,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1,1.063"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:0.9298,49.9547,15.7648,23.3634/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 547,
+            "width": 589
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.063,1.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:83.5061,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.125,1.188"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:66.9876,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.188,1.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:50.4692,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.25,1.313"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:33.9507,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.313,1.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:17.4322,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.375,1.438"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/7fd14e8d-4503-43d0-9762-db4bc2ecb852/pct:0.9137,74.7804,15.9565,23.6014/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 553,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-648-hornet-jumping-over-three-horses-frames.json#t=1.438,1.5"
+        }
+      ]
+    }
+  ]
+}

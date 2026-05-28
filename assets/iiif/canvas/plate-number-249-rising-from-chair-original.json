@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 249. Rising from chair"
+    ]
+  },
+  "height": 1817,
+  "width": 4394,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 331,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/8feb1e1d-6ec1-49f8-ac21-df5a89a34ffe/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 331
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/8feb1e1d-6ec1-49f8-ac21-df5a89a34ffe/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1817,
+            "width": 4394,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/8feb1e1d-6ec1-49f8-ac21-df5a89a34ffe",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-249-rising-from-chair-original.json"
+        }
+      ]
+    }
+  ]
+}

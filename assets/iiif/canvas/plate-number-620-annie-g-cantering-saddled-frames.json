@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 620. \"Annie G.\" cantering, saddled"
+    ]
+  },
+  "height": 572,
+  "width": 711,
+  "duration": 2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 711,
+    "height": 572,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-620-annie-g-cantering-saddled.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 711,
+              "height": 572
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:0.8358,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0,0.083"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:17.2351,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.083,0.167"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:33.6345,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.167,0.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:50.0339,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.25,0.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:66.4333,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.333,0.417"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:82.8326,0.6962,16.0605,28.4436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 711
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.417,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:0.7094,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.5,0.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:17.1347,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.583,0.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:33.5601,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.667,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:49.9854,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.75,0.833"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:66.4107,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.833,0.917"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:82.8360,31.9771,16.0865,28.4061/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 712
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=0.917,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:0.5997,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1,1.083"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:8.8461,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.083,1.167"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:17.0925,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.167,1.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:25.3389,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.25,1.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:33.5853,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.333,1.417"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:41.8317,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.417,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:50.0781,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.5,1.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:58.3245,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.583,1.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:66.5709,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.667,1.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:74.8173,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.75,1.833"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:83.0637,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.833,1.917"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/708b6213-a85a-4cab-aa48-57a3f3c53791/pct:91.3101,62.6580,7.8398,36.7680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-620-annie-g-cantering-saddled-frames.json#t=1.917,2"
+        }
+      ]
+    }
+  ]
+}

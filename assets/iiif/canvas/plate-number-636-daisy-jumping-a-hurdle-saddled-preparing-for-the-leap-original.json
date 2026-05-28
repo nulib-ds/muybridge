@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 636. \"Daisy\" jumping a hurdle, saddled, preparing for the leap"
+    ]
+  },
+  "height": 2585,
+  "width": 3138,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 659,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 659
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2585,
+            "width": 3138,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap-original.json"
+        }
+      ]
+    }
+  ]
+}

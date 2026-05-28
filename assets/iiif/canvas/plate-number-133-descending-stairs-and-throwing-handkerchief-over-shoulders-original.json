@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 133. Descending stairs and throwing handkerchief over shoulders"
+    ]
+  },
+  "height": 2419,
+  "width": 3273,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 591,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/15d58871-b8ad-4ef0-928b-6dcc4e9395dd/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 591
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/15d58871-b8ad-4ef0-928b-6dcc4e9395dd/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2419,
+            "width": 3273,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/15d58871-b8ad-4ef0-928b-6dcc4e9395dd",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-133-descending-stairs-and-throwing-handkerchief-over-shoulders-original.json"
+        }
+      ]
+    }
+  ]
+}

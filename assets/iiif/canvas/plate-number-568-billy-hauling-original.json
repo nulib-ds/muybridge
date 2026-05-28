@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 568. \"Billy\" hauling"
+    ]
+  },
+  "height": 2675,
+  "width": 3178,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 673,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/3a3cc33e-f7d1-4cba-8821-70d74dbe8fc2/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 673
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/3a3cc33e-f7d1-4cba-8821-70d74dbe8fc2/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2675,
+            "width": 3178,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/3a3cc33e-f7d1-4cba-8821-70d74dbe8fc2",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-568-billy-hauling-original.json"
+        }
+      ]
+    }
+  ]
+}

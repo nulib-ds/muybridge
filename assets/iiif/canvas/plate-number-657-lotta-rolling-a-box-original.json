@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 657. \"Lotta\" rolling a box"
+    ]
+  },
+  "height": 2152,
+  "width": 4318,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 399,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 399
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2152,
+            "width": 4318,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/ec1a93c0-6fc7-4270-b72e-f218dc288f52",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-original.json"
+        }
+      ]
+    }
+  ]
+}

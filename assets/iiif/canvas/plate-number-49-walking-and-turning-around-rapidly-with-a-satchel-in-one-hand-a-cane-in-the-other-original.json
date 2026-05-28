@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 49. Walking and turning around rapidly with a satchel in one hand, a cane in the other"
+    ]
+  },
+  "height": 2966,
+  "width": 2760,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 860,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/9229a628-adb4-4a34-baef-beecd8eec7bf/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 860
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/9229a628-adb4-4a34-baef-beecd8eec7bf/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2966,
+            "width": 2760,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/9229a628-adb4-4a34-baef-beecd8eec7bf",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-49-walking-and-turning-around-rapidly-with-a-satchel-in-one-hand-a-cane-in-the-other-original.json"
+        }
+      ]
+    }
+  ]
+}

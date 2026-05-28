@@ -106,6 +106,29 @@ async function writeManifestToDisk(root: string, slug: string, contents: string)
   };
 }
 
+const PRESENTATION_CONTEXT = "https://iiif.io/api/presentation/3/context.json";
+const CANVAS_SUFFIXES = ["frames", "original"] as const;
+
+async function writeCanvasToDisk(root: string, slug: string, manifestJson: string): Promise<void> {
+  const directory = resolve(root, "..", "assets", "iiif", "canvas");
+  await mkdir(directory, { recursive: true });
+  let manifest: Record<string, unknown>;
+  try {
+    manifest = JSON.parse(manifestJson);
+  } catch {
+    return;
+  }
+  const canvases = manifest.items as Array<Record<string, unknown>> | undefined;
+  if (!Array.isArray(canvases)) return;
+  for (let i = 0; i < CANVAS_SUFFIXES.length; i++) {
+    const canvas = canvases[i];
+    if (!canvas) continue;
+    const fileName = `${slug}-${CANVAS_SUFFIXES[i]}.json`;
+    const standalone = { "@context": PRESENTATION_CONTEXT, ...canvas };
+    await writeFile(resolve(directory, fileName), JSON.stringify(standalone, null, 2), "utf-8");
+  }
+}
+
 interface CollectionItem {
   id: string;
   type: "Manifest";
@@ -183,15 +206,15 @@ async function handleManifestRequest(
         res.end("Empty manifest payload");
         return true;
       }
-      const { filePath, publicPath, fileName } = await writeManifestToDisk(
-        root,
-        slug,
-        body.toString("utf-8"),
-      );
+      const bodyStr = body.toString("utf-8");
+      const { filePath, publicPath, fileName } = await writeManifestToDisk(root, slug, bodyStr);
       res.statusCode = 201;
       res.setHeader("Content-Type", "application/json");
       res.end(JSON.stringify({ ok: true, filePath, fileName, publicPath }));
-      // Rebuild collection after response is sent — non-blocking for the client.
+      // Write canvas files and rebuild collection — non-blocking for the client.
+      writeCanvasToDisk(root, slug, bodyStr).catch((error) => {
+        console.error("Failed to write canvas files", error);
+      });
       rebuildCollection(root).catch((error) => {
         console.error("Failed to rebuild IIIF collection", error);
       });

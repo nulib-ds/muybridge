@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 53. Walking, scattering flowers and turning around"
+    ]
+  },
+  "height": 661,
+  "width": 294,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 294,
+    "height": 661,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-53-walking-scattering-flowers-and-turning-around.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 294,
+              "height": 661
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:0.6036,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:8.1992,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:15.7948,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:23.3903,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:30.9608,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:38.5563,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:46.1519,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:53.7475,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:61.3431,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:68.9386,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:76.5091,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:84.1046,1.7241,7.3944,30.8015/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 294
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:0.6036,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:8.0986,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:15.6187,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:23.1137,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:30.6087,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:38.1288,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:45.6237,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:53.1439,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:60.6388,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:68.1338,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:75.6539,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:83.1489,34.7623,7.2938,30.8947/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:0.5282,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:8.0734,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:15.6439,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:23.2143,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:30.7847,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:38.3551,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:45.9256,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:53.4960,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:61.0664,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:68.6368,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:76.2072,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31fd900f-e2c7-43e3-a3b8-449c994a23d4/pct:83.7525,67.6608,7.3692,31.4073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 674,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-53-walking-scattering-flowers-and-turning-around-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

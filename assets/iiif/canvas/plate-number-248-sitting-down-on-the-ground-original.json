@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 248. Sitting down on the ground"
+    ]
+  },
+  "height": 2061,
+  "width": 4101,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 402,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/3c5b4a44-4514-4544-86fb-81019a73d81a/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 402
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/3c5b4a44-4514-4544-86fb-81019a73d81a/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2061,
+            "width": 4101,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/3c5b4a44-4514-4544-86fb-81019a73d81a",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-248-sitting-down-on-the-ground-original.json"
+        }
+      ]
+    }
+  ]
+}

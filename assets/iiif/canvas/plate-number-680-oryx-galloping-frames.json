@@ -1,0 +1,228 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 680. Oryx galloping"
+    ]
+  },
+  "height": 792,
+  "width": 865,
+  "duration": 1,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 865,
+    "height": 792,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-680-oryx-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 865,
+              "height": 792
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:1.1888,5.3059,19.3268,43.9787/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 865
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:20.8282,5.3059,19.3268,43.9787/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 865
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:40.4676,5.3059,19.3268,43.9787/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 865
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:60.1071,5.3059,19.3268,43.9787/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 865
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:79.7465,5.3059,19.3268,43.9787/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 865
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:1.3171,53.0334,19.0882,45.5262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 819,
+            "width": 855
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:20.9190,53.0334,19.0882,45.5262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 819,
+            "width": 855
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:40.5208,53.0334,19.0882,45.5262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 819,
+            "width": 855
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:60.1226,53.0334,19.0882,45.5262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 819,
+            "width": 855
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:79.7244,53.0334,19.0882,45.5262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 819,
+            "width": 855
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-frames.json#t=0.9,1"
+        }
+      ]
+    }
+  ]
+}

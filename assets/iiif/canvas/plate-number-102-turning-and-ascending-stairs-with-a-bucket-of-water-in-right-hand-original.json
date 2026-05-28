@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 102. Turning and ascending stairs with a bucket of water in right hand"
+    ]
+  },
+  "height": 2451,
+  "width": 3394,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 578,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/bb0f71a1-187a-46c1-92a7-88de230411ee/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 578
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/bb0f71a1-187a-46c1-92a7-88de230411ee/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2451,
+            "width": 3394,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/bb0f71a1-187a-46c1-92a7-88de230411ee",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-102-turning-and-ascending-stairs-with-a-bucket-of-water-in-right-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 100. Turning and ascending stairs"
+    ]
+  },
+  "height": 2451,
+  "width": 3776,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 519,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/738a02e5-dfe3-42a9-a50a-7f1cd9aee805/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 519
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/738a02e5-dfe3-42a9-a50a-7f1cd9aee805/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2451,
+            "width": 3776,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/738a02e5-dfe3-42a9-a50a-7f1cd9aee805",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-100-turning-and-ascending-stairs-original.json"
+        }
+      ]
+    }
+  ]
+}

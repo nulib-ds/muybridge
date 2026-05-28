@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 242. Placing chair, sitting and flirting a fan"
+    ]
+  },
+  "height": 1815,
+  "width": 4560,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 318,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/de8c480f-59b8-49fd-a62a-26ca6d8be355/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 318
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/de8c480f-59b8-49fd-a62a-26ca6d8be355/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1815,
+            "width": 4560,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/de8c480f-59b8-49fd-a62a-26ca6d8be355",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-242-placing-chair-sitting-and-flirting-a-fan-original.json"
+        }
+      ]
+    }
+  ]
+}

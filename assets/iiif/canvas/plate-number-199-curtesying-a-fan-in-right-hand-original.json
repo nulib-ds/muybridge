@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 199. Curtesying, a fan in right hand"
+    ]
+  },
+  "height": 2523,
+  "width": 3768,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 536,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/1f7360b1-1c64-4f5e-a1f9-dc5f5f2d6cfb/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 536
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/1f7360b1-1c64-4f5e-a1f9-dc5f5f2d6cfb/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2523,
+            "width": 3768,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/1f7360b1-1c64-4f5e-a1f9-dc5f5f2d6cfb",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-199-curtesying-a-fan-in-right-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

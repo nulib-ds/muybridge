@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 128. Descending stairs with hands clasped"
+    ]
+  },
+  "height": 2063,
+  "width": 4120,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 401,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/df224c32-fe7e-44c5-9a2e-92791b4faf3e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 401
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/df224c32-fe7e-44c5-9a2e-92791b4faf3e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2063,
+            "width": 4120,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/df224c32-fe7e-44c5-9a2e-92791b4faf3e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-128-descending-stairs-with-hands-clasped-original.json"
+        }
+      ]
+    }
+  ]
+}

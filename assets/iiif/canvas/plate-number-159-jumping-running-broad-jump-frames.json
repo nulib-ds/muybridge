@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 159. Jumping, running broad jump"
+    ]
+  },
+  "height": 576,
+  "width": 374,
+  "duration": 3,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 374,
+    "height": 576,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-159-jumping-running-broad-jump.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 374,
+              "height": 576
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:0.9216,3.3454,7.8734,45.8220/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 576,
+            "width": 374
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0,0.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:9.2347,3.5300,7.6159,45.8220/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 576,
+            "width": 361
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.125,0.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:17.5129,3.8077,7.7999,44.7112/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 562,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.25,0.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:25.6974,3.2002,7.8568,45.3230/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 570,
+            "width": 373
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.375,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:33.6806,3.1766,7.9184,45.1729/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 568,
+            "width": 376
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.5,0.625"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:42.1409,3.1793,7.8139,44.6615/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.625,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:50.2710,3.6907,7.9494,44.1501/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 555,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.75,0.875"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:58.7624,3.3503,7.7237,44.4905/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 559,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=0.875,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:66.8925,3.3498,7.8830,44.6515/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 374
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1,1.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:75.0226,3.6907,7.9494,44.8319/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 564,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.125,1.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:83.3333,4.5462,7.7529,43.8390/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 551,
+            "width": 368
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.25,1.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:91.4182,4.7135,7.6784,43.2978/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 544,
+            "width": 364
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.375,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:0.9688,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.5,1.625"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:9.1836,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.625,1.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:17.3984,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.75,1.875"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:25.6131,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=1.875,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:33.8279,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2,2.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:42.0426,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.125,2.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:50.2574,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.25,2.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:58.4722,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.375,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:66.6869,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.5,2.625"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:74.9017,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.625,2.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:83.1164,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.75,2.875"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:91.3312,53.0112,7.9407,45.5985/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 377
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-159-jumping-running-broad-jump-frames.json#t=2.875,3"
+        }
+      ]
+    }
+  ]
+}

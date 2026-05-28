@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 252. Kneeling on right knee and scrubbing the floor"
+    ]
+  },
+  "height": 1962,
+  "width": 4631,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 339,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 339
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1962,
+            "width": 4631,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/d074b267-80e5-4811-b752-169a4fbfc0a3",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-252-kneeling-on-right-knee-and-scrubbing-the-floor-original.json"
+        }
+      ]
+    }
+  ]
+}

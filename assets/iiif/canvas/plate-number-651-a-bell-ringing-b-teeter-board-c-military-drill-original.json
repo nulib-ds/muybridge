@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 651. A: Bell ringing. B: Teeter board. C: Military drill"
+    ]
+  },
+  "height": 2110,
+  "width": 4164,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 405,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/b958fd69-93b2-4c2f-a170-b20c4a976ffe/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 405
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/b958fd69-93b2-4c2f-a170-b20c4a976ffe/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2110,
+            "width": 4164,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/b958fd69-93b2-4c2f-a170-b20c4a976ffe",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-651-a-bell-ringing-b-teeter-board-c-military-drill-original.json"
+        }
+      ]
+    }
+  ]
+}

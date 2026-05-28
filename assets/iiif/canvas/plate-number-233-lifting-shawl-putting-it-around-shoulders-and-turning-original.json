@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 233. Lifting shawl, putting it around shoulders and turning"
+    ]
+  },
+  "height": 1886,
+  "width": 4624,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 326,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e5ffc37b-1d65-419f-8c07-5689424e210d/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 326
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e5ffc37b-1d65-419f-8c07-5689424e210d/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1886,
+            "width": 4624,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e5ffc37b-1d65-419f-8c07-5689424e210d",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-233-lifting-shawl-putting-it-around-shoulders-and-turning-original.json"
+        }
+      ]
+    }
+  ]
+}

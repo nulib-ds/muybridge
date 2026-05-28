@@ -1,0 +1,336 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 9. Walking"
+    ]
+  },
+  "height": 898,
+  "width": 464,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 464,
+    "height": 898,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-9-walking.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 464,
+              "height": 898
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:0.9664,0.7822,12.0327,46.7645/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 898,
+            "width": 464
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:13.3291,0.8820,11.9448,46.8110/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 899,
+            "width": 461
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:25.7063,0.8030,11.8922,47.1325/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 905,
+            "width": 459
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:38.1096,0.8425,11.8332,47.1720/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 906,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:50.4539,1.0005,11.8332,46.9745/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 902,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:62.7785,1.0005,11.8725,46.8955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 900,
+            "width": 458
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:75.1818,0.9215,11.9708,47.1325/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 905,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:87.6833,1.0005,11.7153,47.3301/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 452
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:0.9684,50.8864,11.8373,47.7260/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 916,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:13.1469,51.0523,11.9893,47.5999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 463
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:25.6017,50.9955,11.7969,47.9318/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 920,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:37.9074,51.2341,11.8222,47.9659/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 921,
+            "width": 456
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:50.2554,51.3023,11.9240,47.8977/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 920,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:62.6152,51.5475,11.9614,47.5806/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:75.1139,51.4002,11.8459,47.7164/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 916,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe7a2bcf-446a-4251-a0bb-b08e1716ee6d/pct:87.3995,51.4984,11.9192,47.5200/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-9-walking-frames.json#t=1.5,1.6"
+        }
+      ]
+    }
+  ]
+}

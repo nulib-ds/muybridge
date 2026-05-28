@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 145. Descending stairs and turning with a bucket of water in right hand"
+    ]
+  },
+  "height": 2537,
+  "width": 3208,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 633,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e9bfb4c7-e47a-498d-8efa-ea4bec114b34/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 633
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e9bfb4c7-e47a-498d-8efa-ea4bec114b34/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2537,
+            "width": 3208,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e9bfb4c7-e47a-498d-8efa-ea4bec114b34",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-145-descending-stairs-and-turning-with-a-bucket-of-water-in-right-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

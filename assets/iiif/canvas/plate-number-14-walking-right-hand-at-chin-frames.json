@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 14. Walking, right hand at chin"
+    ]
+  },
+  "height": 607,
+  "width": 320,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 320,
+    "height": 607,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-14-walking-right-hand-at-chin.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 320,
+              "height": 607
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:0.9091,2.1614,7.8930,30.4628/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 607,
+            "width": 320
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:9.1715,2.0473,7.7138,30.1433/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 313
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:17.2660,1.8419,7.8146,29.8467/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:25.6740,1.5453,7.7138,30.3943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 605,
+            "width": 313
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:33.7573,1.2943,7.7362,30.7138/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 612,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:41.8966,1.2943,7.8370,30.7594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 613,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:50.0582,1.2715,7.9489,30.7822/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 613,
+            "width": 323
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:58.1863,1.3627,8.0721,30.6681/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 611,
+            "width": 328
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:66.4487,1.4084,7.8034,30.6453/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 610,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:74.6216,1.3856,7.9266,30.5769/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 609,
+            "width": 322
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:82.8952,1.6594,7.9042,30.4171/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 606,
+            "width": 321
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:91.1129,2.0701,7.9042,29.9608/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 597,
+            "width": 321
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:0.9696,34.7658,7.0869,31.6493/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 630,
+            "width": 288
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:10.7098,34.4464,5.7098,31.5581/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 629,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:18.9051,34.1954,5.4635,31.8775/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 222
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:26.8764,34.3779,5.3739,31.5809/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 629,
+            "width": 218
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:34.9485,34.2867,5.4747,31.6721/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 222
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:42.8639,34.3323,5.8330,31.5352/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 237
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:51.1599,34.3779,5.6202,31.4440/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 626,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:59.4000,34.2638,5.7098,31.5124/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:67.6624,34.4464,5.4971,31.4440/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 626,
+            "width": 223
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:75.8688,34.3323,5.5531,31.5124/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 225
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:84.0305,34.4236,5.5867,31.1017/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 227
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:92.1138,34.1924,6.8553,30.8080/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 614,
+            "width": 278
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:1.1162,68.7670,7.2212,29.4359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 586,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:10.7557,68.4247,5.8106,30.0292/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 598,
+            "width": 236
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:18.9062,68.3562,5.4859,29.9836/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 597,
+            "width": 223
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:26.8999,68.7213,5.3515,29.5500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 217
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:34.9384,68.3791,5.4859,29.6185/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 590,
+            "width": 223
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:42.8986,68.2650,5.8442,29.8923/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 237
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:51.2170,68.2193,5.8106,29.8467/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 236
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:59.3898,68.3334,5.7098,29.7097/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 592,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:67.6747,68.3791,5.4747,29.7554/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 593,
+            "width": 222
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:75.8811,68.3334,5.3963,29.7782/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 593,
+            "width": 219
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:83.8525,67.9455,5.7882,30.0292/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 598,
+            "width": 235
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/110a5920-40ac-46f0-aa6f-f2c7e13e9c4f/pct:92.2268,67.3522,6.7734,30.8735/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 615,
+            "width": 275
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-14-walking-right-hand-at-chin-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

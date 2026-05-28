@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 654. \"Buckskin\" walking, lame right front foot"
+    ]
+  },
+  "height": 2071,
+  "width": 4121,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 402,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/77058ea3-642b-4c59-98e2-91ee91cce9d6/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 402
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/77058ea3-642b-4c59-98e2-91ee91cce9d6/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2071,
+            "width": 4121,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/77058ea3-642b-4c59-98e2-91ee91cce9d6",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-654-buckskin-walking-lame-right-front-foot-original.json"
+        }
+      ]
+    }
+  ]
+}

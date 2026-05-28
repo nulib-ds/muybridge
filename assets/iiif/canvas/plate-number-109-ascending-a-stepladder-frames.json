@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 109. Ascending a stepladder"
+    ]
+  },
+  "height": 914,
+  "width": 319,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 319,
+    "height": 914,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-109-ascending-a-stepladder.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 319,
+              "height": 914
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:0.5319,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:8.8618,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:17.1916,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:25.5215,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:33.8513,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:42.1811,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:50.5110,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:58.8408,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:67.1707,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:75.5005,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:83.8304,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:92.1602,2.4332,8.1258,44.4851/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:0.4820,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:8.5803,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:16.6787,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:24.7771,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:32.8755,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:40.9738,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:49.0722,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:57.1706,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:65.2690,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:73.3673,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:81.4657,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a1000f3-f1f8-437e-8556-1154b0c63d74/pct:89.5641,51.1134,7.8943,47.0108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 966,
+            "width": 309
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-109-ascending-a-stepladder-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

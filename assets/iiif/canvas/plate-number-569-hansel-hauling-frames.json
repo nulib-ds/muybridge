@@ -1,0 +1,336 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 569. \"Hansel\" hauling"
+    ]
+  },
+  "height": 587,
+  "width": 791,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 791,
+    "height": 587,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-569-hansel-hauling.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 791,
+              "height": 587
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:1.1329,1.9200,23.6975,22.6133/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 587,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:25.2497,1.9200,23.6975,22.6133/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 587,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:49.3665,1.9200,23.6975,22.6133/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 587,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:73.4834,1.9200,23.6975,22.6133/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 587,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:1.0914,26.4267,23.8427,22.9333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 796
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:25.3534,26.4267,23.8427,22.9333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 796
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:49.6153,26.4267,23.8427,22.9333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 796
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:73.8773,26.4267,23.8427,22.9333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 796
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:0.7597,51.2533,24.4647,23.2000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 817
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:25.2244,51.2533,24.4647,23.2000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 817
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:49.6890,51.2533,24.4647,23.2000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 817
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:74.1537,51.2533,24.4647,23.2000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 817
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:0.7390,76.4800,24.5061,22.1333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 575,
+            "width": 818
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:25.2451,76.4800,24.5061,22.1333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 575,
+            "width": 818
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:49.7512,76.4800,24.5061,22.1333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 575,
+            "width": 818
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/64f658d0-c539-4554-b852-324cea5642b4/pct:74.2573,76.4800,24.5061,22.1333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 575,
+            "width": 818
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-569-hansel-hauling-frames.json#t=1.5,1.6"
+        }
+      ]
+    }
+  ]
+}

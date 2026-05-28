@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 157. Jumping, running twist high jump"
+    ]
+  },
+  "height": 580,
+  "width": 387,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 387,
+    "height": 580,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-157-jumping-running-twist-high-jump.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 387,
+              "height": 580
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:0.4179,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:8.7345,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:17.0511,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:25.3676,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:33.6842,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:42.0007,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:50.3173,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:58.6338,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:66.9504,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:75.2670,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:83.5835,1.2900,8.1687,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:91.9001,1.2900,8.0727,45.9999/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 580,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:0.4203,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:8.7370,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:17.0536,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:25.3702,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:33.6869,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:42.0035,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:50.3202,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:58.6368,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:66.9534,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:75.2701,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:83.5867,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/4c04f805-55ab-41cf-a6d5-5b34520194ea/pct:91.9034,50.7994,8.0632,47.5451/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 382
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-157-jumping-running-twist-high-jump-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

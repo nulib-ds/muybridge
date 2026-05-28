@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 188. Dancing (fancy)"
+    ]
+  },
+  "height": 2846,
+  "width": 6337,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 359,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/941afdb8-a9d7-4b47-8a8c-41f0023df1c7/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 359
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/941afdb8-a9d7-4b47-8a8c-41f0023df1c7/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2846,
+            "width": 6337,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/941afdb8-a9d7-4b47-8a8c-41f0023df1c7",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-188-dancing-fancy-original.json"
+        }
+      ]
+    }
+  ]
+}

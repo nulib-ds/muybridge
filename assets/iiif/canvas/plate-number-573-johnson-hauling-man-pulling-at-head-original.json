@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 573. \"Johnson\" hauling, man pulling at head"
+    ]
+  },
+  "height": 2165,
+  "width": 3954,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 438,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/75eb92fa-8da6-4240-bbc9-b6de02404bf5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 438
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/75eb92fa-8da6-4240-bbc9-b6de02404bf5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2165,
+            "width": 3954,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/75eb92fa-8da6-4240-bbc9-b6de02404bf5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-573-johnson-hauling-man-pulling-at-head-original.json"
+        }
+      ]
+    }
+  ]
+}

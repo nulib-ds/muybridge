@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 680. Oryx galloping"
+    ]
+  },
+  "height": 1800,
+  "width": 4478,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 322,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 322
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1800,
+            "width": 4478,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-680-oryx-galloping-original.json"
+        }
+      ]
+    }
+  ]
+}

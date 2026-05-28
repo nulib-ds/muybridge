@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 197. Man and woman dancing a waltz"
+    ]
+  },
+  "height": 3058,
+  "width": 2858,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 856,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/6c874237-4168-4031-9e3e-17d2f3e09d68/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 856
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/6c874237-4168-4031-9e3e-17d2f3e09d68/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3058,
+            "width": 2858,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/6c874237-4168-4031-9e3e-17d2f3e09d68",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-197-man-and-woman-dancing-a-waltz-original.json"
+        }
+      ]
+    }
+  ]
+}

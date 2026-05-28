@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 25. Walking with shoes on"
+    ]
+  },
+  "height": 800,
+  "width": 352,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 352,
+    "height": 800,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-25-walking-with-shoes-on.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 352,
+              "height": 800
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:0.4747,0.0906,7.8917,46.9499/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 800,
+            "width": 352
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:8.6314,0.1416,8.1526,46.8716/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 798,
+            "width": 364
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:17.0184,0.1273,8.0410,46.9102/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 799,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:25.3040,0.1549,8.0675,46.8950/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 799,
+            "width": 360
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:33.7019,0.1058,7.9571,47.1042/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 802,
+            "width": 355
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:41.9526,0.2608,8.0402,47.0557/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:50.3450,0.2224,7.8223,47.3517/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 806,
+            "width": 349
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:58.6222,0.3377,7.7929,47.0827/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 802,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:66.9963,0.7989,7.8428,46.8136/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 797,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:75.2353,1.1364,7.9407,46.6684/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 795,
+            "width": 354
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:83.5837,1.1700,7.7640,46.6754/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 795,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:91.6942,1.5385,7.7769,46.5274/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 792,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:0.4887,50.5020,7.7852,47.2413/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 805,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:8.6102,50.6339,8.0303,47.2595/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 805,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:17.0361,50.6391,7.8641,47.3080/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 806,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:25.3181,50.6242,7.8393,47.9173/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 816,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:33.6848,50.9504,7.8026,47.7011/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 812,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:41.8849,51.0350,7.9530,47.7749/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 814,
+            "width": 355
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:50.2455,51.1133,7.9363,47.9579/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 354
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:58.5935,51.1877,7.9670,48.0040/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 818,
+            "width": 355
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:66.9519,51.2866,7.8385,48.0499/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 818,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:75.2427,51.4259,8.0196,47.8374/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 815,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:83.5517,51.6095,7.7058,47.6966/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 812,
+            "width": 344
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6b9e4be5-769b-4fcd-a373-e438ac629479/pct:91.6754,51.6095,8.1299,47.6088/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 811,
+            "width": 363
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-25-walking-with-shoes-on-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

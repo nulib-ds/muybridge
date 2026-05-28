@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 84. Ascending an incline with a bucket of water in right hand"
+    ]
+  },
+  "height": 1797,
+  "width": 4372,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 329,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/d0dcf427-cc0c-40c2-9882-bc0fb25f6179/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 329
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/d0dcf427-cc0c-40c2-9882-bc0fb25f6179/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1797,
+            "width": 4372,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/d0dcf427-cc0c-40c2-9882-bc0fb25f6179",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-84-ascending-an-incline-with-a-bucket-of-water-in-right-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

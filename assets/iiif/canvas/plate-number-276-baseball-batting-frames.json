@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 276. Baseball, batting"
+    ]
+  },
+  "height": 683,
+  "width": 449,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 449,
+    "height": 683,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-276-baseball-batting.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 449,
+              "height": 683
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:1.5941,2.8289,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0,0.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:13.8158,2.8289,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.067,0.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:25.5055,2.6604,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.133,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:37.6512,2.6266,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.2,0.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:49.4739,2.5255,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.267,0.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:61.5056,2.4244,11.3613,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 449
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.333,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:73.4993,2.1547,13.1660,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 520
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.4,0.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:87.2027,2.2895,11.7603,30.6691/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 683,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.467,0.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:1.5688,35.4737,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.533,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:13.3350,35.4737,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.6,0.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:25.5061,35.3839,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.667,0.733"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:37.6265,35.4288,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.733,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:49.6194,35.0692,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.8,0.867"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:61.4548,35.0018,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.867,0.933"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:73.4738,35.2715,12.9253,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=0.933,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:87.3988,35.4737,11.4626,30.0853/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 670,
+            "width": 453
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1,1.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:1.6717,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.067,1.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:13.6710,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.133,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:25.6702,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.2,1.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:37.6694,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.267,1.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:49.6687,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.333,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:61.6679,68.1032,11.4932,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 454
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.4,1.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:73.6671,68.1032,13.3549,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.467,1.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/47520d1d-6d2d-45fc-9280-ea0d30555da9/pct:87.4331,68.1369,11.7211,29.5315/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 658,
+            "width": 463
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-276-baseball-batting-frames.json#t=1.533,1.6"
+        }
+      ]
+    }
+  ]
+}

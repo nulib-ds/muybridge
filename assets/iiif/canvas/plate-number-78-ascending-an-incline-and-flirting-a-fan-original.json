@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 78. Ascending an incline and flirting a fan"
+    ]
+  },
+  "height": 2119,
+  "width": 3864,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 439,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 439
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2119,
+            "width": 3864,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-original.json"
+        }
+      ]
+    }
+  ]
+}

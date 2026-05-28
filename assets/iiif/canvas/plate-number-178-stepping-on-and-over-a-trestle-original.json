@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 178. Stepping on and over a trestle"
+    ]
+  },
+  "height": 1832,
+  "width": 4741,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 309,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 309
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1832,
+            "width": 4741,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/16a21388-8a61-48e1-b5ca-18f39b271a6a",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-178-stepping-on-and-over-a-trestle-original.json"
+        }
+      ]
+    }
+  ]
+}

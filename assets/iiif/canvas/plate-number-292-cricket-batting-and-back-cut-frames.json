@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 292. Cricket, batting and back cut"
+    ]
+  },
+  "height": 719,
+  "width": 362,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 362,
+    "height": 719,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-292-cricket-batting-and-back-cut.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 362,
+              "height": 719
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:0.8359,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:9.1240,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:17.4120,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:25.7001,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:33.9882,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:42.2763,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:50.5644,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:58.8525,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:67.1406,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:75.4287,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:83.7168,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:92.0049,0.9545,7.7128,46.1807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 362
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:0.9309,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:9.1856,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:17.4403,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:25.6950,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:33.9497,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:42.2044,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:50.4592,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:58.7139,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:66.9686,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:75.2233,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:83.4780,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e1649348-21d8-443d-875c-1ce773781b78/pct:91.7328,50.8021,7.6368,46.4098/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 358
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-292-cricket-batting-and-back-cut-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

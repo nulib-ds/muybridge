@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 256. Lying on the ground and reading"
+    ]
+  },
+  "height": 603,
+  "width": 209,
+  "duration": 5,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 209,
+    "height": 603,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-256-lying-on-the-ground-and-reading.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 209,
+              "height": 603
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:0.7409,2.5121,4.7682,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 209
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0,0.139"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:6.1027,2.5121,4.7682,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 209
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.139,0.278"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:11.4646,2.5121,4.7682,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 209
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.278,0.417"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:16.8264,2.5121,4.7682,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 209
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.417,0.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:22.1883,2.5121,5.5439,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 243
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.556,0.694"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:28.2625,2.4435,6.5096,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 285
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.694,0.833"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:35.2839,2.5130,6.5729,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 288
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.833,0.972"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:42.3581,2.3749,8.9159,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 391
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=0.972,1.111"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:51.7885,2.5807,11.4013,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 499
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.111,1.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:63.6251,2.6150,11.1797,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 490
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.25,1.389"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:75.2718,2.7522,11.5438,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 506
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.389,1.528"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:87.1085,2.6493,11.9871,29.8342/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 525
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.528,1.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:0.6825,35.7364,4.7915,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 210
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.667,1.806"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:6.0676,35.7364,4.7915,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 210
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.806,1.944"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:11.4526,35.7364,4.7915,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 210
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=1.944,2.083"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:16.8377,35.7364,4.7915,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 210
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.083,2.222"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:22.2227,35.7364,5.4247,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 238
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.222,2.361"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:28.0933,35.7364,6.6489,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 291
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.361,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:35.1670,35.5078,6.5223,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 286
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.5,2.639"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:42.2621,35.5535,9.0974,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 398
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.639,2.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:51.8262,35.7364,11.2926,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 495
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.778,2.917"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:63.6280,36.1936,11.2504,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=2.917,3.056"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:75.3242,36.6051,11.4615,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.056,3.194"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:87.1894,36.8337,11.8414,29.1255/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 519
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.194,3.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:0.5981,68.4283,4.8548,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 213
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.333,3.472"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:6.0464,68.4283,4.8548,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 213
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.472,3.611"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:11.4948,68.4283,4.8548,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 213
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.611,3.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:16.6477,68.4740,4.8548,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 213
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.75,3.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:22.1383,68.3826,5.2347,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=3.889,4.028"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:27.8400,68.4283,6.7334,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.028,4.167"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:35.1036,68.3369,6.6912,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 293
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.167,4.306"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:42.1336,68.2454,9.0552,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 397
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.306,4.444"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:51.8050,68.5198,11.3349,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 496
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.444,4.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:63.5848,68.6569,11.3560,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 497
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.583,4.722"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:75.5353,68.7941,11.2504,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.722,4.861"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20dda298-da23-45ae-855a-4deeacb612e8/pct:87.2237,68.9154,11.6515,30.4972/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 510
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-256-lying-on-the-ground-and-reading-frames.json#t=4.861,5"
+        }
+      ]
+    }
+  ]
+}

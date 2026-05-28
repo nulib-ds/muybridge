@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 579. \"Elberon\" walking, saddled"
+    ]
+  },
+  "height": 512,
+  "width": 588,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 588,
+    "height": 512,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-579-elberon-walking-saddled.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 588,
+              "height": 512
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:0.8881,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:17.3123,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:33.7364,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:50.1606,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:66.5847,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:83.0089,1.8676,15.7036,21.4057/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 512,
+            "width": 588
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:0.8679,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:17.2315,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:33.5951,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:49.9587,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:66.3223,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:82.6859,25.5499,15.6430,20.9631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 501,
+            "width": 586
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:0.7670,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:8.9781,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:17.1891,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:25.4002,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:33.6113,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:41.8223,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:50.0334,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:58.2445,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:66.4555,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:74.6666,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:82.8777,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:91.0887,48.5681,7.7307,24.1249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:0.8467,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:9.0560,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:17.2652,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:25.4745,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:33.6838,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:41.8930,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:50.1023,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:58.3116,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:66.5209,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:74.7301,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:82.9394,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/efa93978-6c03-4123-8f70-f0faa94a37dd/pct:91.1487,74.8711,7.7823,23.6436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 566,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-579-elberon-walking-saddled-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

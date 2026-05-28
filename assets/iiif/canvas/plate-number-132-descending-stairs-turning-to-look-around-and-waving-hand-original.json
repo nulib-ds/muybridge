@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 132. Descending stairs, turning to look around and waving hand"
+    ]
+  },
+  "height": 1760,
+  "width": 4593,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 307,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e14d565a-0f4f-42d9-8388-87fba4c1638f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 307
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e14d565a-0f4f-42d9-8388-87fba4c1638f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1760,
+            "width": 4593,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e14d565a-0f4f-42d9-8388-87fba4c1638f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-132-descending-stairs-turning-to-look-around-and-waving-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 280. Baseball, catching"
+    ]
+  },
+  "height": 2496,
+  "width": 3262,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 612,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/959b8d17-b0b3-4936-a966-1a74a22b9f95/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 612
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/959b8d17-b0b3-4936-a966-1a74a22b9f95/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2496,
+            "width": 3262,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/959b8d17-b0b3-4936-a966-1a74a22b9f95",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-280-baseball-catching-original.json"
+        }
+      ]
+    }
+  ]
+}

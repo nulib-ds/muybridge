@@ -161,8 +161,10 @@ export function buildManifestFromFrames({
   const totalDuration = toTemporalValue(safeDuration);
   const frameDuration = frames.length ? safeDuration / frames.length : safeDuration;
   const manifestId = explicitManifestId ?? `urn:uuid:${createUuid()}`;
-  const animationCanvasId = `${manifestId}/canvas/animation`;
-  const staticCanvasId = `${manifestId}/canvas/static`;
+  const slug = manifestId.split("/").pop()!.replace(/\.json$/, "");
+  const iiifBase = manifestId.replace(/\/[^/]+$/, "");
+  const animationCanvasId = `${iiifBase}/canvas/${slug}-frames.json`;
+  const staticCanvasId = `${iiifBase}/canvas/${slug}-original.json`;
 
   const animationPageId = `${animationCanvasId}/page/1`;
   const annotations: IiifAnnotation[] = frames.map((frame, index) => {

@@ -1,0 +1,588 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 300. Football, drop kick"
+    ]
+  },
+  "height": 652,
+  "width": 292,
+  "duration": 3,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 292,
+    "height": 652,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-300-football-drop-kick.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 292,
+              "height": 652
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:86.2440,0.4787,12.6290,18.6370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 652,
+            "width": 292
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:73.9733,0.3898,11.7781,18.5481/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 649,
+            "width": 273
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:58.6573,0.4195,14.8682,18.6370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 652,
+            "width": 344
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:41.5499,0.4195,16.6147,18.5778/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 650,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:22.6960,0.4195,18.2269,18.6370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 652,
+            "width": 422
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:0.8416,0.4491,21.1827,18.4889/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 490
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:81.1387,20.6269,17.4208,18.4000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 644,
+            "width": 403
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:59.3290,20.5380,21.2722,18.4889/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 492
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:42.2217,20.5380,16.2565,18.1630/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 376
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:26.6370,20.3602,15.1369,18.4296/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 645,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:14.3215,20.4195,11.5542,18.2815/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 640,
+            "width": 267
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:0.6177,20.2713,13.2112,18.5778/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 650,
+            "width": 306
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:82.8404,40.4491,16.5252,18.2815/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 640,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:62.2400,40.5083,19.6600,17.9259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 627,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:41.8888,40.5083,19.6600,17.9259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 627,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:21.5377,40.5083,19.6600,17.9259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 627,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:1.1865,40.5083,19.6600,17.9259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 627,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:79.2130,60.1824,19.8839,19.4370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:59.3290,60.1824,19.8839,19.4370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:39.4451,60.1824,19.8839,19.4370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:19.5612,60.1824,19.8839,19.4370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 460
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:0.7521,60.1824,18.8091,19.4370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 435
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:90.8567,80.9824,8.1058,17.8074/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 623,
+            "width": 188
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:76.5259,80.9528,13.7934,17.7481/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 621,
+            "width": 319
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:60.8707,80.9528,15.1369,17.7481/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 621,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:50.7061,80.9528,10.2554,17.7481/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 621,
+            "width": 237
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:37.3851,81.1898,12.8081,17.4222/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 610,
+            "width": 297
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:19.6955,81.2787,17.2865,17.6296/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 617,
+            "width": 400
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:8.8579,81.3083,10.4346,17.6000/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 242
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/81db5ede-aae8-4caf-a267-1824dad8481a/pct:0.8416,81.2491,7.7028,17.5704/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 615,
+            "width": 178
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-300-football-drop-kick-frames.json#t=2.9,3"
+        }
+      ]
+    }
+  ]
+}

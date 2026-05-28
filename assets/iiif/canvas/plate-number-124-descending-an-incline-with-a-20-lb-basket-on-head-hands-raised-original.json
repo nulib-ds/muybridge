@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 124. Descending an incline with a 20-lb. basket on head, hands raised"
+    ]
+  },
+  "height": 2388,
+  "width": 3289,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 581,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/2f6eb74b-1077-41e7-ab35-28f5ee112168/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 581
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f6eb74b-1077-41e7-ab35-28f5ee112168/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2388,
+            "width": 3289,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/2f6eb74b-1077-41e7-ab35-28f5ee112168",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-124-descending-an-incline-with-a-20-lb-basket-on-head-hands-raised-original.json"
+        }
+      ]
+    }
+  ]
+}

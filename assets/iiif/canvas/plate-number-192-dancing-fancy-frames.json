@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 192. Dancing (fancy)"
+    ]
+  },
+  "height": 591,
+  "width": 350,
+  "duration": 4.8,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 350,
+    "height": 591,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-192-dancing-fancy.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 350,
+              "height": 591
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:1.4463,2.3112,7.9096,30.3544/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 591,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0,0.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:9.6723,2.0544,7.6836,30.5085/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 594,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.133,0.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:17.6723,2.0031,7.8644,30.5085/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 594,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.267,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:25.9661,2.1058,7.8418,30.2003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 588,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.4,0.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:34.1017,1.5922,7.8418,30.6112/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.533,0.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:42.3051,1.9517,7.6836,30.3030/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 590,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.667,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:50.3277,1.7463,7.7966,30.4571/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 593,
+            "width": 345
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.8,0.933"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:58.5537,1.7463,7.7514,30.3544/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 591,
+            "width": 343
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=0.933,1.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:66.6667,1.8490,7.7966,30.2517/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 589,
+            "width": 345
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.067,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:75.0056,2.0544,7.5706,29.8921/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 335
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.2,1.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:83.0734,2.4653,7.8192,29.4299/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.333,1.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:91.2994,2.6194,7.5932,29.1731/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 568,
+            "width": 336
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.467,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:1.3785,34.9255,7.9322,30.4058/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 592,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.6,1.733"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:9.5819,34.8228,7.7966,30.5598/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 345
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.733,1.867"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:17.6271,34.7201,7.9774,30.7653/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 599,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=1.867,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:25.8531,34.6687,7.9322,30.8166/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2,2.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:34.0113,34.6174,7.9322,30.8166/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 600,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.133,2.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:42.2147,34.5660,7.7514,30.8680/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 601,
+            "width": 343
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.267,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:50.3503,34.5146,7.8418,31.0221/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 604,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.4,2.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:58.5537,34.5146,7.7966,30.9194/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 345
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.533,2.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:66.6667,34.4119,7.9774,30.9707/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.667,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:75.0508,34.3606,7.6610,30.9707/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.8,2.933"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:83.0960,34.2578,7.8644,30.9707/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=2.933,3.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:91.3898,34.1551,7.5480,30.9194/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 334
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.067,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:1.3559,67.7452,7.9096,30.0462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 585,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.2,3.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:9.4463,67.7452,7.9096,30.0462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 585,
+            "width": 350
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.333,3.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:17.6497,67.8480,7.8192,30.0976/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 586,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.467,3.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:25.7627,67.8480,7.8644,30.2003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 588,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.6,3.733"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:33.8531,68.0534,7.9548,30.0462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 585,
+            "width": 352
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.733,3.867"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:42.1017,67.9507,7.9548,30.0976/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 586,
+            "width": 352
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=3.867,4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:50.3503,67.8993,7.8644,30.2003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 588,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4,4.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:58.6667,67.6939,7.6610,30.4571/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 593,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4.133,4.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:66.6893,67.5912,8.0452,30.5598/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 356
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4.267,4.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:75.1186,67.6939,7.5932,30.5085/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 594,
+            "width": 336
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4.4,4.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:83.0734,67.4371,7.9774,30.9194/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4.533,4.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/fdd28d50-331c-4ac0-9158-d84308f4a13c/pct:91.3898,67.4371,7.5028,30.9707/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 332
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-192-dancing-fancy-frames.json#t=4.667,4.8"
+        }
+      ]
+    }
+  ]
+}

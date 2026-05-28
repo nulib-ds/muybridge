@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 585. \"Katydid\" walking, harnessed to sulky"
+    ]
+  },
+  "height": 1802,
+  "width": 4517,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 319,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/fd3637d7-8ed0-44af-a94e-38d8c12ade4c/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 319
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/fd3637d7-8ed0-44af-a94e-38d8c12ade4c/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1802,
+            "width": 4517,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/fd3637d7-8ed0-44af-a94e-38d8c12ade4c",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-585-katydid-walking-harnessed-to-sulky-original.json"
+        }
+      ]
+    }
+  ]
+}

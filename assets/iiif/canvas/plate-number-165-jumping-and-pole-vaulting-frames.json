@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 165. Jumping and pole-vaulting"
+    ]
+  },
+  "height": 855,
+  "width": 340,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 340,
+    "height": 855,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-165-jumping-and-pole-vaulting.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 340,
+              "height": 855
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:0.7979,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:9.0228,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:17.2478,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:25.4728,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:33.6978,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:41.9227,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:50.1477,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:58.3727,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:66.5977,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:74.8226,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:83.0476,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:91.2726,0.9983,7.9217,45.1727/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:0.7409,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:8.9702,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:17.1995,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:25.4288,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:33.6581,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:41.8874,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:50.1167,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:58.3460,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:66.5753,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:74.8046,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:83.0339,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2291ee5e-44e6-4117-bb04-24700c6d1dd0/pct:91.2632,52.4953,7.9027,45.6029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 863,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-165-jumping-and-pole-vaulting-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

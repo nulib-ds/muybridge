@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 127. Descending stairs"
+    ]
+  },
+  "height": 3176,
+  "width": 2421,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 1049,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/51fc4a29-f2b7-4fde-840c-062ade8064f7/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 1049
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/51fc4a29-f2b7-4fde-840c-062ade8064f7/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3176,
+            "width": 2421,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/51fc4a29-f2b7-4fde-840c-062ade8064f7",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-127-descending-stairs-original.json"
+        }
+      ]
+    }
+  ]
+}

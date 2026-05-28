@@ -1,0 +1,264 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 577. \"Clinton\" walking, mounted, irregular"
+    ]
+  },
+  "height": 706,
+  "width": 791,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 791,
+    "height": 706,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-577-clinton-walking-mounted-irregular.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 791,
+              "height": 706
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:0.6839,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:17.2286,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:33.7734,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:50.3182,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:66.8629,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:83.4077,2.3404,15.8245,46.1702/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 706,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:0.5319,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:17.0797,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:33.6275,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:50.1753,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:66.7231,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b8e84a72-16e1-4444-9846-45d68cc64212/pct:83.2709,52.1720,15.7675,46.2943/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 708,
+            "width": 788
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-577-clinton-walking-mounted-irregular-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}

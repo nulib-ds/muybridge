@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 182. Crawling on hands and knees"
+    ]
+  },
+  "height": 2083,
+  "width": 4360,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 382,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/6423a2e7-f8d9-4dcf-9ce5-856194043569/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 382
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/6423a2e7-f8d9-4dcf-9ce5-856194043569/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2083,
+            "width": 4360,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/6423a2e7-f8d9-4dcf-9ce5-856194043569",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-182-crawling-on-hands-and-knees-original.json"
+        }
+      ]
+    }
+  ]
+}

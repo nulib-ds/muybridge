@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 244. Sitting, crossing legs and filling a goblet from a pitcher"
+    ]
+  },
+  "height": 2389,
+  "width": 3586,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 533,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 533
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2389,
+            "width": 3586,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/6d9aa526-2695-4a42-a679-3a7bcea649db",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-244-sitting-crossing-legs-and-filling-a-goblet-from-a-pitcher-original.json"
+        }
+      ]
+    }
+  ]
+}

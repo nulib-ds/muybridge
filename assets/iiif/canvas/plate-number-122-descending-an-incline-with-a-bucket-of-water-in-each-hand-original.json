@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 122. Descending an incline with a bucket of water in each hand"
+    ]
+  },
+  "height": 2400,
+  "width": 3214,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 597,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 597
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2400,
+            "width": 3214,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

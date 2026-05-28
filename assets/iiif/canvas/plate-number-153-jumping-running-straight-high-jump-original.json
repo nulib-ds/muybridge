@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 153. Jumping, running straight high jump"
+    ]
+  },
+  "height": 1547,
+  "width": 4759,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 260,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 260
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1547,
+            "width": 4759,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/95ff7580-5f66-4bdc-adf1-30c32a1dc8fc",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-153-jumping-running-straight-high-jump-original.json"
+        }
+      ]
+    }
+  ]
+}

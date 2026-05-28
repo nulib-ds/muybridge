@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 173. Ascending steps and jumping off"
+    ]
+  },
+  "height": 915,
+  "width": 390,
+  "duration": 3.1,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 390,
+    "height": 915,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-173-ascending-steps-and-jumping-off.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 390,
+              "height": 915
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:0.5768,0.6725,8.0346,47.3357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 915,
+            "width": 390
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0,0.129"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:8.6527,0.7243,8.0346,47.2840/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 390
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.129,0.258"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:16.8109,0.7760,8.1376,47.3357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 915,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.258,0.388"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:25.1339,0.7760,8.1170,47.1805/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 394
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.388,0.517"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:33.3951,0.8795,8.1376,47.0253/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.517,0.646"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:41.6358,0.8795,8.0346,47.0253/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 390
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.646,0.775"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:49.8764,0.8277,8.0758,47.0253/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.775,0.904"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:58.0552,0.7243,8.1994,47.2323/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 913,
+            "width": 398
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=0.904,1.033"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:66.3576,0.6725,8.2818,47.2840/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 402
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.033,1.163"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:74.7013,0.6725,8.1994,47.2323/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 913,
+            "width": 398
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.163,1.292"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:83.0037,0.4656,8.2406,47.3875/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 916,
+            "width": 400
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.292,1.421"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:91.3679,0.6208,8.1170,47.2840/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 914,
+            "width": 394
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.421,1.55"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:0.6180,51.3709,7.7050,47.1805/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 374
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.55,1.679"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:8.5084,51.4744,8.1582,47.0253/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.679,1.808"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:16.8109,51.5261,8.0552,47.0771/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 910,
+            "width": 391
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.808,1.938"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:25.1545,51.4227,8.0758,47.1805/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=1.938,2.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:33.3539,51.3192,8.1582,47.3357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 915,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.067,2.196"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:41.7594,51.5779,8.1582,47.0771/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 910,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.196,2.325"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:50.0206,51.2675,8.1582,47.3357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 915,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.325,2.454"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:58.3230,51.3709,8.0964,47.1805/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.454,2.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:66.5431,51.3709,8.1994,47.1805/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 398
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.583,2.713"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:74.8249,51.3192,8.2406,47.0253/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 909,
+            "width": 400
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.713,2.842"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:83.1685,51.3709,8.2612,46.8184/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 905,
+            "width": 401
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.842,2.971"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/362ab89b-623a-47df-b35a-851fdd3fadc7/pct:91.5328,51.1123,8.1376,47.2323/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 913,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-173-ascending-steps-and-jumping-off-frames.json#t=2.971,3.1"
+        }
+      ]
+    }
+  ]
+}

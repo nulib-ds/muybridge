@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 683. Virginia deer, buck, galloping"
+    ]
+  },
+  "height": 2231,
+  "width": 4167,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 428,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 428
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2231,
+            "width": 4167,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-683-virginia-deer-buck-galloping-original.json"
+        }
+      ]
+    }
+  ]
+}

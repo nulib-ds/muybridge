@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 288. Baseball, error"
+    ]
+  },
+  "height": 2776,
+  "width": 3046,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 729,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/23ceb0ef-b3c0-4abd-b59f-b26a40c7e588/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 729
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/23ceb0ef-b3c0-4abd-b59f-b26a40c7e588/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2776,
+            "width": 3046,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/23ceb0ef-b3c0-4abd-b59f-b26a40c7e588",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-288-baseball-error-original.json"
+        }
+      ]
+    }
+  ]
+}

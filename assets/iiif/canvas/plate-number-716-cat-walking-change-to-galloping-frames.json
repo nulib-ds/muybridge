@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 716. Cat; walking; change to galloping"
+    ]
+  },
+  "height": 743,
+  "width": 1105,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 1105,
+    "height": 743,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 1105,
+              "height": 743
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:1.5137,2.9891,15.8901,21.2601/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 743,
+            "width": 1105
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0,0.05"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:17.4731,2.9276,16.2692,21.2503/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 743,
+            "width": 1132
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.05,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:33.8092,2.9053,16.2950,21.3573/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 1134
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.1,0.15"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:50.1794,2.8065,16.1577,21.5925/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 755,
+            "width": 1124
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.15,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:66.4069,2.7358,16.3584,21.6991/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 758,
+            "width": 1138
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.2,0.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:82.9116,2.4978,15.8168,22.0436/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 770,
+            "width": 1100
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.25,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:1.4351,27.0890,16.0290,20.7955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 1115
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.3,0.35"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:17.5424,27.1829,16.1892,21.0376/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 1126
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.35,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:33.8035,27.2772,16.1999,21.0137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 1127
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.4,0.45"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:50.0687,27.3762,16.1832,20.9311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 1126
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.45,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:66.3434,27.4819,16.2990,20.8333/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 728,
+            "width": 1134
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.5,0.55"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:82.7177,27.5006,15.9661,20.9005/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 1111
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.55,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:1.4834,50.9837,15.7549,22.3243/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 780,
+            "width": 1096
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.6,0.65"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:17.3512,51.1148,16.2578,22.1927/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 776,
+            "width": 1131
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.65,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:33.7310,51.1766,16.3474,22.1366/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 774,
+            "width": 1137
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.7,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:50.1669,51.1501,16.1824,22.1225/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 773,
+            "width": 1126
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.75,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:66.4104,51.1223,16.3884,22.0335/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 770,
+            "width": 1140
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.8,0.85"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:82.8835,51.0685,15.8644,22.1071/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 773,
+            "width": 1104
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.85,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:1.5340,76.3992,15.8812,20.9071/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 1105
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.9,0.95"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:17.4714,76.3433,16.2185,21.0190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 1128
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=0.95,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:33.7742,76.4365,16.2653,20.9817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 733,
+            "width": 1132
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=1,1.05"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:50.1426,76.4365,16.2091,21.0563/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 736,
+            "width": 1128
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=1.05,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:66.4173,76.3246,16.2934,21.1309/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 1134
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=1.1,1.15"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/ef95af44-7a4f-4d94-8639-fae0c309d3dc/pct:82.8800,76.5129,15.9395,20.7586/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 1109
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-716-cat-walking-change-to-galloping-frames.json#t=1.15,1.2"
+        }
+      ]
+    }
+  ]
+}

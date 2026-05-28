@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 635. \"Pandora\" galloping, saddled"
+    ]
+  },
+  "height": 704,
+  "width": 301,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 301,
+    "height": 704,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-635-pandora-galloping-saddled.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 301,
+              "height": 704
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:93.6238,2.1279,6.0971,44.9103/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 301
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:87.5266,2.2488,5.6945,45.3334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 281
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:80.5092,2.1279,6.7490,45.6357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 715,
+            "width": 333
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:72.5138,2.1883,7.4968,45.5148/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 713,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:63.8091,1.7652,8.3404,45.6357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 715,
+            "width": 412
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:56.2356,1.7652,7.1517,46.0588/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:48.3170,1.8257,7.3434,46.1797/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 724,
+            "width": 363
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:39.7848,2.0070,8.0337,45.9379/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 397
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:30.8500,2.1279,8.5513,46.0588/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 422
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:21.3784,2.1279,9.2608,46.1192/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:10.8330,2.3697,10.2386,45.6357/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 715,
+            "width": 506
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:0.3259,2.3092,10.2386,45.2730/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 709,
+            "width": 506
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:89.8824,52.4663,9.6080,45.8707/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 475
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:79.4222,52.6006,10.0980,45.4006/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 499
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:70.0911,52.6678,8.9689,46.0722/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 443
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:61.1435,53.0036,8.6067,46.0050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 721,
+            "width": 425
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:52.5794,53.2051,8.2020,45.7364/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 717,
+            "width": 405
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:44.6118,53.2051,7.5628,45.3334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 374
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:36.7507,53.3394,7.5842,45.3334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 375
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:28.0161,53.0707,8.5002,45.4006/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 420
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:20.2403,52.6006,7.4350,45.9379/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:12.9331,52.6678,7.0089,45.5349/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 714,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:6.6697,52.9364,5.8372,45.8036/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 718,
+            "width": 288
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d5341981-6460-4bdb-9716-2a3444170a07/pct:0.3212,52.7349,5.9864,46.0050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 721,
+            "width": 296
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-635-pandora-galloping-saddled-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

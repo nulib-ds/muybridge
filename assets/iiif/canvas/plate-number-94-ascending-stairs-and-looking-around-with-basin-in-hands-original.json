@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 94. Ascending stairs and looking around with basin in hands"
+    ]
+  },
+  "height": 2188,
+  "width": 3761,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 465,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 465
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2188,
+            "width": 3761,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/d0743012-d674-4979-b5ab-53b9b2696667",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-94-ascending-stairs-and-looking-around-with-basin-in-hands-original.json"
+        }
+      ]
+    }
+  ]
+}

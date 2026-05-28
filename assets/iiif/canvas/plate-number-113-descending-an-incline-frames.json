@@ -1,0 +1,480 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 113. Descending an incline"
+    ]
+  },
+  "height": 830,
+  "width": 351,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 351,
+    "height": 830,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-113-descending-an-incline.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 351,
+              "height": 830
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:1.0828,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:9.2084,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:17.3341,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:25.4597,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:33.5853,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:41.7109,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:49.8366,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:57.9622,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:66.0878,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:74.2134,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:82.3390,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:90.4647,1.9227,7.7508,49.1491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:1.2118,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:9.3754,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:17.5391,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:25.7027,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:33.8663,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:42.0299,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:50.1935,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:58.3571,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:66.5208,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:74.6844,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:82.8480,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/91c0019e-30c9-4d97-ac1f-b996cc6ed9d2/pct:91.0116,54.6558,7.7888,44.6861/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 754,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-113-descending-an-incline-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

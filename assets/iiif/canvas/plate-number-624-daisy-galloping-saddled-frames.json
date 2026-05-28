@@ -1,0 +1,264 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 624. \"Daisy\" galloping, saddled"
+    ]
+  },
+  "height": 746,
+  "width": 749,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 749,
+    "height": 746,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-624-daisy-galloping-saddled.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 749,
+              "height": 746
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:1.2846,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:17.6674,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:34.0502,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:50.4329,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:66.8157,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:83.1985,3.4945,15.8948,44.5610/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 746,
+            "width": 749
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:1.2130,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:17.5738,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:33.9345,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:50.2952,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:66.6559,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/31ce6329-258a-4acb-86e8-f962ae8574e5/pct:83.0166,53.6014,16.2122,43.9308/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 764
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-624-daisy-galloping-saddled-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 637. \"Daisy\" jumping a hurdle, saddled, clearing, landing and recovering"
+    ]
+  },
+  "height": 2744,
+  "width": 3348,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 656,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/80d954ed-6783-4c90-b114-ebe6f5254a0b/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 656
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/80d954ed-6783-4c90-b114-ebe6f5254a0b/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2744,
+            "width": 3348,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/80d954ed-6783-4c90-b114-ebe6f5254a0b",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-637-daisy-jumping-a-hurdle-saddled-clearing-landing-and-recovering-original.json"
+        }
+      ]
+    }
+  ]
+}

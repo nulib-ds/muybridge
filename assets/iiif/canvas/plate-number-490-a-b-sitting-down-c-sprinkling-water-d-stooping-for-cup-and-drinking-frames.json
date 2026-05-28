@@ -1,0 +1,912 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 490. A, B: Sitting down. C: Sprinkling water. D: Stooping for cup and drinking"
+    ]
+  },
+  "height": 509,
+  "width": 329,
+  "duration": 7.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 329,
+    "height": 509,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 329,
+              "height": 509
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:1.0757,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0,0.158"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:9.2786,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.158,0.317"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:17.4816,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.317,0.475"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:25.6845,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.475,0.633"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:33.8875,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.633,0.792"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:42.0904,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.792,0.95"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:50.2934,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=0.95,1.108"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:58.4963,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.108,1.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:66.6993,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.267,1.425"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:74.9022,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.425,1.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:83.1052,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.583,1.742"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:91.3081,2.0677,7.8911,22.4345/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 509,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.742,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:1.1711,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=1.9,2.058"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:9.3594,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.058,2.217"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:17.5478,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.217,2.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:25.7361,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.375,2.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:33.9244,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.533,2.692"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:42.1127,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.692,2.85"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:50.3011,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=2.85,3.008"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:58.4894,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.008,3.167"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:66.6777,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.167,3.325"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:74.8661,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.325,3.483"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:83.0544,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.483,3.642"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:91.2427,26.3133,7.6365,22.8435/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 519,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.642,3.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:1.1075,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.8,3.958"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:9.2963,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=3.958,4.117"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:17.4852,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.117,4.275"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:25.6740,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.275,4.433"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:33.8628,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.433,4.592"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:42.0517,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.592,4.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:50.2405,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.75,4.908"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:58.4294,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=4.908,5.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:66.6182,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.067,5.225"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:74.8070,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.225,5.383"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:82.9959,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.383,5.542"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:91.1847,51.2016,7.5410,22.3177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 507,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.542,5.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/37",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "37"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:1.1075,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.7,5.858"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/38",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "38"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:9.2968,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=5.858,6.017"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/39",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "39"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:17.4862,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.017,6.175"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/40",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "40"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:25.6755,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.175,6.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/41",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "41"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:33.8649,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.333,6.492"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/42",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "42"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:42.0542,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.492,6.65"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/43",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "43"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:50.2436,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.65,6.808"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/44",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "44"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:58.4329,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.808,6.967"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/45",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "45"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:66.6223,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=6.967,7.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/46",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "46"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:74.8116,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=7.125,7.283"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/47",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "47"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:83.0010,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=7.283,7.442"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json/page/1/annotation/48",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "48"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a9d015c2-d898-47c0-a4cf-22633deb1508/pct:91.1904,75.5640,7.4456,22.3761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 310
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json#t=7.442,7.6"
+        }
+      ]
+    }
+  ]
+}

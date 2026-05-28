@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 195. Dancing a waltz"
+    ]
+  },
+  "height": 1918,
+  "width": 4360,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 352,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/6ad10c58-ca4e-45c4-8501-b2c47ff2b3ec/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 352
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ad10c58-ca4e-45c4-8501-b2c47ff2b3ec/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1918,
+            "width": 4360,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/6ad10c58-ca4e-45c4-8501-b2c47ff2b3ec",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-195-dancing-a-waltz-original.json"
+        }
+      ]
+    }
+  ]
+}

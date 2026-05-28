@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 572. \"Johnson\" hauling, head being pulled"
+    ]
+  },
+  "height": 2810,
+  "width": 2880,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 781,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/f20962b6-a620-45c3-8b43-b480c0b9e896/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 781
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/f20962b6-a620-45c3-8b43-b480c0b9e896/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2810,
+            "width": 2880,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/f20962b6-a620-45c3-8b43-b480c0b9e896",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-572-johnson-hauling-head-being-pulled-original.json"
+        }
+      ]
+    }
+  ]
+}

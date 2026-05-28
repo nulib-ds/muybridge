@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 112. Ascending a ladder"
+    ]
+  },
+  "height": 2421,
+  "width": 3424,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 566,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/0484f39a-ad92-4641-a8b6-ce6e1c8b8e00/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 566
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/0484f39a-ad92-4641-a8b6-ce6e1c8b8e00/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2421,
+            "width": 3424,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/0484f39a-ad92-4641-a8b6-ce6e1c8b8e00",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-112-ascending-a-ladder-original.json"
+        }
+      ]
+    }
+  ]
+}

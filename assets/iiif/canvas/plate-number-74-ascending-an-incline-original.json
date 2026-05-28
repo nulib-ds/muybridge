@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 74. Ascending an incline"
+    ]
+  },
+  "height": 2108,
+  "width": 3683,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 458,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/2a5df88f-7209-474e-9491-a2560bb15219/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 458
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a5df88f-7209-474e-9491-a2560bb15219/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2108,
+            "width": 3683,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/2a5df88f-7209-474e-9491-a2560bb15219",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-74-ascending-an-incline-original.json"
+        }
+      ]
+    }
+  ]
+}

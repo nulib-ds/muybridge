@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 106. Turning to ascend stairs with a bucket of water in each hand"
+    ]
+  },
+  "height": 2167,
+  "width": 3741,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 463,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 463
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2167,
+            "width": 3741,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-original.json"
+        }
+      ]
+    }
+  ]
+}

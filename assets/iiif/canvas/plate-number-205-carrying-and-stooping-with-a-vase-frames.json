@@ -1,0 +1,696 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 205. Carrying and stooping with a vase"
+    ]
+  },
+  "height": 646,
+  "width": 302,
+  "duration": 4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 302,
+    "height": 646,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-205-carrying-and-stooping-with-a-vase.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 302,
+              "height": 646
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:0.8112,1.1127,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0,0.111"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:8.6529,1.1127,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.111,0.222"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:16.5683,1.0643,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.222,0.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:24.4100,1.1127,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.333,0.444"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:32.1534,1.1127,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.444,0.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:39.8968,0.9676,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.556,0.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:47.6893,1.0160,7.4238,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 302
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.667,0.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:55.7522,0.9676,8.2350,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 335
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.778,0.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:64.4474,0.8884,8.5066,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=0.889,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:73.2221,0.7389,8.4116,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 342
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1,1.111"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:82.1299,0.8510,8.3546,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 340
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.111,1.222"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:90.8856,0.7015,8.5256,31.2530/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.222,1.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:0.7607,34.6525,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.333,1.444"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:8.4826,34.4105,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.444,1.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:16.3637,34.1174,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.556,1.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:24.1114,34.3617,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.667,1.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:31.9877,34.2785,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.778,1.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:39.9686,34.3202,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=1.889,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:47.7384,34.4033,7.4510,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 303
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2,2.111"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:55.6982,34.4448,8.2742,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 337
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.111,2.222"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:64.4179,34.1540,8.5908,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 349
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.222,2.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:73.1803,33.7802,8.4431,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 343
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.333,2.444"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:82.1949,34.0709,8.3376,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.444,2.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:91.1071,33.7830,8.4009,31.2807/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 342
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.556,2.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:0.7607,67.9688,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.667,2.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:8.5760,67.8857,7.7254,30.2837/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 626,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.778,2.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:17.3622,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=2.889,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:25.5362,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3,3.111"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:33.7103,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.111,3.222"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:41.8844,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.222,3.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:50.0585,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.333,3.444"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:58.2325,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.444,3.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:66.4066,67.6780,7.2400,29.9514/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 619,
+            "width": 295
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.556,3.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:73.3134,67.3044,8.5064,31.1977/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 645,
+            "width": 346
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.667,3.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:82.0169,67.3041,8.6964,31.1561/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 644,
+            "width": 354
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.778,3.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6a95696f-f787-453e-8c79-80770e4de6f0/pct:90.9288,67.0964,8.6331,31.6546/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 654,
+            "width": 351
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-205-carrying-and-stooping-with-a-vase-frames.json#t=3.889,4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 217. Stooping, lifting and carrying a 30-lb. basket"
+    ]
+  },
+  "height": 1965,
+  "width": 4675,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 336,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 336
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1965,
+            "width": 4675,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/f7e45ebf-b681-4ff2-b223-9ede8610fc2e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-217-stooping-lifting-and-carrying-a-30-lb-basket-original.json"
+        }
+      ]
+    }
+  ]
+}

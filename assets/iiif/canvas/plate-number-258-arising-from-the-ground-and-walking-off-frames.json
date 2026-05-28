@@ -1,0 +1,408 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 258. Arising from the ground and walking off"
+    ]
+  },
+  "height": 395,
+  "width": 787,
+  "duration": 3,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 787,
+    "height": 395,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-258-arising-from-the-ground-and-walking-off.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 787,
+              "height": 395
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:1.3936,2.2791,23.4271,16.3259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 395,
+            "width": 787
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0,0.15"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:26.0114,2.2791,23.4271,16.3259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 395,
+            "width": 787
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.15,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:50.6293,2.2791,23.4271,16.3259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 395,
+            "width": 787
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.3,0.45"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:75.2472,2.2791,23.4271,16.3259/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 395,
+            "width": 787
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.45,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:1.3081,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.6,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:17.8057,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.75,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:34.3034,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=0.9,1.05"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:50.8010,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.05,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:67.2986,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.2,1.35"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:83.7962,20.4125,15.0984,28.0593/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 507
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.35,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:1.3722,51.0495,18.9210,15.1407/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 367,
+            "width": 636
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.5,1.65"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:21.0077,51.0495,18.9210,15.1407/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 367,
+            "width": 636
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.65,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:40.6433,51.0495,18.9210,15.1407/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 367,
+            "width": 636
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.8,1.95"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:60.2788,51.0495,18.9210,15.1407/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 367,
+            "width": 636
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=1.95,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:79.9143,51.0495,18.9210,15.1407/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 367,
+            "width": 636
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.1,2.25"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:1.3295,68.6791,18.7715,29.9852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 631
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.25,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:20.9644,68.6791,18.7715,29.9852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 631
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.4,2.55"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:40.5993,68.6791,18.7715,29.9852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 631
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.55,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:60.2342,68.6791,18.7715,29.9852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 631
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.7,2.85"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b674d8c3-91cf-48a4-809e-f55cbef3779a/pct:79.8691,68.6791,18.7715,29.9852/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 726,
+            "width": 631
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-258-arising-from-the-ground-and-walking-off-frames.json#t=2.85,3"
+        }
+      ]
+    }
+  ]
+}

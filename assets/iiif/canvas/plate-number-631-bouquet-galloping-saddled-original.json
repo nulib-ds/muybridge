@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 631. \"Bouquet\" galloping, saddled"
+    ]
+  },
+  "height": 1926,
+  "width": 4437,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 347,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/b28dbe87-94e9-40e0-829c-0c982f3ba9c3/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 347
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/b28dbe87-94e9-40e0-829c-0c982f3ba9c3/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1926,
+            "width": 4437,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/b28dbe87-94e9-40e0-829c-0c982f3ba9c3",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-631-bouquet-galloping-saddled-original.json"
+        }
+      ]
+    }
+  ]
+}

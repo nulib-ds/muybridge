@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 667. Ass; walking, saddle; a boy riding, Zoo"
+    ]
+  },
+  "height": 3324,
+  "width": 6569,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 405,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/ffe4991a-235c-432c-86cd-cdd866b64107/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 405
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/ffe4991a-235c-432c-86cd-cdd866b64107/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3324,
+            "width": 6569,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/ffe4991a-235c-432c-86cd-cdd866b64107",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-667-ass-walking-saddle-a-boy-riding-zoo-original.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 54. Two women walking arm in arm and turning around; one flirting a fan"
+    ]
+  },
+  "height": 1903,
+  "width": 4219,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 361,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/076673b6-38c2-4da5-8280-fead0c5eaf7b/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 361
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/076673b6-38c2-4da5-8280-fead0c5eaf7b/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1903,
+            "width": 4219,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/076673b6-38c2-4da5-8280-fead0c5eaf7b",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-54-two-women-walking-arm-in-arm-and-turning-around-one-flirting-a-fan-original.json"
+        }
+      ]
+    }
+  ]
+}

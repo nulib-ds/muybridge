@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 146. Descending stairs and turning, a water jar on left shoulder"
+    ]
+  },
+  "height": 2693,
+  "width": 3192,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 675,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/81dec032-affc-4600-bce3-6adc37ef75d8/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 675
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/81dec032-affc-4600-bce3-6adc37ef75d8/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2693,
+            "width": 3192,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/81dec032-affc-4600-bce3-6adc37ef75d8",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-146-descending-stairs-and-turning-a-water-jar-on-left-shoulder-original.json"
+        }
+      ]
+    }
+  ]
+}

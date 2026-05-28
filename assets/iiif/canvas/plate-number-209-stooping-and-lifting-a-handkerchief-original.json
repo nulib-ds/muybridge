@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 209. Stooping and lifting a handkerchief"
+    ]
+  },
+  "height": 2317,
+  "width": 3842,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 482,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 482
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2317,
+            "width": 3842,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/28713a37-ba6c-44ef-9553-0b2fe96519f9",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-209-stooping-and-lifting-a-handkerchief-original.json"
+        }
+      ]
+    }
+  ]
+}

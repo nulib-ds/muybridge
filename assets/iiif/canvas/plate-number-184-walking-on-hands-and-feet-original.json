@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 184. Walking on hands and feet"
+    ]
+  },
+  "height": 2143,
+  "width": 3979,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 431,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/91cefe40-6087-4637-8383-b1b371ab3c83/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 431
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/91cefe40-6087-4637-8383-b1b371ab3c83/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2143,
+            "width": 3979,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/91cefe40-6087-4637-8383-b1b371ab3c83",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-184-walking-on-hands-and-feet-original.json"
+        }
+      ]
+    }
+  ]
+}

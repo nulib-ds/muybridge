@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 619. \"Middleton\" cantering, saddled"
+    ]
+  },
+  "height": 2042,
+  "width": 4384,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 373,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/64b878a8-a0af-48d3-95b2-a0f4972529b5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 373
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/64b878a8-a0af-48d3-95b2-a0f4972529b5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2042,
+            "width": 4384,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/64b878a8-a0af-48d3-95b2-a0f4972529b5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-619-middleton-cantering-saddled-original.json"
+        }
+      ]
+    }
+  ]
+}

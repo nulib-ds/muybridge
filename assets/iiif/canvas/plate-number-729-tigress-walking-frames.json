@@ -1,0 +1,264 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 729. Tigress walking"
+    ]
+  },
+  "height": 597,
+  "width": 1006,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 1006,
+    "height": 597,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-729-tigress-walking.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 1006,
+              "height": 597
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7837,2.0388,23.8898,29.6867/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 597,
+            "width": 1006
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2909,2.0388,24.2698,30.2834/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 609,
+            "width": 1022
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.1069,2.1382,23.9848,29.8856/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 601,
+            "width": 1010
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.7091,2.0388,24.3173,30.1840/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 607,
+            "width": 1024
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.6412,35.2064,24.1748,29.7364/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 598,
+            "width": 1018
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.3859,35.3058,24.1510,29.9354/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 1017
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:50.0119,35.3555,24.0560,30.2834/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 609,
+            "width": 1013
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6616,35.5047,24.1510,30.1840/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 607,
+            "width": 1017
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:0.7124,68.3739,24.0085,29.6370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 1011
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:25.2672,68.6723,24.1985,29.6370/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 1019
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:49.9644,68.7718,24.2935,29.6867/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 597,
+            "width": 1023
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/426ac150-b4ec-47ff-921d-bf86b53e4c0a/pct:74.6141,68.9707,24.2460,29.3884/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 591,
+            "width": 1021
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-729-tigress-walking-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}
