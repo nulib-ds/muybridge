@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-221-stooping-and-lifting-a-12-lb-basket-to-head-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 221. Stooping and lifting a 12-lb. basket to head"

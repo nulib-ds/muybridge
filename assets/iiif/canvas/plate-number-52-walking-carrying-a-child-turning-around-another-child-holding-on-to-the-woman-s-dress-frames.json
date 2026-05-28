@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-52-walking-carrying-a-child-turning-around-another-child-holding-on-to-the-woman-s-dress-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 52. Walking, carrying a child, turning around; another child holding on to the woman's dress"

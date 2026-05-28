@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-28-walking-and-carrying-a-50-lb-dumbbell-in-right-hand-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 28. Walking and carrying a 50-lb. dumbbell in right hand"

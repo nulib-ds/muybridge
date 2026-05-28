@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-681-virginia-deer-buck-walking-startled-to-a-gallop-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 681. Virginia deer, buck, walking, startled to a gallop"

@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-230-lifting-a-30-lb-basket-from-ground-to-head-and-turning-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 230. Lifting a 30-lb. basket from ground to head and turning"

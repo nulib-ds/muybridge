@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-490-a-b-sitting-down-c-sprinkling-water-d-stooping-for-cup-and-drinking-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 490. A, B: Sitting down. C: Sprinkling water. D: Stooping for cup and drinking"

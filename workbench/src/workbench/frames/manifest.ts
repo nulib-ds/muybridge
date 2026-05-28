@@ -45,6 +45,7 @@ export interface IiifManifest {
 interface IiifCanvas {
   id: string;
   type: "Canvas";
+  behavior?: string[];
   label: LanguageMap;
   height: number;
   width: number;
@@ -220,6 +221,7 @@ export function buildManifestFromFrames({
   const animationCanvas: IiifCanvas = {
     id: animationCanvasId,
     type: "Canvas",
+    behavior: ["repeat", "auto-advance"],
     label: toLanguageMap(label, "Animated sequence"),
     height: baseHeight,
     width: baseWidth,

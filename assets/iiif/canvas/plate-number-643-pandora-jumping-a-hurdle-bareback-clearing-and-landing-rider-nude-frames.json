@@ -2,6 +2,10 @@
   "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-643-pandora-jumping-a-hurdle-bareback-clearing-and-landing-rider-nude-frames.json",
   "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "label": {
     "en": [
       "Plate Number 643. \"Pandora\" jumping a hurdle, bareback, clearing and landing; rider nude"
