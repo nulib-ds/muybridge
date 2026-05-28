@@ -1,4 +1,4 @@
-# Muybridge in Motion
+# _Muybridge in Motion_
 
 Between 1872 and 1887, Eadweard Muybridge photographed bodies in motion: horses galloping, men wrestling, women climbing stairs, birds in flight. His _Animal Locomotion_ plates, 781 in all, broke movement into its component frames and made visible what the eye alone cannot follow.
 
