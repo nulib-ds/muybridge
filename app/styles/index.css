@@ -48,6 +48,7 @@
     letter-spacing: -0.025em;
     font-style: italic;
     position: relative;
+    color: var(--color-gray-800) !important;
 
     &::after {
       position: absolute;
@@ -59,7 +60,7 @@
       background: linear-gradient(
         to right,
         transparent,
-        var(--color-accent-300)
+        var(--color-accent-200)
       );
       z-index: -1;
     }
@@ -84,6 +85,22 @@
 
 .canopy-search-tabs {
   visibility: hidden;
+}
+
+.canopy-type-work header {
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    letter-spacing: -0.05em;
+  }
+}
+
+.canopy-type-work header dl {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: space-between;
 }
 
 @layer components {

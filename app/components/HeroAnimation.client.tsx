@@ -1,29 +1,74 @@
 import React, {useEffect, useRef, useState} from "react";
-import manifest from "../../assets/iiif/plate-number-613-nellie-rose-trotting-harnessed-to-sulky.json";
 
-const canvas = (manifest as any).items[0];
-const FRAMES: string[] = canvas.items[0].items.map((a: any) => a.body.id);
-const DURATION_MS = canvas.duration * 1000;
-const INTERVAL_MS = DURATION_MS / FRAMES.length;
+const DEFAULT_MANIFEST_ID =
+  "https://nulib-ds.github.io/muybridge/iiif/plate-number-613-nellie-rose-trotting-harnessed-to-sulky.json";
 
-export default function HeroAnimation() {
+interface Props {
+  iiifContent?: string;
+}
+
+export default function HeroAnimation({
+  iiifContent = DEFAULT_MANIFEST_ID,
+}: Props) {
+  const [frames, setFrames] = useState<string[]>([]);
+  const [intervalMs, setIntervalMs] = useState(100);
   const [frame, setFrame] = useState(0);
-  const rafRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [opacity, setOpacity] = useState(1);
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const rafRef = useRef<number | null>(null);
 
   useEffect(() => {
+    const onScroll = () => {
+      if (rafRef.current !== null) cancelAnimationFrame(rafRef.current);
+      rafRef.current = requestAnimationFrame(() => {
+        const heroHeight = window.innerHeight * 0.25;
+        const scrolled = window.scrollY;
+        setOpacity(Math.max(0, 1 - scrolled / heroHeight));
+      });
+    };
+    window.addEventListener("scroll", onScroll, {passive: true});
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (rafRef.current !== null) cancelAnimationFrame(rafRef.current);
+    };
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(iiifContent)
+      .then((r) => r.json())
+      .then((manifest) => {
+        if (cancelled) return;
+        const canvas = manifest.items[0];
+        const f: string[] = canvas.items[0].items.map((a: any) => a.body.id);
+        const ms = (canvas.duration * 1000) / f.length;
+        setFrames(f);
+        setIntervalMs(ms);
+        setFrame(0);
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [iiifContent]);
+
+  useEffect(() => {
+    if (!frames.length) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     let current = 0;
     const tick = () => {
-      current = (current + 1) % FRAMES.length;
+      current = (current + 1) % frames.length;
       setFrame(current);
-      rafRef.current = setTimeout(tick, INTERVAL_MS);
+      timerRef.current = setTimeout(tick, intervalMs);
     };
-    rafRef.current = setTimeout(tick, INTERVAL_MS);
+    timerRef.current = setTimeout(tick, intervalMs);
     return () => {
-      if (rafRef.current !== null) clearTimeout(rafRef.current);
+      if (timerRef.current !== null) clearTimeout(timerRef.current);
     };
-  }, []);
+  }, [frames, intervalMs]);
+
+  if (!frames.length) return null;
 
   return (
     <div
@@ -36,9 +81,10 @@ export default function HeroAnimation() {
         marginTop: "-1rem",
         overflow: "hidden",
         zIndex: 0,
+        opacity,
       }}
     >
-      {FRAMES.map((src, i) => (
+      {frames.map((src, i) => (
         <img
           key={i}
           src={src}
@@ -51,7 +97,7 @@ export default function HeroAnimation() {
             objectFit: "cover",
             objectPosition: "center center",
             opacity: i === frame ? 0.3 : 0,
-            filter: "blur(5px)",
+            filter: "blur(10px)",
           }}
         />
       ))}

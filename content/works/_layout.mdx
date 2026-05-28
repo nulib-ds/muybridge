@@ -10,29 +10,28 @@ import {
   References,
 } from "@canopy-iiif/app/ui/server";
 
-<Container variant="wide" className="canopy-work--layout">
-  <div className="canopy-work--primary">
-    <Viewer
-      iiifContent={props.manifest.id}
-      options={{
-        canvasHeight: "50vh",
-        canvasBackgroundColor: "#6661",
-      }}
-    />
-  </div>
-  <div className="canopy-work--secondary">
-    <header>
-      <Label manifest={props.manifest} as="h1" />
-      <Summary manifest={props.manifest} as="p" className="canopy-lead" />
-    </header>
-    <div>
-      <References />
-      <Metadata manifest={props.manifest} />
-      <RequiredStatement manifest={props.manifest} />
-      <Id id={props.manifest.id} />
-    </div>
+<HeroAnimation iiifContent={props.manifest.id} />
+
+<Container
+  variant="wide"
+  style={{marginTop: "-25vh", position: "relative", zIndex: 1}}
+>
+  <header>
+    <Label manifest={props.manifest} as="h1" />
+    <Summary manifest={props.manifest} as="p" className="canopy-lead" />
+    <Metadata manifest={props.manifest} />
+  </header>
+  <CanvasCompare manifestId={props.manifest.id} />
+</Container>
+
+<Container>
+  <div>
+    <References />
+    <RequiredStatement manifest={props.manifest} />
+    <Id id={props.manifest.id} />
   </div>
 </Container>
+
 <Container>
   <h2>Related Items</h2>
   <RelatedItems iiifContent={props.manifest.id} top={3} />
