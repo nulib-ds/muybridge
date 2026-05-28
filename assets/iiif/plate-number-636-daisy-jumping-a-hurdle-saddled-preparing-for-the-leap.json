@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 636. \"Daisy\" jumping a hurdle, saddled, preparing for the leap"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "636"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 636. \"Daisy\" jumping a hurdle, saddled, preparing for the leap"
+        ]
+      },
+      "height": 587,
+      "width": 615,
+      "duration": 1.1,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 615,
+        "height": 587,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 615,
+                  "height": 587
+                },
+                "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:0.2549,0.5416,19.5985,22.7079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0,0.055"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:20.1721,0.5416,19.5985,22.7079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.055,0.11"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:40.1211,0.5416,19.5985,22.7079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.11,0.165"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:60.0382,0.5416,19.5985,22.7079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.165,0.22"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:79.9873,0.5416,19.5985,22.7079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 615
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.22,0.275"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:0.1275,26.3056,19.5029,21.4700/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.275,0.33"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:20.1721,26.3056,19.5029,21.4700/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.33,0.385"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:40.1848,26.3056,19.5029,21.4700/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.385,0.44"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:60.1976,26.3056,19.5029,21.4700/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.44,0.495"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:80.2103,26.3056,19.5029,21.4700/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 612
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.495,0.55"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:0.2231,50.6383,19.3435,23.2108/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 607
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.55,0.605"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:20.1083,50.6383,19.3435,23.2108/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 607
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.605,0.66"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:39.9936,50.6383,19.3435,23.2108/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 607
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.66,0.715"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:59.8789,50.6383,19.3435,23.2108/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 607
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.715,0.77"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:79.7642,50.6383,19.3435,23.2108/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 607
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.77,0.825"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:0.1275,76.8279,19.3117,22.9400/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 606
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.825,0.88"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:20.0127,76.8279,19.3117,22.9400/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 606
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.88,0.935"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:39.8980,76.8279,19.3117,22.9400/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 606
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.935,0.99"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:59.8152,76.8279,19.3117,22.9400/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 606
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.99,1.045"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/pct:79.7004,76.8279,19.3117,22.9400/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 606
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=1.045,1.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 636. \"Daisy\" jumping a hurdle, saddled, preparing for the leap"
+        ]
+      },
+      "height": 2585,
+      "width": 3138,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 659,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 659
+                },
+                "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 3138,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/48d47eb4-df8a-431c-b9c6-a783bc858fab",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 627. \"Annie G.\" galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "627"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-627-annie-g-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 627. \"Annie G.\" galloping"
+        ]
+      },
+      "height": 524,
+      "width": 691,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 691,
+        "height": 524,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-627-annie-g-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 691,
+                  "height": 524
+                },
+                "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:0.8877,2.5221,19.3012,23.0348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 691
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:20.4962,2.5221,19.3012,23.0348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 691
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:40.1048,2.5221,19.3012,23.0348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 691
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:59.7134,2.5221,19.3012,23.0348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 691
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:79.3220,2.5221,19.3012,23.0348/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 691
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:0.9043,27.9999,19.3438,21.9283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 692
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:20.5276,27.9999,19.3438,21.9283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 692
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:40.1508,27.9999,19.3438,21.9283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 692
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:59.7741,27.9999,19.3438,21.9283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 692
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:79.3973,27.9999,19.3438,21.9283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 692
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:1.0253,52.1378,19.1734,22.0960/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 686
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:20.5899,52.1378,19.1734,22.0960/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 686
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:40.1544,52.1378,19.1734,22.0960/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 686
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:59.7190,52.1378,19.1734,22.0960/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 686
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:79.2836,52.1378,19.1734,22.0960/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 686
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:1.2383,76.7150,19.2586,21.8278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 496,
+                "width": 689
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:20.8043,76.7150,19.2586,21.8278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 496,
+                "width": 689
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:40.3703,76.7150,19.2586,21.8278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 496,
+                "width": 689
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:59.9362,76.7150,19.2586,21.8278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 496,
+                "width": 689
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/pct:79.5022,76.7150,19.2586,21.8278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 496,
+                "width": 689
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 627. \"Annie G.\" galloping"
+        ]
+      },
+      "height": 2274,
+      "width": 3579,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 508,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 508
+                },
+                "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2274,
+                "width": 3579,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6e1931fe-6c27-4527-a710-cf3dc7610753",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-627-annie-g-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

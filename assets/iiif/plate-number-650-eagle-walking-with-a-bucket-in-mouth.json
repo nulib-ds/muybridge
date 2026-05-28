@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 650. \"Eagle\" walking with a bucket in mouth"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "650"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-650-eagle-walking-with-a-bucket-in-mouth.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 650. \"Eagle\" walking with a bucket in mouth"
+        ]
+      },
+      "height": 688,
+      "width": 932,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 932,
+        "height": 688,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-650-eagle-walking-with-a-bucket-in-mouth.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 932,
+                  "height": 688
+                },
+                "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:1.5147,1.5838,24.1585,29.8193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 688,
+                "width": 932
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:26.0361,1.5838,24.1585,29.8193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 688,
+                "width": 932
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:50.5575,1.5838,24.1585,29.8193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 688,
+                "width": 932
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:75.0788,1.5838,24.1585,29.8193/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 688,
+                "width": 932
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:1.6106,34.2888,24.0626,31.0056/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 715,
+                "width": 928
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:26.1138,34.2888,24.0626,31.0056/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 715,
+                "width": 928
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:50.6171,34.2888,24.0626,31.0056/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 715,
+                "width": 928
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:75.1204,34.2888,24.0626,31.0056/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 715,
+                "width": 928
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:1.4955,68.2443,24.2160,31.3904/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 724,
+                "width": 934
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:26.0226,68.2443,24.2160,31.3904/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 724,
+                "width": 934
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:50.5497,68.2443,24.2160,31.3904/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 724,
+                "width": 934
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/pct:75.0767,68.2443,24.2160,31.3904/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 724,
+                "width": 934
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 650. \"Eagle\" walking with a bucket in mouth"
+        ]
+      },
+      "height": 2307,
+      "width": 3858,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 478,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 478
+                },
+                "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2307,
+                "width": 3858,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/161fe1e3-8573-44a3-99e4-62b7e783b2ed",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-650-eagle-walking-with-a-bucket-in-mouth.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

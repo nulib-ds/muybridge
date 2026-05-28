@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 628. \"Daisy\" galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "628"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-628-daisy-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 628. \"Daisy\" galloping"
+        ]
+      },
+      "height": 553,
+      "width": 743,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 743,
+        "height": 553,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-628-daisy-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 743,
+                  "height": 553
+                },
+                "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:0.7141,1.1857,19.7060,22.6858/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 743
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:20.5528,1.1857,19.7060,22.6858/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 743
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:40.3915,1.1857,19.7060,22.6858/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 743
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:60.2302,1.1857,19.7060,22.6858/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 743
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:80.0689,1.1857,19.7060,22.6858/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 743
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:0.7141,26.8018,19.6847,22.3565/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 742
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:20.5315,26.8018,19.6847,22.3565/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 742
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:40.3489,26.8018,19.6847,22.3565/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 742
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:60.1663,26.8018,19.6847,22.3565/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 742
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:79.9837,26.8018,19.6847,22.3565/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 742
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:0.7354,52.1217,19.5995,22.6528/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:20.5207,52.1217,19.5995,22.6528/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:40.3059,52.1217,19.5995,22.6528/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:60.0912,52.1217,19.5995,22.6528/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:79.8765,52.1217,19.5995,22.6528/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:0.7440,78.1854,19.5995,21.6980/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:20.5558,78.1854,19.5995,21.6980/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:40.3677,78.1854,19.5995,21.6980/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:60.1795,78.1854,19.5995,21.6980/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/pct:79.9913,78.1854,19.5995,21.6980/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 739
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 628. \"Daisy\" galloping"
+        ]
+      },
+      "height": 2438,
+      "width": 3768,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 518,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 518
+                },
+                "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2438,
+                "width": 3768,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/143e1dfc-fa58-46b9-ada0-be34812c77c9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-628-daisy-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

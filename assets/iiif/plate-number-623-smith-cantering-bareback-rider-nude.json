@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 623. \"Smith\" cantering, bareback; rider nude"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "623"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-623-smith-cantering-bareback-rider-nude.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 623. \"Smith\" cantering, bareback; rider nude"
+        ]
+      },
+      "height": 595,
+      "width": 620,
+      "duration": 1.9,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 620,
+        "height": 595,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-623-smith-cantering-bareback-rider-nude.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 620,
+                  "height": 595
+                },
+                "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:0.9161,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0,0.079"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:17.3232,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.079,0.158"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:33.7303,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.158,0.237"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:50.1375,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.237,0.317"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:66.5446,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.317,0.396"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:82.9517,2.7280,15.7222,27.3251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 620
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.396,0.475"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:0.9800,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.475,0.554"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:17.4003,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.554,0.633"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:33.8206,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.633,0.712"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:50.2409,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.712,0.792"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:66.6612,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.792,0.871"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:83.0815,32.5969,15.7861,28.2887/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 622
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.871,0.95"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:1.0652,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=0.95,1.029"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:9.2601,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.029,1.108"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:17.4551,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.108,1.188"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:25.6500,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.188,1.267"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:33.8450,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.267,1.346"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:42.0399,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.346,1.425"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:50.2349,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.425,1.504"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:58.4298,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.504,1.583"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:66.6248,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.583,1.662"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:74.8197,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.662,1.742"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:83.0146,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.742,1.821"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/pct:91.2096,63.4292,7.8398,34.8791/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 309
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/animation#t=1.821,1.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 623. \"Smith\" cantering, bareback; rider nude"
+        ]
+      },
+      "height": 2179,
+      "width": 3942,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 442,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 442
+                },
+                "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2179,
+                "width": 3942,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/9f83c78b-ea59-495a-aa9b-d9cd75f7fb69",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-623-smith-cantering-bareback-rider-nude.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

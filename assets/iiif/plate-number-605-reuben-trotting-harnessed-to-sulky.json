@@ -1,0 +1,402 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 605. \"Reuben\" trotting, harnessed to sulky"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "605"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-605-reuben-trotting-harnessed-to-sulky.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 605. \"Reuben\" trotting, harnessed to sulky"
+        ]
+      },
+      "height": 708,
+      "width": 912,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 912,
+        "height": 708,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-605-reuben-trotting-harnessed-to-sulky.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 912,
+                  "height": 708
+                },
+                "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:1.7198,2.5205,24.0733,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:25.8723,2.5205,24.0733,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:50.0249,2.5205,24.0733,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:74.1774,2.5205,24.0733,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:1.5438,35.4168,24.0946,29.0192/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:25.7969,35.4168,24.0946,29.0192/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:50.0499,35.4168,24.0946,29.0192/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:74.3029,35.4168,24.0946,29.0192/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 912
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:1.4799,67.4888,23.7537,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 900
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:25.6297,67.4888,23.7537,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 900
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:49.7796,67.4888,23.7537,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 900
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/pct:73.9294,67.4888,23.7537,30.1168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 708,
+                "width": 900
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/animation#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 605. \"Reuben\" trotting, harnessed to sulky"
+        ]
+      },
+      "height": 2352,
+      "width": 3787,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 497,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 497
+                },
+                "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2352,
+                "width": 3787,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/54560118-00ec-4d8f-b080-9fa277038c67",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-605-reuben-trotting-harnessed-to-sulky.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

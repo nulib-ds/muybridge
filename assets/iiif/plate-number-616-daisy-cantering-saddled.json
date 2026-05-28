@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 616. \"Daisy\" cantering, saddled"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "616"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-616-daisy-cantering-saddled.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 616. \"Daisy\" cantering, saddled"
+        ]
+      },
+      "height": 548,
+      "width": 574,
+      "duration": 1.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 574,
+        "height": 548,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-616-daisy-cantering-saddled.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 574,
+                  "height": 548
+                },
+                "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:1.3230,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0,0.058"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:17.4751,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.058,0.117"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:33.6272,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.117,0.175"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:49.7794,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.175,0.233"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:65.9315,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.233,0.292"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:82.0836,1.2848,15.8756,22.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 548,
+                "width": 574
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.292,0.35"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:1.2339,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.35,0.408"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:17.4670,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.408,0.467"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:33.7001,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.467,0.525"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:49.9331,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.525,0.583"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:66.1662,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.583,0.642"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:82.3993,26.6582,15.9565,22.4604/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.642,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:1.2339,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.7,0.758"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:17.3840,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.758,0.817"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:33.5341,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.817,0.875"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:49.6843,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.875,0.933"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:65.8344,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.933,0.992"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:81.9845,51.3488,15.9565,23.4799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 577
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.992,1.05"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:1.2339,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.05,1.108"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:17.3967,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.108,1.167"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:33.5595,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.167,1.225"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:49.7224,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.225,1.283"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:65.8852,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.283,1.342"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/pct:82.0480,76.5490,15.9139,22.5879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 575
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.342,1.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 616. \"Daisy\" cantering, saddled"
+        ]
+      },
+      "height": 2418,
+      "width": 3616,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 535,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 535
+                },
+                "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2418,
+                "width": 3616,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/7fc5f84d-cf8c-4d30-8cb9-2064dffbb24b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

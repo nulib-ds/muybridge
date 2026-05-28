@@ -1,0 +1,618 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 647. \"Pandora\" jumping a hurdle, bareback; rider nude"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "647"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 647. \"Pandora\" jumping a hurdle, bareback; rider nude"
+        ]
+      },
+      "height": 730,
+      "width": 271,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 271,
+        "height": 730,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 271,
+                  "height": 730
+                },
+                "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:93.8922,2.9074,5.4644,45.0426/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 730,
+                "width": 271
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:88.0635,2.7316,5.6562,44.9840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 729,
+                "width": 280
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:81.7938,2.7316,6.1547,44.4569/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 305
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:75.1214,2.8488,6.5381,44.9840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 729,
+                "width": 324
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:67.8547,2.6731,7.1325,45.0426/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 730,
+                "width": 353
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:59.6868,2.8488,7.7269,44.9840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 729,
+                "width": 383
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:51.4998,2.8488,7.8803,45.3355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 735,
+                "width": 390
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:42.6800,2.7316,8.6664,45.2183/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 733,
+                "width": 429
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:33.5726,2.6145,9.0115,45.1012/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 731,
+                "width": 446
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:22.9314,2.3216,10.3536,45.6869/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 741,
+                "width": 513
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:12.0793,2.6731,10.6221,45.1597/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 732,
+                "width": 526
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:0.8820,2.3216,10.9672,44.7497/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 725,
+                "width": 543
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:88.0443,51.3472,11.0439,45.9798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 745,
+                "width": 547
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:77.1730,51.4057,10.6221,46.6241/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 756,
+                "width": 526
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:66.5126,51.6986,10.2386,46.1555/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 748,
+                "width": 507
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:57.3285,51.8743,8.8389,46.0969/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 747,
+                "width": 438
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:48.6429,51.9915,8.3980,45.9798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 745,
+                "width": 416
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:40.4751,51.5815,7.8228,46.3898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 752,
+                "width": 387
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:32.2689,51.4057,7.9378,46.6241/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 756,
+                "width": 393
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:24.9638,51.5229,6.9983,46.2726/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 750,
+                "width": 347
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:18.3873,51.7572,6.2697,45.9212/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 744,
+                "width": 310
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:12.0984,51.7572,6.0205,45.6283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 298
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:6.3847,51.4643,5.2343,46.0969/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 747,
+                "width": 259
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/pct:0.7094,51.6400,5.3877,45.7455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 742,
+                "width": 267
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 647. \"Pandora\" jumping a hurdle, bareback; rider nude"
+        ]
+      },
+      "height": 1621,
+      "width": 4952,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 262,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 262
+                },
+                "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1621,
+                "width": 4952,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/bfaef9ef-75af-4ae9-b97a-0f2289c366ad",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-647-pandora-jumping-a-hurdle-bareback-rider-nude.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

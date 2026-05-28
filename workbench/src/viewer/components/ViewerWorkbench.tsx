@@ -295,6 +295,19 @@ export const ViewerWorkbench = memo(
         if (e.key === "Escape" && isDrawing) {
           annotoriousRef.current?.setDrawingEnabled(false);
           setIsDrawing(false);
+          return;
+        }
+        if (
+          e.key === "q" &&
+          !e.ctrlKey && !e.altKey && !e.metaKey &&
+          !isDrawing &&
+          !(e.target instanceof HTMLInputElement) &&
+          !(e.target instanceof HTMLTextAreaElement) &&
+          !(e.target instanceof HTMLElement && e.target.isContentEditable)
+        ) {
+          annotoriousRef.current?.setDrawingTool("rectangle");
+          annotoriousRef.current?.setDrawingEnabled(true);
+          setIsDrawing(true);
         }
       };
       window.addEventListener("keydown", handleKeyDown);
@@ -370,7 +383,7 @@ export const ViewerWorkbench = memo(
               onDuplicateAndOffset={onDuplicateAndOffset}
               onPreviewChange={handlePreviewChange}
             />
-            <div data-annotatable>
+            <div data-annotatable style={{ cursor: isDrawing ? "crosshair" : undefined }}>
               <OpenSeadragonViewer options={viewerOptions} />
               {previewRects.length > 0 && (
                 <svg

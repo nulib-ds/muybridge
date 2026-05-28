@@ -1,0 +1,546 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 638. \"Daisy\" jumping a hurdle, saddled"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "638"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "http://localhost:5001/images/thumbnails/plate-number-638-daisy-jumping-a-hurdle-saddled.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 638. \"Daisy\" jumping a hurdle, saddled"
+        ]
+      },
+      "height": 599,
+      "width": 624,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 624,
+        "height": 599,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://localhost:5001/images/thumbnails/plate-number-638-daisy-jumping-a-hurdle-saddled.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 624,
+                  "height": 599
+                },
+                "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:1.6555,1.0582,19.1346,21.7989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:21.0968,1.0582,19.1346,21.7989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:40.5380,1.0582,19.1346,21.7989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:59.9793,1.0582,19.1346,21.7989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:79.4205,1.0582,19.1346,21.7989/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 624
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:1.6109,26.1376,19.1569,22.1958/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 625
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:21.1051,26.1376,19.1569,22.1958/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 625
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:40.5994,26.1376,19.1569,22.1958/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 625
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:60.0936,26.1376,19.1569,22.1958/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 625
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:79.5878,26.1376,19.1569,22.1958/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 625
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:1.5886,51.2434,19.3576,22.6455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 623,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:21.1302,51.2434,19.3576,22.6455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 623,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:40.6718,51.2434,19.3576,22.6455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 623,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:60.2134,51.2434,19.3576,22.6455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 623,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:79.7550,51.2434,19.3576,22.6455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 623,
+                "width": 631
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:1.5217,76.8254,19.4245,21.9577/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 633
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:21.0996,76.8254,19.4245,21.9577/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 633
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:40.6774,76.8254,19.4245,21.9577/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 633
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:60.2553,76.8254,19.4245,21.9577/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 633
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/pct:79.8331,76.8254,19.4245,21.9577/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 633
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/animation#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 638. \"Daisy\" jumping a hurdle, saddled"
+        ]
+      },
+      "height": 2749,
+      "width": 3261,
+      "placeholderCanvas": {
+        "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 674,
+        "items": [
+          {
+            "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 674
+                },
+                "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2749,
+                "width": 3261,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/3a689ff2-2181-4fb9-87cd-71eef9049503",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://localhost:5001/iiif/plate-number-638-daisy-jumping-a-hurdle-saddled.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

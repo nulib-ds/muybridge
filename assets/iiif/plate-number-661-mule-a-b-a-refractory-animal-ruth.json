@@ -44,7 +44,7 @@
       },
       "value": {
         "en": [
-          "2"
+          "24"
         ]
       }
     },
@@ -79,7 +79,7 @@
       },
       "height": 789,
       "width": 990,
-      "duration": 0.2,
+      "duration": 2.3,
       "placeholderCanvas": {
         "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/placeholder",
         "type": "Canvas",
@@ -122,13 +122,13 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:2.1277,2.4272,15.1504,21.9824/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:2.1264,2.4241,15.1446,21.9838/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 789,
                 "width": 990
               },
-              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0,0.1"
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0,0.096"
             },
             {
               "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/2",
@@ -140,13 +140,409 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:17.9017,2.6276,15.6273,21.8488/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:17.8981,2.6191,15.6341,21.8445/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 784,
                 "width": 1022
               },
-              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.1,0.2"
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.096,0.192"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:34.0064,2.6191,15.6647,21.8167/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 783,
+                "width": 1024
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.192,0.287"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:50.0994,2.6191,15.6647,21.8167/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 783,
+                "width": 1024
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.287,0.383"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:66.1924,2.6191,15.6647,21.8167/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 783,
+                "width": 1024
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.383,0.479"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:82.2855,2.6191,15.6647,21.8167/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 783,
+                "width": 1024
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.479,0.575"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:1.7592,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.575,0.671"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:17.8828,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.671,0.767"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:34.0064,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.767,0.862"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:50.1300,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.862,0.958"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:66.2536,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=0.958,1.054"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:82.3772,26.2469,15.5882,22.6247/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 812,
+                "width": 1019
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.054,1.15"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:1.8204,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.15,1.246"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:18.0052,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.246,1.342"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:34.1900,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.342,1.438"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:50.3595,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.438,1.533"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:66.5443,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.533,1.629"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:82.7291,50.9334,15.6494,22.5968/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 811,
+                "width": 1023
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.629,1.725"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:1.8204,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.725,1.821"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:17.9440,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.821,1.917"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:34.0829,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=1.917,2.012"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:50.2065,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=2.012,2.108"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:66.3301,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=2.108,2.204"
+            },
+            {
+              "id": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/87965f65-ae3f-43a9-9985-30885525b433/pct:82.4537,75.3413,15.5270,22.7919/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 1015
+              },
+              "target": "http://localhost:5001/iiif/plate-number-661-mule-a-b-a-refractory-animal-ruth.json/canvas/animation#t=2.204,2.3"
             }
           ]
         }
