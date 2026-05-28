@@ -1,23 +1,34 @@
-# Canopy Template
+# Muybridge in Motion
 
-This repository offers a trimmed down starting point for new Canopy IIIF projects. When you need deeper documentation, examples, or release notes, vist the main project at https://canopy-iiif.github.io/app/.
+Between 1872 and 1887, Eadweard Muybridge photographed bodies in motion: horses galloping, men wrestling, women climbing stairs, birds in flight. His _Animal Locomotion_ plates, 781 in all, broke movement into its component frames and made visible what the eye alone cannot follow.
 
-## Getting Started
+This project collects those digitized plates and animates them. Each is assembled from IIIF images held at the National Gallery of Art, the Smithsonian, and other institutions into a single collection. Each item represented by a Manifest is then played as a sequence so the motion reads as Muybridge intended. The result is a digital edition of a nineteenth-century scientific landmark and a demonstration of what open, interoperable collections can do and how IIIF can bring to life flat images.
 
-Walk through the [Quick Start guide](https://canopy-iiif.github.io/app/docs/user-guides/canopy-get-started.html) to stand up your new digital project, configure `canopy.yml` using IIIF collections and manifests, and add pages and layouts under `content/`.
+## Using the Site
 
-## Preview from the monorepo
+Browse the full collection on the search page, where plates can be filtered by animal and movement. Each plate opens a viewer that plays the animation and shows the original photographic frames.
 
-Working inside `canopy-iiif/app`? Run `npm run preview:template` to stage this starter into `.template-preview/`, install its dependencies, and launch `npm run dev`. Stop the script with `Ctrl+C` when you are done.
+https://nulib-ds.github.io/muybridge/
 
-## Updates
+## Running Locally
 
-Keep your project current by running `npm install @canopy-iiif/app@latest @samvera/clover-iiif@latest` whenever a new release ships, or trigger the _Update Canopy App_ GitHub action (Actions tab → _Update Canopy App_ → _Run workflow_) and let it open a pull request that bumps both dependencies for you. Read the [Developer documentation](https://canopy-iiif.github.io/app/docs/developers) for more information.
+Requires [Node.js](https://nodejs.org/) 24 or later.
 
-## Contributing
+```bash
+npm install
+npm run dev
+```
 
-All development happens in https://github.com/canopy-iiif/app. If you are interested in shaping Canopy IIIF, please open an issue, share feedback, or send a pull request.
+The site runs at `http://localhost:5001`.
+
+## Colophon
+
+Built with [Canopy IIIF](https://canopy-iiif.github.io/app/), an open-source static site generator for IIIF-based digital collections. The image viewer is [Clover IIIF](https://samvera-labs.github.io/clover-iiif/), a React viewer for IIIF Presentation API 3.0. Both are open-source and released under the MIT License.
+
+## Credits
+
+- Mat Jordan, Northwestern University
 
 ## License
 
-Canopy IIIF (Canopy) is an open-source project by Mat Jordan, released under the MIT License. By working directly with IIIF resources, Canopy keeps materials with the libraries, museums, and archives that serve them, along with their metadata, rights statements, and terms of use. Implementers should be aware of the rights and terms governing the materials they reference, publish, and deploy to the web using Canopy.
+MIT. The photographic materials reproduced here are held by their respective institutions under their own terms of use.
