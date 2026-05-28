@@ -83,11 +83,6 @@
 }
 
 @layer components {
-  .canopy-header__desktop-nav,
-  .canopy-header__actions {
-    display: none !important;
-  }
-
   .canopy-search-form {
     border: none !important;
   }
@@ -101,9 +96,5 @@
 
   .canopy-header__brand {
     flex: 0 0 auto;
-  }
-
-  .canopy-header__desktop-search {
-    max-width: 600px;
   }
 }
