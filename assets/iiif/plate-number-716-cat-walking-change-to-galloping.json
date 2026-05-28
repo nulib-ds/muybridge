@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json",
+  "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -39,14 +39,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation",
+      "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -57,27 +57,27 @@
       "width": 1105,
       "duration": 1.2,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 1105,
         "height": 743,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-716-cat-walking-change-to-galloping.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 1105,
                   "height": 743
                 },
-                "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -85,11 +85,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -104,10 +104,10 @@
                 "height": 743,
                 "width": 1105
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0,0.05"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0,0.05"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -122,10 +122,10 @@
                 "height": 743,
                 "width": 1132
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.05,0.1"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.05,0.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -140,10 +140,10 @@
                 "height": 746,
                 "width": 1134
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.1,0.15"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.1,0.15"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -158,10 +158,10 @@
                 "height": 755,
                 "width": 1124
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.15,0.2"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.15,0.2"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -176,10 +176,10 @@
                 "height": 758,
                 "width": 1138
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.2,0.25"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.2,0.25"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -194,10 +194,10 @@
                 "height": 770,
                 "width": 1100
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.25,0.3"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.25,0.3"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -212,10 +212,10 @@
                 "height": 727,
                 "width": 1115
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.3,0.35"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.3,0.35"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -230,10 +230,10 @@
                 "height": 735,
                 "width": 1126
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.35,0.4"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.35,0.4"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -248,10 +248,10 @@
                 "height": 734,
                 "width": 1127
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.4,0.45"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.4,0.45"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -266,10 +266,10 @@
                 "height": 732,
                 "width": 1126
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.45,0.5"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.45,0.5"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -284,10 +284,10 @@
                 "height": 728,
                 "width": 1134
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.5,0.55"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.5,0.55"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -302,10 +302,10 @@
                 "height": 730,
                 "width": 1111
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.55,0.6"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.55,0.6"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -320,10 +320,10 @@
                 "height": 780,
                 "width": 1096
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.6,0.65"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.6,0.65"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -338,10 +338,10 @@
                 "height": 776,
                 "width": 1131
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.65,0.7"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.65,0.7"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -356,10 +356,10 @@
                 "height": 774,
                 "width": 1137
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.7,0.75"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.7,0.75"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -374,10 +374,10 @@
                 "height": 773,
                 "width": 1126
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.75,0.8"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.75,0.8"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -392,10 +392,10 @@
                 "height": 770,
                 "width": 1140
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.8,0.85"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.8,0.85"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -410,10 +410,10 @@
                 "height": 773,
                 "width": 1104
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.85,0.9"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.85,0.9"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -428,10 +428,10 @@
                 "height": 731,
                 "width": 1105
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.9,0.95"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.9,0.95"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -446,10 +446,10 @@
                 "height": 735,
                 "width": 1128
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.95,1"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=0.95,1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -464,10 +464,10 @@
                 "height": 733,
                 "width": 1132
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1,1.05"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1,1.05"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -482,10 +482,10 @@
                 "height": 736,
                 "width": 1128
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.05,1.1"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.05,1.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -500,10 +500,10 @@
                 "height": 739,
                 "width": 1134
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.1,1.15"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.1,1.15"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -518,14 +518,14 @@
                 "height": 726,
                 "width": 1109
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.15,1.2"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/animation#t=1.15,1.2"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static",
+      "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -535,17 +535,17 @@
       "height": 3495,
       "width": 6957,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 402,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -555,7 +555,7 @@
                   "width": 800,
                   "height": 402
                 },
-                "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/placeholder"
               }
             ]
           }
@@ -563,11 +563,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -584,7 +584,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static"
+              "target": "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json/canvas/static"
             }
           ]
         }

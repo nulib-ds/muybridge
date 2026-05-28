@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json",
+  "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation",
+      "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 635,
       "duration": 1.3,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 635,
         "height": 474,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 635,
                   "height": 474
                 },
-                "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0,0.054"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0,0.054"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.054,0.108"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.054,0.108"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.108,0.163"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.108,0.163"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.163,0.217"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.163,0.217"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.217,0.271"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.217,0.271"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 474,
                 "width": 635
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.271,0.325"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.271,0.325"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.325,0.379"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.325,0.379"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.379,0.433"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.379,0.433"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.433,0.488"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.433,0.488"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.488,0.542"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.488,0.542"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.542,0.596"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.542,0.596"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 464,
                 "width": 636
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.596,0.65"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.596,0.65"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.65,0.704"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.65,0.704"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.704,0.758"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.704,0.758"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.758,0.813"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.758,0.813"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.813,0.867"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.813,0.867"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.867,0.921"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.867,0.921"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 470,
                 "width": 634
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.921,0.975"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.921,0.975"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.975,1.029"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=0.975,1.029"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.029,1.083"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.029,1.083"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.083,1.137"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.083,1.137"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.137,1.192"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.137,1.192"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.192,1.246"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.192,1.246"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 464,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.246,1.3"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/animation#t=1.246,1.3"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static",
+      "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 2082,
       "width": 3976,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 419,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 419
                 },
-                "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static"
+              "target": "assets/iiif/plate-number-614-flode-holden-trotting-harnessed-to-sulky-breaking-into-a-gallop.json/canvas/static"
             }
           ]
         }

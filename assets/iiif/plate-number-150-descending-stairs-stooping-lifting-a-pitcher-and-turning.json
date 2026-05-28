@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json",
+  "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation",
+      "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 367,
       "duration": 4.1,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 367,
         "height": 837,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 367,
                   "height": 837
                 },
-                "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0,0.171"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0,0.171"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.171,0.342"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.171,0.342"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.342,0.512"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.342,0.512"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.512,0.683"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.512,0.683"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.683,0.854"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.683,0.854"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.854,1.025"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=0.854,1.025"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.025,1.196"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.025,1.196"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 837,
                 "width": 367
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.196,1.367"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.196,1.367"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.367,1.537"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.367,1.537"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.537,1.708"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.537,1.708"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.708,1.879"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.708,1.879"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.879,2.05"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=1.879,2.05"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.05,2.221"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.05,2.221"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.221,2.392"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.221,2.392"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.392,2.562"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.392,2.562"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 799,
                 "width": 357
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.562,2.733"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.562,2.733"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.733,2.904"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.733,2.904"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.904,3.075"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=2.904,3.075"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.075,3.246"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.075,3.246"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.246,3.417"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.246,3.417"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.417,3.587"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.417,3.587"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.587,3.758"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.587,3.758"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.758,3.929"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.758,3.929"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 819,
                 "width": 348
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.929,4.1"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/animation#t=3.929,4.1"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static",
+      "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 2695,
       "width": 3246,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 664,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 664
                 },
-                "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static"
+              "target": "assets/iiif/plate-number-150-descending-stairs-stooping-lifting-a-pitcher-and-turning.json/canvas/static"
             }
           ]
         }

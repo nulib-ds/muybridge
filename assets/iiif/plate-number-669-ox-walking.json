@@ -1,0 +1,474 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "assets/iiif/plate-number-669-ox-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 669. Ox; walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "669"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-669-ox-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 669. Ox; walking"
+        ]
+      },
+      "height": 898,
+      "width": 1380,
+      "duration": 1.6,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 1380,
+        "height": 898,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-669-ox-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1380,
+                  "height": 898
+                },
+                "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:1.5914,1.8448,23.7750,22.9270/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 898,
+                "width": 1380
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:25.8144,1.8448,23.7750,22.9270/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 898,
+                "width": 1380
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:50.0374,1.8448,23.7750,22.9270/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 898,
+                "width": 1380
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:74.2604,1.8448,23.7750,22.9270/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 898,
+                "width": 1380
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:1.6106,27.5276,23.9284,20.8530/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 817,
+                "width": 1389
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:25.8319,27.5276,23.9284,20.8530/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 817,
+                "width": 1389
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:50.0532,27.5276,23.9284,20.8530/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 817,
+                "width": 1389
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:74.2745,27.5276,23.9284,20.8530/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 817,
+                "width": 1389
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:1.4572,51.2785,24.0818,21.2508/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 1398
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:25.7630,51.2785,24.0818,21.2508/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 1398
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:50.0688,51.2785,24.0818,21.2508/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 1398
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:74.3746,51.2785,24.0818,21.2508/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 832,
+                "width": 1398
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:1.5653,75.5702,23.9029,22.1599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 868,
+                "width": 1387
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:25.8472,75.5702,23.9029,22.1599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 868,
+                "width": 1387
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:50.1291,75.5702,23.9029,22.1599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 868,
+                "width": 1387
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/pct:74.4110,75.5702,23.9029,22.1599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 868,
+                "width": 1387
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/animation#t=1.5,1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 669. Ox; walking"
+        ]
+      },
+      "height": 3917,
+      "width": 5804,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 540,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 540
+                },
+                "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-669-ox-walking.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3917,
+                "width": 5804,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/bc783c0e-202e-40d1-b8ea-21a79cdfb02e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "assets/iiif/plate-number-669-ox-walking.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json",
+  "id": "assets/iiif/plate-number-126-descending-stairs.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-126-descending-stairs.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-126-descending-stairs.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation",
+      "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 521,
       "duration": 1.1,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 521,
         "height": 1069,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-126-descending-stairs.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-126-descending-stairs.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 521,
                   "height": 1069
                 },
-                "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0,0.1"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0,0.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.1,0.2"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.1,0.2"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.2,0.3"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.2,0.3"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.3,0.4"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.3,0.4"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.4,0.5"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.4,0.5"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 1069,
                 "width": 521
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.5,0.6"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.5,0.6"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 1059,
                 "width": 622
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.6,0.7"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.6,0.7"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 1059,
                 "width": 622
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.7,0.8"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.7,0.8"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 1059,
                 "width": 622
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.8,0.9"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.8,0.9"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 1059,
                 "width": 622
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.9,1"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=0.9,1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,14 +308,14 @@
                 "height": 1059,
                 "width": 622
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=1,1.1"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/animation#t=1,1.1"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static",
+      "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -325,17 +325,17 @@
       "height": 2259,
       "width": 3586,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 504,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -345,7 +345,7 @@
                   "width": 800,
                   "height": 504
                 },
-                "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/placeholder"
               }
             ]
           }
@@ -353,11 +353,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -374,7 +374,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-126-descending-stairs.json/canvas/static"
+              "target": "assets/iiif/plate-number-126-descending-stairs.json/canvas/static"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json",
+  "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation",
+      "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 1617,
       "duration": 1.2,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 1617,
         "height": 1450,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 1617,
                   "height": 1450
                 },
-                "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -122,16 +122,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.9173,3.0405,23.7750,29.8053/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.9115,3.0421,23.7759,29.8047/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1450,
                 "width": 1617
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0,0.1"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0,0.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -140,16 +140,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.9864,3.0405,23.7750,29.8053/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.9815,3.0421,23.7759,29.8047/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1450,
                 "width": 1617
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.1,0.2"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.1,0.2"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -158,16 +158,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:50.0556,3.0405,23.7750,29.8053/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:50.0515,3.0421,23.7759,29.8047/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1450,
                 "width": 1617
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.2,0.3"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.2,0.3"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -176,16 +176,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:74.1247,3.0405,23.7750,29.8053/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:74.1215,3.0421,23.7759,29.8047/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1450,
                 "width": 1617
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.3,0.4"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.3,0.4"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -194,16 +194,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.9721,35.7912,23.5407,28.4711/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.9703,35.7862,23.5407,28.4687/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1385,
                 "width": 1601
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.4,0.5"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.4,0.5"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -212,16 +212,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.9097,35.7912,23.5407,28.4711/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.9080,35.7862,23.5407,28.4687/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1385,
                 "width": 1601
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.5,0.6"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.5,0.6"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -230,16 +230,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:49.8474,35.7912,23.5407,28.4711/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:49.8456,35.7862,23.5407,28.4687/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1385,
                 "width": 1601
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.6,0.7"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.6,0.7"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -248,16 +248,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:73.7851,35.7912,23.5407,28.4711/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:73.7833,35.7862,23.5407,28.4687/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1385,
                 "width": 1601
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.7,0.8"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.7,0.8"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -266,16 +266,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.7803,66.9427,23.6685,29.2157/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:1.7792,66.9476,23.6730,29.2086/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1421,
                 "width": 1610
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.8,0.9"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.8,0.9"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -284,16 +284,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.8458,66.9427,23.6685,29.2157/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:25.8491,66.9476,23.6730,29.2086/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1421,
                 "width": 1610
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.9,1"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=0.9,1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -302,16 +302,16 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:49.9114,66.9427,23.6685,29.2157/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:49.9044,66.9476,23.6730,29.2086/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1421,
                 "width": 1610
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=1,1.1"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=1,1.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -320,20 +320,20 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:73.9769,66.9427,23.6685,29.2157/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/805a4c63-bb0a-4c8a-a5ca-210f4821d1d7/pct:73.9744,66.9476,23.6730,29.2086/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1421,
                 "width": 1610
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=1.1,1.2"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/animation#t=1.1,1.2"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static",
+      "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -343,17 +343,17 @@
       "height": 4865,
       "width": 6801,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 572,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -363,7 +363,7 @@
                   "width": 800,
                   "height": 572
                 },
-                "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/placeholder"
               }
             ]
           }
@@ -371,11 +371,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -392,7 +392,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static"
+              "target": "assets/iiif/plate-number-665-ass-walking-bareback-a-boy-riding-jennie.json/canvas/static"
             }
           ]
         }

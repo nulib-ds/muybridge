@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json",
+  "id": "assets/iiif/plate-number-268-arising-from-the-ground.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-268-arising-from-the-ground.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-268-arising-from-the-ground.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation",
+      "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 640,
       "duration": 5.7,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 640,
         "height": 704,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-268-arising-from-the-ground.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-268-arising-from-the-ground.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 640,
                   "height": 704
                 },
-                "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 704,
                 "width": 640
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0,0.238"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0,0.238"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 690,
                 "width": 461
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.238,0.475"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.238,0.475"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 693,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.475,0.713"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.475,0.713"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 693,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.713,0.95"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.713,0.95"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 693,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.95,1.188"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=0.95,1.188"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 693,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.188,1.425"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.188,1.425"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 693,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.425,1.663"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.425,1.663"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 693,
                 "width": 314
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.663,1.9"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.663,1.9"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 691,
                 "width": 625
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.9,2.138"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=1.9,2.138"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 689,
                 "width": 473
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.138,2.375"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.138,2.375"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 693,
                 "width": 393
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.375,2.613"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.375,2.613"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 693,
                 "width": 393
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.613,2.85"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.613,2.85"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 693,
                 "width": 393
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.85,3.088"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=2.85,3.088"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 693,
                 "width": 470
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.088,3.325"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.088,3.325"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 693,
                 "width": 352
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.325,3.563"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.325,3.563"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 693,
                 "width": 307
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.563,3.8"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.563,3.8"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 696,
                 "width": 631
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.8,4.038"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=3.8,4.038"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 693,
                 "width": 453
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.038,4.275"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.038,4.275"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 688,
                 "width": 394
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.275,4.513"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.275,4.513"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 684,
                 "width": 396
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.513,4.75"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.513,4.75"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 691,
                 "width": 390
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.75,4.988"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.75,4.988"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 683,
                 "width": 471
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.988,5.225"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=4.988,5.225"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 689,
                 "width": 355
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=5.225,5.463"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=5.225,5.463"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 688,
                 "width": 306
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=5.463,5.7"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/animation#t=5.463,5.7"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static",
+      "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 2290,
       "width": 3664,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 500,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 500
                 },
-                "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-268-arising-from-the-ground.json/canvas/static"
+              "target": "assets/iiif/plate-number-268-arising-from-the-ground.json/canvas/static"
             }
           ]
         }

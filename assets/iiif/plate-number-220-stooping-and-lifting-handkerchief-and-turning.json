@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json",
+  "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-220-stooping-and-lifting-handkerchief-and-turning.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-220-stooping-and-lifting-handkerchief-and-turning.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation",
+      "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 598,
       "duration": 3.5,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 598,
         "height": 1230,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-220-stooping-and-lifting-handkerchief-and-turning.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-220-stooping-and-lifting-handkerchief-and-turning.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 598,
                   "height": 1230
                 },
-                "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 1230,
                 "width": 598
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0,0.146"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0,0.146"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 1230,
                 "width": 575
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.146,0.292"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.146,0.292"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 1230,
                 "width": 571
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.292,0.438"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.292,0.438"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 1230,
                 "width": 702
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.438,0.583"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.438,0.583"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 1230,
                 "width": 690
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.583,0.729"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.583,0.729"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 1230,
                 "width": 704
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.729,0.875"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.729,0.875"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 1230,
                 "width": 681
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.875,1.021"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=0.875,1.021"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 1230,
                 "width": 581
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.021,1.167"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.021,1.167"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 1230,
                 "width": 583
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.167,1.313"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.167,1.313"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 1230,
                 "width": 570
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.313,1.458"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.313,1.458"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 1230,
                 "width": 555
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.458,1.604"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.458,1.604"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 1230,
                 "width": 598
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.604,1.75"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.604,1.75"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 1236,
                 "width": 600
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.75,1.896"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.75,1.896"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 1236,
                 "width": 561
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.896,2.042"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=1.896,2.042"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 1236,
                 "width": 564
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.042,2.188"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.042,2.188"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 1236,
                 "width": 680
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.188,2.333"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.188,2.333"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 1236,
                 "width": 682
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.333,2.479"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.333,2.479"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 1236,
                 "width": 688
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.479,2.625"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.479,2.625"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 1236,
                 "width": 680
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.625,2.771"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.625,2.771"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 1236,
                 "width": 582
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.771,2.917"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.771,2.917"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 1236,
                 "width": 568
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.917,3.063"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=2.917,3.063"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 1236,
                 "width": 578
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.063,3.208"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.063,3.208"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 1236,
                 "width": 560
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.208,3.354"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.208,3.354"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 1236,
                 "width": 600
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.354,3.5"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/animation#t=3.354,3.5"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static",
+      "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 2684,
       "width": 7848,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 274,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 274
                 },
-                "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static"
+              "target": "assets/iiif/plate-number-220-stooping-and-lifting-handkerchief-and-turning.json/canvas/static"
             }
           ]
         }

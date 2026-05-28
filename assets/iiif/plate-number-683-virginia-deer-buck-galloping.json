@@ -1,0 +1,642 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 683. Virginia deer, buck, galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "683"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Deer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Galloping"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-683-virginia-deer-buck-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 683. Virginia deer, buck, galloping"
+        ]
+      },
+      "height": 497,
+      "width": 663,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 663,
+        "height": 497,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-683-virginia-deer-buck-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 663,
+                  "height": 497
+                },
+                "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:1.1696,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:17.5155,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:33.8614,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:50.2073,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:66.5532,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:82.8991,1.4037,15.9139,22.2748/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 663
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:1.1919,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:17.5219,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:33.8519,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:50.1819,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:66.5119,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:82.8419,27.0550,15.8500,21.1288/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 660
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:1.2559,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:17.5246,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:33.7934,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:50.0622,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.5,1.6"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:66.3309,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.6,1.7"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:82.5997,51.7650,15.7648,21.3676/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 477,
+                "width": 657
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.7,1.8"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:1.3198,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.8,1.9"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:17.5435,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=1.9,2"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:33.7672,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=2,2.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:49.9909,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=2.1,2.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:66.2146,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=2.2,2.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/pct:82.4383,75.6394,15.5518,22.5215/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 648
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/animation#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 683. Virginia deer, buck, galloping"
+        ]
+      },
+      "height": 2231,
+      "width": 4167,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 428,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 428
+                },
+                "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2231,
+                "width": 4167,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/0996ba5a-6938-43fb-9683-c028a7e0639f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "assets/iiif/plate-number-683-virginia-deer-buck-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

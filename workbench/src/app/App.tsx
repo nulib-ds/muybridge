@@ -271,7 +271,7 @@ function App() {
   const saveManifestToDisk = useCallback(async () => {
     if (!frames.length || !dimensions || !slug) return;
 
-    const manifestUrl = `${CANOPY_BASE_URL}/iiif/${slug}.json`;
+    const manifestUrl = `assets/iiif/${slug}.json`;
     const thumbnailUrl = `${CANOPY_BASE_URL}/images/thumbnails/${slug}.gif`;
     const plateNumber = activePlate?.metadata.find(
       (f) => f.label.trim().toLowerCase() === "plate number",

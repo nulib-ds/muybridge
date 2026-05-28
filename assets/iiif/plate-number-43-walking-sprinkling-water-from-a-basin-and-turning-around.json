@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json",
+  "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation",
+      "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 260,
       "duration": 4.4,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 260,
         "height": 725,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 260,
                   "height": 725
                 },
-                "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0,0.157"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0,0.157"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.157,0.314"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.157,0.314"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.314,0.471"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.314,0.471"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.471,0.629"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.471,0.629"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.629,0.786"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.629,0.786"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.786,0.943"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.786,0.943"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.943,1.1"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=0.943,1.1"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 719,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.1,1.257"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.1,1.257"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.257,1.414"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.257,1.414"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 725,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.414,1.571"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.414,1.571"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 710,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.571,1.729"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.571,1.729"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 704,
                 "width": 260
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.729,1.886"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.729,1.886"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.886,2.043"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=1.886,2.043"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.043,2.2"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.043,2.2"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.2,2.357"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.2,2.357"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.357,2.514"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.357,2.514"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.514,2.671"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.514,2.671"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.671,2.829"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.671,2.829"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.829,2.986"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.829,2.986"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 715,
                 "width": 402
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.986,3.143"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=2.986,3.143"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.143,3.3"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.143,3.3"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.3,3.457"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.3,3.457"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/23",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.457,3.614"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.457,3.614"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/24",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,10 +542,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.614,3.771"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.614,3.771"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/25",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -560,10 +560,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.771,3.929"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.771,3.929"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/26",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -578,10 +578,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.929,4.086"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=3.929,4.086"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/27",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -596,10 +596,10 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=4.086,4.243"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=4.086,4.243"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/28",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation/page/1/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -614,14 +614,14 @@
                 "height": 729,
                 "width": 400
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=4.243,4.4"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/animation#t=4.243,4.4"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static",
+      "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -631,17 +631,17 @@
       "height": 2395,
       "width": 3401,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 563,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -651,7 +651,7 @@
                   "width": 800,
                   "height": 563
                 },
-                "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/placeholder"
               }
             ]
           }
@@ -659,11 +659,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -680,7 +680,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static"
+              "target": "assets/iiif/plate-number-43-walking-sprinkling-water-from-a-basin-and-turning-around.json/canvas/static"
             }
           ]
         }

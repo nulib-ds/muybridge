@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json",
+  "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation",
+      "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 615,
       "duration": 1.1,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 615,
         "height": 587,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 615,
                   "height": 587
                 },
-                "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 587,
                 "width": 615
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0,0.055"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0,0.055"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 587,
                 "width": 615
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.055,0.11"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.055,0.11"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 587,
                 "width": 615
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.11,0.165"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.11,0.165"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 587,
                 "width": 615
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.165,0.22"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.165,0.22"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 587,
                 "width": 615
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.22,0.275"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.22,0.275"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 555,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.275,0.33"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.275,0.33"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 555,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.33,0.385"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.33,0.385"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 555,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.385,0.44"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.385,0.44"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 555,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.44,0.495"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.44,0.495"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 555,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.495,0.55"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.495,0.55"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 600,
                 "width": 607
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.55,0.605"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.55,0.605"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 600,
                 "width": 607
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.605,0.66"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.605,0.66"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 600,
                 "width": 607
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.66,0.715"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.66,0.715"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 600,
                 "width": 607
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.715,0.77"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.715,0.77"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 600,
                 "width": 607
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.77,0.825"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.77,0.825"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 593,
                 "width": 606
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.825,0.88"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.825,0.88"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 593,
                 "width": 606
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.88,0.935"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.88,0.935"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 593,
                 "width": 606
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.935,0.99"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.935,0.99"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 593,
                 "width": 606
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.99,1.045"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=0.99,1.045"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,14 +470,14 @@
                 "height": 593,
                 "width": 606
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=1.045,1.1"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/animation#t=1.045,1.1"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static",
+      "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -487,17 +487,17 @@
       "height": 2585,
       "width": 3138,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 659,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -507,7 +507,7 @@
                   "width": 800,
                   "height": 659
                 },
-                "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/placeholder"
               }
             ]
           }
@@ -515,11 +515,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -536,7 +536,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static"
+              "target": "assets/iiif/plate-number-636-daisy-jumping-a-hurdle-saddled-preparing-for-the-leap.json/canvas/static"
             }
           ]
         }

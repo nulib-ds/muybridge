@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json",
+  "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -63,14 +63,14 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:5001/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
       "type": "Image",
       "format": "image/gif"
     }
   ],
   "items": [
     {
-      "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation",
+      "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,27 +81,27 @@
       "width": 621,
       "duration": 4,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder",
+        "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 621,
         "height": 1267,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1",
+            "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://localhost:5001/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-219-stooping-and-lifting-broom-and-sweeping.gif",
                   "type": "Image",
                   "format": "image/gif",
                   "width": 621,
                   "height": 1267
                 },
-                "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder"
+                "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1",
+          "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0,0.182"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0,0.182"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/2",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.182,0.364"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.182,0.364"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/3",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.364,0.545"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.364,0.545"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/4",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.545,0.727"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.545,0.727"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/5",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.727,0.909"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.727,0.909"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/6",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.909,1.091"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=0.909,1.091"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/7",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.091,1.273"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.091,1.273"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/8",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.273,1.455"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.273,1.455"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/9",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.455,1.636"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.455,1.636"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/10",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.636,1.818"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.636,1.818"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/11",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.818,2"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=1.818,2"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/12",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 1267,
                 "width": 621
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2,2.182"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2,2.182"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/13",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 1291,
                 "width": 588
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.182,2.364"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.182,2.364"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/14",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 1291,
                 "width": 610
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.364,2.545"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.364,2.545"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/15",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 1291,
                 "width": 612
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.545,2.727"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.545,2.727"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/16",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 1291,
                 "width": 588
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.727,2.909"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.727,2.909"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/17",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 1291,
                 "width": 588
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.909,3.091"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=2.909,3.091"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/18",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 1291,
                 "width": 588
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.091,3.273"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.091,3.273"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/19",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 1291,
                 "width": 588
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.273,3.455"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.273,3.455"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/20",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 1291,
                 "width": 929
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.455,3.636"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.455,3.636"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/21",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 1291,
                 "width": 929
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.636,3.818"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.636,3.818"
             },
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/22",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,14 +506,14 @@
                 "height": 1291,
                 "width": 904
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.818,4"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/animation#t=3.818,4"
             }
           ]
         }
       ]
     },
     {
-      "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static",
+      "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -523,17 +523,17 @@
       "height": 2731,
       "width": 7676,
       "placeholderCanvas": {
-        "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder",
+        "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 285,
         "items": [
           {
-            "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1",
+            "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -543,7 +543,7 @@
                   "width": 800,
                   "height": 285
                 },
-                "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder"
+                "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/placeholder"
               }
             ]
           }
@@ -551,11 +551,11 @@
       },
       "items": [
         {
-          "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1",
+          "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1/annotation/1",
+              "id": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -572,7 +572,7 @@
                   }
                 ]
               },
-              "target": "http://localhost:5001/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static"
+              "target": "assets/iiif/plate-number-219-stooping-and-lifting-broom-and-sweeping.json/canvas/static"
             }
           ]
         }

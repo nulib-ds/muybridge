@@ -1,0 +1,498 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "assets/iiif/plate-number-676-goat-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 676. Goat; walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "676"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Goat"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-676-goat-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 676. Goat; walking"
+        ]
+      },
+      "height": 903,
+      "width": 1322,
+      "duration": 1.6,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 1322,
+        "height": 903,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-676-goat-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1322,
+                  "height": 903
+                },
+                "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:1.0658,1.5873,24.0086,22.5926/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 903,
+                "width": 1322
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:25.4376,1.5873,24.0086,22.5926/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 903,
+                "width": 1322
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:49.8094,1.5873,24.0086,22.5926/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 903,
+                "width": 1322
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:74.1812,1.5873,24.0086,22.5926/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 903,
+                "width": 1322
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:1.0083,26.6402,23.9894,22.4339/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 896,
+                "width": 1321
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:25.3609,26.6402,23.9894,22.4339/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 896,
+                "width": 1321
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:49.7135,26.6402,23.9894,22.4339/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 896,
+                "width": 1321
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:74.0661,26.6402,23.9894,22.4339/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 896,
+                "width": 1321
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:0.9699,51.6138,24.1046,22.1164/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 884,
+                "width": 1327
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:25.3468,51.6138,24.1046,22.1164/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 884,
+                "width": 1327
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:49.7238,51.6138,24.1046,22.1164/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 884,
+                "width": 1327
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:74.1008,51.6138,24.1046,22.1164/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 884,
+                "width": 1327
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:0.9507,76.0582,23.9702,22.8042/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 911,
+                "width": 1320
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:25.3930,76.0582,23.9702,22.8042/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 911,
+                "width": 1320
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:49.8354,76.0582,23.9702,22.8042/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 911,
+                "width": 1320
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/pct:74.2778,76.0582,23.9702,22.8042/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 911,
+                "width": 1320
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/animation#t=1.5,1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 676. Goat; walking"
+        ]
+      },
+      "height": 3995,
+      "width": 5507,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 580,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 580
+                },
+                "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-676-goat-walking.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3995,
+                "width": 5507,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/bc792d37-6383-4f45-bdf7-55a5b9075c42",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "assets/iiif/plate-number-676-goat-walking.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "assets/iiif/plate-number-680-oryx-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 680. Oryx galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "680"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Oryx"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Galloping"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-680-oryx-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 680. Oryx galloping"
+        ]
+      },
+      "height": 792,
+      "width": 865,
+      "duration": 1,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/placeholder",
+        "type": "Canvas",
+        "width": 865,
+        "height": 792,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://fantastic-adventure-v3pgm1o.pages.github.io/images/thumbnails/plate-number-680-oryx-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 865,
+                  "height": 792
+                },
+                "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:1.1888,5.3059,19.3268,43.9787/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 865
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:20.8282,5.3059,19.3268,43.9787/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 865
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:40.4676,5.3059,19.3268,43.9787/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 865
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:60.1071,5.3059,19.3268,43.9787/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 865
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:79.7465,5.3059,19.3268,43.9787/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 865
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:1.3171,53.0334,19.0882,45.5262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 855
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:20.9190,53.0334,19.0882,45.5262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 855
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:40.5208,53.0334,19.0882,45.5262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 855
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:60.1226,53.0334,19.0882,45.5262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 855
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/pct:79.7244,53.0334,19.0882,45.5262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 855
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/animation#t=0.9,1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 680. Oryx galloping"
+        ]
+      },
+      "height": 1800,
+      "width": 4478,
+      "placeholderCanvas": {
+        "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 322,
+        "items": [
+          {
+            "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 322
+                },
+                "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1800,
+                "width": 4478,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/22fc524f-ca5e-4e8a-b1c5-6738c522b98c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "assets/iiif/plate-number-680-oryx-galloping.json/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
