@@ -82,6 +82,10 @@
   }
 }
 
+.canopy-search-tabs {
+  visibility: hidden;
+}
+
 @layer components {
   .canopy-search-form {
     border: none !important;
