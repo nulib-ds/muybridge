@@ -91,6 +91,7 @@ const MANIFEST_EXPORT_ROUTE = "/api/iiif/manifest";
 const MANIFEST_SERVE_PREFIX = "/api/iiif/";
 const COLLECTION_FILENAME = "collection.json";
 const CANOPY_BASE_URL = "http://localhost:5001";
+const IIIF_BASE_URL = "https://nulib-ds.github.io/muybridge/iiif";
 
 async function writeManifestToDisk(root: string, slug: string, contents: string) {
   const directory = resolve(root, "..", "assets", "iiif");
@@ -130,7 +131,7 @@ async function rebuildCollection(root: string): Promise<void> {
       const manifest = JSON.parse(content) as Record<string, unknown>;
       if (manifest.type !== "Manifest") continue;
       const item: CollectionItem & { _plateNumber: number } = {
-        id: `assets/iiif/${file}`,
+        id: `${IIIF_BASE_URL}/${file}`,
         type: "Manifest",
         label: (manifest.label as Record<string, string[]>) ?? { en: [file.replace(".json", "")] },
         _plateNumber: plateNumberFromFilename(file),
@@ -150,7 +151,7 @@ async function rebuildCollection(root: string): Promise<void> {
 
   const collection = {
     "@context": "https://iiif.io/api/presentation/3/context.json",
-    id: `assets/iiif/${COLLECTION_FILENAME}`,
+    id: `${IIIF_BASE_URL}/${COLLECTION_FILENAME}`,
     type: "Collection",
     label: { en: ["Muybridge Animal Locomotion"] },
     items: collectionItems,

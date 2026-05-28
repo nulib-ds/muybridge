@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-336-boxing-open-hand.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -46,7 +46,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -57,17 +57,17 @@
       "width": 811,
       "duration": 2,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 811,
         "height": 751,
         "items": [
           {
-            "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -77,7 +77,7 @@
                   "width": 811,
                   "height": 751
                 },
-                "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -85,11 +85,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -104,10 +104,10 @@
                 "height": 751,
                 "width": 811
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0,0.167"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0,0.167"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -122,10 +122,10 @@
                 "height": 759,
                 "width": 832
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.167,0.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.167,0.333"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -140,10 +140,10 @@
                 "height": 765,
                 "width": 820
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.333,0.5"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.333,0.5"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -158,10 +158,10 @@
                 "height": 767,
                 "width": 813
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.5,0.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.5,0.667"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -176,10 +176,10 @@
                 "height": 752,
                 "width": 811
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.667,0.833"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.667,0.833"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -194,10 +194,10 @@
                 "height": 755,
                 "width": 826
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.833,1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=0.833,1"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -212,10 +212,10 @@
                 "height": 753,
                 "width": 823
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1,1.167"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1,1.167"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -230,10 +230,10 @@
                 "height": 759,
                 "width": 812
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.167,1.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.167,1.333"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -248,10 +248,10 @@
                 "height": 747,
                 "width": 827
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.333,1.5"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.333,1.5"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -266,10 +266,10 @@
                 "height": 749,
                 "width": 830
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.5,1.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.5,1.667"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -284,10 +284,10 @@
                 "height": 749,
                 "width": 818
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.667,1.833"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.667,1.833"
             },
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -302,14 +302,14 @@
                 "height": 752,
                 "width": 825
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.833,2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/animation#t=1.833,2"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -319,17 +319,17 @@
       "height": 2374,
       "width": 3382,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 562,
         "items": [
           {
-            "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -339,7 +339,7 @@
                   "width": 800,
                   "height": 562
                 },
-                "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/placeholder"
               }
             ]
           }
@@ -347,11 +347,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -368,7 +368,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-336-boxing-open-hand.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-336-boxing-open-hand.json/canvas/static"
             }
           ]
         }

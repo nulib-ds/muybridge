@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-4-walking.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -94,7 +94,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-4-walking.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -105,17 +105,17 @@
       "width": 557,
       "duration": 1.3,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 557,
         "height": 739,
         "items": [
           {
-            "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -125,7 +125,7 @@
                   "width": 557,
                   "height": 739
                 },
-                "target": "assets/iiif/plate-number-4-walking.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -133,11 +133,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -152,10 +152,10 @@
                 "height": 739,
                 "width": 557
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0,0.081"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0,0.081"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -170,10 +170,10 @@
                 "height": 741,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.081,0.163"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.081,0.163"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -188,10 +188,10 @@
                 "height": 743,
                 "width": 570
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.163,0.244"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.163,0.244"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -206,10 +206,10 @@
                 "height": 744,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.244,0.325"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.244,0.325"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -224,10 +224,10 @@
                 "height": 743,
                 "width": 573
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.325,0.406"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.325,0.406"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -242,10 +242,10 @@
                 "height": 743,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.406,0.488"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.406,0.488"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -260,10 +260,10 @@
                 "height": 738,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.488,0.569"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.488,0.569"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -278,10 +278,10 @@
                 "height": 739,
                 "width": 557
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.569,0.65"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.569,0.65"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -296,10 +296,10 @@
                 "height": 732,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.65,0.731"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.65,0.731"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -314,10 +314,10 @@
                 "height": 728,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.731,0.813"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.731,0.813"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -332,10 +332,10 @@
                 "height": 734,
                 "width": 567
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.813,0.894"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.813,0.894"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -350,10 +350,10 @@
                 "height": 735,
                 "width": 567
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.894,0.975"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.894,0.975"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -368,10 +368,10 @@
                 "height": 737,
                 "width": 569
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=0.975,1.056"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=0.975,1.056"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -386,10 +386,10 @@
                 "height": 743,
                 "width": 567
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=1.056,1.137"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=1.056,1.137"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -404,10 +404,10 @@
                 "height": 746,
                 "width": 563
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=1.137,1.219"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=1.137,1.219"
             },
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -422,14 +422,14 @@
                 "height": 740,
                 "width": 558
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/animation#t=1.219,1.3"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/animation#t=1.219,1.3"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-4-walking.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -439,17 +439,17 @@
       "height": 1580,
       "width": 4686,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-4-walking.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 270,
         "items": [
           {
-            "id": "assets/iiif/plate-number-4-walking.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-4-walking.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -459,7 +459,7 @@
                   "width": 800,
                   "height": 270
                 },
-                "target": "assets/iiif/plate-number-4-walking.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/placeholder"
               }
             ]
           }
@@ -467,11 +467,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-4-walking.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-4-walking.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -488,7 +488,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-4-walking.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-4-walking.json/canvas/static"
             }
           ]
         }

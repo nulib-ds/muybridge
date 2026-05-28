@@ -46,23 +46,23 @@ function extractItem(manifest: any, assetPath: string): FeaturedItemData {
 const FEATURED: FeaturedItemData[] = [
   extractItem(
     manifest700,
-    "assets/iiif/plate-number-700-buffalo-galloping.json",
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json",
   ),
   extractItem(
     manifest712,
-    "assets/iiif/plate-number-712-dog-jumping-hurdle-mastiff-dread.json",
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-712-dog-jumping-hurdle-mastiff-dread.json",
   ),
   extractItem(
     manifest333,
-    "assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json",
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json",
   ),
   extractItem(
     manifest716,
-    "assets/iiif/plate-number-716-cat-walking-change-to-galloping.json",
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-716-cat-walking-change-to-galloping.json",
   ),
   extractItem(
     manifest626,
-    "assets/iiif/plate-number-626-annie-g-galloping.json",
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-626-annie-g-galloping.json",
   ),
 ];
 

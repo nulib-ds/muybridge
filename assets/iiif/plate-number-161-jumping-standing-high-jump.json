@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 313,
       "duration": 2.4,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 313,
         "height": 763,
         "items": [
           {
-            "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 313,
                   "height": 763
                 },
-                "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 763,
                 "width": 313
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0,0.1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0,0.1"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 763,
                 "width": 368
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.1,0.2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.1,0.2"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 758,
                 "width": 376
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.2,0.3"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.2,0.3"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 760,
                 "width": 446
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.3,0.4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.3,0.4"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 761,
                 "width": 405
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.4,0.5"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.4,0.5"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 769,
                 "width": 414
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.5,0.6"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.5,0.6"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 769,
                 "width": 397
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.6,0.7"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.6,0.7"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 766,
                 "width": 412
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.7,0.8"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.7,0.8"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 751,
                 "width": 456
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.8,0.9"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.8,0.9"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 748,
                 "width": 364
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.9,1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=0.9,1"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 750,
                 "width": 374
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1,1.1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1,1.1"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 747,
                 "width": 291
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.1,1.2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.1,1.2"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 765,
                 "width": 315
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.2,1.3"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.2,1.3"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 759,
                 "width": 361
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.3,1.4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.3,1.4"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 754,
                 "width": 367
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.4,1.5"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.4,1.5"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 744,
                 "width": 447
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.5,1.6"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.5,1.6"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 747,
                 "width": 406
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.6,1.7"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.6,1.7"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 746,
                 "width": 411
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.7,1.8"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.7,1.8"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 748,
                 "width": 403
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.8,1.9"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.8,1.9"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 750,
                 "width": 405
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.9,2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=1.9,2"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 751,
                 "width": 451
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2,2.1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2,2.1"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 750,
                 "width": 374
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.1,2.2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.1,2.2"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 757,
                 "width": 373
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.2,2.3"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.2,2.3"
             },
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 761,
                 "width": 305
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.3,2.4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/animation#t=2.3,2.4"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 1629,
       "width": 4796,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 272,
         "items": [
           {
-            "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 272
                 },
-                "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-161-jumping-standing-high-jump.json/canvas/static"
             }
           ]
         }

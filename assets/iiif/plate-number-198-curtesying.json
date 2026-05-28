@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-198-curtesying.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 321,
       "duration": 4,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 321,
         "height": 662,
         "items": [
           {
-            "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 321,
                   "height": 662
                 },
-                "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0,0.121"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0,0.121"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.121,0.242"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.121,0.242"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.242,0.364"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.242,0.364"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 662,
                 "width": 362
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.364,0.485"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.364,0.485"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 662,
                 "width": 393
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.485,0.606"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.485,0.606"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 662,
                 "width": 447
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.606,0.727"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.606,0.727"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 662,
                 "width": 393
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.727,0.848"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.727,0.848"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 662,
                 "width": 383
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.848,0.97"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.848,0.97"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.97,1.091"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=0.97,1.091"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.091,1.212"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.091,1.212"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 662,
                 "width": 321
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.212,1.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.212,1.333"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.333,1.455"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.333,1.455"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.455,1.576"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.455,1.576"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.576,1.697"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.576,1.697"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 653,
                 "width": 361
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.697,1.818"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.697,1.818"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 653,
                 "width": 406
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.818,1.939"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.818,1.939"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 653,
                 "width": 439
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.939,2.061"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=1.939,2.061"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 653,
                 "width": 400
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.061,2.182"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.061,2.182"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 653,
                 "width": 378
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.182,2.303"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.182,2.303"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.303,2.424"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.303,2.424"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.424,2.545"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.424,2.545"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 653,
                 "width": 323
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.545,2.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.545,2.667"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 641,
                 "width": 304
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.667,2.788"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.667,2.788"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,10 +542,10 @@
                 "height": 641,
                 "width": 313
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.788,2.909"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.788,2.909"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/25",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -560,10 +560,10 @@
                 "height": 641,
                 "width": 322
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.909,3.03"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=2.909,3.03"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/26",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -578,10 +578,10 @@
                 "height": 641,
                 "width": 379
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.03,3.152"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.03,3.152"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/27",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -596,10 +596,10 @@
                 "height": 641,
                 "width": 393
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.152,3.273"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.152,3.273"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/28",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -614,10 +614,10 @@
                 "height": 641,
                 "width": 436
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.273,3.394"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.273,3.394"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/29",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/29",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -632,10 +632,10 @@
                 "height": 641,
                 "width": 415
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.394,3.515"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.394,3.515"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/30",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/30",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -650,10 +650,10 @@
                 "height": 641,
                 "width": 352
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.515,3.636"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.515,3.636"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/31",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/31",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -668,10 +668,10 @@
                 "height": 641,
                 "width": 326
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.636,3.758"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.636,3.758"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/32",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/32",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -686,10 +686,10 @@
                 "height": 641,
                 "width": 326
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.758,3.879"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.758,3.879"
             },
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/33",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation/page/1/annotation/33",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -704,14 +704,14 @@
                 "height": 641,
                 "width": 304
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.879,4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/animation#t=3.879,4"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -721,17 +721,17 @@
       "height": 2138,
       "width": 4175,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 410,
         "items": [
           {
-            "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -741,7 +741,7 @@
                   "width": 800,
                   "height": 410
                 },
-                "target": "assets/iiif/plate-number-198-curtesying.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/placeholder"
               }
             ]
           }
@@ -749,11 +749,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-198-curtesying.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -770,7 +770,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-198-curtesying.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-198-curtesying.json/canvas/static"
             }
           ]
         }

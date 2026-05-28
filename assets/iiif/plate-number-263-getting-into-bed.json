@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-263-getting-into-bed.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 297,
       "duration": 3.8,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 297,
         "height": 567,
         "items": [
           {
-            "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 297,
                   "height": 567
                 },
-                "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 567,
                 "width": 297
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0,0.106"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0,0.106"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 574,
                 "width": 314
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.106,0.211"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.106,0.211"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 575,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.211,0.317"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.211,0.317"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 580,
                 "width": 341
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.317,0.422"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.317,0.422"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 587,
                 "width": 357
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.422,0.528"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.422,0.528"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 580,
                 "width": 346
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.528,0.633"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.528,0.633"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 582,
                 "width": 336
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.633,0.739"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.633,0.739"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 582,
                 "width": 353
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.739,0.844"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.739,0.844"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 584,
                 "width": 356
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.844,0.95"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.844,0.95"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 578,
                 "width": 311
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.95,1.056"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=0.95,1.056"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 567,
                 "width": 306
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.056,1.161"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.056,1.161"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 582,
                 "width": 306
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.161,1.267"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.161,1.267"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.267,1.372"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.267,1.372"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.372,1.478"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.372,1.478"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.478,1.583"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.478,1.583"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 621,
                 "width": 345
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.583,1.689"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.583,1.689"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 621,
                 "width": 350
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.689,1.794"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.689,1.794"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 621,
                 "width": 344
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.794,1.9"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.794,1.9"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 621,
                 "width": 351
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.9,2.006"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=1.9,2.006"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 621,
                 "width": 344
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.006,2.111"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.006,2.111"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 621,
                 "width": 348
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.111,2.217"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.111,2.217"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.217,2.322"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.217,2.322"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.322,2.428"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.322,2.428"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,10 +542,10 @@
                 "height": 621,
                 "width": 310
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.428,2.533"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.428,2.533"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/25",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -560,10 +560,10 @@
                 "height": 619,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.533,2.639"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.533,2.639"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/26",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -578,10 +578,10 @@
                 "height": 619,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.639,2.744"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.639,2.744"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/27",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -596,10 +596,10 @@
                 "height": 619,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.744,2.85"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.744,2.85"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/28",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -614,10 +614,10 @@
                 "height": 619,
                 "width": 351
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.85,2.956"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.85,2.956"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/29",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/29",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -632,10 +632,10 @@
                 "height": 619,
                 "width": 342
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.956,3.061"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=2.956,3.061"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/30",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/30",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -650,10 +650,10 @@
                 "height": 619,
                 "width": 344
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.061,3.167"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.061,3.167"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/31",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/31",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -668,10 +668,10 @@
                 "height": 619,
                 "width": 352
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.167,3.272"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.167,3.272"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/32",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/32",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -686,10 +686,10 @@
                 "height": 619,
                 "width": 348
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.272,3.378"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.272,3.378"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/33",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/33",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -704,10 +704,10 @@
                 "height": 619,
                 "width": 350
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.378,3.483"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.378,3.483"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/34",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/34",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -722,10 +722,10 @@
                 "height": 619,
                 "width": 316
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.483,3.589"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.483,3.589"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/35",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/35",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -740,10 +740,10 @@
                 "height": 619,
                 "width": 311
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.589,3.694"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.589,3.694"
             },
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/36",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation/page/1/annotation/36",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -758,14 +758,14 @@
                 "height": 619,
                 "width": 328
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.694,3.8"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/animation#t=3.694,3.8"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -775,17 +775,17 @@
       "height": 1968,
       "width": 4125,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 382,
         "items": [
           {
-            "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -795,7 +795,7 @@
                   "width": 800,
                   "height": 382
                 },
-                "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/placeholder"
               }
             ]
           }
@@ -803,11 +803,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -824,7 +824,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-263-getting-into-bed.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-263-getting-into-bed.json/canvas/static"
             }
           ]
         }

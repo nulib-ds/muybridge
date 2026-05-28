@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-652-horses-rearing-etc.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 551,
       "duration": 7.4,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 551,
         "height": 514,
         "items": [
           {
-            "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 551,
                   "height": 514
                 },
-                "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0,0.247"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0,0.247"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.247,0.493"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.247,0.493"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.493,0.74"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.493,0.74"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.74,0.987"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.74,0.987"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.987,1.233"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=0.987,1.233"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 514,
                 "width": 551
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.233,1.48"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.233,1.48"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.48,1.727"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.48,1.727"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.727,1.973"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.727,1.973"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.973,2.22"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=1.973,2.22"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.22,2.467"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.22,2.467"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.467,2.713"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.467,2.713"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 480,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.713,2.96"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.713,2.96"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.96,3.207"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=2.96,3.207"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.207,3.453"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.207,3.453"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.453,3.7"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.453,3.7"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.7,3.947"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.7,3.947"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.947,4.193"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=3.947,4.193"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 478,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.193,4.44"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.193,4.44"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.44,4.687"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.44,4.687"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.687,4.933"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.687,4.933"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.933,5.18"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=4.933,5.18"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.18,5.427"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.18,5.427"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.427,5.673"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.427,5.673"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,10 +542,10 @@
                 "height": 417,
                 "width": 561
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.673,5.92"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.673,5.92"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/25",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -560,10 +560,10 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.92,6.167"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=5.92,6.167"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/26",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -578,10 +578,10 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.167,6.413"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.167,6.413"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/27",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -596,10 +596,10 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.413,6.66"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.413,6.66"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/28",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -614,10 +614,10 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.66,6.907"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.66,6.907"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/29",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/29",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -632,10 +632,10 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.907,7.153"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=6.907,7.153"
             },
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/30",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation/page/1/annotation/30",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -650,14 +650,14 @@
                 "height": 385,
                 "width": 565
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=7.153,7.4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/animation#t=7.153,7.4"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -667,17 +667,17 @@
       "height": 2496,
       "width": 3456,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 578,
         "items": [
           {
-            "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -687,7 +687,7 @@
                   "width": 800,
                   "height": 578
                 },
-                "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/placeholder"
               }
             ]
           }
@@ -695,11 +695,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -716,7 +716,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-652-horses-rearing-etc.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-652-horses-rearing-etc.json/canvas/static"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 574,
       "duration": 1.4,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 574,
         "height": 548,
         "items": [
           {
-            "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 574,
                   "height": 548
                 },
-                "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0,0.058"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0,0.058"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.058,0.117"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.058,0.117"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.117,0.175"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.117,0.175"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.175,0.233"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.175,0.233"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.233,0.292"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.233,0.292"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 548,
                 "width": 574
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.292,0.35"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.292,0.35"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.35,0.408"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.35,0.408"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.408,0.467"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.408,0.467"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.467,0.525"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.467,0.525"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.525,0.583"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.525,0.583"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.583,0.642"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.583,0.642"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 543,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.642,0.7"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.642,0.7"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.7,0.758"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.7,0.758"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.758,0.817"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.758,0.817"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.817,0.875"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.817,0.875"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.875,0.933"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.875,0.933"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.933,0.992"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.933,0.992"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 568,
                 "width": 577
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.992,1.05"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=0.992,1.05"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.05,1.108"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.05,1.108"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.108,1.167"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.108,1.167"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.167,1.225"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.167,1.225"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.225,1.283"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.225,1.283"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.283,1.342"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.283,1.342"
             },
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,14 +542,14 @@
                 "height": 546,
                 "width": 575
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.342,1.4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/animation#t=1.342,1.4"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -559,17 +559,17 @@
       "height": 2418,
       "width": 3616,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 535,
         "items": [
           {
-            "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -579,7 +579,7 @@
                   "width": 800,
                   "height": 535
                 },
-                "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/placeholder"
               }
             ]
           }
@@ -587,11 +587,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -608,7 +608,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-616-daisy-cantering-saddled.json/canvas/static"
             }
           ]
         }

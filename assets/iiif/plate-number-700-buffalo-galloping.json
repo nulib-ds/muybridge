@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-700-buffalo-galloping.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 918,
       "duration": 1,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 918,
         "height": 534,
         "items": [
           {
-            "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 918,
                   "height": 534
                 },
-                "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 534,
                 "width": 918
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0,0.063"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0,0.063"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 535,
                 "width": 915
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.063,0.125"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.063,0.125"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 533,
                 "width": 914
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.125,0.188"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.125,0.188"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 532,
                 "width": 913
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.188,0.25"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.188,0.25"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 543,
                 "width": 910
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.25,0.313"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.25,0.313"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 543,
                 "width": 916
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.313,0.375"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.313,0.375"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 543,
                 "width": 913
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.375,0.438"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.375,0.438"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 542,
                 "width": 916
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.438,0.5"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.438,0.5"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 527,
                 "width": 908
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.5,0.563"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.5,0.563"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 529,
                 "width": 916
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.563,0.625"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.563,0.625"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 527,
                 "width": 913
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.625,0.688"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.625,0.688"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 528,
                 "width": 915
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.688,0.75"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.688,0.75"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 542,
                 "width": 905
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.75,0.813"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.75,0.813"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 545,
                 "width": 919
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.813,0.875"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.813,0.875"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 541,
                 "width": 916
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.875,0.938"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.875,0.938"
             },
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,14 +398,14 @@
                 "height": 548,
                 "width": 918
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.938,1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/animation#t=0.938,1"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -415,17 +415,17 @@
       "height": 2454,
       "width": 3808,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 516,
         "items": [
           {
-            "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -435,7 +435,7 @@
                   "width": 800,
                   "height": 516
                 },
-                "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/placeholder"
               }
             ]
           }
@@ -443,11 +443,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -464,7 +464,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-700-buffalo-galloping.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json/canvas/static"
             }
           ]
         }

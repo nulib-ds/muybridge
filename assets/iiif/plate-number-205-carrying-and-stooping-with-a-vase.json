@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -70,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation",
       "type": "Canvas",
       "label": {
         "en": [
@@ -81,17 +81,17 @@
       "width": 302,
       "duration": 4,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder",
         "type": "Canvas",
         "width": 302,
         "height": 646,
         "items": [
           {
-            "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -101,7 +101,7 @@
                   "width": 302,
                   "height": 646
                 },
-                "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/placeholder"
               }
             ]
           }
@@ -109,11 +109,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -128,10 +128,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0,0.111"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0,0.111"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/2",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -146,10 +146,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.111,0.222"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.111,0.222"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/3",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -164,10 +164,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.222,0.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.222,0.333"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/4",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -182,10 +182,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.333,0.444"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.333,0.444"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/5",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -200,10 +200,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.444,0.556"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.444,0.556"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/6",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -218,10 +218,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.556,0.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.556,0.667"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/7",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -236,10 +236,10 @@
                 "height": 646,
                 "width": 302
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.667,0.778"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.667,0.778"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/8",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -254,10 +254,10 @@
                 "height": 646,
                 "width": 335
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.778,0.889"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.778,0.889"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/9",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -272,10 +272,10 @@
                 "height": 646,
                 "width": 346
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.889,1"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=0.889,1"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/10",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -290,10 +290,10 @@
                 "height": 646,
                 "width": 342
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1,1.111"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1,1.111"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/11",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -308,10 +308,10 @@
                 "height": 646,
                 "width": 340
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.111,1.222"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.111,1.222"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/12",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -326,10 +326,10 @@
                 "height": 646,
                 "width": 347
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.222,1.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.222,1.333"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/13",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -344,10 +344,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.333,1.444"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.333,1.444"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/14",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -362,10 +362,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.444,1.556"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.444,1.556"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/15",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -380,10 +380,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.556,1.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.556,1.667"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/16",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -398,10 +398,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.667,1.778"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.667,1.778"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/17",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -416,10 +416,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.778,1.889"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.778,1.889"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/18",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -434,10 +434,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.889,2"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=1.889,2"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/19",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -452,10 +452,10 @@
                 "height": 647,
                 "width": 303
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2,2.111"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2,2.111"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/20",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -470,10 +470,10 @@
                 "height": 647,
                 "width": 337
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.111,2.222"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.111,2.222"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/21",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -488,10 +488,10 @@
                 "height": 647,
                 "width": 349
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.222,2.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.222,2.333"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/22",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -506,10 +506,10 @@
                 "height": 647,
                 "width": 343
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.333,2.444"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.333,2.444"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/23",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -524,10 +524,10 @@
                 "height": 647,
                 "width": 339
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.444,2.556"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.444,2.556"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/24",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -542,10 +542,10 @@
                 "height": 647,
                 "width": 342
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.556,2.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.556,2.667"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/25",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -560,10 +560,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.667,2.778"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.667,2.778"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/26",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -578,10 +578,10 @@
                 "height": 626,
                 "width": 314
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.778,2.889"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.778,2.889"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/27",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -596,10 +596,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.889,3"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=2.889,3"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/28",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -614,10 +614,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3,3.111"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3,3.111"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/29",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/29",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -632,10 +632,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.111,3.222"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.111,3.222"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/30",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/30",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -650,10 +650,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.222,3.333"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.222,3.333"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/31",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/31",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -668,10 +668,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.333,3.444"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.333,3.444"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/32",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/32",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -686,10 +686,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.444,3.556"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.444,3.556"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/33",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/33",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -704,10 +704,10 @@
                 "height": 619,
                 "width": 295
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.556,3.667"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.556,3.667"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/34",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/34",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -722,10 +722,10 @@
                 "height": 645,
                 "width": 346
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.667,3.778"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.667,3.778"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/35",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/35",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -740,10 +740,10 @@
                 "height": 644,
                 "width": 354
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.778,3.889"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.778,3.889"
             },
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/36",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation/page/1/annotation/36",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
@@ -758,14 +758,14 @@
                 "height": 654,
                 "width": 351
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.889,4"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/animation#t=3.889,4"
             }
           ]
         }
       ]
     },
     {
-      "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static",
+      "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static",
       "type": "Canvas",
       "label": {
         "en": [
@@ -775,17 +775,17 @@
       "height": 2067,
       "width": 4068,
       "placeholderCanvas": {
-        "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder",
+        "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder",
         "type": "Canvas",
         "width": 800,
         "height": 406,
         "items": [
           {
-            "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder/page/1",
+            "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder/page/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder/page/1/annotation/1",
+                "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder/page/1/annotation/1",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -795,7 +795,7 @@
                   "width": 800,
                   "height": 406
                 },
-                "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder"
+                "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/placeholder"
               }
             ]
           }
@@ -803,11 +803,11 @@
       },
       "items": [
         {
-          "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/page/1",
+          "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/page/1/annotation/1",
+              "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static/page/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -824,7 +824,7 @@
                   }
                 ]
               },
-              "target": "assets/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static"
+              "target": "https://nulib-ds.github.io/muybridge/iiif/plate-number-205-carrying-and-stooping-with-a-vase.json/canvas/static"
             }
           ]
         }
