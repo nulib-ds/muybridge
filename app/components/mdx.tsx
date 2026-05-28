@@ -6,7 +6,6 @@
 // Map SSR-safe components to be rendered at build time and used in MDX files
 export const components = {
   Example: './Example.tsx',
-  CanvasCompare: './CanvasCompare.tsx',
 };
 
 // Map browser-only components to their source files; the builder bundles
@@ -16,4 +15,6 @@ export const clientComponents = {
   StoryMapJS: './StoryMapJS.client.tsx',
   FeaturedScroll: './FeaturedScroll.client.tsx',
   HeroAnimation: './HeroAnimation.client.tsx',
+  FramesViewer: './FramesViewer.client.tsx',
+  CanvasCompare: './CanvasCompare.client.tsx',
 };
