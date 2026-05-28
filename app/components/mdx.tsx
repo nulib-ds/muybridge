@@ -14,4 +14,5 @@ export const clientComponents = {
   ExampleClient: './Example.client.tsx',
   StoryMapJS: './StoryMapJS.client.tsx',
   FeaturedScroll: './FeaturedScroll.client.tsx',
+  HeroAnimation: './HeroAnimation.client.tsx',
 };

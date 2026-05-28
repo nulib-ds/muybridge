@@ -5,6 +5,7 @@
 @layer properties {
   :root,
   :host {
+    --hero-pull-up: -5rem;
     --font-sans:
       "Noto Sans", system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
     --font-serif: "Noto Serif Display", Georgia, "Times New Roman", serif;
@@ -43,7 +44,7 @@
 
   .canopy-logo {
     font-weight: 300;
-    font-size: 2rem !important;
+    font-size: 1.382rem !important;
     letter-spacing: -0.025em;
     font-style: italic;
     position: relative;
@@ -74,6 +75,11 @@
 .muybridge-lead {
   line-height: 1.6;
   padding: 2.618rem 0;
+  color: var(--color-gray-900);
+
+  p {
+    color: var(--color-gray-900);
+  }
 }
 
 @layer components {
@@ -87,6 +93,10 @@
   }
   .canopy-header {
     justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--color-gray-50);
   }
 
   .canopy-header__brand {

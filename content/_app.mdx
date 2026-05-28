@@ -26,7 +26,17 @@ export function App({children}) {
       <CanopyHeader />
       <main>{children}</main>
       <CanopyFooter>
-        <p>Copyright 2025 Site Title, MIT License. A Canopy IIIF Project.</p>
+        <p>
+          Copyright 2026 Muybridge in Motion. A project of Northwestern
+          University Libraries.
+        </p>
+        <span>
+          Images courtesy of the National Gallery of Art, Smithsonian
+          Institution, and Boston Public Library. Built with{" "}
+          <a href="https://github.com/canopy-iiif/app">Canopy</a>,{" "}
+          <a href="https://github.com/samvera-labs/clover-iiif">Clover</a>, and{" "}
+          <a href="https://iiif.io">IIIF</a>.
+        </span>
       </CanopyFooter>
     </>
   );
