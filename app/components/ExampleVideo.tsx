@@ -7,36 +7,48 @@ const GIF_SRC =
 
 export default function ExampleVideo() {
   return (
-    <div style={{position: "relative", width: "100%"}}>
-      <video
-        src={VIDEO_SRC}
-        autoPlay
-        loop
-        muted
-        style={{display: "block", margin: "0 auto"}}
-      />
+    <div>
       <div
         style={{
-          position: "absolute",
-          bottom: 0,
-          right: "20%",
-          width: "250px",
-          height: "100%",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
+          position: "relative",
         }}
       >
-        <img
-          src={GIF_SRC}
-          alt="Plate 743. Guanaco galloping."
+        <video
+          src={VIDEO_SRC}
+          autoPlay
+          loop
+          muted
           style={{
-            maxWidth: "100%",
-            maxHeight: "100%",
-            border: "5px solid black",
-            borderRadius: "8px",
+            display: "block",
+            margin: "0 auto",
+            opacity: 0.8,
+            maskImage:
+              "linear-gradient(to right, black calc(100% - 50vh), transparent)",
           }}
         />
+        <div
+          style={{
+            position: "absolute",
+            bottom: "-50px",
+            right: "50px",
+            width: "30vw",
+            height: "30vw",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
+          <img
+            src={GIF_SRC}
+            alt="Plate 743. Guanaco galloping."
+            style={{
+              maxWidth: "100%",
+              maxHeight: "100%",
+              borderRadius: "25px",
+              boxShadow: "0 14px 18px rgba(0, 0, 0, 0.2)",
+            }}
+          />
+        </div>
       </div>
     </div>
   );
