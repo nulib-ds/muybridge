@@ -1,0 +1,232 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 701. Gnu walking"
+    ]
+  },
+  "height": 702,
+  "width": 930,
+  "duration": 1,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 930,
+    "height": 702,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-701-gnu-walking.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 930,
+              "height": 702
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:0.2109,1.5609,19.1734,45.1500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 702,
+            "width": 930
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:20.2297,1.5609,19.1734,45.1500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 702,
+            "width": 930
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:40.2485,1.5609,19.1734,45.1500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 702,
+            "width": 930
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:60.2672,1.5609,19.1734,45.1500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 702,
+            "width": 930
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:80.2860,1.5609,19.1734,45.1500/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 702,
+            "width": 930
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:0.3068,51.2558,19.1542,45.6882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 929
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:20.2858,51.2558,19.1542,45.6882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 929
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:40.2647,51.2558,19.1542,45.6882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 929
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:60.2437,51.2558,19.1542,45.6882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 929
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c042795b-bfe2-4b1d-be97-0f5f402220c7/pct:80.2227,51.2558,19.1542,45.6882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 710,
+            "width": 929
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-701-gnu-walking-frames.json#t=0.9,1"
+        }
+      ]
+    }
+  ]
+}

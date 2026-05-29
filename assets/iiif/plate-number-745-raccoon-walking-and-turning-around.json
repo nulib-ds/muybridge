@@ -1,0 +1,575 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-745-raccoon-walking-and-turning-around.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 745. Raccoon walking and turning around"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "745"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Raccoon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Turning around"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-745-raccoon-walking-and-turning-around.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 745. Raccoon walking and turning around"
+        ]
+      },
+      "height": 481,
+      "width": 821,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 821,
+        "height": 481,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-745-raccoon-walking-and-turning-around.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 821,
+                  "height": 481
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:0.7375,1.3671,19.4457,22.0274/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 481,
+                "width": 821
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:20.5147,1.3671,19.4457,22.0274/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 481,
+                "width": 821
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:40.2920,1.3671,19.4457,22.0274/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 481,
+                "width": 821
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:60.0692,1.3671,19.4457,22.0274/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 481,
+                "width": 821
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:79.8465,1.3671,19.4457,22.0274/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 481,
+                "width": 821
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:0.7569,26.5466,19.2711,22.2901/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:20.5252,26.5466,19.2711,22.2901/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:40.2936,26.5466,19.2711,22.2901/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:60.0619,26.5466,19.2711,22.2901/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:79.8303,26.5466,19.2711,22.2901/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 487,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:0.6404,51.8763,19.5428,21.9899/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 825
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:20.4437,51.8763,19.5428,21.9899/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 825
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:40.2469,51.8763,19.5428,21.9899/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 825
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:60.0502,51.8763,19.5428,21.9899/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 825
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:79.8534,51.8763,19.5428,21.9899/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 480,
+                "width": 825
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:0.7036,76.7384,19.3422,22.7654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 817
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:20.4957,76.7384,19.3422,22.7654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 817
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:40.2879,76.7384,19.3422,22.7654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 817
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:60.0800,76.7384,19.3422,22.7654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 817
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/pct:79.8722,76.7384,19.3422,22.7654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 817
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-frames.json#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 745. Raccoon walking and turning around"
+        ]
+      },
+      "height": 2184,
+      "width": 4223,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 414,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 414
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2184,
+                "width": 4223,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/044c610e-3462-4dbd-bdcc-f5ae064d3966",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-745-raccoon-walking-and-turning-around-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

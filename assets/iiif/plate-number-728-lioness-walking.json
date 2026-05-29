@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-728-lioness-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 728. Lioness walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "728"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Lion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-728-lioness-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 728. Lioness walking"
+        ]
+      },
+      "height": 659,
+      "width": 991,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 991,
+        "height": 659,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-728-lioness-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 991,
+                  "height": 659
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:0.7669,1.6529,23.9859,30.5292/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 991
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:25.4623,2.1672,23.8134,30.2353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 652,
+                "width": 984
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:50.0618,2.2774,24.1202,30.4190/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 656,
+                "width": 997
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:74.9489,2.1672,23.7942,30.3088/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 983
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:0.7286,35.3416,24.0051,29.4271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 992
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:25.4596,35.3416,24.0051,29.4271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 992
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:50.1905,35.3416,24.0051,29.4271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 992
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:74.9215,35.3416,24.0051,29.4271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 992
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:0.7669,67.7077,23.6216,30.8599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 976
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:25.5500,67.7077,23.6216,30.8599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 976
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:50.3330,67.7077,23.6216,30.8599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 976
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/pct:75.1160,67.7077,23.6216,30.8599/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 976
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 728. Lioness walking"
+        ]
+      },
+      "height": 2157,
+      "width": 4133,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 418,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 418
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2157,
+                "width": 4133,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/99f87789-eb5f-4151-a02b-96692ff84e0c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-728-lioness-walking-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

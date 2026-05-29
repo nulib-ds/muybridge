@@ -1,0 +1,340 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 707. \"Dread\" galloping"
+    ]
+  },
+  "height": 603,
+  "width": 1023,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 1023,
+    "height": 603,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-707-dread-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 1023,
+              "height": 603
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:1.3398,1.3141,23.8602,28.4528/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 1023
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:25.8530,1.3141,23.8602,28.4528/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 1023
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:50.3662,1.3141,23.8602,28.4528/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 1023
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:74.8795,1.3141,23.8602,28.4528/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 603,
+            "width": 1023
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:1.3611,32.7415,23.9881,28.2803/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 599,
+            "width": 1029
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:25.9555,32.7415,23.9881,28.2803/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 599,
+            "width": 1029
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:50.5499,32.7415,23.9881,28.2803/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 599,
+            "width": 1029
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:75.1443,32.7415,23.9881,28.2803/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 599,
+            "width": 1029
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:1.3398,64.6862,11.9514,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 512
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:13.7110,64.6862,11.9514,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 512
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:25.8692,64.9542,11.3336,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 486
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:37.8782,64.9449,11.5893,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 497
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:49.9298,64.6862,12.1645,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:62.7484,64.6862,12.8462,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 551
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:76.0996,64.6862,11.4188,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 490
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/pct:87.9382,64.6862,10.8010,34.1002/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 723,
+            "width": 463
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-frames.json#t=1.5,1.6"
+        }
+      ]
+    }
+  ]
+}

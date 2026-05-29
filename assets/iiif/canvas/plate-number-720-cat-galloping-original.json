@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 720. Cat; galloping"
+    ]
+  },
+  "height": 3261,
+  "width": 6817,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 383,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 383
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3261,
+            "width": 6817,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-original.json"
+        }
+      ]
+    }
+  ]
+}

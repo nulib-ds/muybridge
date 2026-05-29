@@ -1,0 +1,250 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 751. Kangaroo walking on all fours, changing to jumping"
+    ]
+  },
+  "height": 720,
+  "width": 912,
+  "duration": 1.1,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 912,
+    "height": 720,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 912,
+              "height": 720
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:1.7272,1.2447,23.7347,30.2955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 912
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:26.1646,1.2447,23.7347,30.2955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 912
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:50.6021,1.2447,23.7347,30.2955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 912
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:75.0395,1.2447,23.7347,30.2955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 720,
+            "width": 912
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:1.8437,34.5226,23.2689,32.3675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 894
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:26.1016,34.5226,23.2689,32.3675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 894
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:50.3596,34.5226,23.2689,32.3675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 894
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:74.6176,34.5226,23.2689,32.3675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 894
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:1.5137,69.0563,29.4209,28.5688/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 1130
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:34.6827,69.0563,29.4209,28.5688/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 1130
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9af56236-9ad4-4d5c-a886-19a0d7940552/pct:67.8516,69.0563,29.4209,28.5688/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 679,
+            "width": 1130
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-751-kangaroo-walking-on-all-fours-changing-to-jumping-frames.json#t=1,1.1"
+        }
+      ]
+    }
+  ]
+}

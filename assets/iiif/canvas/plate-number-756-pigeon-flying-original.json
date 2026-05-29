@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 756. Pigeon flying"
+    ]
+  },
+  "height": 1545,
+  "width": 5101,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 242,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/2c4f0f9e-162a-4634-ae7c-7cafcb9f0958/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 242
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/2c4f0f9e-162a-4634-ae7c-7cafcb9f0958/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1545,
+            "width": 5101,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/2c4f0f9e-162a-4634-ae7c-7cafcb9f0958",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-756-pigeon-flying-original.json"
+        }
+      ]
+    }
+  ]
+}

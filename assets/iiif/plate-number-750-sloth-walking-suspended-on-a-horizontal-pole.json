@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 750. Sloth walking suspended on a horizontal pole"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "750"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Sloth"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 750. Sloth walking suspended on a horizontal pole"
+        ]
+      },
+      "height": 666,
+      "width": 943,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 943,
+        "height": 666,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 943,
+                  "height": 666
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:1.2615,1.3645,24.0646,30.3453/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:25.8365,1.3645,24.0646,30.3453/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:50.4116,1.3645,24.0646,30.3453/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:74.9866,1.3645,24.0646,30.3453/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 666,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:1.3197,35.1738,23.9870,29.6178/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 940
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:25.9192,35.1738,23.9870,29.6178/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 940
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:50.5187,35.1738,23.9870,29.6178/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 940
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:75.1182,35.1738,23.9870,29.6178/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 940
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:1.2420,68.0478,24.0646,29.9988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 658,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:25.8426,68.0478,24.0646,29.9988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 658,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:50.4432,68.0478,24.0646,29.9988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 658,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/pct:75.0438,68.0478,24.0646,29.9988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 658,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 750. Sloth walking suspended on a horizontal pole"
+        ]
+      },
+      "height": 2195,
+      "width": 3918,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 448,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 448
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2195,
+                "width": 3918,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2976a0c5-b901-481b-8b79-6dbfd658b948",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-750-sloth-walking-suspended-on-a-horizontal-pole-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

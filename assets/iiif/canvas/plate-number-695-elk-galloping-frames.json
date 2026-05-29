@@ -1,0 +1,340 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 695. Elk galloping"
+    ]
+  },
+  "height": 749,
+  "width": 851,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 851,
+    "height": 749,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-695-elk-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 851,
+              "height": 749
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:1.4300,1.5081,23.9668,29.3930/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 851
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:25.8192,1.5081,23.9668,29.3930/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 851
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:50.2084,1.5081,23.9668,29.3930/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 851
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:74.5976,1.5081,23.9668,29.3930/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 851
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:1.2751,33.4834,24.1159,29.0070/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 856
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:25.7571,33.4834,24.1159,29.0070/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 856
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:50.2391,33.4834,24.1159,29.0070/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 856
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:74.7210,33.4834,24.1159,29.0070/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 739,
+            "width": 856
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:1.0621,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:13.4193,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:25.7765,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:38.1337,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:50.4909,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:62.8481,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:75.2053,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/c1c55d51-07f8-47ee-b4b6-b6f781f58619/pct:87.5625,65.1625,11.6532,33.9652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 865,
+            "width": 414
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-695-elk-galloping-frames.json#t=1.5,1.6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-726-lion-and-lioness-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 726. Lion and lioness walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "726"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Lion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-726-lion-and-lioness-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 726. Lion and lioness walking"
+        ]
+      },
+      "height": 636,
+      "width": 1105,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 1105,
+        "height": 636,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-726-lion-and-lioness-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1105,
+                  "height": 636
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:0.7028,1.5493,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:25.4997,1.5493,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:50.3185,1.5493,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:75.1153,1.5493,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:0.7248,35.2113,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:25.5216,35.2113,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:50.3404,35.2113,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:75.1373,35.2113,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:0.7687,68.4507,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:25.5656,68.4507,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:50.3624,68.4507,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/pct:75.1592,68.4507,24.2697,29.8592/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 636,
+                "width": 1105
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 726. Lion and lioness walking"
+        ]
+      },
+      "height": 2130,
+      "width": 4553,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 374,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 374
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2130,
+                "width": 4553,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/f4833643-e512-4898-86cf-70384f8a5cff",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-726-lion-and-lioness-walking-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

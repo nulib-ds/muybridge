@@ -1,0 +1,647 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-744-raccoon-walking-changing-to-a-gallop.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 744. Raccoon walking, changing to a gallop"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "744"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Raccoon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Galloping"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-744-raccoon-walking-changing-to-a-gallop.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 744. Raccoon walking, changing to a gallop"
+        ]
+      },
+      "height": 391,
+      "width": 820,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 820,
+        "height": 391,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-744-raccoon-walking-changing-to-a-gallop.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 820,
+                  "height": 391
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:0.6016,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:17.1218,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:33.6419,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:50.1621,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:66.6822,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:83.2024,2.0447,16.3212,22.0276/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 391,
+                "width": 820
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:0.7763,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:17.2600,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:33.7438,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:50.2276,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:66.7113,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:83.1951,27.8076,16.1854,21.1487/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 376,
+                "width": 814
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:0.7957,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:17.2790,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:33.7622,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:50.2455,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:66.7288,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:83.2121,52.6367,16.2048,21.6431/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 384,
+                "width": 815
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:0.7569,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:17.2426,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:33.7283,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:50.2140,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:66.6997,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/pct:83.1854,77.9053,16.1077,21.5332/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 382,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 744. Raccoon walking, changing to a gallop"
+        ]
+      },
+      "height": 1776,
+      "width": 5027,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 283,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 283
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1776,
+                "width": 5027,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2df57900-065c-4210-94e6-b929ee66741a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-744-raccoon-walking-changing-to-a-gallop-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

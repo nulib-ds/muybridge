@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 705. Dog; trotting; mastiff, Dread"
+    ]
+  },
+  "height": 5597,
+  "width": 5978,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 749,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/89cacd9f-783b-4885-9b61-f24aabaa5b05/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 749
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/89cacd9f-783b-4885-9b61-f24aabaa5b05/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 5597,
+            "width": 5978,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/89cacd9f-783b-4885-9b61-f24aabaa5b05",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-705-dog-trotting-mastiff-dread-original.json"
+        }
+      ]
+    }
+  ]
+}

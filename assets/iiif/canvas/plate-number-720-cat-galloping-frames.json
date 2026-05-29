@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 720. Cat; galloping"
+    ]
+  },
+  "height": 747,
+  "width": 1083,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 1083,
+    "height": 747,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-720-cat-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 1083,
+              "height": 747
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:1.5135,1.7799,15.8835,22.9126/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 747,
+            "width": 1083
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:17.5828,1.7799,16.2551,22.9126/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 747,
+            "width": 1108
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:34.1165,2.2654,16.3479,22.4272/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 1114
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:50.6966,2.4595,15.7442,22.0388/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 719,
+            "width": 1073
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:66.4873,2.5566,16.2551,21.8447/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 712,
+            "width": 1108
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:83.0674,2.3625,16.0228,22.2330/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 725,
+            "width": 1092
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:1.4671,27.1197,15.8835,22.3301/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 728,
+            "width": 1083
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:17.4899,27.3139,16.6266,22.1359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 722,
+            "width": 1133
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:34.2558,27.6052,15.8835,21.7476/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 709,
+            "width": 1083
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:50.3715,27.6052,16.0228,21.7476/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 709,
+            "width": 1092
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:66.5337,27.4110,16.2086,21.9417/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 716,
+            "width": 1105
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:82.9281,27.0227,16.0228,22.5243/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 1092
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:1.2813,52.3625,15.8835,20.9709/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 1083
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:17.4435,52.0712,16.3015,21.2621/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 693,
+            "width": 1111
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:33.9256,52.1036,16.0744,21.3269/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 695,
+            "width": 1096
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:50.1858,52.2869,16.2086,21.5750/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 1105
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:66.6266,52.6537,16.0228,21.6073/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 1092
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:82.8352,53.1392,15.9764,21.1650/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 1089
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:1.4206,76.6343,15.7906,20.7767/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 678,
+            "width": 1076
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:17.3970,76.9256,16.1622,20.4854/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 668,
+            "width": 1102
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:33.8378,77.1197,16.1157,20.3883/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 665,
+            "width": 1099
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:50.0929,77.1197,16.1622,20.4854/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 668,
+            "width": 1102
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:66.4873,77.6052,15.8371,20.1942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 1080
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/93bec4c5-ac49-4b9b-a1a0-124a1af306ab/pct:82.5101,77.9935,16.2551,19.9029/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 649,
+            "width": 1108
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-720-cat-galloping-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

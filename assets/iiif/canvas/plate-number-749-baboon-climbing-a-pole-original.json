@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 749. Baboon climbing a pole"
+    ]
+  },
+  "height": 2316,
+  "width": 3853,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 481,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/80ed6f52-0c50-41ea-8403-008865c191f3/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 481
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/80ed6f52-0c50-41ea-8403-008865c191f3/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2316,
+            "width": 3853,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/80ed6f52-0c50-41ea-8403-008865c191f3",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-749-baboon-climbing-a-pole-original.json"
+        }
+      ]
+    }
+  ]
+}

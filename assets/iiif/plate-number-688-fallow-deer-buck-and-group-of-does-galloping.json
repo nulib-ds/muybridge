@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-688-fallow-deer-buck-and-group-of-does-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 688. Fallow deer, buck and group of does, galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "688"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Deer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Galloping"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-688-fallow-deer-buck-and-group-of-does-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 688. Fallow deer, buck and group of does, galloping"
+        ]
+      },
+      "height": 672,
+      "width": 823,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 823,
+        "height": 672,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-688-fallow-deer-buck-and-group-of-does-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 823,
+                  "height": 672
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:0.6519,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:17.1875,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:33.7230,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:50.2586,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:66.7942,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:83.3297,0.3052,16.2591,47.1079/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:0.7669,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:17.2711,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:33.7752,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:50.2794,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:66.7836,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/pct:83.2877,51.4296,15.9906,46.9037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 810
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 688. Fallow deer, buck and group of does, galloping"
+        ]
+      },
+      "height": 1426,
+      "width": 5063,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 225,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 225
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1426,
+                "width": 5063,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/e1b1140d-5f8c-4067-aa45-61bfb320b630",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-688-fallow-deer-buck-and-group-of-does-galloping-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

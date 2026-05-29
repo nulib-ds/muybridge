@@ -1,0 +1,431 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-725-lion-walking-and-turning-around.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 725. Lion walking and turning around"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "725"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Lion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Turning around"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-725-lion-walking-and-turning-around.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 725. Lion walking and turning around"
+        ]
+      },
+      "height": 678,
+      "width": 963,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 963,
+        "height": 678,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-725-lion-walking-and-turning-around.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 963,
+                  "height": 678
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:0.8628,2.0789,24.2927,30.7522/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 678,
+                "width": 963
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:25.4836,2.0789,24.2927,30.7522/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 678,
+                "width": 963
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:50.1043,2.0789,24.2927,30.7522/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 678,
+                "width": 963
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:74.7251,2.0789,24.2927,30.7522/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 678,
+                "width": 963
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:0.9158,35.8068,24.3928,30.5301/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 673,
+                "width": 967
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:25.5862,35.8068,24.3928,30.5301/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 673,
+                "width": 967
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:50.2566,35.8068,24.3928,30.5301/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 673,
+                "width": 967
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:74.9270,35.8068,24.3928,30.5301/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 673,
+                "width": 967
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:0.9371,69.3631,24.5633,29.3043/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 973
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:25.6265,69.3631,24.5633,29.3043/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 973
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:50.3160,69.3631,24.5633,29.3043/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 973
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/pct:75.0054,69.3631,24.5633,29.3043/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 973
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 725. Lion walking and turning around"
+        ]
+      },
+      "height": 2204,
+      "width": 3963,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 445,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 445
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2204,
+                "width": 3963,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/45a8f309-3c1d-4d9a-9b90-014edb77ce2e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-725-lion-walking-and-turning-around-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-698-antelope-galloping.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 698. Antelope galloping"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "698"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Antelope"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Galloping"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-698-antelope-galloping.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 698. Antelope galloping"
+        ]
+      },
+      "height": 717,
+      "width": 982,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 982,
+        "height": 717,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-698-antelope-galloping.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 982,
+                  "height": 717
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:1.2463,2.1974,24.1968,31.0481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 982
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:25.7388,2.1974,24.1968,31.0481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 982
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:50.2314,2.1974,24.1968,31.0481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 982
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:74.7240,2.1974,24.1968,31.0481/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 717,
+                "width": 982
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:1.2846,36.1784,23.9092,29.2951/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 676,
+                "width": 970
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:25.7606,36.1784,23.9092,29.2951/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 676,
+                "width": 970
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:50.2367,36.1784,23.9092,29.2951/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 676,
+                "width": 970
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:74.7127,36.1784,23.9092,29.2951/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 676,
+                "width": 970
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:1.2463,68.2041,24.0243,29.7671/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 687,
+                "width": 975
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:25.7141,68.2041,24.0243,29.7671/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 687,
+                "width": 975
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:50.1820,68.2041,24.0243,29.7671/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 687,
+                "width": 975
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/pct:74.6498,68.2041,24.0243,29.7671/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 687,
+                "width": 975
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 698. Antelope galloping"
+        ]
+      },
+      "height": 2308,
+      "width": 4058,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 455,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 455
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2308,
+                "width": 4058,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/76162b17-d06f-42b7-8b47-7bcecdf7d9a6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-698-antelope-galloping-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

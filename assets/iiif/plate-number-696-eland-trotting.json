@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-696-eland-trotting.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 696. Eland trotting"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "696"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Eland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Trotting"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-696-eland-trotting.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 696. Eland trotting"
+        ]
+      },
+      "height": 642,
+      "width": 936,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 936,
+        "height": 642,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-696-eland-trotting.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 936,
+                  "height": 642
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:0.7220,2.5199,24.0094,29.2370/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 936
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:25.4242,2.5199,24.0094,29.2370/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 936
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:50.1264,2.5199,24.0094,29.2370/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 936
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:74.8286,2.5199,24.0094,29.2370/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 642,
+                "width": 936
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:0.9137,35.5013,23.4342,30.1825/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 663,
+                "width": 913
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:25.6052,35.5013,23.4342,30.1825/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 663,
+                "width": 913
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:50.2968,35.5013,23.4342,30.1825/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 663,
+                "width": 913
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:74.9883,35.5013,23.4342,30.1825/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 663,
+                "width": 913
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:0.9137,69.2392,23.5833,29.4639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 919
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:25.6004,69.2392,23.5833,29.4639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 919
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:50.2871,69.2392,23.5833,29.4639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 919
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/pct:74.9738,69.2392,23.5833,29.4639/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 647,
+                "width": 919
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 696. Eland trotting"
+        ]
+      },
+      "height": 2195,
+      "width": 3897,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 451,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 451
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2195,
+                "width": 3897,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d5374852-4d1f-4bf4-911c-e5f5e1de6b5f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-696-eland-trotting-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 710. Dog; galloping; white racing hound, Maggie"
+    ]
+  },
+  "height": 2715,
+  "width": 7722,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 281,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/bb7d6c86-c8ec-4872-80a2-8dd009abb55c/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 281
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/bb7d6c86-c8ec-4872-80a2-8dd009abb55c/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2715,
+            "width": 7722,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/bb7d6c86-c8ec-4872-80a2-8dd009abb55c",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-710-dog-galloping-white-racing-hound-maggie-original.json"
+        }
+      ]
+    }
+  ]
+}

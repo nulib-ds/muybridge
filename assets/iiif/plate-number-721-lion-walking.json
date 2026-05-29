@@ -1,0 +1,376 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-721-lion-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 721. Lion walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "721"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "9"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Lion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-721-lion-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 721. Lion walking"
+        ]
+      },
+      "height": 711,
+      "width": 1081,
+      "duration": 0.9,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 1081,
+        "height": 711,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-721-lion-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 1081,
+                  "height": 711
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:0.5361,0.9896,31.2388,27.4544/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 1081
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:34.2590,0.9896,31.2388,27.4544/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 1081
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:67.9820,0.9896,31.2388,27.4544/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 711,
+                "width": 1081
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:0.5801,33.0590,31.3928,30.9230/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 1087
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:34.2837,33.0590,31.3928,30.9230/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 1087
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:67.9873,33.0590,31.3928,30.9230/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 1087
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:0.7341,68.6557,31.3048,29.9824/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 1084
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:34.3497,68.6557,31.3048,29.9824/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 1084
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/pct:67.9653,68.6557,31.3048,29.9824/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 1084
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-frames.json#t=0.8,0.9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 721. Lion walking"
+        ]
+      },
+      "height": 2591,
+      "width": 3462,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 599,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 599
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2591,
+                "width": 3462,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2f5d6092-74d9-433b-aa29-5371491f045c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-721-lion-walking-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

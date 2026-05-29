@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 707. \"Dread\" galloping"
+    ]
+  },
+  "height": 2119,
+  "width": 4288,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 395,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 395
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2119,
+            "width": 4288,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/6ca09fd3-1e74-43dd-b68d-249db4acf115",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-707-dread-galloping-original.json"
+        }
+      ]
+    }
+  ]
+}

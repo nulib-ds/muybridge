@@ -1,0 +1,430 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-734-two-elephants-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 734. Two elephants walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "734"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Elephant"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-734-two-elephants-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 734. Two elephants walking"
+        ]
+      },
+      "height": 765,
+      "width": 818,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 818,
+        "height": 765,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-734-two-elephants-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 818,
+                  "height": 765
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:1.1450,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:17.4446,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:33.7441,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:50.0437,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:66.3432,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:82.6428,3.9049,15.7972,44.0156/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 765,
+                "width": 818
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:1.1838,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:17.5225,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:33.8611,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:50.1997,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:66.5383,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/pct:82.8770,51.3286,15.8943,45.4019/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 790,
+                "width": 823
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 734. Two elephants walking"
+        ]
+      },
+      "height": 1739,
+      "width": 5176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 269,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 269
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1739,
+                "width": 5176,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/3d69effc-817a-4266-842f-9c82ff2c0d7a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-734-two-elephants-walking-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

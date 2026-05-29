@@ -3,56 +3,85 @@
   "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-1-walking.json",
   "type": "Manifest",
   "label": {
-    "en": ["Plate Number 1. Walking"]
+    "en": [
+      "Plate Number 1. Walking"
+    ]
   },
-  "behavior": ["repeat", "auto-advance"],
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
   "metadata": [
     {
       "label": {
-        "en": ["Date"]
+        "en": [
+          "Date"
+        ]
       },
       "value": {
-        "en": ["1887"]
+        "en": [
+          "1887"
+        ]
       }
     },
     {
       "label": {
-        "en": ["Plate Number"]
+        "en": [
+          "Plate Number"
+        ]
       },
       "value": {
-        "en": ["1"]
+        "en": [
+          "1"
+        ]
       }
     },
     {
       "label": {
-        "en": ["Frames"]
+        "en": [
+          "Frames"
+        ]
       },
       "value": {
-        "en": ["36"]
+        "en": [
+          "36"
+        ]
       }
     },
     {
       "label": {
-        "en": ["Provider"]
+        "en": [
+          "Provider"
+        ]
       },
       "value": {
-        "en": ["National Gallery of Art"]
+        "en": [
+          "National Gallery of Art"
+        ]
       }
     },
     {
       "label": {
-        "en": ["Animal"]
+        "en": [
+          "Animal"
+        ]
       },
       "value": {
-        "en": ["Human"]
+        "en": [
+          "Human"
+        ]
       }
     },
     {
       "label": {
-        "en": ["Movement"]
+        "en": [
+          "Movement"
+        ]
       },
       "value": {
-        "en": ["Walking"]
+        "en": [
+          "Walking"
+        ]
       }
     }
   ],
@@ -67,8 +96,14 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-1-walking-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
-        "en": ["Plate Number 1. Walking"]
+        "en": [
+          "Plate Number 1. Walking"
+        ]
       },
       "height": 560,
       "width": 308,
@@ -110,7 +145,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["1"]
+                "en": [
+                  "1"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:1.0501,2.5771,7.3508,28.2971/full/0/default.jpg",
@@ -126,7 +163,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["2"]
+                "en": [
+                  "2"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:9.1885,2.4255,7.1838,28.6003/full/0/default.jpg",
@@ -142,7 +181,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["3"]
+                "en": [
+                  "3"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:17.1599,2.8297,7.7088,28.5498/full/0/default.jpg",
@@ -158,7 +199,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["4"]
+                "en": [
+                  "4"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:25.4415,2.8802,7.5418,28.5498/full/0/default.jpg",
@@ -174,7 +217,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["5"]
+                "en": [
+                  "5"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:33.6754,3.0318,7.9236,28.4992/full/0/default.jpg",
@@ -190,7 +235,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["6"]
+                "en": [
+                  "6"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:42.0764,2.7287,7.7566,28.5498/full/0/default.jpg",
@@ -206,7 +253,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["7"]
+                "en": [
+                  "7"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:50.3341,2.5771,7.5895,28.8024/full/0/default.jpg",
@@ -222,7 +271,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["8"]
+                "en": [
+                  "8"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:58.4726,2.5771,7.7088,28.7014/full/0/default.jpg",
@@ -238,7 +289,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["9"]
+                "en": [
+                  "9"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:66.7780,2.5771,7.7566,28.9540/full/0/default.jpg",
@@ -254,7 +307,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["10"]
+                "en": [
+                  "10"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:75.0358,2.7287,7.7327,29.0551/full/0/default.jpg",
@@ -270,7 +325,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["11"]
+                "en": [
+                  "11"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:83.2936,2.6276,7.6611,29.2572/full/0/default.jpg",
@@ -286,7 +343,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["12"]
+                "en": [
+                  "12"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:91.5274,2.7792,7.4463,29.5604/full/0/default.jpg",
@@ -302,7 +361,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["13"]
+                "en": [
+                  "13"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:0.8115,33.9565,7.4940,29.4593/full/0/default.jpg",
@@ -318,7 +379,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["14"]
+                "en": [
+                  "14"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:8.9499,34.2597,7.3508,29.3583/full/0/default.jpg",
@@ -334,7 +397,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["15"]
+                "en": [
+                  "15"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:16.9451,34.2597,7.5179,29.6109/full/0/default.jpg",
@@ -350,7 +415,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["16"]
+                "en": [
+                  "16"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:25.1074,34.5629,7.8043,29.3583/full/0/default.jpg",
@@ -366,7 +433,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["17"]
+                "en": [
+                  "17"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:33.5561,34.4618,7.7088,29.6109/full/0/default.jpg",
@@ -382,7 +451,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["18"]
+                "en": [
+                  "18"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:41.9093,34.4618,7.6850,29.8130/full/0/default.jpg",
@@ -398,7 +469,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["19"]
+                "en": [
+                  "19"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:50.1193,34.4113,7.6611,29.9646/full/0/default.jpg",
@@ -414,7 +487,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["20"]
+                "en": [
+                  "20"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:58.4487,34.4618,7.5895,29.9141/full/0/default.jpg",
@@ -430,7 +505,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["21"]
+                "en": [
+                  "21"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:66.6587,34.3608,7.7088,29.8130/full/0/default.jpg",
@@ -446,7 +523,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["22"]
+                "en": [
+                  "22"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:74.9403,34.6640,7.5418,29.4593/full/0/default.jpg",
@@ -462,7 +541,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["23"]
+                "en": [
+                  "23"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:83.0072,34.9672,7.6611,29.5099/full/0/default.jpg",
@@ -478,7 +559,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["24"]
+                "en": [
+                  "24"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:91.1933,35.1187,7.6134,29.6614/full/0/default.jpg",
@@ -494,7 +577,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["25"]
+                "en": [
+                  "25"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:0.5489,66.3466,7.5895,30.4194/full/0/default.jpg",
@@ -510,7 +595,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["26"]
+                "en": [
+                  "26"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:8.7112,66.9025,7.4463,30.0152/full/0/default.jpg",
@@ -526,7 +613,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["27"]
+                "en": [
+                  "27"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:16.8258,67.1046,7.4940,30.3689/full/0/default.jpg",
@@ -542,7 +631,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["28"]
+                "en": [
+                  "28"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:24.8687,67.1046,7.9236,30.5710/full/0/default.jpg",
@@ -558,7 +649,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["29"]
+                "en": [
+                  "29"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:33.4129,67.2057,7.8043,30.5205/full/0/default.jpg",
@@ -574,7 +667,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["30"]
+                "en": [
+                  "30"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:41.8854,67.5088,7.5656,30.4699/full/0/default.jpg",
@@ -590,7 +685,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["31"]
+                "en": [
+                  "31"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:50.0000,67.4583,7.8520,30.6215/full/0/default.jpg",
@@ -606,7 +703,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["32"]
+                "en": [
+                  "32"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:58.4487,67.4583,7.5656,30.7731/full/0/default.jpg",
@@ -622,7 +721,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["33"]
+                "en": [
+                  "33"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:66.5871,67.4078,7.6850,30.7226/full/0/default.jpg",
@@ -638,7 +739,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["34"]
+                "en": [
+                  "34"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:74.8449,67.6099,7.4224,30.6721/full/0/default.jpg",
@@ -654,7 +757,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["35"]
+                "en": [
+                  "35"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:82.8162,67.7615,7.6611,30.6215/full/0/default.jpg",
@@ -670,7 +775,9 @@
               "type": "Annotation",
               "motivation": "painting",
               "label": {
-                "en": ["36"]
+                "en": [
+                  "36"
+                ]
               },
               "body": {
                 "id": "https://api.nga.gov/iiif/1f8529ce-b2f8-4cd8-a088-1c134fe59a16/pct:91.0024,68.1657,7.7088,30.1668/full/0/default.jpg",
@@ -689,7 +796,9 @@
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-1-walking-original.json",
       "type": "Canvas",
       "label": {
-        "en": ["Plate Number 1. Walking"]
+        "en": [
+          "Plate Number 1. Walking"
+        ]
       },
       "height": 1979,
       "width": 4190,

@@ -1,0 +1,412 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 739. Bactrian camel galloping"
+    ]
+  },
+  "height": 524,
+  "width": 709,
+  "duration": 2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 709,
+    "height": 524,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-739-bactrian-camel-galloping.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 709,
+              "height": 524
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:0.8345,1.6791,19.0382,22.5580/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 524,
+            "width": 709
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:20.4900,1.6791,19.0382,22.5580/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 524,
+            "width": 709
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:40.1455,1.6791,19.0382,22.5580/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 524,
+            "width": 709
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:59.8009,1.6791,19.0382,22.5580/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 524,
+            "width": 709
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:79.4564,1.6791,19.0382,22.5580/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 524,
+            "width": 709
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:0.9121,26.3841,18.9994,22.0913/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 513,
+            "width": 708
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:20.4751,26.3841,18.9994,22.0913/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 513,
+            "width": 708
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:40.0381,26.3841,18.9994,22.0913/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 513,
+            "width": 708
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:59.6011,26.3841,18.9994,22.0913/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 513,
+            "width": 708
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:79.1641,26.3841,18.9994,22.0913/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 513,
+            "width": 708
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:0.8927,50.1867,18.8441,23.3359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 542,
+            "width": 702
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:20.4615,50.1867,18.8441,23.3359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 542,
+            "width": 702
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:40.0302,50.1867,18.8441,23.3359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 542,
+            "width": 702
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:59.5990,50.1867,18.8441,23.3359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 542,
+            "width": 702
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:79.1678,50.1867,18.8441,23.3359/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 542,
+            "width": 702
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:0.9193,75.4579,18.6953,22.8865/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 532,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:20.3661,75.4579,18.6953,22.8865/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 532,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:39.8129,75.4579,18.6953,22.8865/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 532,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:59.2597,75.4579,18.6953,22.8865/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 532,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/53ca774d-b51f-43b7-bf61-0194d81a94a7/pct:78.7065,75.4579,18.6953,22.8865/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 532,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-739-bactrian-camel-galloping-frames.json#t=1.9,2"
+        }
+      ]
+    }
+  ]
+}
