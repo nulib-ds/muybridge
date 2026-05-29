@@ -1,0 +1,539 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-776-storks-swans-etc.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 776. Storks, swans, etc."
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "776"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Stork",
+          "Swan"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Various"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-776-storks-swans-etc.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 776. Storks, swans, etc."
+        ]
+      },
+      "height": 439,
+      "width": 798,
+      "duration": 1.8,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 798,
+        "height": 439,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-776-storks-swans-etc.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 798,
+                  "height": 439
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:0.6004,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:17.2303,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:33.8603,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:50.4903,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:67.1403,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:83.7703,0.3441,15.9696,30.2134/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 439,
+                "width": 798
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:1.0806,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:17.6106,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:34.1405,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:50.6704,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:67.2003,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:83.7302,33.8610,15.5093,35.7880/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 520,
+                "width": 775
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:0.7004,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:17.3304,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:33.9804,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:50.6104,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:67.2604,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/pct:83.8903,74.4666,15.7294,24.8451/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 361,
+                "width": 786
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-frames.json#t=1.7,1.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 776. Storks, swans, etc."
+        ]
+      },
+      "height": 1453,
+      "width": 4997,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 233,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 233
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1453,
+                "width": 4997,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/420f7769-91d0-43a4-98c2-3156292af2ed",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-776-storks-swans-etc-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

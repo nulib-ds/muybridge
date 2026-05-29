@@ -1,0 +1,412 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 760. Cockatoo flying"
+    ]
+  },
+  "height": 452,
+  "width": 669,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 669,
+    "height": 452,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-760-cockatoo-flying.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 669,
+              "height": 452
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:0.8931,2.2848,18.6715,18.4415/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 452,
+            "width": 669
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0,0.08"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:20.4856,2.2848,18.6715,18.4415/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 452,
+            "width": 669
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.08,0.16"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:40.0781,2.2848,18.6715,18.4415/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 452,
+            "width": 669
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.16,0.24"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:59.6707,2.2848,18.6715,18.4415/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 452,
+            "width": 669
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.24,0.32"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:79.2632,2.2848,18.6715,18.4415/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 452,
+            "width": 669
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.32,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:1.0327,26.9686,18.6994,23.1334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 567,
+            "width": 670
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.4,0.48"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:20.5694,26.9686,18.6994,23.1334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 567,
+            "width": 670
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.48,0.56"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:40.1061,26.9686,18.6994,23.1334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 567,
+            "width": 670
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.56,0.64"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:59.6707,26.9686,18.6994,23.1334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 567,
+            "width": 670
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.64,0.72"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:79.2074,26.9686,18.6994,23.1334/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 567,
+            "width": 670
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.72,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:1.0327,53.6108,18.9506,19.0942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 679
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.8,0.88"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:20.6531,53.6108,18.9506,19.0942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 679
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.88,0.96"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:40.2456,53.6108,18.9506,19.0942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 679
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=0.96,1.04"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:59.8660,53.6108,18.9506,19.0942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 679
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.04,1.12"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:79.4586,53.6108,18.9506,19.0942/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 679
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.12,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:1.0885,78.3354,19.0343,20.7262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.2,1.28"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:20.6531,78.3354,19.0343,20.7262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.28,1.36"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:40.2177,78.3354,19.0343,20.7262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.36,1.44"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:59.7823,78.3354,19.0343,20.7262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.44,1.52"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/d6488f06-1bcd-4ae9-9ba9-96253d01e6e3/pct:79.3748,78.3354,19.0343,20.7262/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 508,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-760-cockatoo-flying-frames.json#t=1.52,1.6"
+        }
+      ]
+    }
+  ]
+}

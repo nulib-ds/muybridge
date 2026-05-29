@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 763. Red-tailed hawk flying"
+    ]
+  },
+  "height": 616,
+  "width": 514,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 514,
+    "height": 616,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-763-red-tailed-hawk-flying.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 514,
+              "height": 616
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:0.5744,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0,0.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:17.1047,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.067,0.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:33.6350,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.133,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:50.1653,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.2,0.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:66.6956,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.267,0.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:83.2259,1.5344,15.9115,22.1693/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.333,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:0.5971,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.4,0.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:17.1293,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.467,0.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:33.6615,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.533,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:50.1937,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.6,0.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:66.7259,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.667,0.733"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:83.2581,25.9788,15.8206,22.6190/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 628,
+            "width": 511
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.733,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:0.5971,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.8,0.867"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:17.0737,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.867,0.933"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:33.5504,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=0.933,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:50.0270,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1,1.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:66.5036,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.067,1.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:82.9802,51.0053,15.8888,22.7249/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 514
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.133,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:0.7790,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.2,1.267"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:17.2695,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.267,1.333"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:33.7600,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.333,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:50.2506,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.4,1.467"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:66.7411,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.467,1.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/793550a3-0260-49b0-9c9a-5e234a25a53d/pct:83.2316,75.8995,15.5933,22.8307/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 504
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-763-red-tailed-hawk-flying-frames.json#t=1.533,1.6"
+        }
+      ]
+    }
+  ]
+}

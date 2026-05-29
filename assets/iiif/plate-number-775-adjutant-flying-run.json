@@ -1,0 +1,394 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-775-adjutant-flying-run.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 775.  Adjutant, flying run"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "775"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Adjutant"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Flying"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-775-adjutant-flying-run.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 775.  Adjutant, flying run"
+        ]
+      },
+      "height": 980,
+      "width": 752,
+      "duration": 1,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 752,
+        "height": 980,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-775-adjutant-flying-run.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 752,
+                  "height": 980
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:0.6778,2.0520,19.2775,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 752
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:20.4934,2.0520,19.2775,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 752
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:40.3090,2.0520,19.2775,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 752
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:60.1246,2.0520,19.2775,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 752
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:79.9402,2.0520,19.2775,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 752
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:0.9581,52.5009,19.0188,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 742
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:20.6943,52.5009,19.0188,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 742
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:40.4305,52.5009,19.0188,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 742
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:60.1667,52.5009,19.0188,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 742
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/pct:79.9028,52.5009,19.0188,46.4945/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 980,
+                "width": 742
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-frames.json#t=0.9,1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 775.  Adjutant, flying run"
+        ]
+      },
+      "height": 2107,
+      "width": 3903,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 432,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 432
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2107,
+                "width": 3903,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/4ed5be5a-9527-415c-94ab-09eda5454ec3",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-775-adjutant-flying-run-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

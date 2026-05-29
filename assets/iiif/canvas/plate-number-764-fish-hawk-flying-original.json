@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 764. Fish hawk flying"
+    ]
+  },
+  "height": 1992,
+  "width": 4641,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 343,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/1575ca32-5853-4f7c-8a5e-2541eabaa8c9/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 343
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/1575ca32-5853-4f7c-8a5e-2541eabaa8c9/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1992,
+            "width": 4641,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/1575ca32-5853-4f7c-8a5e-2541eabaa8c9",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-764-fish-hawk-flying-original.json"
+        }
+      ]
+    }
+  ]
+}

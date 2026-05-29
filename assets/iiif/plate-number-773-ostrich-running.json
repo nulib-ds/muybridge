@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-773-ostrich-running.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 773. Ostrich running"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "773"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-773-ostrich-running.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 773. Ostrich running"
+        ]
+      },
+      "height": 654,
+      "width": 500,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 500,
+        "height": 654,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-773-ostrich-running.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 500,
+                  "height": 654
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:1.2910,0.5590,15.6990,22.5805/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 654,
+                "width": 500
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:17.5556,0.6403,15.8370,22.4449/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 504
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:34.0071,0.7437,16.0151,22.6584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 510
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:50.4417,0.8521,16.1631,22.7939/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:67.0490,0.9876,15.9904,22.7939/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 661,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:83.4589,1.0960,15.4722,22.7397/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 659,
+                "width": 492
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:1.2366,25.0283,15.7436,22.5229/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 653,
+                "width": 501
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:17.6712,25.1638,15.8177,22.6584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:34.0071,25.4077,15.8670,22.6042/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 655,
+                "width": 505
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:50.3923,25.5161,16.1878,22.6855/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 515
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:66.9009,25.5161,15.7930,22.6584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 657,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:83.3602,25.5974,15.5956,22.5229/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 653,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:1.3353,49.7194,15.8423,23.5257/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 682,
+                "width": 504
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:17.5972,49.8278,15.8917,23.5799/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 683,
+                "width": 506
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:33.9084,50.0446,15.7683,23.6070/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 684,
+                "width": 502
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:50.3676,50.0446,15.9411,23.3902/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 678,
+                "width": 507
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:66.6295,49.9362,16.0398,23.4986/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 681,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:83.1875,50.0446,15.8670,23.2818/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 675,
+                "width": 505
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:1.3572,75.2236,15.7190,23.8509/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 691,
+                "width": 500
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:17.6191,75.4947,15.8670,23.3089/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 675,
+                "width": 505
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:34.0043,75.5760,15.6943,23.3360/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 676,
+                "width": 500
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:50.1921,75.4947,16.1138,23.2547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 674,
+                "width": 513
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:66.5527,75.2778,15.7436,23.1733/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 672,
+                "width": 501
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/pct:83.1600,75.2778,15.6943,23.0920/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 669,
+                "width": 500
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 773. Ostrich running"
+        ]
+      },
+      "height": 2898,
+      "width": 3183,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 728,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 728
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2898,
+                "width": 3183,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/c50dd436-6860-4562-8f7b-bbeb8c01510f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-773-ostrich-running-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
