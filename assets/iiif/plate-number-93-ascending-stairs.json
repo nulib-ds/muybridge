@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ascending"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,18 +96,22 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 93. Ascending stairs"
         ]
       },
       "height": 657,
-      "width": 268,
+      "width": 271,
       "duration": 2.4,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json/placeholder",
         "type": "Canvas",
-        "width": 268,
+        "width": 271,
         "height": 657,
         "items": [
           {
@@ -98,7 +126,7 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-93-ascending-stairs.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 268,
+                  "width": 271,
                   "height": 657
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json/placeholder"
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:0.8437,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:0.8204,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:8.6919,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:9.0802,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:16.5401,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:17.3400,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:24.3882,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:25.5998,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:32.2364,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:33.8596,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:40.0846,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:42.1194,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:47.9328,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:50.3791,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:55.7810,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:58.6389,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:63.6292,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:66.8987,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:71.4774,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:75.1585,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:79.3256,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:83.4183,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:87.1738,1.4452,7.2041,28.7229/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:91.6780,1.5277,7.2668,28.7191/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 657,
-                "width": 268
+                "width": 271
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:1.1097,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:1.1330,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:17.5106,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:17.6337,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:33.9115,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:34.1344,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:50.3125,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:50.6351,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:66.7134,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:67.1358,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:83.1143,34.1785,15.6495,30.1776/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:83.6365,34.4178,15.3735,30.4384/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 583
+                "height": 696,
+                "width": 573
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:1.3336,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:1.2893,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:17.4722,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:17.7045,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:33.6109,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:34.1198,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:49.7495,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:50.5351,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:65.8881,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:66.9503,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:82.0268,68.5160,15.3872,30.1982/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b45b6622-f5e1-4104-ac3b-a5e0894a48a1/pct:83.3656,68.5815,15.3149,30.2474/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 690,
-                "width": 573
+                "height": 691,
+                "width": 571
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-93-ascending-stairs-frames.json#t=2.3,2.4"
             }

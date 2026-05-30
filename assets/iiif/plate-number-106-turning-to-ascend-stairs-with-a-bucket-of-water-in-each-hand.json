@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Turning around"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 106. Turning to ascend stairs with a bucket of water in each hand"
         ]
       },
-      "height": 667,
-      "width": 290,
+      "height": 679,
+      "width": 292,
       "duration": 3.6,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json/placeholder",
         "type": "Canvas",
-        "width": 290,
-        "height": 667,
+        "width": 292,
+        "height": 679,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json/placeholder/page/1",
@@ -98,8 +126,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 290,
-                  "height": 667
+                  "width": 292,
+                  "height": 679
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json/placeholder"
               }
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:1.0664,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:0.9962,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:9.0920,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:9.2377,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:17.1176,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:17.4791,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.1431,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.7205,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.1687,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.9619,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:41.1943,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:42.2033,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:49.2199,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:50.4447,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:57.2455,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:58.6861,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:65.2711,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:66.9276,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:73.2967,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:75.1690,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:81.3222,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:83.4104,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:89.3478,0.7220,7.7583,30.7942/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:91.6518,0.8520,7.8137,31.3287/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 667,
-                "width": 290
+                "height": 679,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:0.7527,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:0.7814,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:8.8410,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:9.0403,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:16.9294,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:17.2992,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.0177,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.5581,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.1060,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.8169,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:41.1943,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:42.0758,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:49.2826,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:50.3347,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:57.3710,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:58.5936,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:65.4593,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:66.8525,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:73.5476,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:75.1114,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:81.6359,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:83.3703,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:89.7242,34.4043,7.8210,31.4079/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:91.6292,34.5076,7.9114,31.1938/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 681,
-                "width": 293
+                "height": 676,
+                "width": 296
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.3,2.4"
             },
@@ -554,11 +582,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:0.3345,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:0.4298,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.4,2.5"
             },
@@ -572,11 +600,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:8.7167,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:8.6753,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.5,2.6"
             },
@@ -590,11 +618,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:17.0988,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:16.9208,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.6,2.7"
             },
@@ -608,11 +636,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.4810,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:25.1663,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.7,2.8"
             },
@@ -626,11 +654,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.8632,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:33.4119,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.8,2.9"
             },
@@ -644,11 +672,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:42.2454,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:41.6574,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=2.9,3"
             },
@@ -662,11 +690,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:50.6275,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:49.9029,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3,3.1"
             },
@@ -680,11 +708,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:59.0097,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:58.1485,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3.1,3.2"
             },
@@ -698,11 +726,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:67.3919,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:66.3940,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3.2,3.3"
             },
@@ -716,11 +744,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:75.7741,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:74.6395,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3.3,3.4"
             },
@@ -734,11 +762,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:84.1562,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:82.8851,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3.4,3.5"
             },
@@ -752,11 +780,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:92.5384,67.8700,8.3020,31.3357/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e4b89f1f-ff15-4c03-ad82-e08201062eaf/pct:91.1306,67.8934,8.1653,31.2950/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 679,
-                "width": 311
+                "height": 678,
+                "width": 305
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-106-turning-to-ascend-stairs-with-a-bucket-of-water-in-each-hand-frames.json#t=3.5,3.6"
             }

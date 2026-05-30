@@ -59,6 +59,31 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Carrying"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,6 +97,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-36-walking-and-carrying-a-child-on-left-arm-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 36. Walking and carrying a child on left arm"
@@ -122,7 +151,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:1.0406,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:1.0299,1.8876,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -140,7 +169,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:17.0321,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:17.0427,1.8876,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -158,7 +187,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:33.0237,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:33.9859,1.8876,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -176,7 +205,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:49.0153,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:50.4516,2.0070,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -194,7 +223,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:65.0069,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:66.9608,1.9274,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -212,7 +241,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:80.9985,1.9010,15.7464,46.4237/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:83.2963,1.8876,15.7430,46.4270/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1033,
@@ -230,7 +259,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:0.8878,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:0.8828,52.2697,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,
@@ -248,7 +277,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:16.8372,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:17.4325,52.2697,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,
@@ -266,7 +295,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:32.7866,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:34.0229,52.3492,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,
@@ -284,7 +313,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:48.7359,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:50.6783,52.3890,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,
@@ -302,7 +331,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:64.6853,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:67.1195,52.3095,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,
@@ -320,7 +349,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:80.6347,52.2810,15.7042,45.8068/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70e699d4-5d77-4106-9527-2ca201a6e771/pct:83.4491,52.4288,15.6940,45.7978/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1019,

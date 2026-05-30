@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ascending"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 80. Ascending an incline with a 20-lb. basket on head"
         ]
       },
-      "height": 718,
-      "width": 302,
+      "height": 722,
+      "width": 307,
       "duration": 3.3,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json/placeholder",
         "type": "Canvas",
-        "width": 302,
-        "height": 718,
+        "width": 307,
+        "height": 722,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json/placeholder/page/1",
@@ -98,8 +126,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 302,
-                  "height": 718
+                  "width": 307,
+                  "height": 722
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json/placeholder"
               }
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:1.1590,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:1.0549,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:9.5957,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:10.0187,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.0593,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.9825,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:26.4960,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:27.9463,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:34.9596,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:36.9101,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:43.3962,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:45.8739,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:51.8598,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:54.8378,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:60.2965,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:63.8016,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:68.7601,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:72.7654,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:77.1968,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:81.7292,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:85.6604,0.7230,8.1402,32.4446/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:90.6930,0.7660,8.2630,32.6174/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 718,
-                "width": 302
+                "height": 722,
+                "width": 307
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:1.0782,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:1.0744,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:9.8652,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:10.0355,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.6523,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.9966,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:27.4394,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:27.9577,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:36.2264,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:36.9188,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:45.0135,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:45.8799,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:53.8005,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:54.8409,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:62.5876,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:63.8020,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:71.3747,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:72.7631,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:80.1617,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:81.7242,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:88.9488,35.4270,8.4636,30.4112/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:90.6853,35.7086,8.3411,29.9976/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 673,
-                "width": 314
+                "height": 664,
+                "width": 309
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:0.8356,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:0.9181,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:9.8652,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:9.9128,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.3,2.4"
             },
@@ -554,11 +582,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.8949,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:18.9075,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.4,2.5"
             },
@@ -572,11 +600,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:27.8976,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:27.9022,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.5,2.6"
             },
@@ -590,11 +618,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:36.9272,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:36.8970,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.6,2.7"
             },
@@ -608,11 +636,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:45.9569,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:45.8917,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.7,2.8"
             },
@@ -626,11 +654,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:54.9865,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:54.8864,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.8,2.9"
             },
@@ -644,11 +672,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:64.0162,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:63.8811,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=2.9,3"
             },
@@ -662,11 +690,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:73.0189,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:72.8758,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=3,3.1"
             },
@@ -680,11 +708,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:82.0485,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:81.8705,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=3.1,3.2"
             },
@@ -698,11 +726,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:91.0782,68.0524,8.7062,30.8631/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dea6d8ec-be68-4121-b3ba-72cccc449e6f/pct:90.8652,68.1623,8.5365,30.6525/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 683,
-                "width": 323
+                "height": 678,
+                "width": 317
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-80-ascending-an-incline-with-a-20-lb-basket-on-head-frames.json#t=3.2,3.3"
             }

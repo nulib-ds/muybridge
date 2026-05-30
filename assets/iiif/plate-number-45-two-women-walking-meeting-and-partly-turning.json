@@ -59,6 +59,31 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Turning around"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +97,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 45. Two women walking, meeting and partly turning"
         ]
       },
-      "height": 523,
-      "width": 588,
+      "height": 526,
+      "width": 592,
       "duration": 2.4,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json/placeholder",
         "type": "Canvas",
-        "width": 588,
-        "height": 523,
+        "width": 592,
+        "height": 526,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json/placeholder/page/1",
@@ -98,8 +127,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-45-two-women-walking-meeting-and-partly-turning.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 588,
-                  "height": 523
+                  "width": 592,
+                  "height": 526
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json/placeholder"
               }
@@ -122,11 +151,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.6196,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.6024,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0,0.1"
             },
@@ -140,11 +169,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.7176,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.9522,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.1,0.2"
             },
@@ -158,11 +187,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:33.8156,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:34.3020,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.2,0.3"
             },
@@ -176,11 +205,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:49.9135,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:50.6518,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.3,0.4"
             },
@@ -194,11 +223,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.0115,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:67.0016,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.4,0.5"
             },
@@ -212,11 +241,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:82.1095,1.6967,15.9622,22.1972/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:83.3514,1.7842,16.0782,22.3449/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 523,
-                "width": 588
+                "height": 526,
+                "width": 592
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.5,0.6"
             },
@@ -230,11 +259,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.6636,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.7110,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.6,0.7"
             },
@@ -248,11 +277,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.7568,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.9794,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.7,0.8"
             },
@@ -266,11 +295,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:33.8501,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:34.2749,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.8,0.9"
             },
@@ -284,11 +313,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:49.9433,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:50.5432,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=0.9,1"
             },
@@ -302,11 +331,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.0366,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.8115,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1,1.1"
             },
@@ -320,11 +349,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:82.1298,26.9587,15.9574,21.9554/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:83.0798,26.8904,15.7795,22.1325/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 517,
-                "width": 588
+                "height": 521,
+                "width": 581
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.1,1.2"
             },
@@ -338,11 +367,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.4525,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.6839,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.2,1.3"
             },
@@ -356,11 +385,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.7357,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.9794,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.3,1.4"
             },
@@ -374,11 +403,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:34.0189,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:34.2749,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.4,1.5"
             },
@@ -392,11 +421,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:50.3021,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:50.5703,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.5,1.6"
             },
@@ -410,11 +439,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.5854,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.8658,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.6,1.7"
             },
@@ -428,11 +457,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:82.8686,52.0503,16.1474,21.4289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:83.1613,51.9116,15.7251,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 504,
-                "width": 595
+                "height": 511,
+                "width": 579
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.7,1.8"
             },
@@ -446,11 +475,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.4085,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:1.4123,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.8,1.9"
             },
@@ -464,11 +493,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.4613,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:17.7621,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=1.9,2"
             },
@@ -482,11 +511,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:33.5141,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:34.1119,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=2,2.1"
             },
@@ -500,11 +529,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:49.5670,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:50.4617,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=2.1,2.2"
             },
@@ -518,11 +547,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:65.6198,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:66.8115,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=2.2,2.3"
             },
@@ -536,11 +565,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:81.6726,76.4160,15.9170,21.6610/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4f63c26-28fe-499e-891b-38dbec717222/pct:83.1613,76.4231,15.8609,21.7077/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 510,
-                "width": 586
+                "height": 511,
+                "width": 584
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-45-two-women-walking-meeting-and-partly-turning-frames.json#t=2.3,2.4"
             }

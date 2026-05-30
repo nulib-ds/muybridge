@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Running"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 69. Two men running"
         ]
       },
-      "height": 614,
-      "width": 727,
+      "height": 606,
+      "width": 726,
       "duration": 2,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json/placeholder",
         "type": "Canvas",
-        "width": 727,
-        "height": 614,
+        "width": 726,
+        "height": 606,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json/placeholder/page/1",
@@ -98,8 +126,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-69-two-men-running.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 727,
-                  "height": 614
+                  "width": 726,
+                  "height": 606
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json/placeholder"
               }
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.1892,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.0939,1.3724,19.0459,28.9053/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 727
+                "height": 606,
+                "width": 726
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.7815,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.6908,1.3724,19.0459,28.9053/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 727
+                "height": 606,
+                "width": 726
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.3737,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.2876,1.3724,19.0459,28.9053/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 727
+                "height": 606,
+                "width": 726
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.9659,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.8844,1.3724,19.0459,28.9053/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 727
+                "height": 606,
+                "width": 726
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:79.5581,1.0936,19.0676,29.2571/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:79.4813,1.3724,19.0459,28.9053/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 727
+                "height": 606,
+                "width": 726
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.2091,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.2307,33.0830,18.8115,29.2248/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 720
+                "height": 613,
+                "width": 717
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.6229,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.7243,33.0830,18.8115,29.2248/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 720
+                "height": 613,
+                "width": 717
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.0367,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:40.2178,33.0830,18.8115,29.2248/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 720
+                "height": 613,
+                "width": 717
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.4506,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.7114,33.0830,18.8115,29.2248/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 720
+                "height": 613,
+                "width": 717
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:78.8644,33.0530,18.8892,29.2931/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:79.2050,33.0830,18.8115,29.2248/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 614,
-                "width": 720
+                "height": 613,
+                "width": 717
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.1694,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:1.2313,65.0620,8.3997,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 320
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:10.0666,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:10.3278,65.0620,9.2245,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 352
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:18.9638,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:20.0754,65.0620,9.3982,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 358
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:27.8610,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:29.9315,65.0620,9.4633,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 361
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:36.7581,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:39.9396,65.0620,9.3765,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 357
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:45.6553,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:49.6438,65.0620,9.5935,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 366
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:54.5525,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:59.6953,65.0620,9.4633,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 361
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:63.4497,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:69.5515,65.0620,9.5284,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 363
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:72.3469,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:79.3642,65.0620,9.6369,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 367
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:81.2440,64.9403,8.5824,33.8690/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8a0a6d9a-87f7-46e3-9562-e4d757331232/pct:89.3723,65.0620,9.5501,33.8135/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 710,
-                "width": 327
+                "height": 709,
+                "width": 364
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-69-two-men-running-frames.json#t=1.9,2"
             }

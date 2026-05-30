@@ -72,6 +72,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 164. Jumping and pole-vaulting"
@@ -122,7 +126,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.8169,2.1939,7.0289,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.8118,2.2093,7.0358,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -140,7 +144,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:8.3627,2.1939,6.6296,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:8.3680,2.2093,6.6195,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -158,7 +162,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:15.5672,2.1939,7.5682,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:15.5704,2.2093,7.5770,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -176,7 +180,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:23.5669,2.1675,10.5014,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:23.5637,2.1512,10.4913,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -194,7 +198,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:34.5791,2.1939,10.6804,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:34.5754,2.2093,10.6786,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -212,7 +216,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:45.8961,2.1939,8.6942,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:45.8993,2.2093,8.7011,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -230,7 +234,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.1448,2.1939,10.6054,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.1415,2.2093,10.5953,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -248,7 +252,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:66.2479,2.1939,10.4635,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:66.2573,2.2093,10.4704,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -266,7 +270,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:77.3226,2.1939,7.4925,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:77.3314,2.2093,7.4938,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -284,7 +288,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:85.3696,2.1939,6.5463,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:85.3664,2.2093,6.5362,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -302,7 +306,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5461,2.1939,7.0289,45.7368/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5479,2.2093,7.0358,45.7558/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 787,
@@ -320,7 +324,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.7945,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:0.7910,52.5000,7.1607,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
@@ -338,11 +342,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:9.9692,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:8.6035,53.1547,6.4770,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.2,1.3"
             },
@@ -356,11 +360,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:19.1439,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:15.7322,52.9365,7.3560,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 353
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.3,1.4"
             },
@@ -374,11 +378,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:28.3186,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:23.8559,52.6091,10.2471,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 492
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.4,1.5"
             },
@@ -392,11 +396,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:37.4932,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:34.8134,52.7728,10.5011,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 504
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.5,1.6"
             },
@@ -410,11 +414,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:46.6679,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:46.0443,52.5000,8.4695,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 407
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.6,1.7"
             },
@@ -428,11 +432,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.8426,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:55.2242,52.5546,10.3839,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 499
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.7,1.8"
             },
@@ -446,11 +450,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:65.0173,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:66.2976,52.6637,10.3057,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 495
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.8,1.9"
             },
@@ -464,11 +468,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:74.1919,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:77.1574,52.5000,7.4733,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 359
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=1.9,2"
             },
@@ -482,11 +486,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:83.3666,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:85.3019,52.4454,6.8286,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,
-                "width": 344
+                "width": 328
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-164-jumping-and-pole-vaulting-frames.json#t=2,2.1"
             },
@@ -500,7 +504,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5413,52.5235,7.1555,46.5740/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/b72490c5-2b90-4bb9-9e1e-09945555d79c/pct:92.5479,52.5000,7.1607,46.5698/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 801,

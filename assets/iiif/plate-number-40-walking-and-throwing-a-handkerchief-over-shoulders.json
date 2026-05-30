@@ -59,6 +59,31 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Throwing"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,6 +97,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-40-walking-and-throwing-a-handkerchief-over-shoulders-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 40. Walking and throwing a handkerchief over shoulders"
@@ -122,7 +151,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:0.3563,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:0.3601,2.1048,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -140,7 +169,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:16.8837,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:16.8903,2.1048,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -158,7 +187,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:33.4111,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:33.4206,2.1048,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -176,7 +205,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:49.9385,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:49.9509,2.1048,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -194,7 +223,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:66.4659,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:66.4812,2.5198,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -212,7 +241,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:82.9933,2.1067,15.5454,46.5613/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:83.5208,2.2826,15.5483,46.5636/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1084,
@@ -230,7 +259,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:0.6408,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:0.6547,54.1667,15.0900,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
@@ -248,7 +277,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:16.7212,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:17.1784,54.0185,15.0900,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
@@ -266,7 +295,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:32.8015,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:33.5892,54.1074,15.0900,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
@@ -284,7 +313,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:48.8818,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:50.3840,54.1074,15.0900,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
@@ -302,7 +331,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:64.9622,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:66.6284,53.7064,15.0900,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
@@ -320,11 +349,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:81.0425,54.1867,15.0983,45.4428/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ed2cf9ef-b282-418c-941d-bc6d14cd5888/pct:83.7578,54.0481,15.4966,45.4467/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1058,
-                "width": 461
+                "width": 473
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-40-walking-and-throwing-a-handkerchief-over-shoulders-frames.json#t=1.1,1.2"
             }

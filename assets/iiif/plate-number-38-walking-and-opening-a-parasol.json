@@ -59,6 +59,31 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Opening"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,6 +97,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 38. Walking and opening a parasol"
@@ -122,7 +151,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.6154,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.6124,1.2165,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -140,7 +169,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:17.0655,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:17.0545,1.2165,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -158,7 +187,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:33.5157,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:33.8824,1.2757,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -176,7 +205,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:49.9658,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:50.4513,1.3350,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -194,7 +223,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:66.4159,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:67.1217,1.4239,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -212,7 +241,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:82.8661,1.2000,15.8378,22.8267/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:83.5131,1.4832,15.8298,22.8265/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 638,
@@ -230,7 +259,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.6154,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.6124,26.1181,15.5848,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
@@ -248,7 +277,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.8145,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.8096,26.1181,15.5848,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
@@ -266,7 +295,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:33.0136,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:33.5648,26.1181,15.5848,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
@@ -284,7 +313,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:49.2127,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:50.2692,26.1477,15.5848,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
@@ -302,7 +331,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:65.4118,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:66.8470,26.2950,15.5848,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
@@ -320,11 +349,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:81.6109,26.1067,15.5867,23.8400/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:83.0694,26.1773,16.0667,23.8283/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 666,
-                "width": 509
+                "width": 525
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json#t=1.1,1.2"
             },
@@ -338,7 +367,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.5212,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.5205,51.5564,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -356,7 +385,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.7025,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.7177,51.5564,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -374,7 +403,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:32.8839,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:33.3408,52.1195,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -392,7 +421,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:49.0652,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:49.9132,52.2677,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -410,7 +439,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:65.2466,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:66.5670,52.3862,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -428,7 +457,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:81.4279,51.5530,15.5690,22.4296/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:83.0379,52.5048,15.5542,22.4329/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 627,
@@ -446,7 +475,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.8255,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:0.8267,75.9571,14.8806,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
@@ -464,11 +493,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.3222,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:16.3197,75.9571,15.6923,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
-                "width": 486
+                "width": 513
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json#t=1.9,2"
             },
@@ -482,11 +511,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:31.8189,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:32.8018,76.1630,15.9966,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
-                "width": 486
+                "width": 522
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json#t=2,2.1"
             },
@@ -500,11 +529,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:47.3156,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:49.2333,76.4313,16.1996,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
-                "width": 486
+                "width": 529
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json#t=2.1,2.2"
             },
@@ -518,7 +547,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:62.8124,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:66.2228,76.4017,14.8806,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
@@ -536,11 +565,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:78.3091,75.9678,14.8844,22.9037/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f70dd483-dafc-430c-aa5f-4f633627db89/pct:82.5074,76.5507,16.0474,22.8980/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 640,
-                "width": 486
+                "width": 524
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-38-walking-and-opening-a-parasol-frames.json#t=2.3,2.4"
             }

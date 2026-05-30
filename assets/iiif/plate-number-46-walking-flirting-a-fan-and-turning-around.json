@@ -59,6 +59,32 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking",
+          "Flirting",
+          "Turning around"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +98,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 46. Walking, flirting a fan and turning around"
         ]
       },
-      "height": 728,
+      "height": 727,
       "width": 275,
       "duration": 3.6,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json/placeholder",
         "type": "Canvas",
         "width": 275,
-        "height": 728,
+        "height": 727,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json/placeholder/page/1",
@@ -99,7 +129,7 @@
                   "type": "Image",
                   "format": "image/gif",
                   "width": 275,
-                  "height": 728
+                  "height": 727
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json/placeholder"
               }
@@ -122,10 +152,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.6405,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.6184,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0,0.1"
@@ -140,10 +170,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.6034,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.7388,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.1,0.2"
@@ -158,10 +188,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.5664,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.8308,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.2,0.3"
@@ -176,10 +206,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:25.5293,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:25.9512,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.3,0.4"
@@ -194,10 +224,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:33.4922,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:34.0432,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.4,0.5"
@@ -212,10 +242,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:41.4552,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:42.1635,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.5,0.6"
@@ -230,10 +260,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:49.4181,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:50.2555,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.6,0.7"
@@ -248,10 +278,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:57.3810,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:58.3759,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.7,0.8"
@@ -266,10 +296,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:65.3440,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:66.4679,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.8,0.9"
@@ -284,10 +314,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:73.3069,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:74.5883,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=0.9,1"
@@ -302,10 +332,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:81.2698,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:82.6803,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1,1.1"
@@ -320,10 +350,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:89.2328,0.6682,7.8210,31.0596/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:90.8007,0.6402,7.8081,31.0286/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 728,
+                "height": 727,
                 "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.1,1.2"
@@ -338,11 +368,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.8237,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.7888,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.2,1.3"
             },
@@ -356,11 +386,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.6707,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.8807,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.3,1.4"
             },
@@ -374,11 +404,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.5178,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.9443,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.4,1.5"
             },
@@ -392,11 +422,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:25.3648,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:26.0363,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.5,1.6"
             },
@@ -410,11 +440,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:33.2118,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:34.1283,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.6,1.7"
             },
@@ -428,11 +458,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:41.0589,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:42.2203,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.7,1.8"
             },
@@ -446,11 +476,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:48.9059,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:50.3123,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.8,1.9"
             },
@@ -464,11 +494,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:56.7529,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:58.4043,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=1.9,2"
             },
@@ -482,11 +512,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:64.6000,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:66.4963,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2,2.1"
             },
@@ -500,11 +530,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:72.4470,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:74.5883,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.1,2.2"
             },
@@ -518,11 +548,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:80.2940,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:82.6803,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.2,2.3"
             },
@@ -536,11 +566,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:88.1411,33.8891,7.6199,31.5705/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:90.7723,33.8455,7.5809,31.6688/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 740,
-                "width": 268
+                "height": 742,
+                "width": 267
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.3,2.4"
             },
@@ -554,11 +584,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.7604,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:1.8171,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.4,2.5"
             },
@@ -572,11 +602,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.8476,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:9.8807,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.5,2.6"
             },
@@ -590,11 +620,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.9349,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:17.9727,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.6,2.7"
             },
@@ -608,11 +638,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:26.0221,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:26.0363,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.7,2.8"
             },
@@ -626,11 +656,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:34.1094,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:34.0999,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.8,2.9"
             },
@@ -644,11 +674,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:42.1966,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:42.1635,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=2.9,3"
             },
@@ -662,11 +692,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:50.2839,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:50.2555,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3,3.1"
             },
@@ -680,11 +710,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:58.3711,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:58.3191,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3.1,3.2"
             },
@@ -698,11 +728,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:66.4584,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:66.3827,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3.2,3.3"
             },
@@ -716,11 +746,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:74.5456,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:74.4463,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3.3,3.4"
             },
@@ -734,11 +764,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:82.6329,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:82.5383,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3.4,3.5"
             },
@@ -752,11 +782,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:90.7202,67.7759,7.7465,31.4753/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e3eb7d7-f293-47a4-b283-d67b18fee0d7/pct:90.6019,67.8617,7.8648,31.4554/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 737,
-                "width": 273
+                "width": 277
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-46-walking-flirting-a-fan-and-turning-around-frames.json#t=3.5,3.6"
             }

@@ -59,6 +59,31 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ascending",
+          "Flirting"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +97,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 78. Ascending an incline and flirting a fan"
         ]
       },
-      "height": 689,
-      "width": 296,
+      "height": 698,
+      "width": 292,
       "duration": 3.6,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json/placeholder",
         "type": "Canvas",
-        "width": 296,
-        "height": 689,
+        "width": 292,
+        "height": 698,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json/placeholder/page/1",
@@ -98,8 +127,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-78-ascending-an-incline-and-flirting-a-fan.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 296,
-                  "height": 689
+                  "width": 292,
+                  "height": 698
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json/placeholder"
               }
@@ -122,11 +151,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.3082,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.3869,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0,0.1"
             },
@@ -140,11 +169,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.4964,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.5678,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.1,0.2"
             },
@@ -158,11 +187,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.6846,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.7487,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.2,0.3"
             },
@@ -176,11 +205,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:25.8729,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:25.9296,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.3,0.4"
             },
@@ -194,11 +223,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:34.0611,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:34.1105,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.4,0.5"
             },
@@ -212,11 +241,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:42.2493,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:42.2914,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.5,0.6"
             },
@@ -230,11 +259,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:50.4375,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:50.4723,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.6,0.7"
             },
@@ -248,11 +277,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:58.6258,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:58.6532,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.7,0.8"
             },
@@ -266,11 +295,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:66.8140,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:66.8341,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.8,0.9"
             },
@@ -284,11 +313,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:75.0022,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:75.0150,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=0.9,1"
             },
@@ -302,11 +331,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:83.1905,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:83.1959,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1,1.1"
             },
@@ -320,11 +349,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:91.3787,1.7724,7.6706,32.5289/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:91.3768,1.6483,7.5598,32.9493/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 689,
-                "width": 296
+                "height": 698,
+                "width": 292
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.1,1.2"
             },
@@ -338,11 +367,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.2477,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.3088,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.2,1.3"
             },
@@ -356,11 +385,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.4369,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.4955,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.3,1.4"
             },
@@ -374,11 +403,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.6262,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.6823,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.4,1.5"
             },
@@ -392,11 +421,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:25.8155,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:25.8690,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.5,1.6"
             },
@@ -410,11 +439,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:34.0048,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:34.0558,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.6,1.7"
             },
@@ -428,11 +457,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:42.1940,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:42.2425,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.7,1.8"
             },
@@ -446,11 +475,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:50.3833,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:50.4292,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.8,1.9"
             },
@@ -464,11 +493,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:58.5726,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:58.6160,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=1.9,2"
             },
@@ -482,11 +511,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:66.7619,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:66.8027,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2,2.1"
             },
@@ -500,11 +529,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:74.9511,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:74.9895,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.1,2.2"
             },
@@ -518,11 +547,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:83.1404,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:83.1762,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.2,2.3"
             },
@@ -536,11 +565,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:91.3297,36.9036,7.6717,28.8784/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:91.3629,36.8417,7.4621,29.0666/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 612,
-                "width": 296
+                "height": 616,
+                "width": 288
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.3,2.4"
             },
@@ -554,11 +583,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.3280,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:1.6995,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.4,2.5"
             },
@@ -572,11 +601,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.2982,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:9.8452,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.5,2.6"
             },
@@ -590,11 +619,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.2684,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:17.9909,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.6,2.7"
             },
@@ -608,11 +637,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:25.2386,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:26.1365,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.7,2.8"
             },
@@ -626,11 +655,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:33.2088,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:34.2822,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.8,2.9"
             },
@@ -644,11 +673,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:41.1790,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:42.4279,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=2.9,3"
             },
@@ -662,11 +691,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:49.1492,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:50.5736,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3,3.1"
             },
@@ -680,11 +709,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:57.1194,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:58.7193,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3.1,3.2"
             },
@@ -698,11 +727,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:65.0896,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:66.8649,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3.2,3.3"
             },
@@ -716,11 +745,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:73.0598,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:75.0106,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3.3,3.4"
             },
@@ -734,11 +763,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:81.0300,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:83.1563,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3.4,3.5"
             },
@@ -752,11 +781,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:89.0002,68.1313,7.4526,30.8320/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/94e19f81-1917-4790-ae5d-ba9891457a0c/pct:91.3020,68.2592,7.1105,30.6695/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 653,
-                "width": 288
+                "height": 650,
+                "width": 275
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-78-ascending-an-incline-and-flirting-a-fan-frames.json#t=3.5,3.6"
             }

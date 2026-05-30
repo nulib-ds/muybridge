@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ascending"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 79. Ascending an incline"
         ]
       },
-      "height": 651,
+      "height": 654,
       "width": 280,
       "duration": 2.4,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json/placeholder",
         "type": "Canvas",
         "width": 280,
-        "height": 651,
+        "height": 654,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json/placeholder/page/1",
@@ -99,7 +127,7 @@
                   "type": "Image",
                   "format": "image/gif",
                   "width": 280,
-                  "height": 651
+                  "height": 654
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json/placeholder"
               }
@@ -122,10 +150,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.0703,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.0552,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0,0.1"
@@ -140,10 +168,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:9.1231,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:9.3055,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.1,0.2"
@@ -158,10 +186,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.1759,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.5558,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.2,0.3"
@@ -176,10 +204,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:25.2286,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:25.8062,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.3,0.4"
@@ -194,10 +222,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:33.2814,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:34.0565,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.4,0.5"
@@ -212,10 +240,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:41.3342,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:42.3068,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.5,0.6"
@@ -230,10 +258,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:49.3869,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:50.5572,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.6,0.7"
@@ -248,10 +276,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:57.4397,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:58.8075,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.7,0.8"
@@ -266,10 +294,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:65.4925,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:67.0579,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.8,0.9"
@@ -284,10 +312,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:73.5453,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:75.3082,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=0.9,1"
@@ -302,10 +330,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:81.5980,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:83.5585,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1,1.1"
@@ -320,10 +348,10 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:89.6508,1.8625,7.3931,29.2224/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:91.8089,1.7697,7.3796,29.3394/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 651,
+                "height": 654,
                 "width": 280
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.1,1.2"
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.2289,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.1420,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.3419,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.6248,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:33.4549,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:34.1076,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:49.5679,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:50.5905,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:65.6809,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:67.0733,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:81.7939,35.2607,15.3214,29.7247/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:83.5561,35.2793,15.4538,29.6347/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 663,
-                "width": 581
+                "height": 661,
+                "width": 586
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.2289,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:1.2939,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.5996,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:17.7099,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:33.9702,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:34.1259,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:50.3409,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:50.5420,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:66.7116,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:66.9580,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:83.0822,69.0633,15.5791,29.3203/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8e841727-81df-47d6-b7ac-d811aed7bdbb/pct:83.3740,69.0474,15.5189,29.1918/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 654,
-                "width": 590
+                "height": 651,
+                "width": 588
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-79-ascending-an-incline-frames.json#t=2.3,2.4"
             }

@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Descending"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 122. Descending an incline with a bucket of water in each hand"
         ]
       },
-      "height": 743,
-      "width": 268,
+      "height": 737,
+      "width": 256,
       "duration": 3.6,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json/placeholder",
         "type": "Canvas",
-        "width": 268,
-        "height": 743,
+        "width": 256,
+        "height": 737,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json/placeholder/page/1",
@@ -98,8 +126,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 268,
-                  "height": 743
+                  "width": 256,
+                  "height": 737
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json/placeholder"
               }
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:1.1523,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:1.4055,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:9.7312,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:9.5599,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:18.3101,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:17.7143,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:26.8890,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:25.8687,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:35.4679,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:34.0231,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:44.0468,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:42.1774,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:52.6257,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:50.3318,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:61.2046,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:58.4862,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:69.7835,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:66.6406,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:78.3624,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:74.7950,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:86.9413,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:82.9494,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:95.5202,0.2166,8.3300,30.9386/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:91.1038,0.4400,7.9677,30.7061/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 743,
-                "width": 268
+                "height": 737,
+                "width": 256
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:1.0175,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:1.1178,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:9.4886,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:9.3164,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:17.9597,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:17.5151,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:26.4307,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:25.7137,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:34.9018,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:33.9124,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:43.3729,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:42.1110,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:51.8439,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:50.3097,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:60.3150,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:58.5083,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:68.7860,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:66.7070,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:77.2571,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:74.9056,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:85.7282,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:83.1043,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:94.1992,34.3321,8.2222,30.6137/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:91.3029,34.3768,8.0120,30.3504/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 735,
-                "width": 264
+                "height": 728,
+                "width": 258
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.3,2.4"
             },
@@ -554,11 +582,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:0.7719,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:0.6973,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.4,2.5"
             },
@@ -572,11 +600,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:8.9861,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:8.9318,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.5,2.6"
             },
@@ -590,11 +618,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:17.2002,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:17.1664,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.6,2.7"
             },
@@ -608,11 +636,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:25.4143,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:25.4010,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.7,2.8"
             },
@@ -626,11 +654,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:33.6285,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:33.6356,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.8,2.9"
             },
@@ -644,11 +672,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:41.8426,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:41.8701,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.9,3"
             },
@@ -662,11 +690,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:50.0568,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:50.1047,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3,3.1"
             },
@@ -680,11 +708,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:58.2709,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:58.3393,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3.1,3.2"
             },
@@ -698,11 +726,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:66.4850,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:66.5739,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3.2,3.3"
             },
@@ -716,11 +744,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:74.6992,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:74.8084,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3.3,3.4"
             },
@@ -734,11 +762,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:82.9133,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:83.0430,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3.4,3.5"
             },
@@ -752,11 +780,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:91.1275,68.0345,8.0275,30.4252/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/81daaaa1-0c9b-46a8-8d38-532c388670e5/pct:91.2776,67.9875,7.9234,30.4097/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 730,
-                "width": 258
+                "width": 255
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-122-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=3.5,3.6"
             }

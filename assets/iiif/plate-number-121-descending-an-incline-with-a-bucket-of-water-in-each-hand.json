@@ -72,6 +72,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 121. Descending an incline with a bucket of water in each hand"
@@ -122,7 +126,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.9936,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.9841,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -140,11 +144,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:10.0608,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:10.0529,1.9761,7.4773,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
-                "width": 297
+                "width": 283
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.1,0.2"
             },
@@ -158,11 +162,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.1281,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.1217,1.9761,7.5750,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
-                "width": 297
+                "width": 286
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.2,0.3"
             },
@@ -176,11 +180,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1953,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1905,1.9761,7.4860,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
-                "width": 297
+                "width": 283
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.3,0.4"
             },
@@ -194,7 +198,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2625,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2593,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -212,7 +216,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3298,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3280,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -230,7 +234,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.3970,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.3968,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -248,7 +252,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.4642,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.4656,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -266,7 +270,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.5315,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.5344,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -284,11 +288,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:74.5987,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:75.0156,1.9761,7.4448,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
-                "width": 297
+                "width": 281
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=0.9,1"
             },
@@ -302,11 +306,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:82.6659,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:83.1017,1.9761,7.4274,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
-                "width": 297
+                "width": 281
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=1,1.1"
             },
@@ -320,7 +324,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.7332,1.9856,7.8556,30.8303/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.7407,1.9761,7.8571,30.8364/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 671,
@@ -338,7 +342,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.9190,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.9312,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -356,7 +360,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:10.0086,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:10.0000,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -374,7 +378,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.0981,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.0952,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -392,7 +396,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1876,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1905,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -410,7 +414,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2771,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2857,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -428,7 +432,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3667,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3545,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -446,7 +450,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.4562,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.4497,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -464,7 +468,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.5457,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.5450,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -482,7 +486,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.6353,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.6402,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -500,7 +504,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:74.7248,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:74.7354,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -518,11 +522,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:82.8143,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:83.0191,35.6618,7.4571,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
-                "width": 290
+                "width": 282
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-121-descending-an-incline-with-a-bucket-of-water-in-each-hand-frames.json#t=2.2,2.3"
             },
@@ -536,7 +540,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.9038,35.6540,7.6662,30.2447/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.8995,35.6618,7.6720,30.2390/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 658,
@@ -554,7 +558,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.8267,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:1.8254,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -572,7 +576,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:9.9301,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:9.9206,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -590,7 +594,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.0335,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:18.0423,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -608,7 +612,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1370,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:26.1376,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -626,7 +630,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2404,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:34.2328,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -644,7 +648,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3439,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:42.3545,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -662,7 +666,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.4473,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:50.4497,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -680,7 +684,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.5507,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:58.5450,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -698,7 +702,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.6542,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:66.6667,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -716,7 +720,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:74.7576,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:74.7619,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -734,7 +738,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:82.8611,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:82.8571,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,
@@ -752,7 +756,7 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.9645,69.1879,7.3892,29.1617/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/69c4bd67-0e65-4c76-902b-e6b525b29189/pct:90.9524,69.2096,7.3810,29.1820/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 635,

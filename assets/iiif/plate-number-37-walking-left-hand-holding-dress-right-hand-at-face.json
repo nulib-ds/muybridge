@@ -59,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Walking"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -72,19 +96,23 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 37. Walking; left hand holding dress, right hand at face"
         ]
       },
-      "height": 719,
-      "width": 299,
+      "height": 708,
+      "width": 303,
       "duration": 3.6,
       "placeholderCanvas": {
         "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json/placeholder",
         "type": "Canvas",
-        "width": 299,
-        "height": 719,
+        "width": 303,
+        "height": 708,
         "items": [
           {
             "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json/placeholder/page/1",
@@ -98,8 +126,8 @@
                   "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face.gif",
                   "type": "Image",
                   "format": "image/gif",
-                  "width": 299,
-                  "height": 719
+                  "width": 303,
+                  "height": 708
                 },
                 "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json/placeholder"
               }
@@ -122,11 +150,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.0638,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.0730,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0,0.1"
             },
@@ -140,11 +168,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.0342,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.2216,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.1,0.2"
             },
@@ -158,11 +186,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.0046,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.3702,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.2,0.3"
             },
@@ -176,11 +204,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:24.9749,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:25.5188,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.3,0.4"
             },
@@ -194,11 +222,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:32.9453,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:33.6674,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.4,0.5"
             },
@@ -212,11 +240,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:40.9157,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:41.8160,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.5,0.6"
             },
@@ -230,11 +258,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:48.8860,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:49.9646,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.6,0.7"
             },
@@ -248,11 +276,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:56.8564,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:58.1132,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.7,0.8"
             },
@@ -266,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:64.8268,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:66.2618,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.8,0.9"
             },
@@ -284,11 +312,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:72.7971,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:74.4104,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=0.9,1"
             },
@@ -302,11 +330,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:80.7675,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:82.5590,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1,1.1"
             },
@@ -320,11 +348,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:88.7378,2.5571,7.7128,31.4672/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:90.7076,2.6113,7.8137,30.9745/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 719,
-                "width": 299
+                "height": 708,
+                "width": 303
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.1,1.2"
             },
@@ -338,11 +366,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.1968,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.1209,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.2,1.3"
             },
@@ -356,11 +384,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.1862,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.2588,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.3,1.4"
             },
@@ -374,11 +402,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.1755,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.3966,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.4,1.5"
             },
@@ -392,11 +420,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:25.1649,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:25.5345,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.5,1.6"
             },
@@ -410,11 +438,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:33.1543,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:33.6724,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.6,1.7"
             },
@@ -428,11 +456,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:41.1436,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:41.8102,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.7,1.8"
             },
@@ -446,11 +474,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:49.1330,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:49.9481,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.8,1.9"
             },
@@ -464,11 +492,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:57.1223,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:58.0860,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=1.9,2"
             },
@@ -482,11 +510,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:65.1117,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:66.2238,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2,2.1"
             },
@@ -500,11 +528,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:73.1011,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:74.3617,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.1,2.2"
             },
@@ -518,11 +546,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:81.0904,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:82.4995,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.2,2.3"
             },
@@ -536,11 +564,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:89.0798,36.5094,7.7318,30.2408/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:90.6374,36.5281,8.0091,29.9420/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 691,
-                "width": 300
+                "height": 684,
+                "width": 311
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.3,2.4"
             },
@@ -554,11 +582,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.6337,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:1.2088,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.4,2.5"
             },
@@ -572,11 +600,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.3571,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:9.3385,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.5,2.6"
             },
@@ -590,11 +618,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.0805,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:17.4683,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.6,2.7"
             },
@@ -608,11 +636,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:24.8040,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:25.5981,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.7,2.8"
             },
@@ -626,11 +654,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:32.5274,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:33.7278,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.8,2.9"
             },
@@ -644,11 +672,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:40.2508,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:41.8576,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=2.9,3"
             },
@@ -662,11 +690,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:47.9742,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:49.9873,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3,3.1"
             },
@@ -680,11 +708,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:55.6976,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:58.1171,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3.1,3.2"
             },
@@ -698,11 +726,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:63.4210,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:66.2468,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3.2,3.3"
             },
@@ -716,11 +744,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:71.1444,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:74.3766,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3.3,3.4"
             },
@@ -734,11 +762,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:78.8678,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:82.5063,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3.4,3.5"
             },
@@ -752,11 +780,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:86.5912,68.8480,7.4658,29.9503/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/411304bd-57af-4797-947a-b31e765d4174/pct:90.6361,68.6183,8.0525,30.4582/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 684,
-                "width": 290
+                "height": 696,
+                "width": 313
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-37-walking-left-hand-holding-dress-right-hand-at-face-frames.json#t=3.5,3.6"
             }
