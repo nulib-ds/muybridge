@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 417. Toilet, sitting and putting on stockings"
+    ]
+  },
+  "height": 1829,
+  "width": 4657,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 314,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/7a605db9-2892-4525-b77b-0a0e598396a3/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 314
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/7a605db9-2892-4525-b77b-0a0e598396a3/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1829,
+            "width": 4657,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/7a605db9-2892-4525-b77b-0a0e598396a3",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-417-toilet-sitting-and-putting-on-stockings-original.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 405. Carrying a hod of bricks up a ladder"
+    ]
+  },
+  "height": 2928,
+  "width": 2809,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 834,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/70d98541-953e-472c-bf5f-1647525cf16e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 834
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/70d98541-953e-472c-bf5f-1647525cf16e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2928,
+            "width": 2809,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/70d98541-953e-472c-bf5f-1647525cf16e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-405-carrying-a-hod-of-bricks-up-a-ladder-original.json"
+        }
+      ]
+    }
+  ]
+}

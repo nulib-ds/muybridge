@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-399-emptying-a-bucket-of-water.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 399. Emptying a bucket of water"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "399"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-399-emptying-a-bucket-of-water.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 399. Emptying a bucket of water"
+        ]
+      },
+      "height": 625,
+      "width": 272,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 272,
+        "height": 625,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-399-emptying-a-bucket-of-water.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 272,
+                  "height": 625
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:0.6712,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:6.8538,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:13.0365,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:19.2191,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:25.4017,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:31.5844,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:37.7670,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:43.9497,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:50.1323,2.8196,5.5691,42.4429/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:56.0566,2.7272,9.3397,43.0212/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:66.1158,2.6387,15.1088,43.0212/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 633,
+                "width": 739
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:81.6776,2.6830,17.5070,43.4196/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 639,
+                "width": 856
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:0.7782,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:6.9762,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:13.1742,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:19.3722,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:25.5702,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:31.7682,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:37.9662,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:44.1643,53.9695,5.7481,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 281
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:50.3623,53.9695,5.3751,44.1862/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 263
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:56.0154,54.0674,9.8727,44.1278/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 483
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:66.1751,54.2032,15.0688,43.8622/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 646,
+                "width": 737
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/pct:81.5877,53.9990,17.7368,44.1455/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 650,
+                "width": 867
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 399. Emptying a bucket of water"
+        ]
+      },
+      "height": 1472,
+      "width": 4890,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 241,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 241
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1472,
+                "width": 4890,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/4b435963-c9b6-4e30-9653-0b2b1779c765",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-399-emptying-a-bucket-of-water-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
