@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 374. Blacksmiths, hammering on anvil"
+    ]
+  },
+  "height": 2410,
+  "width": 3467,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 556,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/72a9af97-f5af-4cfb-9065-b59f609d3e40/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 556
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/72a9af97-f5af-4cfb-9065-b59f609d3e40/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2410,
+            "width": 3467,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/72a9af97-f5af-4cfb-9065-b59f609d3e40",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-374-blacksmiths-hammering-on-anvil-original.json"
+        }
+      ]
+    }
+  ]
+}

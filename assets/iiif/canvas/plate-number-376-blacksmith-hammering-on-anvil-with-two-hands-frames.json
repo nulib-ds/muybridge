@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 376. Blacksmith, hammering on anvil with two hands"
+    ]
+  },
+  "height": 677,
+  "width": 380,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 380,
+    "height": 677,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 380,
+              "height": 677
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:0.4688,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:8.7233,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:16.9778,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:25.2323,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:33.4868,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:41.7413,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:49.9958,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:58.2503,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:66.5048,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:74.7593,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:83.0138,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:91.2683,1.3637,8.1263,47.3955/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 677,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:0.5496,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:8.7951,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:17.0405,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:25.2860,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:33.5315,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:41.7770,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:50.0225,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:58.2680,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:66.5135,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:74.7590,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:83.0044,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0c64557d-95c1-42de-82e7-6c61c7b8bacf/pct:91.2499,51.9785,8.0959,47.6158/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 680,
+            "width": 379
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-376-blacksmith-hammering-on-anvil-with-two-hands-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

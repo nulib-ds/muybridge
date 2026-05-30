@@ -1,0 +1,406 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-340-boxing-open-hand.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 340. Boxing, open hand"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "340"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-340-boxing-open-hand.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 340. Boxing, open hand"
+        ]
+      },
+      "height": 777,
+      "width": 847,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 847,
+        "height": 777,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-340-boxing-open-hand.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 847,
+                  "height": 777
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:0.8927,2.4361,24.2008,30.7534/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 847
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:25.5507,2.4361,24.2008,30.7534/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 847
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:50.2086,2.4361,24.2008,30.7534/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 847
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:74.8666,2.4361,24.2008,30.7534/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 777,
+                "width": 847
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:0.9795,35.0233,24.0489,31.3547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 842
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:25.5141,35.0233,24.0489,31.3547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 842
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:50.0487,35.0233,24.0489,31.3547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 842
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:74.5833,35.0233,24.0489,31.3547/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 842
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:0.9361,67.9713,24.0923,31.1443/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 843
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:25.5141,67.9713,24.0923,31.1443/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 843
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:50.0921,67.9713,24.0923,31.1443/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 843
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/pct:74.6702,67.9713,24.0923,31.1443/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 787,
+                "width": 843
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 340. Boxing, open hand"
+        ]
+      },
+      "height": 2527,
+      "width": 3500,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 578,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 578
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2527,
+                "width": 3500,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/0a13abd5-388b-42ee-883a-7f4c4542b87f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-340-boxing-open-hand-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

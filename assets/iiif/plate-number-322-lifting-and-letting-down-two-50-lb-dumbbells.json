@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 322. Lifting and letting down two 50-lb. dumbbells"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "322"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 322. Lifting and letting down two 50-lb. dumbbells"
+        ]
+      },
+      "height": 840,
+      "width": 348,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 348,
+        "height": 840,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 348,
+                  "height": 840
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:0.9342,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:9.0978,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:17.2613,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:25.4249,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:33.5884,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:41.7520,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:49.9155,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:58.0790,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:66.2426,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:74.4061,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:82.5697,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:90.7332,2.0089,7.5159,46.7831/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:0.8968,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:9.0987,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:17.3006,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:25.5024,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:33.7043,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:41.9061,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:50.1080,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:58.3099,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:66.5117,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:74.7136,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:82.9154,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/pct:91.1173,51.8294,7.7269,45.9580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 322. Lifting and letting down two 50-lb. dumbbells"
+        ]
+      },
+      "height": 1796,
+      "width": 4632,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 310,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 310
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1796,
+                "width": 4632,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/56843dcc-da8d-4c7b-bb9a-202bb19cfe68",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-322-lifting-and-letting-down-two-50-lb-dumbbells-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

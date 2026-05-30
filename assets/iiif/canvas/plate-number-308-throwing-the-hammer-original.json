@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 308. Throwing the hammer"
+    ]
+  },
+  "height": 1859,
+  "width": 4305,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 345,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/31d83e56-c737-4b67-8a96-bc6696fc3287/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 345
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/31d83e56-c737-4b67-8a96-bc6696fc3287/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1859,
+            "width": 4305,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/31d83e56-c737-4b67-8a96-bc6696fc3287",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-308-throwing-the-hammer-original.json"
+        }
+      ]
+    }
+  ]
+}

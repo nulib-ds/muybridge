@@ -1,0 +1,412 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 314. Heaving a 20-lb. rock"
+    ]
+  },
+  "height": 738,
+  "width": 585,
+  "duration": 2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 585,
+    "height": 738,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-314-heaving-a-20-lb-rock.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 585,
+              "height": 738
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:2.0003,1.8088,17.3686,29.7873/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 585
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:20.6789,1.9866,18.4814,29.7873/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 622
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:40.6447,1.5420,18.2632,29.7873/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 615
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:60.5015,1.5420,18.4596,29.7873/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 621
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:79.9437,1.5420,18.6560,29.7873/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 628
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:2.0004,35.4788,17.9796,30.2912/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 751,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:21.5842,35.4788,17.9796,30.2912/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 751,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:41.1681,35.4788,17.9796,30.2912/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 751,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:60.7519,35.4788,17.9796,30.2912/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 751,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:80.3358,35.4788,17.9796,30.2912/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 751,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:1.6731,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:11.5118,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:21.3506,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:31.1893,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:41.0281,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:50.8669,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:60.7056,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:70.5444,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:80.3832,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/b4f52938-31f2-4624-9d08-dd64c7882212/pct:90.2219,70.3937,8.5316,27.8311/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 287
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-314-heaving-a-20-lb-rock-frames.json#t=1.9,2"
+        }
+      ]
+    }
+  ]
+}

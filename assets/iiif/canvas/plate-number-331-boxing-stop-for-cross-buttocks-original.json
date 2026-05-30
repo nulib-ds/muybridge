@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 331. Boxing, stop for cross-buttocks"
+    ]
+  },
+  "height": 2124,
+  "width": 3933,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 432,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/c12c0a3f-e815-432d-a395-ba3c32e8c994/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 432
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/c12c0a3f-e815-432d-a395-ba3c32e8c994/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2124,
+            "width": 3933,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/c12c0a3f-e815-432d-a395-ba3c32e8c994",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-331-boxing-stop-for-cross-buttocks-original.json"
+        }
+      ]
+    }
+  ]
+}

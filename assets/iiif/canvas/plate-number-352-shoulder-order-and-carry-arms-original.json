@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 352. \"Shoulder,\" \"order\" and \"carry arms\""
+    ]
+  },
+  "height": 2580,
+  "width": 3172,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 651,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/5389f70e-5d4f-4e21-8cd8-13d020074e82/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 651
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/5389f70e-5d4f-4e21-8cd8-13d020074e82/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2580,
+            "width": 3172,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/5389f70e-5d4f-4e21-8cd8-13d020074e82",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-352-shoulder-order-and-carry-arms-original.json"
+        }
+      ]
+    }
+  ]
+}

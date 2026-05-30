@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 321.  A: Lifting a 50-lb. dumbbell. B: Posing"
+    ]
+  },
+  "height": 886,
+  "width": 420,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 420,
+    "height": 886,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 420,
+              "height": 886
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:0.8009,1.5889,9.4546,46.6563/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 420
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:10.7060,1.5889,9.4546,46.6563/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 420
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:20.6087,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:28.5017,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:36.3947,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:44.2877,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:52.1808,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:60.0738,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:67.9668,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:75.8598,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:83.7528,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:91.6459,1.6346,7.4426,46.7020/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 886,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:0.8986,51.6268,9.2788,45.9709/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 873,
+            "width": 412
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:10.6462,51.3069,9.4937,46.1993/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 877,
+            "width": 422
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:20.6868,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:28.5828,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:36.4788,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:44.3748,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:52.2709,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:60.1669,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:68.0629,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:75.9589,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:83.8549,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2a8efcf8-6fa4-4573-ae4e-065e8fb7b148/pct:91.7509,51.9010,7.4230,45.6510/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 866,
+            "width": 330
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-321-a-lifting-a-50-lb-dumbbell-b-posing-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

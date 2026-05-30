@@ -1,0 +1,376 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 350. Fencing"
+    ]
+  },
+  "height": 704,
+  "width": 596,
+  "duration": 3.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 596,
+    "height": 704,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-350-fencing.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 596,
+              "height": 704
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:1.1494,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0,0.178"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:17.5002,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0.178,0.356"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:33.8510,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0.356,0.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:50.2018,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0.533,0.711"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:66.5526,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0.711,0.889"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:82.9034,1.3454,15.6926,30.3053/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 704,
+            "width": 596
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=0.889,1.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:1.1060,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.067,1.244"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:17.4646,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.244,1.422"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:33.8232,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.422,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:50.1819,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.6,1.778"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:66.5405,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.778,1.956"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:82.8991,35.2348,15.7794,29.8795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 694,
+            "width": 599
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=1.956,2.133"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:1.0843,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=2.133,2.311"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:17.4660,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=2.311,2.489"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:33.8478,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=2.489,2.667"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:50.2295,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=2.667,2.844"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:66.6113,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=2.844,3.022"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/2f66872b-382a-4a11-97a7-59c6d617a41d/pct:82.9930,68.5565,15.6709,30.3408/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 705,
+            "width": 595
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-350-fencing-frames.json#t=3.022,3.2"
+        }
+      ]
+    }
+  ]
+}

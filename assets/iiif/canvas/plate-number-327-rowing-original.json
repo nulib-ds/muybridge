@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 327. Rowing"
+    ]
+  },
+  "height": 2028,
+  "width": 3763,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 431,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/ee77723c-ecc4-4127-9726-5b8041b839d0/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 431
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/ee77723c-ecc4-4127-9726-5b8041b839d0/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2028,
+            "width": 3763,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/ee77723c-ecc4-4127-9726-5b8041b839d0",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-327-rowing-original.json"
+        }
+      ]
+    }
+  ]
+}

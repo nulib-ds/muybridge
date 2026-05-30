@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-312-heaving-a-75-lb-rock.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 312. Heaving a 75-lb. rock"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "312"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-312-heaving-a-75-lb-rock.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 312. Heaving a 75-lb. rock"
+        ]
+      },
+      "height": 610,
+      "width": 516,
+      "duration": 4.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 516,
+        "height": 610,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-312-heaving-a-75-lb-rock.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 516,
+                  "height": 610
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:83.0262,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0,0.183"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:66.4432,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0.183,0.367"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:49.8603,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0.367,0.55"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:33.2773,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0.55,0.733"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:16.6943,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0.733,0.917"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:0.1113,0.8477,16.1757,23.6817/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=0.917,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:83.3851,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=1.1,1.283"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:66.7316,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=1.283,1.467"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:50.0781,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=1.467,1.65"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:33.4246,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=1.65,1.833"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:16.7711,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=1.833,2.017"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:0.1176,26.5448,15.7450,23.0889/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 595,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.017,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:83.4569,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.2,2.383"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:66.8108,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.383,2.567"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:50.1647,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.567,2.75"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:33.5186,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.75,2.933"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:16.8725,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=2.933,3.117"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:0.2263,51.7380,15.7689,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 503
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=3.117,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:83.7441,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=3.3,3.483"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:67.0940,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=3.483,3.667"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:50.4439,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=3.667,3.85"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:33.7939,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=3.85,4.033"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:17.1438,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=4.033,4.217"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/pct:0.4938,76.3385,15.5536,23.2371/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 496
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-frames.json#t=4.217,4.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 312. Heaving a 75-lb. rock"
+        ]
+      },
+      "height": 2577,
+      "width": 3192,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 646,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 646
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2577,
+                "width": 3192,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2dd20a13-ab3c-4c8a-9c98-75c3a6568c37",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-312-heaving-a-75-lb-rock-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

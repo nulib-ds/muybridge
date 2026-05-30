@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-346-wrestling-lock.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 346. Wrestling, lock"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "346"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-346-wrestling-lock.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 346. Wrestling, lock"
+        ]
+      },
+      "height": 572,
+      "width": 511,
+      "duration": 3.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 511,
+        "height": 572,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-346-wrestling-lock.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 511,
+                  "height": 572
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:1.6346,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0,0.133"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:17.9598,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.133,0.267"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:34.2849,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.267,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:50.6100,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.4,0.533"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:66.9352,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.533,0.667"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:83.2603,2.5276,15.5639,22.2590/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 511
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.667,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:1.5418,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.8,0.933"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:17.9017,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=0.933,1.067"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:34.2616,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.067,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:50.6215,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.2,1.333"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:66.9813,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.333,1.467"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:83.3412,26.6835,15.8422,22.9407/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 590,
+                "width": 520
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.467,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:1.7506,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.6,1.733"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:18.0336,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.733,1.867"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:34.3167,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=1.867,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:50.5997,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2,2.133"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:66.8827,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.133,2.267"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:83.1658,51.3432,15.7958,23.0000/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.267,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:1.8202,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.4,2.533"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:18.0728,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.533,2.667"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:34.3254,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.667,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:50.5779,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.8,2.933"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:66.8305,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=2.933,3.067"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/pct:83.0831,76.3883,15.7958,22.7036/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 583,
+                "width": 519
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-frames.json#t=3.067,3.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 346. Wrestling, lock"
+        ]
+      },
+      "height": 2570,
+      "width": 3284,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 626,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 626
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2570,
+                "width": 3284,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/5c775208-a2e8-46c6-8f0e-790b3ee6fb65",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-346-wrestling-lock-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

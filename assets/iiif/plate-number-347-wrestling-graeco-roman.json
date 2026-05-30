@@ -1,0 +1,406 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-347-wrestling-graeco-roman.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 347. Wrestling, Graeco-Roman"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "347"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-347-wrestling-graeco-roman.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 347. Wrestling, Graeco-Roman"
+        ]
+      },
+      "height": 844,
+      "width": 747,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 747,
+        "height": 844,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-347-wrestling-graeco-roman.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 747,
+                  "height": 844
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:0.6642,0.3432,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:16.8988,0.4987,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:33.7586,0.3432,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:50.0714,0.6541,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:66.8335,1.1204,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:83.5370,1.5351,15.6860,47.0454/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 844,
+                "width": 747
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:0.7228,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:17.2647,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:33.8067,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:50.3486,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:66.8905,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/pct:83.4325,51.4818,15.1977,46.7864/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 724
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 347. Wrestling, Graeco-Roman"
+        ]
+      },
+      "height": 1795,
+      "width": 4761,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 302,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 302
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1795,
+                "width": 4761,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/7c78daaf-5eda-45d0-bf05-9800cd35713c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-347-wrestling-graeco-roman-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

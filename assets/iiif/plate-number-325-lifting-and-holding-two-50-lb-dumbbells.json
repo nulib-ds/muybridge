@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-325-lifting-and-holding-two-50-lb-dumbbells.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 325. Lifting and holding two 50-lb. dumbbells"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "325"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-325-lifting-and-holding-two-50-lb-dumbbells.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 325. Lifting and holding two 50-lb. dumbbells"
+        ]
+      },
+      "height": 792,
+      "width": 335,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 335,
+        "height": 792,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-325-lifting-and-holding-two-50-lb-dumbbells.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 335,
+                  "height": 792
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:0.4000,1.7815,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:7.8737,2.0784,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:15.2211,2.3753,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:22.5684,2.1971,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:30.2316,2.1378,8.7579,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 416
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:39.4105,2.3159,10.6526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 506
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:50.4421,2.3159,10.4211,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 495
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:61.4105,2.3753,8.5895,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 408
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:70.3789,2.4941,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:77.8526,2.6128,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:85.3684,2.7910,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:92.6737,2.6128,7.0526,47.0309/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:0.4000,52.3753,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:7.7895,52.4347,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:15.3053,52.6128,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:22.7579,52.9097,7.1158,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:30.4000,53.0879,8.5684,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 407
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:39.4526,53.0285,10.4214,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 495
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:50.4000,53.2660,10.5777,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 502
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:61.3273,53.5820,8.6438,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:70.4030,53.7528,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:77.7191,53.5875,7.1592,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:85.3306,53.4773,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/pct:92.7044,53.1467,6.9053,45.2494/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 762,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 325. Lifting and holding two 50-lb. dumbbells"
+        ]
+      },
+      "height": 1684,
+      "width": 4750,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 284,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 284
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1684,
+                "width": 4750,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/1b6e0e7b-f3a7-46b4-95f7-ce29e5f8c17e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-325-lifting-and-holding-two-50-lb-dumbbells-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

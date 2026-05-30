@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-361-throwing-a-spear.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 361. Throwing a spear"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "361"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-361-throwing-a-spear.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 361. Throwing a spear"
+        ]
+      },
+      "height": 542,
+      "width": 546,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 546,
+        "height": 542,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-361-throwing-a-spear.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 546,
+                  "height": 542
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:0.6841,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:17.1655,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:33.6469,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:50.1282,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:66.6096,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:83.0910,1.2494,16.1267,22.2361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 546
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:0.8361,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:17.2620,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:33.6880,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:50.1140,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:66.5399,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:82.9659,26.1670,15.9530,22.1457/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 540
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:0.7492,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:17.1771,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:33.6049,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:50.0327,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:66.4605,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:82.8884,50.5122,15.8662,22.8387/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 537
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:0.8578,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:17.2422,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:33.6266,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:50.0110,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:66.3954,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/pct:82.7798,75.4600,15.8228,23.0195/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 535
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 361. Throwing a spear"
+        ]
+      },
+      "height": 2437,
+      "width": 3383,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 576,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 576
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2437,
+                "width": 3383,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/c8e81a82-2d90-4c0f-b35d-b59bed0a10f6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-361-throwing-a-spear-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

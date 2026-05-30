@@ -1,0 +1,340 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 373. Acrobat, \"press up\" from chair"
+    ]
+  },
+  "height": 934,
+  "width": 465,
+  "duration": 1.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 465,
+    "height": 934,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-373-acrobat-press-up-from-chair.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 465,
+              "height": 934
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:0.9572,2.3993,11.3299,49.1896/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 934,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:12.7364,2.4838,10.0211,48.2177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 915,
+            "width": 411
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:23.2263,2.2725,12.0527,47.9219/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 910,
+            "width": 495
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:35.6892,2.2725,14.5335,48.3867/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 918,
+            "width": 597
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:50.6134,2.4416,14.6312,48.0486/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 912,
+            "width": 601
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:65.6548,2.6106,12.1113,47.9641/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 910,
+            "width": 497
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:78.3130,2.3993,9.9430,47.9641/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 910,
+            "width": 408
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:88.5685,2.7796,10.9001,47.4570/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 901,
+            "width": 448
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:1.1525,53.9977,11.2322,44.5834/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 846,
+            "width": 461
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:12.5410,53.6174,10.3141,44.6257/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 847,
+            "width": 423
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:23.1286,53.6596,12.1503,44.6256/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 847,
+            "width": 499
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:35.5329,53.5329,14.7289,44.6257/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 847,
+            "width": 605
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:50.7111,53.3638,14.6312,44.8369/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 601
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:65.4790,53.6596,12.2871,44.6256/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 847,
+            "width": 505
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:78.0591,53.1103,9.9430,45.0060/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 854,
+            "width": 408
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/0741f212-8cb4-4679-8053-a48991c968b5/pct:88.3146,53.0258,11.1346,45.0482/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 855,
+            "width": 457
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-373-acrobat-press-up-from-chair-frames.json#t=1.5,1.6"
+        }
+      ]
+    }
+  ]
+}

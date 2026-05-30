@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 364. Handspring over a man's back"
+    ]
+  },
+  "height": 2486,
+  "width": 3286,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 605,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/172217e7-e86a-420b-b14b-14bd740a800f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 605
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/172217e7-e86a-420b-b14b-14bd740a800f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2486,
+            "width": 3286,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/172217e7-e86a-420b-b14b-14bd740a800f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-364-handspring-over-a-man-s-back-original.json"
+        }
+      ]
+    }
+  ]
+}

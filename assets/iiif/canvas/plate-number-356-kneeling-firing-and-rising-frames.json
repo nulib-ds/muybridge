@@ -1,0 +1,412 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 356. Kneeling, firing and rising"
+    ]
+  },
+  "height": 777,
+  "width": 392,
+  "duration": 1.5,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 392,
+    "height": 777,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-356-kneeling-firing-and-rising.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 392,
+              "height": 777
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:0.3004,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0,0.075"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:12.7065,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.075,0.15"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:25.1126,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.15,0.225"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:37.5188,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.225,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:49.8949,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.3,0.375"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:62.3010,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.375,0.45"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:74.7071,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.45,0.525"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:87.1132,2.0161,11.7753,31.3306/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.525,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:0.3004,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.6,0.675"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:14.8462,35.4163,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.675,0.75"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:29.0177,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.75,0.825"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:43.0760,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.825,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:56.9240,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.9,0.975"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:71.0724,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=0.975,1.05"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:85.2208,35.3629,13.9682,30.4839/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 756,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.05,1.125"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:0.5063,68.1285,15.8977,29.5294/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 529
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.125,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:16.9748,68.1285,15.8977,29.5294/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 529
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.2,1.275"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:33.4433,68.1285,15.8977,29.5294/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 529
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.275,1.35"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:49.9118,68.1285,15.8977,29.5294/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 529
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.35,1.425"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e4e396af-31d6-468c-9ef7-8514c30aa882/pct:66.3803,68.1285,15.8977,29.5294/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 529
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-356-kneeling-firing-and-rising-frames.json#t=1.425,1.5"
+        }
+      ]
+    }
+  ]
+}

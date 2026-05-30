@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 320. Lifting a 50-lb. dumbbell"
+    ]
+  },
+  "height": 1686,
+  "width": 4765,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 283,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/b6e62b26-3722-4825-bf59-549c3bbe4a44/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 283
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/b6e62b26-3722-4825-bf59-549c3bbe4a44/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1686,
+            "width": 4765,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/b6e62b26-3722-4825-bf59-549c3bbe4a44",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-320-lifting-a-50-lb-dumbbell-original.json"
+        }
+      ]
+    }
+  ]
+}

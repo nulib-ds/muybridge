@@ -1,0 +1,268 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 369. First ballet action"
+    ]
+  },
+  "height": 825,
+  "width": 781,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 781,
+    "height": 825,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-369-first-ballet-action.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 781,
+              "height": 825
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:0.7228,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:17.2139,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:33.7050,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:50.1961,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:66.6872,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:83.1783,2.9796,15.9595,44.4287/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 825,
+            "width": 781
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:0.7820,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:17.2178,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:33.6537,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:50.0895,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:66.5254,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/9207f489-341e-469d-a259-0a06e55a77f4/pct:82.9613,51.5949,16.1701,45.8228/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 851,
+            "width": 791
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-369-first-ballet-action-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}

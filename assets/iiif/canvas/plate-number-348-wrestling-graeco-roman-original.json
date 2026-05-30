@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 348. Wrestling, Graeco-Roman"
+    ]
+  },
+  "height": 2414,
+  "width": 3322,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 581,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/fe4ef4db-ac63-4f0c-8f89-72d4f28a418f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 581
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/fe4ef4db-ac63-4f0c-8f89-72d4f28a418f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2414,
+            "width": 3322,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/fe4ef4db-ac63-4f0c-8f89-72d4f28a418f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-348-wrestling-graeco-roman-original.json"
+        }
+      ]
+    }
+  ]
+}
