@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 388. Farmer, using a spade"
+    ]
+  },
+  "height": 1882,
+  "width": 4377,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 344,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/59a18c4b-aefa-430e-a324-1db4781818b9/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 344
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/59a18c4b-aefa-430e-a324-1db4781818b9/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1882,
+            "width": 4377,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/59a18c4b-aefa-430e-a324-1db4781818b9",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-388-farmer-using-a-spade-original.json"
+        }
+      ]
+    }
+  ]
+}

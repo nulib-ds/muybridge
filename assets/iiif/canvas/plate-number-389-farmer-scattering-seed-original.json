@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 389. Farmer, scattering seed"
+    ]
+  },
+  "height": 1891,
+  "width": 4702,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 322,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 322
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1891,
+            "width": 4702,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-original.json"
+        }
+      ]
+    }
+  ]
+}

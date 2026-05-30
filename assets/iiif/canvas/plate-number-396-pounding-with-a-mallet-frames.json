@@ -1,0 +1,376 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 396. Pounding with a mallet"
+    ]
+  },
+  "height": 777,
+  "width": 491,
+  "duration": 1.8,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 491,
+    "height": 777,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-396-pounding-with-a-mallet.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 491,
+              "height": 777
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:0.9180,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:11.8914,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:22.8649,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:33.8384,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:44.8118,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:55.7853,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:66.7588,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:77.7322,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:88.7057,2.1488,10.0716,45.5332/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 777,
+            "width": 491
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:0.9045,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:11.8794,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:22.8543,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:33.8293,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:44.8042,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:55.7791,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:66.7540,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:77.7290,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a15c1e00-634e-44ab-8780-0ff6e6fc6eef/pct:88.7039,52.5041,10.1141,44.3594/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 757,
+            "width": 493
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-396-pounding-with-a-mallet-frames.json#t=1.7,1.8"
+        }
+      ]
+    }
+  ]
+}

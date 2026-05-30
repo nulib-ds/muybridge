@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 393.  Pushing a garden roller"
+    ]
+  },
+  "height": 2661,
+  "width": 3052,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 698,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/77782bd0-1942-46a5-9ae0-bd68db5fcd4c/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 698
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/77782bd0-1942-46a5-9ae0-bd68db5fcd4c/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2661,
+            "width": 3052,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/77782bd0-1942-46a5-9ae0-bd68db5fcd4c",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-393-pushing-a-garden-roller-original.json"
+        }
+      ]
+    }
+  ]
+}

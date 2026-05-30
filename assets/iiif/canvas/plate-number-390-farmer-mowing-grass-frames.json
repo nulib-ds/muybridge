@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 390. Farmer, mowing grass"
+    ]
+  },
+  "height": 769,
+  "width": 385,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 385,
+    "height": 769,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-390-farmer-mowing-grass.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 385,
+              "height": 769
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:0.6714,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:8.9593,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:17.2262,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:25.4931,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:33.7600,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:42.0478,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:50.3147,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:58.5816,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:66.8695,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:75.1364,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:83.4033,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:91.6702,0.3681,8.0781,47.1779/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 769,
+            "width": 385
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:0.3987,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:8.7075,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:17.0164,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:25.3252,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:33.6341,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:41.9429,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:50.2518,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:58.5606,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:66.8695,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:75.1783,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:83.4872,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/aa96b47c-bdd0-4881-abbc-0adceabdffa0/pct:91.7961,51.5951,8.2879,46.6871/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 761,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-390-farmer-mowing-grass-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

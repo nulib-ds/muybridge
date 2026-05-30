@@ -1,0 +1,700 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 389. Farmer, scattering seed"
+    ]
+  },
+  "height": 582,
+  "width": 367,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 367,
+    "height": 582,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-389-farmer-scattering-seed.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 367,
+              "height": 582
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:0.8294,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:9.0812,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:17.3330,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:25.6061,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:33.8579,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:42.1097,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:50.3828,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:58.6346,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:66.8864,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:75.1595,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:83.4113,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:91.6631,1.3749,7.8052,30.7774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 582,
+            "width": 367
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:0.7869,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:9.0387,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:17.2905,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:25.5211,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:33.7729,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:42.0247,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:50.2765,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:58.5283,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:66.7801,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:75.0319,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:83.2837,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:91.5355,34.0032,7.8903,31.5177/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 371
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:0.8082,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:9.0600,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:17.3118,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:25.5636,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:33.8154,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:42.0672,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:50.3190,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:58.5921,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:66.8439,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:75.0957,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:83.3475,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/a18d7113-2e73-423d-bf67-d62e5087fb32/pct:91.5993,67.7419,7.8477,30.8831/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 369
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-389-farmer-scattering-seed-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}
