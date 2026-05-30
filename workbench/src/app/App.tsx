@@ -1,4 +1,4 @@
-import { Box, Flex, Text, TextField } from "@radix-ui/themes";
+import { Box, Button, Flex, Text, TextField } from "@radix-ui/themes";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
@@ -67,6 +67,10 @@ function getFramesSignature(frames: FrameDescriptor[]): string | null {
 function App() {
   const [infoUrl, setInfoUrl] = useState(INITIAL_INFO_URL);
   const activePlate = useMemo(() => findPlateByInfoUrl(infoUrl), [infoUrl]);
+  const activePlateIndex = useMemo(
+    () => (activePlate ? plateCatalog.findIndex((p) => p.id === activePlate.id) : -1),
+    [activePlate],
+  );
   const activePlateProvider = useMemo(
     () =>
       activePlate?.metadata.find((entry) => entry.label.trim().toLowerCase() === "provider")
@@ -151,6 +155,22 @@ function App() {
     setHoveredAnnotationId(null);
     setSelectedAnnotationId(null);
   };
+
+  const handlePrevPlate = useCallback(() => {
+    const prev = plateCatalog[activePlateIndex - 1];
+    if (!prev) return;
+    setInfoUrl(sanitizeIiifUrl(prev.imageUri));
+    setHoveredAnnotationId(null);
+    setSelectedAnnotationId(null);
+  }, [activePlateIndex]);
+
+  const handleNextPlate = useCallback(() => {
+    const next = plateCatalog[activePlateIndex + 1];
+    if (!next) return;
+    setInfoUrl(sanitizeIiifUrl(next.imageUri));
+    setHoveredAnnotationId(null);
+    setSelectedAnnotationId(null);
+  }, [activePlateIndex]);
 
   const handleFrameHover = useCallback((annotationId: string | null) => {
     setHoveredAnnotationId(annotationId);
@@ -465,6 +485,21 @@ function App() {
                     selectedInfoUrl={infoUrl}
                     onSelect={handlePlateSelect}
                   />
+                </Flex>
+                <Flex gap="2" align="center" style={{ flexShrink: 0 }}>
+                  {activePlateIndex > 0 && (
+                    <Button variant="soft" size="2" onClick={handlePrevPlate}>
+                      Prev
+                    </Button>
+                  )}
+                  <Button
+                    variant="soft"
+                    size="2"
+                    onClick={handleNextPlate}
+                    disabled={activePlateIndex < 0 || activePlateIndex >= plateCatalog.length - 1}
+                  >
+                    Next
+                  </Button>
                 </Flex>
               </Flex>
               {activePlate ? (
