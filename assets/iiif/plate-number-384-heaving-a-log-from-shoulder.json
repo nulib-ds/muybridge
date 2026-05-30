@@ -1,0 +1,514 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-384-heaving-a-log-from-shoulder.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 384. Heaving a log from shoulder"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "384"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-384-heaving-a-log-from-shoulder.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 384. Heaving a log from shoulder"
+        ]
+      },
+      "height": 816,
+      "width": 446,
+      "duration": 1.8,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 446,
+        "height": 816,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-384-heaving-a-log-from-shoulder.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 446,
+                  "height": 816
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:0.6793,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:11.7161,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:22.7529,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:33.7898,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:44.8266,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:55.8634,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:66.9002,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:77.9370,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:88.9739,0.4611,10.4953,46.3633/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 816,
+                "width": 446
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:0.7472,51.6573,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:11.7895,51.6573,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:22.8317,51.6573,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:33.8739,51.6573,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:44.9501,51.6573,12.3973,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 527
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:58.0982,51.4116,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:69.1065,51.9031,10.2575,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 436
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:80.0129,51.6573,8.3894,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/pct:89.0851,51.6573,10.3594,46.5271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 819,
+                "width": 440
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-frames.json#t=1.7,1.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 384. Heaving a log from shoulder"
+        ]
+      },
+      "height": 1761,
+      "width": 4247,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 332,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 332
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1761,
+                "width": 4247,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/19a32d56-ae5c-46f6-8185-0633ffdb1f35",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-384-heaving-a-log-from-shoulder-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

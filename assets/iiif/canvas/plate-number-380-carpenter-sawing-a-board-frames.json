@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 380. Carpenter, sawing a board"
+    ]
+  },
+  "height": 1224,
+  "width": 697,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 697,
+    "height": 1224,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-380-carpenter-sawing-a-board.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 697,
+              "height": 1224
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:1.2918,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:13.5017,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:25.7116,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:37.9215,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:50.1315,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:62.3414,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:74.5513,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:86.7613,2.4806,12.0202,30.0761/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1224,
+            "width": 697
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:1.5458,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:13.7184,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:25.8909,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:38.0635,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:50.2360,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:62.4086,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:74.5811,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:86.7537,35.6587,11.7586,30.1968/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1229,
+            "width": 682
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:1.8134,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:13.9468,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:26.0802,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:38.2136,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:50.3470,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:62.4804,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:74.6138,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/pct:86.7472,68.8606,11.2883,29.6723/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1208,
+            "width": 654
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

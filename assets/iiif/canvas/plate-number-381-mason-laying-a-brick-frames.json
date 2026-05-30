@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 381. Mason, laying a brick"
+    ]
+  },
+  "height": 659,
+  "width": 476,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 476,
+    "height": 659,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-381-mason-laying-a-brick.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 476,
+              "height": 659
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:0.8281,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:13.1391,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:25.4500,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:37.7610,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:50.0719,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:62.3828,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:74.6938,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:87.0047,0.7733,11.9589,31.8050/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 659,
+            "width": 476
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:0.8731,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:13.1759,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:25.4787,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:37.7815,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:50.0843,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:62.3871,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:74.6899,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:86.9927,35.3470,12.0011,30.6555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:1.0955,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:13.3373,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:25.5791,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:37.8210,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:50.0628,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:62.3047,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:74.5465,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/173b199a-838c-4b4c-b763-1efa35e2dcb9/pct:86.7883,68.1663,11.6887,31.2534/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 647,
+            "width": 465
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-381-mason-laying-a-brick-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

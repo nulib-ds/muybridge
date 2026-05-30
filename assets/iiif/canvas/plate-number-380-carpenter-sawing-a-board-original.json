@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 380. Carpenter, sawing a board"
+    ]
+  },
+  "height": 4071,
+  "width": 5798,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 562,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 562
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 4071,
+            "width": 5798,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/26e3e05a-90c9-4ce7-a8c5-4a226f4d9c11",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-380-carpenter-sawing-a-board-original.json"
+        }
+      ]
+    }
+  ]
+}
