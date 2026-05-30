@@ -39,30 +39,6 @@
     {
       "label": {
         "en": [
-          "Animal"
-        ]
-      },
-      "value": {
-        "en": [
-          "Horse"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Movement"
-        ]
-      },
-      "value": {
-        "en": [
-          "Jumping"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
           "Frames"
         ]
       },
@@ -83,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Horse"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Jumping"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -96,6 +96,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-645-pandora-jumping-a-hurdle-saddled-clearing-and-landing-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 645. \"Pandora\" jumping a hurdle, saddled, clearing and landing"
@@ -290,11 +294,11 @@
                 ]
               },
               "body": {
-                "id": "https://api.nga.gov/iiif/ce4e216d-be09-4296-ac51-e74488bbbde3/pct:83.4513,51.8245,15.6944,46.7898/full/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ce4e216d-be09-4296-ac51-e74488bbbde3/pct:83.4513,51.8245,15.4566,46.7898/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1013,
-                "width": 643
+                "width": 633
               },
               "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-645-pandora-jumping-a-hurdle-saddled-clearing-and-landing-frames.json#t=0.8,0.9"
             },
