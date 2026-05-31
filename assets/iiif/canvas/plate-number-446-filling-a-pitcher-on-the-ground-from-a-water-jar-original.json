@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 446. Filling a pitcher on the ground from a water jar"
+    ]
+  },
+  "height": 2292,
+  "width": 3931,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 466,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/bff03b3f-582d-4bbe-8cf0-81247fedbf69/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 466
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/bff03b3f-582d-4bbe-8cf0-81247fedbf69/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2292,
+            "width": 3931,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/bff03b3f-582d-4bbe-8cf0-81247fedbf69",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-446-filling-a-pitcher-on-the-ground-from-a-water-jar-original.json"
+        }
+      ]
+    }
+  ]
+}

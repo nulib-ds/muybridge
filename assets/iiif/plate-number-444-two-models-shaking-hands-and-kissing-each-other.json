@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-444-two-models-shaking-hands-and-kissing-each-other.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 444. Two models shaking hands and kissing each other"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "444"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-444-two-models-shaking-hands-and-kissing-each-other.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 444. Two models shaking hands and kissing each other"
+        ]
+      },
+      "height": 1212,
+      "width": 909,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 909,
+        "height": 1212,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-444-two-models-shaking-hands-and-kissing-each-other.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 909,
+                  "height": 1212
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:0.8461,2.1850,16.9387,30.9293/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1212,
+                "width": 909
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:17.9620,2.1850,17.8246,30.5409/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1196,
+                "width": 957
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:36.2118,2.0393,13.9975,30.7836/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1206,
+                "width": 751
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:50.6346,1.8451,11.8713,30.6380/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 637
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:62.8602,1.9907,9.4262,30.7351/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1204,
+                "width": 506
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:72.5699,2.2821,9.3198,30.2495/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1185,
+                "width": 500
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:82.2441,1.8936,8.4339,30.6865/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 453
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:91.0678,1.7480,8.5402,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 458
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:0.9169,35.8819,11.6232,30.5894/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1198,
+                "width": 624
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:14.1348,35.9304,9.8868,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 531
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:25.7867,35.9304,10.6744,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 573
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:38.2656,35.9304,10.6349,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 571
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:51.0988,35.9304,11.0287,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 592
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:63.8927,35.9304,10.8318,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 581
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:76.3321,35.9304,11.0287,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 592
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:88.7716,35.9304,10.3199,30.8808/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1210,
+                "width": 554
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:1.1505,69.5976,13.5841,29.4025/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1152,
+                "width": 729
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:17.3332,69.2200,9.2923,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1186,
+                "width": 499
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:29.6179,69.8674,8.7410,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 469
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:41.3908,69.4358,8.8592,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 475
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:53.2498,69.4358,8.8592,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 475
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:65.1087,69.4358,8.8592,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 475
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:76.9677,69.4358,8.8592,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 475
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/pct:88.8267,69.4358,10.1585,29.5104/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1156,
+                "width": 545
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 444. Two models shaking hands and kissing each other"
+        ]
+      },
+      "height": 3917,
+      "width": 5367,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 584,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 584
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3917,
+                "width": 5367,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/45506053-f6d2-4821-91b5-a85c89bfa280",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-444-two-models-shaking-hands-and-kissing-each-other-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

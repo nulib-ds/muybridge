@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 437. Setting down a bucket and preparing to sweep"
+    ]
+  },
+  "height": 1782,
+  "width": 5084,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 280,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/4f616bee-f4ea-4359-a858-791e10f28c75/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 280
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/4f616bee-f4ea-4359-a858-791e10f28c75/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1782,
+            "width": 5084,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/4f616bee-f4ea-4359-a858-791e10f28c75",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-437-setting-down-a-bucket-and-preparing-to-sweep-original.json"
+        }
+      ]
+    }
+  ]
+}

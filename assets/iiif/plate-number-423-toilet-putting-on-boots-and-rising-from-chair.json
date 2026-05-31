@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-423-toilet-putting-on-boots-and-rising-from-chair.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 423. Toilet, putting on boots and rising from chair"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "423"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-423-toilet-putting-on-boots-and-rising-from-chair.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 423. Toilet, putting on boots and rising from chair"
+        ]
+      },
+      "height": 622,
+      "width": 328,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 328,
+        "height": 622,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-423-toilet-putting-on-boots-and-rising-from-chair.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 328,
+                  "height": 622
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:91.1967,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:83.0159,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:74.8352,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:66.6545,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:58.4737,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:50.2930,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:42.1123,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:33.9315,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:25.7508,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:17.5701,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:9.3893,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:1.2086,1.6581,7.8460,30.1720/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 622,
+                "width": 328
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:91.0160,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:82.8277,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:74.6395,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:66.4512,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:58.2629,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:50.0747,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:41.8864,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:33.6982,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:25.5099,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:17.3217,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:9.1334,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:0.9452,34.8606,7.9252,29.9271/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:90.8273,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:82.6831,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:74.5389,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:66.3948,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:58.2506,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:50.1064,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:41.9623,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:33.8181,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:25.6739,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:17.5298,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:9.3856,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/pct:1.2414,67.8493,8.0007,31.4579/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 649,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 423. Toilet, putting on boots and rising from chair"
+        ]
+      },
+      "height": 2062,
+      "width": 4182,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 394,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 394
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2062,
+                "width": 4182,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/39d0d6a8-9351-4b6a-abc3-efa587e452b7",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-423-toilet-putting-on-boots-and-rising-from-chair-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

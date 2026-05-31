@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-418-toilet-sitting-and-putting-on-stockings.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 418. Toilet, sitting and putting on stockings"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "418"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-418-toilet-sitting-and-putting-on-stockings.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 418. Toilet, sitting and putting on stockings"
+        ]
+      },
+      "height": 597,
+      "width": 304,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 304,
+        "height": 597,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-418-toilet-sitting-and-putting-on-stockings.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 304,
+                  "height": 597
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:0.6923,1.4645,6.8681,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 304
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:8.3054,1.4645,6.8681,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 304
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:15.3906,1.4645,8.1785,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 362
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:23.7316,1.4226,8.0147,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:32.0181,1.4232,8.6699,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 384
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:41.0925,1.5471,8.7245,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:50.1136,1.3394,8.5971,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 381
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:59.3399,0.9689,7.8509,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:67.7355,0.8035,7.8873,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 349
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:75.9127,1.0928,8.0329,30.6065/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 597,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:84.4358,1.4645,6.8681,29.7804/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 304
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:92.0306,1.4645,6.8863,29.7390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 305
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:0.7433,34.4152,6.9817,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:8.1663,34.5865,6.9817,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:15.7777,34.7578,7.7365,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 343
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:23.9180,34.7578,7.6610,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 339
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:32.0580,34.4152,8.7177,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:41.3303,34.2439,8.6045,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 381
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:50.4893,34.4152,8.3404,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 369
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:59.2709,34.3289,8.0007,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 354
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:67.5619,34.4152,8.0007,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 354
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:75.8548,34.3302,8.4536,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 374
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:84.2768,33.4798,6.9817,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:91.9443,34.4152,6.9817,31.0045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:0.7055,67.6466,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:8.0908,67.9035,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:15.4006,67.7322,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:23.6161,67.4753,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:32.3222,67.6466,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:41.0283,67.8179,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:50.4515,67.6466,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:59.1577,67.5609,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:67.7506,67.5609,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:75.7774,67.6466,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:84.3326,67.5609,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/pct:91.9065,67.6466,6.9817,30.9188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 309
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 418. Toilet, sitting and putting on stockings"
+        ]
+      },
+      "height": 1952,
+      "width": 4430,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 353,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 353
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1952,
+                "width": 4430,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d6b2cbba-361f-48e6-9b2a-c1aef05cf437",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-418-toilet-sitting-and-putting-on-stockings-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

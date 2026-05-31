@@ -1,0 +1,700 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 420. Toilet, rising from chair and putting on clothing"
+    ]
+  },
+  "height": 577,
+  "width": 359,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 359,
+    "height": 577,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 359,
+              "height": 577
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:0.5409,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:8.8038,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:17.0666,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:25.3294,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:33.5923,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:41.8551,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:50.1180,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:58.3808,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:66.6437,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:74.9065,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:83.1694,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:91.4322,2.4337,7.9527,30.2538/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 359
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:0.4672,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:8.7362,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:17.0052,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:25.2742,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:33.5432,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:41.8122,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:50.0812,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:58.3502,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:66.6192,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:74.8882,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:83.1572,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:91.4262,35.4021,8.1139,30.6245/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:0.4295,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:8.7206,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:17.0118,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:25.3029,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:33.5941,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:41.8852,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:50.1764,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:58.4675,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:66.7587,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:75.0498,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:83.3410,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/89b0eb7f-c0b4-4767-9f7d-a6d0336f3293/pct:91.6321,68.7944,8.1139,30.2674/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 578,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-420-toilet-rising-from-chair-and-putting-on-clothing-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

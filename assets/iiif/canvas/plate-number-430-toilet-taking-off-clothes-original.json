@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 430. Toilet; taking off clothes"
+    ]
+  },
+  "height": 2980,
+  "width": 7082,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 337,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/0312953f-728e-4d19-84c7-3823b9c5cb2f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 337
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/0312953f-728e-4d19-84c7-3823b9c5cb2f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2980,
+            "width": 7082,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/0312953f-728e-4d19-84c7-3823b9c5cb2f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-430-toilet-taking-off-clothes-original.json"
+        }
+      ]
+    }
+  ]
+}
