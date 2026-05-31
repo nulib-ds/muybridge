@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 524. A: Throwing water from a bucket. B: Descending a step. C: Ascending a step. D: Playing lawn tennis"
+    ]
+  },
+  "height": 2694,
+  "width": 3306,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 652,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/dc058a8f-7dbe-4a2b-acae-761bab58826e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 652
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/dc058a8f-7dbe-4a2b-acae-761bab58826e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2694,
+            "width": 3306,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/dc058a8f-7dbe-4a2b-acae-761bab58826e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-524-a-throwing-water-from-a-bucket-b-descending-a-step-c-ascending-a-step-d-playing-lawn-tennis-original.json"
+        }
+      ]
+    }
+  ]
+}

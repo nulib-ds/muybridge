@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 523. A: Striking a blow. B, E: Throwing a disk. C, F: Heaving a 75-lb. stone. D: Throwing a ball"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "523"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 523. A: Striking a blow. B, E: Throwing a disk. C, F: Heaving a 75-lb. stone. D: Throwing a ball"
+        ]
+      },
+      "height": 489,
+      "width": 257,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 257,
+        "height": 489,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 257,
+                  "height": 489
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.4488,1.6697,9.4627,13.6567/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 489,
+                "width": 257
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:11.3997,1.3728,18.2119,14.0354/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 494
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:30.4591,1.3728,18.2119,14.0354/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 494
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:49.5184,1.3728,18.2119,14.0354/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 494
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:68.5778,1.3728,18.2119,14.0354/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 494
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:87.3424,1.2066,10.6677,14.1544/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 506,
+                "width": 290
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.5602,16.5312,12.1927,14.0251/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 502,
+                "width": 331
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:14.5066,16.6710,13.1641,13.5932/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 486,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:28.0878,16.5440,15.6281,13.9090/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 498,
+                "width": 424
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:44.2159,16.4492,18.2536,13.8774/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 495
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:63.3169,16.4492,18.2536,13.8774/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 495
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:82.4180,16.4492,15.5447,13.8774/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 497,
+                "width": 422
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.3742,31.9387,15.2113,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 413
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:17.6540,31.9387,15.2113,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 413
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:33.9339,31.9387,15.2113,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 413
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:49.0052,31.9387,17.1700,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 466
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:66.4936,31.9387,15.2113,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 413
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:82.7734,31.9387,15.2113,15.1735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 543,
+                "width": 413
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.5312,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:17.8138,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:34.0963,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:50.3789,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:66.6615,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:82.9441,48.5096,15.1403,15.6766/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 411
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.4963,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:18.2912,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:35.0861,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:51.8810,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:68.6759,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:85.4708,65.2807,13.4788,15.8417/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 567,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:1.3883,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:18.1252,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:34.8620,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:51.5988,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:68.3356,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/pct:85.0725,82.4148,12.4627,16.1067/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 338
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 523. A: Striking a blow. B, E: Throwing a disk. C, F: Heaving a 75-lb. stone. D: Throwing a ball"
+        ]
+      },
+      "height": 3578,
+      "width": 2714,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 1055,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 1055
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3578,
+                "width": 2714,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/e34d8c8a-1f91-4ce7-8ac5-bf36eae2f6ba",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-523-a-striking-a-blow-b-e-throwing-a-disk-c-f-heaving-a-75-lb-stone-d-throwing-a-ball-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
