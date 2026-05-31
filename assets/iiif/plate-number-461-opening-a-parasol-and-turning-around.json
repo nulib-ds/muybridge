@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-461-opening-a-parasol-and-turning-around.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 461. Opening a parasol and turning around"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "461"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-461-opening-a-parasol-and-turning-around.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 461. Opening a parasol and turning around"
+        ]
+      },
+      "height": 616,
+      "width": 333,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 333,
+        "height": 616,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-461-opening-a-parasol-and-turning-around.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 333,
+                  "height": 616
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:1.2618,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:9.4238,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:17.5858,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:25.7477,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:33.9097,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:42.0717,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:50.2337,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:58.3957,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:66.5577,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:74.7196,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:82.8816,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:91.0436,2.5109,7.6995,29.5291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 616,
+                "width": 333
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:1.2360,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:9.3879,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:17.5397,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:25.6915,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:33.8433,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:41.9952,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:50.1470,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:58.2988,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:66.4506,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:74.6025,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:82.7543,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:90.9061,35.7554,7.8049,29.2479/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 610,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:1.2531,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:9.4050,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:17.5568,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:25.7086,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:33.8604,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:42.0122,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:50.1641,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:58.3159,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:66.4677,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:74.6195,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:82.7714,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/pct:90.9232,67.8511,7.8049,30.4353/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 635,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 461. Opening a parasol and turning around"
+        ]
+      },
+      "height": 2085,
+      "width": 4324,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 386,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 386
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2085,
+                "width": 4324,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/9b540b07-14ae-4e8d-9ea2-6065175664c9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-461-opening-a-parasol-and-turning-around-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

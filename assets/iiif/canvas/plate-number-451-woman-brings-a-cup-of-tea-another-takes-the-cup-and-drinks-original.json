@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 451. Woman brings a cup of tea; another takes the cup and drinks"
+    ]
+  },
+  "height": 2795,
+  "width": 2965,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 754,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/b986d84b-f0b8-4442-9234-565b8414d7f3/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 754
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/b986d84b-f0b8-4442-9234-565b8414d7f3/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2795,
+            "width": 2965,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/b986d84b-f0b8-4442-9234-565b8414d7f3",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-451-woman-brings-a-cup-of-tea-another-takes-the-cup-and-drinks-original.json"
+        }
+      ]
+    }
+  ]
+}

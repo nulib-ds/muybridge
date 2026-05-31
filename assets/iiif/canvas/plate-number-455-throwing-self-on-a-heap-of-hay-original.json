@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 455. Throwing self on a heap of hay"
+    ]
+  },
+  "height": 1957,
+  "width": 4438,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 353,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/d719bc7e-3211-4f6c-89c7-73ff5898dfa5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 353
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/d719bc7e-3211-4f6c-89c7-73ff5898dfa5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1957,
+            "width": 4438,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/d719bc7e-3211-4f6c-89c7-73ff5898dfa5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-455-throwing-self-on-a-heap-of-hay-original.json"
+        }
+      ]
+    }
+  ]
+}

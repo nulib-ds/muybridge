@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-456-raking-hay.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 456. Raking hay"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "456"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-456-raking-hay.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 456. Raking hay"
+        ]
+      },
+      "height": 640,
+      "width": 552,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 552,
+        "height": 640,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-456-raking-hay.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 552,
+                  "height": 640
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:1.3045,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:17.8179,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:34.3314,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:50.8448,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:67.3583,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:83.8717,1.3920,15.8527,24.1886/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 640,
+                "width": 552
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:1.2692,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:17.7652,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:34.2613,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:50.7573,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:67.2534,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:83.7494,27.1995,15.7779,24.0654/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 637,
+                "width": 549
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:0.5384,52.9816,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:8.6430,52.9077,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:16.7530,52.9576,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:24.8931,52.9851,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:32.8011,53.0319,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:41.1363,52.9816,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:49.1286,52.8831,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:57.1395,53.0309,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:65.3004,52.9078,8.4036,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 293
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:74.1738,52.9816,8.8514,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 308
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:83.1005,52.9816,8.3121,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 289
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:91.7478,52.9816,7.8609,22.0949/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 274
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:0.4248,76.6298,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:8.7105,76.6298,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:16.7509,76.7074,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:24.7812,76.6297,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:33.0611,76.7041,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:41.0112,76.7773,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:49.1469,76.7036,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:57.1736,76.6302,7.7111,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 268
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:65.3902,76.6056,8.2726,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 288
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:74.1802,76.6348,8.4411,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 294
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:82.9072,76.6296,8.4411,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 294
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/pct:91.5672,76.6298,7.9919,22.8338/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 278
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 456. Raking hay"
+        ]
+      },
+      "height": 2645,
+      "width": 3481,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 608,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 608
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2645,
+                "width": 3481,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/95241fc9-436f-4ade-88be-028f9c2b9c6f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-456-raking-hay-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
