@@ -76,7 +76,7 @@ export default function HeroAnimation({
       style={{
         position: "relative",
         width: "100%",
-        height: "50vh",
+        height: "61.8vh",
         minHeight: "300px",
         marginTop: "-1rem",
         overflow: "hidden",
