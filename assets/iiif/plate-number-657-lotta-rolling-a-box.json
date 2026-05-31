@@ -39,30 +39,6 @@
     {
       "label": {
         "en": [
-          "Animal"
-        ]
-      },
-      "value": {
-        "en": [
-          "Horse"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Movement"
-        ]
-      },
-      "value": {
-        "en": [
-          "Rolling"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
           "Frames"
         ]
       },
@@ -83,6 +59,30 @@
           "National Gallery of Art"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Horse"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Rolling"
+        ]
+      }
     }
   ],
   "thumbnail": [
@@ -96,6 +96,10 @@
     {
       "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-657-lotta-rolling-a-box-frames.json",
       "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
       "label": {
         "en": [
           "Plate Number 657. \"Lotta\" rolling a box"
