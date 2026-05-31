@@ -1,0 +1,538 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 505. Bricklaying"
+    ]
+  },
+  "height": 731,
+  "width": 370,
+  "duration": 4.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 370,
+    "height": 731,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-505-bricklaying.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 370,
+              "height": 731
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:0.9082,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0,0.17"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:11.8498,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0.17,0.341"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:22.7914,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0.341,0.511"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:33.7329,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0.511,0.681"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:44.6745,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0.681,0.852"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:55.6160,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=0.852,1.022"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:66.5576,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.022,1.193"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:77.4992,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.193,1.363"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:88.4407,1.7501,10.2754,31.2479/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 731,
+            "width": 370
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.363,1.533"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:0.8901,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.533,1.704"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:11.8554,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.704,1.874"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:22.8208,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=1.874,2.044"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:33.7861,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.044,2.215"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:44.7514,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.215,2.385"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:55.7167,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.385,2.556"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:66.6820,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.556,2.726"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:77.6474,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.726,2.896"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:88.6127,34.8665,10.5490,31.2125/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 380
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=2.896,3.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:0.8981,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.067,3.237"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:11.8692,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.237,3.407"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:22.8404,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.407,3.578"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:33.8116,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.578,3.748"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:44.7827,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.748,3.919"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:55.7539,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=3.919,4.089"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:66.7251,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=4.089,4.259"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:77.6962,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=4.259,4.43"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/cbcfc581-67eb-4a13-b3d0-9e0469e0d9ae/pct:88.6674,67.9164,10.6381,31.1025/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 727,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-505-bricklaying-frames.json#t=4.43,4.6"
+        }
+      ]
+    }
+  ]
+}

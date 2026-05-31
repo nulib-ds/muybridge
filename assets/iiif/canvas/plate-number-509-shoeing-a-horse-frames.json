@@ -1,0 +1,376 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 509. Shoeing a horse"
+    ]
+  },
+  "height": 748,
+  "width": 502,
+  "duration": 3.1,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 502,
+    "height": 748,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-509-shoeing-a-horse.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 502,
+              "height": 748
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:0.8437,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0,0.172"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:17.3005,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0.172,0.344"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:33.7572,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0.344,0.517"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:50.2139,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0.517,0.689"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:66.6707,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0.689,0.861"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:83.1274,0.8764,15.1871,29.9606/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 748,
+            "width": 502
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=0.861,1.033"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:0.7704,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.033,1.206"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:17.2526,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.206,1.378"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:33.7348,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.378,1.55"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:50.2170,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.55,1.722"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:66.6992,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.722,1.894"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:83.1815,34.2902,15.8474,30.0092/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 749,
+            "width": 524
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=1.894,2.067"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:0.6603,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.067,2.239"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:17.1446,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.239,2.411"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:33.6288,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.411,2.583"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:50.1131,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.583,2.756"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:66.5974,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.756,2.928"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/3fd426c3-563f-48d0-922d-e63c547f2586/pct:83.0816,68.0444,16.0308,30.5928/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 763,
+            "width": 530
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-509-shoeing-a-horse-frames.json#t=2.928,3.1"
+        }
+      ]
+    }
+  ]
+}

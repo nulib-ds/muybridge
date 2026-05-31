@@ -1,0 +1,730 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 519. A: Throwing a disk. B: Ascending a step. C: Walking"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "519"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 519. A: Throwing a disk. B: Ascending a step. C: Walking"
+        ]
+      },
+      "height": 557,
+      "width": 608,
+      "duration": 3,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 608,
+        "height": 557,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 608,
+                  "height": 557
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:1.2096,0.2238,18.7396,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 608
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:20.7818,0.2238,18.7396,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 608
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:40.3540,0.2238,18.7396,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 608
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:59.9262,0.2238,18.7396,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 608
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:79.4984,0.2238,18.7396,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 608
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:1.4334,24.8996,18.9260,22.2222/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 614
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:21.0070,24.8996,18.9260,22.2222/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 614
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:40.5805,24.8996,18.9260,22.2222/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 614
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:60.1541,24.8996,18.9260,22.2222/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 614
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:79.7276,24.8996,18.9260,22.2222/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 614
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:1.3092,50.1423,7.2060,22.3840/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 234
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:8.8007,49.9712,10.6170,22.6612/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 564,
+                "width": 344
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:19.9450,49.8464,11.8153,22.7236/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 383
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:32.2636,49.8152,9.9939,22.6924/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 565,
+                "width": 324
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:42.5691,49.8152,7.0221,22.6924/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 565,
+                "width": 228
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:50.1184,49.7215,7.2857,22.7236/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 236
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:57.8835,49.7839,9.7063,22.5051/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 560,
+                "width": 315
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:68.0931,49.5342,11.4798,22.5988/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 563,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:80.1480,49.3469,10.5212,22.6924/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 565,
+                "width": 341
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:91.1485,49.4406,7.3097,22.6612/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 564,
+                "width": 237
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:1.2753,75.1608,7.4775,23.5976/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 242
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:9.0404,74.9735,10.5451,23.7537/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 342
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:19.9210,75.0359,12.1748,23.4416/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 395
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:32.4553,74.9110,9.7063,23.5976/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 315
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:42.4732,75.0671,7.3576,23.5664/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 587,
+                "width": 239
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:49.9986,74.7238,7.5493,23.7225/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 591,
+                "width": 245
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:57.8835,74.8486,9.7303,23.4416/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 316
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:68.0451,74.5989,11.7674,23.6601/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 589,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:80.4836,74.5677,10.4013,23.5976/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 337
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/pct:91.3882,74.5677,6.9742,23.5976/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 226
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-frames.json#t=2.9,3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 519. A: Throwing a disk. B: Ascending a step. C: Walking"
+        ]
+      },
+      "height": 2490,
+      "width": 3243,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 614,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 614
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2490,
+                "width": 3243,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/8bdb642d-f821-4d27-b442-defd88159d4e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-519-a-throwing-a-disk-b-ascending-a-step-c-walking-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

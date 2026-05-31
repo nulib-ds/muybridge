@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-507-carpentering.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 507. Carpentering"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "507"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-507-carpentering.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 507. Carpentering"
+        ]
+      },
+      "height": 808,
+      "width": 385,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 385,
+        "height": 808,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-507-carpentering.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 385,
+                  "height": 808
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:0.8388,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:13.1111,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:25.3834,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:37.6556,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:49.9279,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:62.2002,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:74.4725,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:86.7448,0.9223,12.0532,31.0680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 808,
+                "width": 385
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:0.9729,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:13.2349,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:25.4970,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:37.7590,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:50.0210,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:62.2831,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:74.5451,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:86.8071,33.7754,11.6361,31.7152/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 825,
+                "width": 372
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:1.3251,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:13.5251,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:25.7250,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:37.9249,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:50.1248,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:62.3247,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:74.5247,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/pct:86.7246,67.2796,11.1045,31.2450/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 507. Carpentering"
+        ]
+      },
+      "height": 2601,
+      "width": 3195,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 651,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 651
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2601,
+                "width": 3195,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/ed35a220-e645-4df4-8243-8001c73058bf",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-507-carpentering-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

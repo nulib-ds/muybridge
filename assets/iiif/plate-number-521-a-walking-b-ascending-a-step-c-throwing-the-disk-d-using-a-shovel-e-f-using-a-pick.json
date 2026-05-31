@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 521. A: Walking. B: Ascending a step. C: Throwing the disk. D: Using a shovel. E, F: Using a pick"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "521"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 521. A: Walking. B: Ascending a step. C: Throwing the disk. D: Using a shovel. E, F: Using a pick"
+        ]
+      },
+      "height": 1202,
+      "width": 429,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 429,
+        "height": 1202,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 429,
+                  "height": 1202
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:0.6309,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:8.8481,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:17.0653,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:25.2825,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:33.4997,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:41.7170,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:49.9342,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:58.1514,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:66.3686,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:74.5858,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:82.8030,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:91.0202,0.6049,7.4524,18.7770/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:0.6946,20.7960,13.4143,18.6815/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1196,
+                "width": 772
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:14.2912,20.7258,17.6340,18.8453/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1206,
+                "width": 1014
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:32.4461,20.8897,17.8163,18.5878/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1190,
+                "width": 1025
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:50.5972,20.8537,17.7038,18.5545/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1188,
+                "width": 1018
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:68.6010,21.0695,18.1239,18.5005/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1184,
+                "width": 1043
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:86.7849,21.0155,11.5225,18.5545/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1188,
+                "width": 663
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:0.7023,41.2086,14.7948,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 851
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:16.0972,41.2086,18.0266,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 1037
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:34.5222,41.4032,17.9542,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 1033
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:52.8859,41.2302,16.3866,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 943
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:69.9033,41.2086,14.7948,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 851
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:85.1294,41.2303,13.3477,17.8231/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1141,
+                "width": 768
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:0.6500,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:17.1999,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:33.7498,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:50.2997,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:66.8497,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:83.3996,60.6121,14.6031,18.7882/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1203,
+                "width": 840
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:0.8520,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:17.7718,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:34.6917,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:51.6115,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:68.5313,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/pct:85.4512,80.9333,12.3483,17.5578/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1124,
+                "width": 710
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 521. A: Walking. B: Ascending a step. C: Throwing the disk. D: Using a shovel. E, F: Using a pick"
+        ]
+      },
+      "height": 6401,
+      "width": 5753,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 890,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 890
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6401,
+                "width": 5753,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/15815738-8095-484b-ad98-0da61eb198ff",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-521-a-walking-b-ascending-a-step-c-throwing-the-disk-d-using-a-shovel-e-f-using-a-pick-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

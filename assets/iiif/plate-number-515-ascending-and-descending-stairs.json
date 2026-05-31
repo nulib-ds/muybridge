@@ -1,0 +1,730 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-515-ascending-and-descending-stairs.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 515. Ascending and descending stairs"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "515"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-515-ascending-and-descending-stairs.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 515. Ascending and descending stairs"
+        ]
+      },
+      "height": 686,
+      "width": 359,
+      "duration": 3.7,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 359,
+        "height": 686,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-515-ascending-and-descending-stairs.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 359,
+                  "height": 686
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:1.2947,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0,0.123"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:11.1776,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.123,0.247"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:21.0606,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.247,0.37"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:30.9435,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.37,0.493"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:40.8264,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.493,0.617"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:50.7093,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.617,0.74"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:60.5923,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.74,0.863"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:70.4752,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.863,0.987"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:80.3581,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=0.987,1.11"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:90.2411,0.1132,9.3614,31.3263/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 686,
+                "width": 359
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.11,1.233"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:1.3257,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.233,1.357"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:11.2326,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.357,1.48"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:21.1394,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.48,1.603"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:31.0462,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.603,1.727"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:40.9531,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.727,1.85"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:50.8599,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.85,1.973"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:60.7668,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=1.973,2.097"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:70.6736,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.097,2.22"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:80.5804,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.22,2.343"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:90.4873,33.8470,9.2549,31.0224/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 680,
+                "width": 355
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.343,2.467"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:1.1412,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.467,2.59"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:11.0397,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.59,2.713"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:20.9382,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.713,2.837"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:30.8367,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.837,2.96"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:40.7351,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=2.96,3.083"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:50.6336,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=3.083,3.207"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:60.5321,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=3.207,3.33"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:70.4305,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=3.33,3.453"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:80.3290,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=3.453,3.577"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/pct:90.2275,67.1309,9.5334,31.5672/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 692,
+                "width": 366
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-frames.json#t=3.577,3.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 515. Ascending and descending stairs"
+        ]
+      },
+      "height": 2191,
+      "width": 3835,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 457,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 457
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2191,
+                "width": 3835,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/481c29e8-ba73-48b2-827d-817ebe7110e5",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-515-ascending-and-descending-stairs-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 518. Sitting down, rising, etc."
+    ]
+  },
+  "height": 684,
+  "width": 468,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 468,
+    "height": 684,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-518-sitting-down-rising-etc.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 468,
+              "height": 684
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:0.9179,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:13.3500,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:25.7820,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:38.2141,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:50.6462,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:63.0783,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:75.5103,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:87.9424,1.2487,11.9714,30.5878/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 684,
+            "width": 468
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:0.9573,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:13.3928,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:25.8283,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:38.2638,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:50.6993,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:63.1348,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:75.5703,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:88.0058,34.1155,11.8212,31.8037/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 711,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:0.8943,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:13.3242,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:25.7541,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:38.1840,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:50.6139,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:63.0439,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:75.4738,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/e44b5d35-0b82-4b1c-9804-cf6d186776d1/pct:87.9037,68.3903,11.9948,30.8246/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 469
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-518-sitting-down-rising-etc-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

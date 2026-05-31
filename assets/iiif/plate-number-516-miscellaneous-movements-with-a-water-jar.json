@@ -1,0 +1,676 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-516-miscellaneous-movements-with-a-water-jar.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 516. Miscellaneous movements with a water jar"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "516"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-516-miscellaneous-movements-with-a-water-jar.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 516. Miscellaneous movements with a water jar"
+        ]
+      },
+      "height": 775,
+      "width": 257,
+      "duration": 6.5,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 257,
+        "height": 775,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-516-miscellaneous-movements-with-a-water-jar.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 257,
+                  "height": 775
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:1.1041,2.1531,7.5628,30.3721/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 775,
+                "width": 257
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=0,0.241"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:9.1093,1.9376,12.7522,30.5093/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 779,
+                "width": 433
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=0.241,0.481"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:22.5101,2.1531,8.0051,30.2153/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 771,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=0.481,0.722"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:31.0607,1.7220,8.9191,30.8032/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 786,
+                "width": 303
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=0.722,0.963"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:40.5105,1.8396,11.3222,30.5680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 780,
+                "width": 384
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=0.963,1.204"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:52.3192,1.6437,13.6957,30.6660/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 783,
+                "width": 465
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=1.204,1.444"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:66.6046,1.7220,15.2141,30.6268/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 782,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=1.444,1.685"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:82.2757,1.7612,7.6660,30.5680/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 780,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=1.685,1.926"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:90.4283,1.8200,7.9756,30.6268/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 782,
+                "width": 271
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=1.926,2.167"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:1.2307,35.0490,7.4891,31.1428/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 795,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=2.167,2.407"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:9.3095,34.8922,12.7374,31.2735/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 798,
+                "width": 432
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=2.407,2.648"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:22.5187,34.9445,8.1378,31.0383/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 792,
+                "width": 276
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=2.648,2.889"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:31.1676,35.0228,8.6685,31.0645/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 793,
+                "width": 294
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=2.889,3.13"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:40.3865,34.8400,11.3811,31.3518/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=3.13,3.37"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:52.6128,34.9706,13.2878,30.9077/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 789,
+                "width": 451
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=3.37,3.611"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:66.7655,34.6309,15.1159,31.5086/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 804,
+                "width": 513
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=3.611,3.852"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:82.2548,34.7354,7.7643,31.3780/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 801,
+                "width": 263
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=3.852,4.093"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:90.6875,34.5264,7.5874,31.6131/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 807,
+                "width": 257
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=4.093,4.333"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:1.3396,68.5549,7.6801,30.6241/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 782,
+                "width": 261
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=4.333,4.574"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:9.5407,68.5036,12.5429,30.7267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 784,
+                "width": 425
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=4.574,4.815"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:22.6625,68.4523,7.8345,30.8806/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 788,
+                "width": 266
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=4.815,5.056"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:30.9987,68.5293,8.8186,30.9062/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 789,
+                "width": 299
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=5.056,5.296"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:40.4927,68.3498,11.6359,31.1627/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 795,
+                "width": 395
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=5.296,5.537"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:52.7654,68.5549,13.5077,30.9832/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 791,
+                "width": 458
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=5.537,5.778"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:66.7363,68.4011,15.2251,30.9832/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 791,
+                "width": 516
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=5.778,6.019"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:82.3666,68.4780,7.6415,30.7267/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 784,
+                "width": 259
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=6.019,6.259"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/pct:90.5677,68.6319,7.4099,30.6498/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 782,
+                "width": 251
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-frames.json#t=6.259,6.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 516. Miscellaneous movements with a water jar"
+        ]
+      },
+      "height": 2552,
+      "width": 3392,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 602,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 602
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2552,
+                "width": 3392,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/def1f3d7-ffec-43f4-a833-66c38e4c605e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-516-miscellaneous-movements-with-a-water-jar-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
