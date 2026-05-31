@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-499-raking-and-packing-hay.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 499. Raking and packing hay"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "499"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-499-raking-and-packing-hay.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 499. Raking and packing hay"
+        ]
+      },
+      "height": 1304,
+      "width": 598,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 598,
+        "height": 1304,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-499-raking-and-packing-hay.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 598,
+                  "height": 1304
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:0.8090,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:13.1791,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:25.5491,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:37.9192,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:50.2893,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:62.6593,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:75.0294,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:87.3995,1.7897,11.5040,30.2657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1304,
+                "width": 598
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:0.8852,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:13.2815,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:25.6777,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:38.0740,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:50.4702,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:62.8665,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:75.2627,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:87.6590,35.3797,11.7612,30.5355/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1315,
+                "width": 611
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:1.0641,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:13.4422,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:25.8203,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:38.1985,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:50.5766,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:62.9547,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:75.3329,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/pct:87.7110,69.0442,11.4928,29.7262/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 597
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 499. Raking and packing hay"
+        ]
+      },
+      "height": 4307,
+      "width": 5196,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 663,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 663
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4307,
+                "width": 5196,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/fe9d8a00-24de-42a5-84eb-10f5d203e474",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-499-raking-and-packing-hay-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

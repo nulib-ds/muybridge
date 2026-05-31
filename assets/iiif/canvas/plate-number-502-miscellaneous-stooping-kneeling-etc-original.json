@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 502. Miscellaneous, stooping, kneeling, etc."
+    ]
+  },
+  "height": 2392,
+  "width": 3845,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 498,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/edf08dd8-2a1c-4298-965a-9c7b2cdd778e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 498
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/edf08dd8-2a1c-4298-965a-9c7b2cdd778e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2392,
+            "width": 3845,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/edf08dd8-2a1c-4298-965a-9c7b2cdd778e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-502-miscellaneous-stooping-kneeling-etc-original.json"
+        }
+      ]
+    }
+  ]
+}
