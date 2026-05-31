@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 532. Movement of the hand, drawing a circle"
+    ]
+  },
+  "height": 2085,
+  "width": 4172,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 400,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/5feec5fa-c804-469a-86ec-d8c8eef9ea7f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 400
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/5feec5fa-c804-469a-86ec-d8c8eef9ea7f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2085,
+            "width": 4172,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/5feec5fa-c804-469a-86ec-d8c8eef9ea7f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-532-movement-of-the-hand-drawing-a-circle-original.json"
+        }
+      ]
+    }
+  ]
+}

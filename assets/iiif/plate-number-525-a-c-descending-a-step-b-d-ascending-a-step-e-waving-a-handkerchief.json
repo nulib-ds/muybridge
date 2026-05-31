@@ -1,0 +1,730 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 525. A, C: Descending a step. B, D: Ascending a step. E: Waving a handkerchief"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "525"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 525. A, C: Descending a step. B, D: Ascending a step. E: Waving a handkerchief"
+        ]
+      },
+      "height": 625,
+      "width": 357,
+      "duration": 3,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 357,
+        "height": 625,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 357,
+                  "height": 625
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:2.0174,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:18.2982,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:34.5791,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:50.8599,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:67.1407,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:83.4216,1.0042,14.7877,18.7283/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 625,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:1.8100,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:18.1699,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:34.5297,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:50.8895,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:67.2493,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:83.6091,21.2354,14.8252,17.7745/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 593,
+                "width": 357
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:1.6217,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:17.9048,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:34.1879,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:50.4710,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:66.7541,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:83.0372,40.6511,15.0803,18.4790/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:1.6168,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:17.9157,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:34.2147,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:50.5136,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:66.8126,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:83.1115,60.4673,14.9302,18.0816/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 604,
+                "width": 360
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:1.6759,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:17.8185,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:33.9612,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:50.1038,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:66.2465,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/pct:82.3892,79.9468,14.5251,18.4898/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 617,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-frames.json#t=2.9,3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 525. A, C: Descending a step. B, D: Ascending a step. E: Waving a handkerchief"
+        ]
+      },
+      "height": 3338,
+      "width": 2411,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 1108,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 1108
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3338,
+                "width": 2411,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/e3ae2bda-568e-4e57-b822-97ccb965befb",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-525-a-c-descending-a-step-b-d-ascending-a-step-e-waving-a-handkerchief-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 534. Movement of the hand, lifting a ball"
+    ]
+  },
+  "height": 2410,
+  "width": 3640,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 530,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/4f91ccba-45eb-498e-8d61-9fd7a83f7422/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 530
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/4f91ccba-45eb-498e-8d61-9fd7a83f7422/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2410,
+            "width": 3640,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/4f91ccba-45eb-498e-8d61-9fd7a83f7422",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-534-movement-of-the-hand-lifting-a-ball-original.json"
+        }
+      ]
+    }
+  ]
+}

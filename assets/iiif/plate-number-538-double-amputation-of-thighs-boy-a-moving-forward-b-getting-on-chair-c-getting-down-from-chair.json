@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 538. Double amputation of thighs, boy. A: Moving forward. B: Getting on chair. C: Getting down from chair"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "538"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 538. Double amputation of thighs, boy. A: Moving forward. B: Getting on chair. C: Getting down from chair"
+        ]
+      },
+      "height": 493,
+      "width": 386,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 386,
+        "height": 493,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 386,
+                  "height": 493
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:0.2464,1.6764,7.9679,27.5037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:8.6533,1.9957,7.7425,27.4002/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 491,
+                "width": 375
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:16.9147,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:25.1652,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:33.4157,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:41.6662,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:49.9168,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:58.1673,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:66.4178,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:74.6683,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:82.9189,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:91.1694,2.2114,7.9820,27.5081/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 493,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:0.3668,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:8.6324,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:16.8980,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:25.1637,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:33.4293,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:41.6949,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:49.9605,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:58.2261,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:66.4917,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:74.7573,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:83.0229,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:91.2885,32.1521,7.9971,31.6304/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 566,
+                "width": 387
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:0.2730,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:8.5494,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:16.8259,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:25.1023,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:33.3788,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:41.6552,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:49.9317,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:58.2081,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:66.4846,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:74.7610,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:83.0375,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/pct:91.3139,65.9882,8.1112,32.6109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 584,
+                "width": 393
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 538. Double amputation of thighs, boy. A: Moving forward. B: Getting on chair. C: Getting down from chair"
+        ]
+      },
+      "height": 1791,
+      "width": 4841,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 296,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 296
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1791,
+                "width": 4841,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/80df49ee-206f-4d5c-bd18-e0a2ff0c6cd6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-538-double-amputation-of-thighs-boy-a-moving-forward-b-getting-on-chair-c-getting-down-from-chair-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

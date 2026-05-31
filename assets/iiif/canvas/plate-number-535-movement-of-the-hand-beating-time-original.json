@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 535. Movement of the hand, beating time"
+    ]
+  },
+  "height": 2624,
+  "width": 3266,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 643,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/01c76891-2c29-41cf-b4d4-79f9c5b828b7/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 643
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/01c76891-2c29-41cf-b4d4-79f9c5b828b7/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2624,
+            "width": 3266,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/01c76891-2c29-41cf-b4d4-79f9c5b828b7",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-535-movement-of-the-hand-beating-time-original.json"
+        }
+      ]
+    }
+  ]
+}

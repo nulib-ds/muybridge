@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 533. Movement of the hand, clasping hands"
+    ]
+  },
+  "height": 2383,
+  "width": 3477,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 548,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/5882b2b5-5732-4496-af24-12c7e6a7e48f/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 548
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/5882b2b5-5732-4496-af24-12c7e6a7e48f/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2383,
+            "width": 3477,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/5882b2b5-5732-4496-af24-12c7e6a7e48f",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-533-movement-of-the-hand-clasping-hands-original.json"
+        }
+      ]
+    }
+  ]
+}
