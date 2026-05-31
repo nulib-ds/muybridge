@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 487. A: Ascending a step. B: Lifting a handkerchief from the ground. C: Walking. D: Running"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "487"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 487. A: Ascending a step. B: Lifting a handkerchief from the ground. C: Walking. D: Running"
+        ]
+      },
+      "height": 592,
+      "width": 356,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 356,
+        "height": 592,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 356,
+                  "height": 592
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:0.8504,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:9.0522,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:17.2540,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:25.4557,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:33.6575,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:41.8593,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:50.0610,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:58.2628,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:66.4646,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:74.6664,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:82.8681,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:91.0699,1.8048,7.7444,30.7584/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:0.8456,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:9.0558,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:17.2659,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:25.4761,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:33.6863,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:41.8965,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:50.1067,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:58.3169,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:66.5270,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:74.7372,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:82.9474,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:91.1576,34.6880,7.6221,30.5396/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 588,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:0.7703,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:8.9703,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:17.1702,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:25.3702,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:33.5702,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:41.7701,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:49.9701,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:58.1700,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:66.3700,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:74.5700,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:82.7699,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/pct:90.9699,67.4208,7.7643,30.2139/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 581,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 487. A: Ascending a step. B: Lifting a handkerchief from the ground. C: Walking. D: Running"
+        ]
+      },
+      "height": 1924,
+      "width": 4591,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 335,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 335
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1924,
+                "width": 4591,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

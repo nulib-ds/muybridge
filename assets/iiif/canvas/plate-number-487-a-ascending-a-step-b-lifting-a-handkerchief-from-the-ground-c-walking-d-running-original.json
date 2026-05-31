@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 487. A: Ascending a step. B: Lifting a handkerchief from the ground. C: Walking. D: Running"
+    ]
+  },
+  "height": 1924,
+  "width": 4591,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 335,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 335
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1924,
+            "width": 4591,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/60b8f1aa-25ca-4951-820c-017cfcbf6ff9",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-487-a-ascending-a-step-b-lifting-a-handkerchief-from-the-ground-c-walking-d-running-original.json"
+        }
+      ]
+    }
+  ]
+}

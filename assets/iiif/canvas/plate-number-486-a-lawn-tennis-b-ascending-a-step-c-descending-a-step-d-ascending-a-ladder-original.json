@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 486. A: Lawn tennis. B: Ascending a step. C: Descending a step. D: Ascending a ladder"
+    ]
+  },
+  "height": 2319,
+  "width": 3634,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 511,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/d125b12d-4363-454f-a444-17dbe5f166b5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 511
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/d125b12d-4363-454f-a444-17dbe5f166b5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2319,
+            "width": 3634,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/d125b12d-4363-454f-a444-17dbe5f166b5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-486-a-lawn-tennis-b-ascending-a-step-c-descending-a-step-d-ascending-a-ladder-original.json"
+        }
+      ]
+    }
+  ]
+}

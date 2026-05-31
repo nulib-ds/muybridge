@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 508. Shoeing a horse"
+    ]
+  },
+  "height": 2245,
+  "width": 3420,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 525,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/0efe9667-6a35-4d4e-b2e1-57b00ba4ba4a/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 525
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/0efe9667-6a35-4d4e-b2e1-57b00ba4ba4a/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2245,
+            "width": 3420,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/0efe9667-6a35-4d4e-b2e1-57b00ba4ba4a",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-508-shoeing-a-horse-original.json"
+        }
+      ]
+    }
+  ]
+}

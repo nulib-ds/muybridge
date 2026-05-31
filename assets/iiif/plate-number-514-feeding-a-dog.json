@@ -1,0 +1,460 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-514-feeding-a-dog.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 514. Feeding a dog"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "514"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-514-feeding-a-dog.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 514. Feeding a dog"
+        ]
+      },
+      "height": 723,
+      "width": 673,
+      "duration": 5.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 673,
+        "height": 723,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-514-feeding-a-dog.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 673,
+                  "height": 723
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:1.1739,0.6824,18.7087,29.9956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=0,0.36"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:20.7447,0.6824,18.7087,29.9956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=0.36,0.72"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:40.3155,0.6824,18.7087,29.9956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=0.72,1.08"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:59.8863,0.6824,18.7087,29.9956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=1.08,1.44"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:79.4571,0.6824,18.7087,29.9956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 723,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=1.44,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:1.1739,32.4296,18.4153,33.2798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 802,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=1.8,2.16"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:20.7015,32.4296,18.4153,33.2798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 802,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=2.16,2.52"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:40.2291,32.4296,18.4153,33.2798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 802,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=2.52,2.88"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:59.7567,32.4296,18.4153,33.2798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 802,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=2.88,3.24"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:79.2843,32.4296,18.4153,33.2798/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 802,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=3.24,3.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:1.3475,68.2314,18.1789,29.9226/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 654
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=3.6,3.96"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:20.7778,68.2314,18.1789,29.9226/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 654
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=3.96,4.32"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:40.2080,68.2314,18.1789,29.9226/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 654
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=4.32,4.68"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:59.6383,68.2314,18.1789,29.9226/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 654
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=4.68,5.04"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/pct:79.0685,68.2314,18.1789,29.9226/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 721,
+                "width": 654
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-frames.json#t=5.04,5.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 514. Feeding a dog"
+        ]
+      },
+      "height": 2410,
+      "width": 3596,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 536,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 536
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2410,
+                "width": 3596,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/f5b5490c-9b44-4f4e-819e-1fc6e9be9262",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-514-feeding-a-dog-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

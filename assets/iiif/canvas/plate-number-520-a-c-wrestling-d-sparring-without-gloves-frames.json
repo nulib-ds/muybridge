@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 520. A-C: Wrestling. D: Sparring without gloves"
+    ]
+  },
+  "height": 613,
+  "width": 478,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 478,
+    "height": 613,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-520-a-c-wrestling-d-sparring-without-gloves.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 478,
+              "height": 613
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:0.7704,1.3890,13.8298,25.1652/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 613,
+            "width": 478
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:14.7836,1.1806,17.6449,25.3215/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 610
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:33.0649,1.1806,17.6449,25.3215/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 610
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:51.3461,1.1806,17.6449,25.3215/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 616,
+            "width": 610
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:69.4057,1.3890,14.9670,25.2694/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 615,
+            "width": 517
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:85.0091,1.3890,14.3800,25.2694/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 615,
+            "width": 497
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:0.7704,28.8467,12.6926,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 439
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:17.7441,28.8467,12.6926,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 439
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:34.7179,28.8467,12.6926,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 439
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:51.6916,28.8467,12.6926,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 439
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:68.6654,28.8467,12.6926,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 439
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:85.6392,28.8467,13.7931,23.4979/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 572,
+            "width": 477
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:1.1372,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:17.6973,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:34.2573,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:50.8174,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:67.3774,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:83.9375,54.0118,15.1137,18.7567/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 457,
+            "width": 522
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:1.2498,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:17.8074,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:34.3651,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:50.9228,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:67.4805,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/6eba2f43-6024-4b6f-aab4-2cdca4743789/pct:84.0382,74.5939,15.2849,24.4879/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 528
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-520-a-c-wrestling-d-sparring-without-gloves-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

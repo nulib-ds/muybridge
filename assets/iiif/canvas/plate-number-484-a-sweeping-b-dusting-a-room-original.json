@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 484. A: Sweeping. B: Dusting a room"
+    ]
+  },
+  "height": 3406,
+  "width": 2603,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 1047,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/fd7f6928-9c4f-42ac-b0a3-f61812ba5198/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 1047
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/fd7f6928-9c4f-42ac-b0a3-f61812ba5198/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3406,
+            "width": 2603,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/fd7f6928-9c4f-42ac-b0a3-f61812ba5198",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-484-a-sweeping-b-dusting-a-room-original.json"
+        }
+      ]
+    }
+  ]
+}

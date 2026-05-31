@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 488. A: Lawn tennis. B: Dumbbells. C: Walking on hands. D: Ascending stairs"
+    ]
+  },
+  "height": 2124,
+  "width": 3857,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 441,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/f62df25c-b304-4fc8-b150-d30d6171a488/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 441
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/f62df25c-b304-4fc8-b150-d30d6171a488/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2124,
+            "width": 3857,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/f62df25c-b304-4fc8-b150-d30d6171a488",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-488-a-lawn-tennis-b-dumbbells-c-walking-on-hands-d-ascending-stairs-original.json"
+        }
+      ]
+    }
+  ]
+}

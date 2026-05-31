@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 513. Getting on and off a table"
+    ]
+  },
+  "height": 2336,
+  "width": 3474,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 538,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/3d3b2d88-37be-49cb-8a4d-2ac990bd8a67/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 538
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/3d3b2d88-37be-49cb-8a4d-2ac990bd8a67/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2336,
+            "width": 3474,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/3d3b2d88-37be-49cb-8a4d-2ac990bd8a67",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-513-getting-on-and-off-a-table-original.json"
+        }
+      ]
+    }
+  ]
+}

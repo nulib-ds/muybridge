@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 483. A: Lifting a basket. B: Running and waving a handkerchief"
+    ]
+  },
+  "height": 3478,
+  "width": 2680,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 1038,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/177f7015-9525-4b28-906a-69edc1c37d65/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 1038
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/177f7015-9525-4b28-906a-69edc1c37d65/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 3478,
+            "width": 2680,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/177f7015-9525-4b28-906a-69edc1c37d65",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-483-a-lifting-a-basket-b-running-and-waving-a-handkerchief-original.json"
+        }
+      ]
+    }
+  ]
+}
