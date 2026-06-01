@@ -1,0 +1,838 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-544-artificially-induced-convulsions-lying-down.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 544. Artificially induced convulsions, lying down"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "544"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-544-artificially-induced-convulsions-lying-down.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 544. Artificially induced convulsions, lying down"
+        ]
+      },
+      "height": 255,
+      "width": 676,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 676,
+        "height": 255,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-544-artificially-induced-convulsions-lying-down.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 676,
+                  "height": 255
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.7225,0.5015,30.8109,7.3040/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 255,
+                "width": 676
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.8218,8.4611,30.5628,7.4913/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 261,
+                "width": 671
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.5737,16.9824,30.6621,7.8347/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 273,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.5737,25.5662,30.7117,7.3977/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 258,
+                "width": 674
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.4248,33.6818,31.0590,7.8659/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 274,
+                "width": 682
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.6729,42.1720,30.5132,7.5225/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 262,
+                "width": 670
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.8218,50.6309,30.4636,7.5225/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 262,
+                "width": 669
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.6233,58.7153,30.5132,7.3977/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 258,
+                "width": 670
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.5241,66.7060,30.7613,7.6474/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 267,
+                "width": 675
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.2760,75.0401,30.9598,8.0219/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 280,
+                "width": 680
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.0774,83.4043,31.1584,7.8045/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 272,
+                "width": 684
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:1.3752,91.8019,30.5628,7.4289/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 259,
+                "width": 671
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.9150,0.3767,29.8682,7.3352/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 256,
+                "width": 656
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.8654,8.2738,30.1659,7.3977/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 258,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:35.0638,16.8576,30.0667,7.6162/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 266,
+                "width": 660
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.9150,25.2853,30.0171,7.5850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 265,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.8654,33.6818,30.0171,7.5537/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 264,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.7661,42.0471,30.3644,7.5850/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 265,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.5677,50.5060,30.5628,7.5537/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 264,
+                "width": 671
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.9150,58.7465,30.1659,7.1792/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 250,
+                "width": 662
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.9646,66.7372,30.0667,7.4913/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 261,
+                "width": 660
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.9150,74.9464,29.9675,7.8659/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 274,
+                "width": 658
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:35.0142,83.7487,30.1163,7.6162/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 266,
+                "width": 661
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:34.6669,92.1764,30.2651,7.4601/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 260,
+                "width": 664
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5951,0.3921,30.9588,7.3738/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 257,
+                "width": 680
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.6572,8.4174,30.6482,7.7126/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 269,
+                "width": 673
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.6779,16.7550,30.5239,8.1558/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 285,
+                "width": 670
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5951,25.4058,30.5653,7.7516/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 270,
+                "width": 671
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5329,33.8089,30.3168,7.6995/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 269,
+                "width": 665
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5951,42.0165,30.4825,7.6083/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 265,
+                "width": 669
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5122,50.4065,30.4825,7.7126/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 269,
+                "width": 669
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5951,58.6923,30.4411,7.4390/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 260,
+                "width": 668
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5329,66.7826,30.3790,7.7256/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 270,
+                "width": 667
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.5122,75.2768,30.4825,7.6474/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 267,
+                "width": 669
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.3673,83.5887,30.5446,7.5562/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 264,
+                "width": 670
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/pct:67.2844,92.0790,30.8760,7.5041/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 262,
+                "width": 678
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 544. Artificially induced convulsions, lying down"
+        ]
+      },
+      "height": 3489,
+      "width": 2195,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 1272,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 1272
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3489,
+                "width": 2195,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/bbf6d535-7271-4d0a-8f39-0f70af8c8688",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-544-artificially-induced-convulsions-lying-down-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

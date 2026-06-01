@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 545. Artificially induced convulsions, sitting"
+    ]
+  },
+  "height": 2588,
+  "width": 3085,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 671,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e53e3748-1ec0-4ba1-afa7-83c14584b425/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 671
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e53e3748-1ec0-4ba1-afa7-83c14584b425/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 2588,
+            "width": 3085,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e53e3748-1ec0-4ba1-afa7-83c14584b425",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-545-artificially-induced-convulsions-sitting-original.json"
+        }
+      ]
+    }
+  ]
+}

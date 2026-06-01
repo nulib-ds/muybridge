@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 561. Hydrocephalus, walking"
+    ]
+  },
+  "height": 1649,
+  "width": 4835,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 273,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/2c607560-b5f4-4414-9c9b-ed7833a89a84/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 273
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/2c607560-b5f4-4414-9c9b-ed7833a89a84/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1649,
+            "width": 4835,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/2c607560-b5f4-4414-9c9b-ed7833a89a84",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-561-hydrocephalus-walking-original.json"
+        }
+      ]
+    }
+  ]
+}

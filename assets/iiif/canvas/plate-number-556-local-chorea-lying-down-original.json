@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 556. Local chorea, lying down"
+    ]
+  },
+  "height": 1751,
+  "width": 4807,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 291,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/1d8f6c17-5228-4a79-96a4-b97bc419922e/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 291
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/1d8f6c17-5228-4a79-96a4-b97bc419922e/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1751,
+            "width": 4807,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/1d8f6c17-5228-4a79-96a4-b97bc419922e",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-556-local-chorea-lying-down-original.json"
+        }
+      ]
+    }
+  ]
+}
