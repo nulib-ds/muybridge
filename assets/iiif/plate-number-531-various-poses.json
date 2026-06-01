@@ -1,0 +1,298 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-531-various-poses.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 531. Various poses"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "531"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "6"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-531-various-poses.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 531. Various poses"
+        ]
+      },
+      "height": 1202,
+      "width": 557,
+      "duration": 0.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 557,
+        "height": 1202,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-531-various-poses.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 557,
+                  "height": 1202
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:0.9936,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:11.2758,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:21.5579,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:31.8401,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:42.1223,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/pct:52.4045,0.9528,9.7569,31.8168/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1202,
+                "width": 557
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-frames.json#t=0.5,0.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 531. Various poses"
+        ]
+      },
+      "height": 3777,
+      "width": 5711,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 529,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 529
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3777,
+                "width": 5711,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/4e04ba93-1d8a-4c73-abcf-96986839efc6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-531-various-poses-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
