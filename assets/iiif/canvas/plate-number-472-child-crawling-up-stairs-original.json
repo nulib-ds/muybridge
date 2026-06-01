@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 472. Child crawling up stairs"
+    ]
+  },
+  "height": 1335,
+  "width": 4941,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 216,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/e6ecf64c-36d1-4db6-ab9b-ac8b807ac116/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 216
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/e6ecf64c-36d1-4db6-ab9b-ac8b807ac116/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1335,
+            "width": 4941,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/e6ecf64c-36d1-4db6-ab9b-ac8b807ac116",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-472-child-crawling-up-stairs-original.json"
+        }
+      ]
+    }
+  ]
+}

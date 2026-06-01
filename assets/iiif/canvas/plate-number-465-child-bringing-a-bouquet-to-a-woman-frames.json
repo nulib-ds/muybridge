@@ -1,0 +1,268 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 465. Child bringing a bouquet to a woman"
+    ]
+  },
+  "height": 1010,
+  "width": 1615,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 1615,
+    "height": 1010,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-465-child-bringing-a-bouquet-to-a-woman.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 1615,
+              "height": 1010
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:1.7608,3.0885,23.6244,28.3438/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1010,
+            "width": 1615
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:26.1606,3.0885,23.6244,28.3438/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1010,
+            "width": 1615
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:50.5604,3.0885,23.6244,28.3438/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1010,
+            "width": 1615
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:74.9602,3.0885,23.6244,28.3438/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1010,
+            "width": 1615
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:1.9569,34.9294,23.4463,29.2146/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1041,
+            "width": 1603
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:26.3688,34.9294,23.4463,29.2146/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1041,
+            "width": 1603
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:50.7807,34.9294,23.4463,29.2146/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1041,
+            "width": 1603
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:75.1926,34.9294,23.4463,29.2146/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1041,
+            "width": 1603
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:1.9727,67.3046,23.5218,29.5764/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1054,
+            "width": 1608
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:26.4601,67.3046,23.5218,29.5764/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1054,
+            "width": 1608
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:50.9475,67.3046,23.5218,29.5764/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1054,
+            "width": 1608
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://api.nga.gov/iiif/20f4d820-74f0-44b3-b268-b03399abdf64/pct:75.4349,67.3046,23.5218,29.5764/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1054,
+            "width": 1608
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-465-child-bringing-a-bouquet-to-a-woman-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}

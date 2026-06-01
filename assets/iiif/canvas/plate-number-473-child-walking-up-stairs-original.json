@@ -1,0 +1,67 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 473. Child walking up stairs"
+    ]
+  },
+  "height": 1727,
+  "width": 4961,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 278,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://api.nga.gov/iiif/ec33ecd6-625a-4f06-9e99-25f9237204a5/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 278
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://api.nga.gov/iiif/ec33ecd6-625a-4f06-9e99-25f9237204a5/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1727,
+            "width": 4961,
+            "service": [
+              {
+                "id": "https://api.nga.gov/iiif/ec33ecd6-625a-4f06-9e99-25f9237204a5",
+                "type": "ImageService2",
+                "profile": "level2"
+              }
+            ]
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-473-child-walking-up-stairs-original.json"
+        }
+      ]
+    }
+  ]
+}

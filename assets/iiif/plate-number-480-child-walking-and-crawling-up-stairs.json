@@ -1,0 +1,622 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-480-child-walking-and-crawling-up-stairs.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 480. Child walking and crawling up stairs"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "480"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "National Gallery of Art"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-480-child-walking-and-crawling-up-stairs.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 480. Child walking and crawling up stairs"
+        ]
+      },
+      "height": 651,
+      "width": 376,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 376,
+        "height": 651,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-480-child-walking-and-crawling-up-stairs.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 376,
+                  "height": 651
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:0.9299,2.0342,7.5334,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 376
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:8.7694,2.0342,7.9684,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 398
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:17.0496,2.1443,8.4034,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 419
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:25.7535,2.0342,8.1859,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 409
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:34.4087,2.1306,8.3490,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 417
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:43.0106,2.6162,8.3762,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 418
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:51.6647,2.4220,7.6693,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 383
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:59.7218,2.0342,7.7237,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 386
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:67.7244,1.9372,7.5334,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 376
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:75.7543,2.0342,7.5334,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 376
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:83.9201,2.2281,7.5334,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 376
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:91.9499,2.0342,7.5334,46.4694/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 651,
+                "width": 376
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:0.8953,53.6356,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:8.9430,53.6356,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:16.8559,53.3116,8.6385,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 431
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:25.6909,53.6356,8.3435,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 417
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:34.3680,54.0264,8.3107,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 415
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:42.9495,53.6365,8.1578,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 407
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:51.4496,53.7198,7.7753,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 388
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:59.6986,53.7149,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:67.5960,53.7915,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:75.6984,53.6356,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:83.5473,53.6356,7.9065,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 395
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/pct:91.8125,53.6356,7.6442,45.1201/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 632,
+                "width": 382
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 480. Child walking and crawling up stairs"
+        ]
+      },
+      "height": 1400,
+      "width": 4992,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 224,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 224
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1400,
+                "width": 4992,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/a37d3326-be1d-4e38-8806-03924f8efbfa",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-480-child-walking-and-crawling-up-stairs-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
