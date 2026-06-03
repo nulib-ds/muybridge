@@ -171,13 +171,28 @@ export function buildManifestFromFrames({
 
   const animationPageId = `${animationCanvasId}/page/1`;
   const annotations: IiifAnnotation[] = frames.map((frame, index) => {
-    const regionX = formatPercent(frame.bounds.x);
-    const regionY = formatPercent(frame.bounds.y);
-    const regionWidth = formatPercent(frame.bounds.width);
-    const regionHeight = formatPercent(frame.bounds.height);
     const annotationWidth = Math.round(frame.bounds.width * dimensions.width);
     const annotationHeight = Math.round(frame.bounds.height * dimensions.height);
-    const regionResource = `${imageService}/pct:${regionX},${regionY},${regionWidth},${regionHeight}/full/0/default.jpg`;
+
+    // Smithsonian: use absolute pixel coordinates derived from the full original
+    // image dimensions (fetched from info.json via proxy). pct: is avoided because
+    // downstream viewers may not support it against the IDS image service.
+    // NGA/BPL: keep pct: which is well-supported by those servers.
+    const regionResource = singleImageUrl
+      ? (() => {
+          const px = Math.round(frame.bounds.x * dimensions.width);
+          const py = Math.round(frame.bounds.y * dimensions.height);
+          const pw = Math.max(1, annotationWidth);
+          const ph = Math.max(1, annotationHeight);
+          return `${imageService}/${px},${py},${pw},${ph}/full/0/default.jpg`;
+        })()
+      : (() => {
+          const regionX = formatPercent(frame.bounds.x);
+          const regionY = formatPercent(frame.bounds.y);
+          const regionWidth = formatPercent(frame.bounds.width);
+          const regionHeight = formatPercent(frame.bounds.height);
+          return `${imageService}/pct:${regionX},${regionY},${regionWidth},${regionHeight}/full/0/default.jpg`;
+        })();
     const startTime = toTemporalValue(index * frameDuration);
     const endTime = toTemporalValue((index + 1) * frameDuration);
     return {
