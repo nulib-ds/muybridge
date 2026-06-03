@@ -11,6 +11,7 @@ export default function ExampleVideo() {
       <div
         style={{
           position: "relative",
+          margin: "2rem 0",
         }}
       >
         <video
