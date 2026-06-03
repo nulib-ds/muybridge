@@ -103,155 +103,125 @@ function FeaturedItem({
   return (
     <section
       ref={sectionRef}
-      style={{
-        height: "61.8vh",
-        maxHeight: "600px",
-        position: "relative",
-        marginBottom: "10vh",
-      }}
+      className={`featured-item${reversed ? " featured-item--reversed" : ""}`}
       aria-label={label}
     >
-      <div
-        style={{
-          height: "100%",
-          display: "flex",
-          flexDirection: reversed ? "row-reverse" : "row",
-          overflow: "hidden",
-        }}
-      >
-        <div
+      <div className="featured-item__media">
+        {frames.map((src, i) => (
+          <img
+            key={i}
+            src={src}
+            alt=""
+            aria-hidden="true"
+            style={{
+              position: "absolute",
+              inset: 0,
+              width: "100%",
+              height: "100%",
+              objectFit: "contain",
+              objectPosition: "center center",
+              opacity: i === frame ? 1 : 0,
+              willChange: i === frame ? "opacity" : "auto",
+            }}
+          />
+        ))}
+      </div>
+
+      <div className="featured-item__content">
+        <p
           style={{
-            width: "61.8%",
-            flexShrink: 0,
-            position: "relative",
-            overflow: "hidden",
+            fontFamily: "var(--font-sans, system-ui, sans-serif)",
+            fontSize: "0.65rem",
+            letterSpacing: "0.2em",
+            textTransform: "uppercase",
+            color: "var(--color-accent-default)",
+            margin: "0 0 1rem",
           }}
         >
-          {frames.map((src, i) => (
-            <img
-              key={i}
-              src={src}
-              alt=""
-              aria-hidden="true"
-              style={{
-                position: "absolute",
-                inset: 0,
-                width: "100%",
-                height: "100%",
-                objectFit: "contain",
-                objectPosition: "center center",
-                opacity: i === frame ? 1 : 0,
-                willChange: i === frame ? "opacity" : "auto",
-              }}
-            />
+          Eadweard Muybridge · 1887
+        </p>
+
+        <h2
+          style={{
+            fontFamily: "var(--font-serif, 'Fraunces', Georgia, serif)",
+            fontSize: "clamp(1.4rem, 2.2vw, 2rem)",
+            fontWeight: 400,
+            letterSpacing: "-0.02em",
+            margin: "0 0 2rem",
+            lineHeight: 1.2,
+          }}
+        >
+          {label}
+        </h2>
+
+        <dl
+          style={{
+            margin: "0 0 2.5rem",
+            display: "grid",
+            gridTemplateColumns: "auto 1fr",
+            columnGap: "1.5rem",
+            rowGap: "0.6rem",
+          }}
+        >
+          {metadata.map(({label: key, value}) => (
+            <React.Fragment key={key}>
+              <dt
+                style={{
+                  fontFamily: "var(--font-sans, system-ui, sans-serif)",
+                  fontSize: "0.7rem",
+                  letterSpacing: "0.12em",
+                  textTransform: "uppercase",
+                  color: "var(--color-gray-500)",
+                  alignSelf: "baseline",
+                  paddingTop: "0.1em",
+                }}
+              >
+                {key}
+              </dt>
+              <dd
+                style={{
+                  fontFamily: "var(--font-serif)",
+                  fontSize: "1rem",
+                  fontWeight: 300,
+                  margin: 0,
+                }}
+              >
+                {value}
+              </dd>
+            </React.Fragment>
           ))}
-        </div>
+        </dl>
 
-        <div
+        <a
+          href={href}
           style={{
-            flex: 1,
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "center",
-            padding: "3rem",
-            overflow: "auto",
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "0.4rem",
+            textTransform: "uppercase",
+            textDecoration: "none",
+            borderBottom: "2px solid var(--color-accent-200)",
+            paddingBottom: "0.15rem",
+            width: "fit-content",
           }}
         >
-          <p
-            style={{
-              fontFamily: "var(--font-sans, system-ui, sans-serif)",
-              fontSize: "0.65rem",
-              letterSpacing: "0.2em",
-              textTransform: "uppercase",
-              color: "var(--color-accent-default)",
-              margin: "0 0 1rem",
-            }}
+          View
+          <svg
+            width="12"
+            height="12"
+            viewBox="0 0 12 12"
+            fill="none"
+            aria-hidden="true"
           >
-            Eadweard Muybridge · 1887
-          </p>
-
-          <h2
-            style={{
-              fontFamily: "var(--font-serif, 'Fraunces', Georgia, serif)",
-              fontSize: "clamp(1.4rem, 2.2vw, 2rem)",
-              fontWeight: 400,
-              letterSpacing: "-0.02em",
-              margin: "0 0 2rem",
-              lineHeight: 1.2,
-            }}
-          >
-            {label}
-          </h2>
-
-          <dl
-            style={{
-              margin: "0 0 2.5rem",
-              display: "grid",
-              gridTemplateColumns: "auto 1fr",
-              columnGap: "1.5rem",
-              rowGap: "0.6rem",
-            }}
-          >
-            {metadata.map(({label: key, value}) => (
-              <React.Fragment key={key}>
-                <dt
-                  style={{
-                    fontFamily: "var(--font-sans, system-ui, sans-serif)",
-                    fontSize: "0.7rem",
-                    letterSpacing: "0.12em",
-                    textTransform: "uppercase",
-                    color: "var(--color-gray-500)",
-                    alignSelf: "baseline",
-                    paddingTop: "0.1em",
-                  }}
-                >
-                  {key}
-                </dt>
-                <dd
-                  style={{
-                    fontFamily: "var(--font-serif)",
-                    fontSize: "1rem",
-                    fontWeight: 300,
-                    margin: 0,
-                  }}
-                >
-                  {value}
-                </dd>
-              </React.Fragment>
-            ))}
-          </dl>
-
-          <a
-            href={href}
-            style={{
-              display: "inline-flex",
-              alignItems: "center",
-              gap: "0.4rem",
-              textTransform: "uppercase",
-              textDecoration: "none",
-              borderBottom: "2px solid var(--color-accent-200)",
-              paddingBottom: "0.15rem",
-              width: "fit-content",
-            }}
-          >
-            View
-            <svg
-              width="12"
-              height="12"
-              viewBox="0 0 12 12"
-              fill="none"
-              aria-hidden="true"
-            >
-              <path
-                d="M2 6h8M6 2l4 4-4 4"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              />
-            </svg>
-          </a>
-        </div>
+            <path
+              d="M2 6h8M6 2l4 4-4 4"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </a>
       </div>
     </section>
   );

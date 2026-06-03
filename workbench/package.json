@@ -14,7 +14,8 @@
     "format:write": "prettier --write \"src/**/*.{ts,tsx}\"",
     "preview": "vite",
     "preview:dist": "vite preview",
-    "generate:plates": "node scripts/generate-plates.mjs"
+    "generate:plates": "node scripts/generate-plates.mjs",
+    "fetch:missing": "node scripts/fetch-missing-iiif.mjs"
   },
   "dependencies": {
     "@annotorious/react": "^3.8.0",
