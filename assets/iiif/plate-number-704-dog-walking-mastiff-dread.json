@@ -1,0 +1,615 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-704-dog-walking-mastiff-dread.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 704. Dog; walking; mastiff, Dread"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "704"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-704-dog-walking-mastiff-dread.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 704. Dog; walking; mastiff, Dread"
+        ]
+      },
+      "height": 468,
+      "width": 452,
+      "duration": 2.4,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 452,
+        "height": 468,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-704-dog-walking-mastiff-dread.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 452,
+                  "height": 468
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:32.4984,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:38.3106,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:44.1229,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:49.9351,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:55.7474,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:61.5596,28.2760,5.5309,7.6358/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 468,
+                "width": 452
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:32.3823,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:38.1938,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:44.0052,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:49.8167,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:55.6282,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:61.4397,36.4519,5.6280,7.8775/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 483,
+                "width": 460
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:32.3968,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:38.2117,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:44.0265,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:49.8413,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:55.6562,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:61.4710,44.9089,5.5947,7.8952/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 484,
+                "width": 457
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:32.3482,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:38.1682,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:43.9883,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:49.8083,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:55.6283,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/pct:61.4483,53.2799,5.6366,7.5282/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 462,
+                "width": 461
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-frames.json#t=2.3,2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 704. Dog; walking; mastiff, Dread"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007926/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-704-dog-walking-mastiff-dread-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

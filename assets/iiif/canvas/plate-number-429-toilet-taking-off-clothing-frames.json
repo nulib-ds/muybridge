@@ -1,0 +1,448 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 429. Toilet; taking off clothing"
+    ]
+  },
+  "height": 648,
+  "width": 429,
+  "duration": 4.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 429,
+    "height": 648,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-429-toilet-taking-off-clothing.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 429,
+              "height": 648
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:27.8865,32.3712,5.2471,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 429
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=0,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:33.2192,32.2896,5.2471,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 429
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=0.2,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:38.5763,32.2244,5.2471,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 429
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=0.4,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:43.9579,32.3059,5.2471,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 429
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=0.6,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:49.5841,32.3059,9.8581,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 806
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=0.8,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:59.6869,32.5832,10.9222,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 893
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:27.8987,43.4768,5.1370,10.5349/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 646,
+            "width": 420
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=1.2,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:33.3048,43.5095,4.9413,10.4697/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 642,
+            "width": 404
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=1.4,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:38.6252,43.7215,5.0881,10.3555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 416
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=1.6,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:44.0680,43.7215,5.0881,10.3555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 416
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=1.8,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:49.5108,43.8845,5.0881,10.3555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 416
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=2,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:54.8679,44.1292,4.6844,10.3555/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 383
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=2.2,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:59.8214,43.9335,5.4672,10.6327/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 652,
+            "width": 447
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=2.4,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:65.5944,44.0476,5.2715,10.5675/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 648,
+            "width": 431
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=2.6,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:28.0210,55.0554,5.0147,10.4860/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 643,
+            "width": 410
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=2.8,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:33.2681,55.0391,5.0269,10.6491/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 653,
+            "width": 411
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=3,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:38.6864,55.1044,5.0024,10.6001/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 650,
+            "width": 409
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=3.2,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:43.8356,55.0228,5.3082,10.7795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 434
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=3.4,3.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:49.5108,55.2185,5.0024,10.8774/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 667,
+            "width": 409
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=3.6,3.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:54.8190,55.3327,4.5866,10.8121/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 663,
+            "width": 375
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=3.8,4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:59.6624,55.4631,5.5651,10.7795/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 661,
+            "width": 455
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=4,4.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007587/pct:65.4843,55.4305,5.2104,10.8937/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 668,
+            "width": 426
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-429-toilet-taking-off-clothing-frames.json#t=4.2,4.4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-255-arising-from-kneeling-and-turning.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 255. Arising from kneeling and turning"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "255"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-255-arising-from-kneeling-and-turning.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 255. Arising from kneeling and turning"
+        ]
+      },
+      "height": 540,
+      "width": 407,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 407,
+        "height": 540,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-255-arising-from-kneeling-and-turning.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 407,
+                  "height": 540
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:23.7492,33.0464,4.9778,8.8034/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 407
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:29.2110,33.0157,5.3120,8.8341/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 434
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:34.7189,32.9542,5.3350,8.8188/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 541,
+                "width": 436
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:40.2498,32.8621,4.1943,8.8956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 343
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:44.5939,32.8313,3.3301,8.8956/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 545,
+                "width": 272
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:48.1083,32.8006,3.3762,8.7727/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 538,
+                "width": 276
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:51.8187,32.8774,3.4107,8.5422/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 524,
+                "width": 279
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:55.5175,32.7699,3.2609,8.7419/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 536,
+                "width": 267
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:58.9167,32.7852,3.4914,8.5883/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 527,
+                "width": 285
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:62.6385,32.7852,3.4107,8.6190/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 529,
+                "width": 279
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:66.2452,32.7545,2.6848,8.6037/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 528,
+                "width": 220
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:69.1374,32.8313,2.4889,8.4500/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 518,
+                "width": 203
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:23.6814,42.6190,5.4205,9.0212/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 443
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:29.2020,42.6116,5.3371,8.9026/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 546,
+                "width": 436
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:34.7004,42.6116,5.4094,8.8656/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 544,
+                "width": 442
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:40.2154,42.4485,4.2475,9.0657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 556,
+                "width": 347
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:44.5852,42.3892,3.5136,9.0805/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 287
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:48.1655,42.2780,3.4914,9.0509/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 285
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:51.7236,42.2706,3.5303,9.0731/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 556,
+                "width": 289
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:55.4126,42.1901,3.3424,9.0286/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 554,
+                "width": 273
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:58.9618,42.1812,3.5959,9.0820/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 294
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:62.6911,42.1100,3.4091,9.0909/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 279
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:66.3204,42.0833,2.6352,9.0020/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 552,
+                "width": 215
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:69.1824,42.0388,2.5151,9.0197/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 553,
+                "width": 206
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:23.7450,52.2867,5.3260,8.9175/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 547,
+                "width": 435
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:29.1878,52.2126,5.4205,8.9693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 550,
+                "width": 443
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:34.8362,52.1310,5.2482,9.0879/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 557,
+                "width": 429
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:40.3127,52.1108,4.2641,9.0657/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 556,
+                "width": 349
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:44.7048,52.0737,3.4135,9.0954/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 558,
+                "width": 279
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:48.3129,52.1405,3.4636,8.9175/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 547,
+                "width": 283
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:51.9154,52.0219,3.4080,8.9842/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 551,
+                "width": 279
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:55.4624,52.0367,3.4969,8.8137/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 540,
+                "width": 286
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:59.1419,51.8514,3.3977,9.0291/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 554,
+                "width": 278
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:62.7176,51.8217,3.5358,8.8433/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 542,
+                "width": 289
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:66.4146,51.7253,2.6519,8.9545/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 549,
+                "width": 217
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/pct:69.1666,51.7402,2.8409,8.9249/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 547,
+                "width": 232
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 255. Arising from kneeling and turning"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007339/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-255-arising-from-kneeling-and-turning-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

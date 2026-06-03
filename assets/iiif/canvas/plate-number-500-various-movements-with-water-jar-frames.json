@@ -1,0 +1,592 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 500. Various movements with water-jar"
+    ]
+  },
+  "height": 738,
+  "width": 298,
+  "duration": 5.9,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 298,
+    "height": 738,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-500-various-movements-with-water-jar.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 298,
+              "height": 738
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:28.9803,23.1111,3.6429,12.0354/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0,0.197"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:32.8962,23.0413,2.8020,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0.197,0.393"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:35.9428,23.0413,2.8020,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0.393,0.59"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:38.9894,23.0413,2.8020,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0.59,0.787"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:42.0360,23.0413,2.8020,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0.787,0.983"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:45.0827,23.0413,2.8020,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 229
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=0.983,1.18"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:48.1293,23.0413,3.3579,12.0406/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 275
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=1.18,1.377"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:51.8902,22.9268,3.6426,11.9872/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=1.377,1.573"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:56.0098,22.9268,3.6426,11.9872/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=1.573,1.77"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:59.9612,22.9482,2.9623,11.9872/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 735,
+            "width": 242
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=1.77,1.967"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:28.9773,35.9203,3.6666,11.9018/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 730,
+            "width": 300
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=1.967,2.163"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:32.8921,35.8777,2.8420,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=2.163,2.36"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:35.9665,35.8777,2.8420,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=2.36,2.557"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:39.0409,35.8777,2.8420,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=2.557,2.753"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:42.1153,35.8777,2.8420,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=2.753,2.95"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:45.1897,35.8777,2.8420,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 232
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=2.95,3.147"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:48.2641,35.8777,3.4369,11.9658/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 281
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=3.147,3.343"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:51.8840,35.7890,3.8043,12.1184/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 743,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=3.343,3.54"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:55.8543,35.7706,3.8735,12.1553/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 745,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=3.54,3.737"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:59.8661,35.8075,2.9881,12.0631/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 740,
+            "width": 244
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=3.737,3.933"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:28.9900,48.7553,3.7226,12.0299/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 738,
+            "width": 304
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=3.933,4.13"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:32.9288,48.8300,2.7860,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=4.13,4.327"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:35.9961,48.8300,2.7860,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=4.327,4.523"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:39.0634,48.8300,2.7860,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=4.523,4.72"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:42.1307,48.8300,2.7860,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=4.72,4.917"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:45.1980,48.8300,2.7860,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 228
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=4.917,5.113"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:48.2653,48.8300,3.4264,11.9445/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 732,
+            "width": 280
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=5.113,5.31"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:51.8492,48.7903,3.8094,12.0619/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 740,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=5.31,5.507"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:55.9398,48.7903,3.8094,12.0619/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 740,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=5.507,5.703"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007714/pct:59.9349,48.8081,2.9087,11.9730/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 734,
+            "width": 238
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-500-various-movements-with-water-jar-frames.json#t=5.703,5.9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 440. Spreading a rug on the floor"
+    ]
+  },
+  "height": 636,
+  "width": 312,
+  "duration": 3,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 312,
+    "height": 636,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-440-spreading-a-rug-on-the-floor.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 312,
+              "height": 636
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:27.8512,31.6665,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:31.8808,31.6665,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:35.9105,31.6665,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:39.9401,31.6665,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:43.9698,31.8877,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:48.0409,32.0167,3.8217,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 312
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:52.1673,31.9246,4.0844,10.3705/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 636,
+            "width": 334
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:56.5732,32.1360,4.2588,10.3244/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 633,
+            "width": 348
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:61.0118,32.1913,4.8396,10.3613/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 635,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:65.9758,32.1913,5.6969,10.4166/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 639,
+            "width": 466
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:27.6741,42.8844,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:31.7334,42.8844,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:35.7928,42.8844,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:39.8522,42.8844,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:43.9115,42.8844,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:47.9294,43.0319,3.8025,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 311
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:52.0088,43.0716,4.1759,10.3982/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 638,
+            "width": 341
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:56.4925,43.3513,4.2450,10.3428/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 634,
+            "width": 347
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:61.0002,43.3513,4.4801,10.4350/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 640,
+            "width": 366
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:65.7983,43.4250,5.8490,10.4166/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 639,
+            "width": 478
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:27.6761,54.0552,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:31.7041,54.0552,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:35.6553,54.1235,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:39.7218,54.4137,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:43.7626,54.5161,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:47.7395,54.6185,3.6489,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 298
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:51.8827,54.7039,4.1354,10.1059/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 620,
+            "width": 338
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:56.3033,54.6210,4.3146,10.2083/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 626,
+            "width": 353
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:60.9765,54.6552,4.3530,10.2937/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 631,
+            "width": 356
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/pct:65.6880,54.5357,5.8126,10.4644/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 642,
+            "width": 475
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-frames.json#t=2.9,3"
+        }
+      ]
+    }
+  ]
+}

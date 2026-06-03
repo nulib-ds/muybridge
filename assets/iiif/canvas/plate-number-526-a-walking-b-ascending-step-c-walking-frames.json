@@ -1,0 +1,700 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 526. A, walking; B, ascending step; C, walking"
+    ]
+  },
+  "height": 463,
+  "width": 290,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 290,
+    "height": 463,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-526-a-walking-b-ascending-step-c-walking.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 290,
+              "height": 463
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.9810,18.1627,3.5465,7.5574/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 463,
+            "width": 290
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.6636,18.3442,4.9555,7.3546/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 451,
+            "width": 405
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.9739,18.3442,4.9555,7.3546/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 451,
+            "width": 405
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:46.2841,18.3442,4.9555,7.3546/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 451,
+            "width": 405
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.4041,18.2900,4.0810,7.4703/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 458,
+            "width": 334
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.7041,18.4591,3.4700,7.2858/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 447,
+            "width": 284
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.8753,26.2675,3.4469,7.7623/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 476,
+            "width": 282
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.5644,26.4058,4.7957,7.4856/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 459,
+            "width": 392
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.7148,26.4058,5.3260,7.4856/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 459,
+            "width": 435
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:46.1588,26.2982,5.0494,7.7008/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 472,
+            "width": 413
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.4387,26.2367,4.0118,7.8084/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 479,
+            "width": 328
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.7618,26.2982,3.4354,7.6240/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 468,
+            "width": 281
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.8292,34.5217,3.4123,7.5932/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 466,
+            "width": 279
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.5528,34.6139,4.7381,7.4395/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 456,
+            "width": 387
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.6687,34.6293,5.2107,7.4395/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 456,
+            "width": 426
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:46.0550,34.6293,5.1531,7.5932/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 466,
+            "width": 421
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.4387,34.7830,3.9657,7.3934/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 453,
+            "width": 324
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.6695,34.5832,3.4930,7.6086/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 467,
+            "width": 286
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.8292,42.6683,3.2855,7.8084/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 479,
+            "width": 269
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.2877,42.7298,4.9802,7.7162/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 473,
+            "width": 407
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.4869,42.8681,5.2684,7.6701/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 470,
+            "width": 431
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:46.0089,42.9757,5.0032,7.4703/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 458,
+            "width": 409
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.2888,42.8527,4.0003,7.6086/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 467,
+            "width": 327
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.6116,42.9449,3.3896,7.6086/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 467,
+            "width": 277
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.6909,50.9839,3.3893,7.9314/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 486,
+            "width": 277
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.3569,51.1069,4.8418,7.7777/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 477,
+            "width": 396
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.5534,51.1069,5.1877,7.7777/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 477,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:45.9397,51.2914,4.9917,7.6086/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 467,
+            "width": 408
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.0928,51.2145,4.1502,7.7931/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 478,
+            "width": 339
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.5081,51.2452,3.3201,7.8699/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 483,
+            "width": 271
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:31.7024,59.4994,3.2855,7.4242/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 455,
+            "width": 269
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:35.3338,59.4687,4.6920,7.5932/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 466,
+            "width": 384
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:40.3739,59.6124,5.1762,7.5932/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 466,
+            "width": 423
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:45.8014,59.7607,5.0378,7.5626/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 464,
+            "width": 412
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:51.1044,59.7146,3.8735,7.5471/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 463,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007743/pct:55.3561,59.7454,3.3800,7.5932/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 466,
+            "width": 276
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-526-a-walking-b-ascending-step-c-walking-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

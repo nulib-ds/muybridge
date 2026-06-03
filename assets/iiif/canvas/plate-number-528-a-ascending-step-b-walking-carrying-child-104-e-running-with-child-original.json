@@ -1,0 +1,60 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 528. A, ascending step; B, walking; carrying child 104; E, running with child"
+    ]
+  },
+  "height": 6132,
+  "width": 8176,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 600,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007746/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 600
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007746/full/1000,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 6132,
+            "width": 8176
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-528-a-ascending-step-b-walking-carrying-child-104-e-running-with-child-original.json"
+        }
+      ]
+    }
+  ]
+}

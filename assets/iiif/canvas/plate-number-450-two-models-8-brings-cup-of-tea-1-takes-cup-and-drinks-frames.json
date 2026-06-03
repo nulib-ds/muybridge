@@ -1,0 +1,268 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 450. Two models, 8 brings cup of tea, 1 takes cup and drinks"
+    ]
+  },
+  "height": 817,
+  "width": 647,
+  "duration": 1.2,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 647,
+    "height": 817,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 647,
+              "height": 817
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:23.3678,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:32.1817,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:40.9955,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:49.8094,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:58.6233,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:67.4372,31.0844,7.9088,13.3167/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 817,
+            "width": 647
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:23.3381,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:32.1862,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:41.0342,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:49.8823,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:58.7303,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007610/pct:67.5784,45.6572,8.0530,13.0678/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 801,
+            "width": 658
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-450-two-models-8-brings-cup-of-tea-1-takes-cup-and-drinks-frames.json#t=1.1,1.2"
+        }
+      ]
+    }
+  ]
+}

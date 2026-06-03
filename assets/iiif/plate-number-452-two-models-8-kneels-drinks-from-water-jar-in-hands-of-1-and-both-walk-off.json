@@ -1,0 +1,399 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 452. Two models, 8 kneels, drinks from water-jar in hands of 1, and both walk off"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "452"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 452. Two models, 8 kneels, drinks from water-jar in hands of 1, and both walk off"
+        ]
+      },
+      "height": 818,
+      "width": 666,
+      "duration": 1.2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 666,
+        "height": 818,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 666,
+                  "height": 818
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:23.7035,32.5179,8.1458,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:32.4976,32.5179,8.1458,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:40.9736,32.5179,8.4638,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 692
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:50.0734,32.5179,8.1458,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:58.8674,32.5179,8.1458,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:67.6614,32.5179,8.1458,13.3399/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 818,
+                "width": 666
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:23.6424,47.2114,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:32.3752,47.2114,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:41.1081,47.2114,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:49.7676,47.4886,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:58.6840,47.6190,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/pct:67.4291,47.5701,8.0602,13.6171/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 835,
+                "width": 659
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-frames.json#t=1.1,1.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 452. Two models, 8 kneels, drinks from water-jar in hands of 1, and both walk off"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007612/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-452-two-models-8-kneels-drinks-from-water-jar-in-hands-of-1-and-both-walk-off-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

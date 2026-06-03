@@ -1,0 +1,777 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 411. Lifting a towel while sitting, and wiping feet"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "411"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "33"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 411. Lifting a towel while sitting, and wiping feet"
+        ]
+      },
+      "height": 592,
+      "width": 335,
+      "duration": 3.3,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 335,
+        "height": 592,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 335,
+                  "height": 592
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:24.1225,29.7550,4.1002,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:28.6630,29.7550,4.1002,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 335
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:32.9168,29.6128,4.3047,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 352
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:37.4150,29.5298,4.1891,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 343
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:41.9200,29.4942,4.3047,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 352
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:46.5326,29.5180,4.2602,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:51.0066,29.5182,4.3580,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:55.5943,29.4592,4.3047,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 352
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:60.1687,29.3063,4.2958,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 351
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:64.7570,29.1894,4.2780,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 350
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:69.3319,29.2571,4.2069,9.6535/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 592,
+                "width": 344
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:24.1173,40.1664,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:28.6482,40.1664,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:33.0002,40.1230,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:37.5180,40.1664,4.3560,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:42.0382,39.9956,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:46.4517,39.9245,4.4520,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 364
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:51.0467,39.8392,4.4627,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 365
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:55.7162,40.0241,4.3560,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 356
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:60.2733,39.7962,4.2600,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 348
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:64.8740,39.7396,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:69.4156,39.7823,4.1640,9.4640/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 340
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:24.1914,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:28.7191,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:33.2469,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:37.4782,50.4138,4.3838,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:41.9689,50.4138,4.4208,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 361
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:46.5424,50.4138,4.3750,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 358
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:51.3577,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:55.8854,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:60.4132,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:64.9409,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/pct:69.4686,50.4138,4.0874,9.3109/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 571,
+                "width": 334
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-frames.json#t=3.2,3.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 411. Lifting a towel while sitting, and wiping feet"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007569/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-411-lifting-a-towel-while-sitting-and-wiping-feet-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

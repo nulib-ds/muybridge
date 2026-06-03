@@ -1,0 +1,700 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 442. Stooping and rolling a stone on the ground"
+    ]
+  },
+  "height": 561,
+  "width": 315,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 315,
+    "height": 561,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-442-stooping-and-rolling-a-stone-on-the-ground.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 315,
+              "height": 561
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:25.0133,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:29.1432,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:33.2731,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:37.4031,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:41.5330,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:45.6629,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:49.7928,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:53.9227,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:58.0527,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:62.1826,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:66.3125,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:70.4424,32.1958,3.8486,9.1414/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 561,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:25.0004,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:29.1288,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:33.2572,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:37.3856,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:41.5140,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:45.6424,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:49.7708,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:53.8992,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:58.0276,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:62.1560,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:66.2844,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:70.4128,42.0108,3.8716,9.0817/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 557,
+            "width": 317
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:24.9884,51.8629,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:29.1158,51.8629,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:33.2432,51.8629,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:37.3706,51.8629,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:41.4980,51.8629,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:45.5331,52.0935,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:49.6600,52.1551,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:53.8629,52.1546,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:57.9558,52.1904,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:62.1315,52.2781,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:66.2233,52.1618,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007599/pct:70.3841,52.1446,3.8583,8.8137/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 540,
+            "width": 315
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-442-stooping-and-rolling-a-stone-on-the-ground-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

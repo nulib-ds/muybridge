@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 407. Two models, 8 pouring a bucket of water over 1"
+    ]
+  },
+  "height": 596,
+  "width": 424,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 424,
+    "height": 596,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 424,
+              "height": 596
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:31.2223,25.5051,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:36.9894,25.4144,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:42.7871,25.2284,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:48.5695,25.1731,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:54.2550,25.0992,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:60.0651,24.9702,5.1815,9.7180/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 596,
+            "width": 424
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:31.3407,35.7669,5.3038,9.8915/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 607,
+            "width": 434
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:36.8214,35.7773,5.3952,9.8681/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 605,
+            "width": 441
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:42.5486,35.8326,5.5059,9.6837/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 594,
+            "width": 450
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:48.3726,35.6666,5.3814,9.9604/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 611,
+            "width": 440
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:54.1552,35.7035,5.4505,9.5730/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 587,
+            "width": 446
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:59.8271,35.5928,5.4505,9.7575/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 598,
+            "width": 446
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:31.5845,46.4381,5.0436,9.7990/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 601,
+            "width": 412
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:37.0468,46.3103,5.2371,9.8589/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 605,
+            "width": 428
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:42.7231,46.2658,5.3872,9.9256/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 609,
+            "width": 440
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:48.5383,46.2139,5.3816,9.9108/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 608,
+            "width": 440
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:54.3869,46.0212,5.3260,9.9849/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 612,
+            "width": 435
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:59.9742,46.0582,5.6040,9.9330/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 609,
+            "width": 458
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:31.8396,56.8469,4.8924,9.7106/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 595,
+            "width": 400
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:37.1916,57.0038,5.2197,9.5214/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 584,
+            "width": 427
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:42.6594,56.9718,5.6040,9.3827/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 575,
+            "width": 458
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:48.6397,56.6622,5.4439,9.6709/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 593,
+            "width": 445
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:54.3558,56.6195,5.4118,9.8096/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 602,
+            "width": 442
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007564/pct:59.9677,56.7156,5.6520,9.5962/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 588,
+            "width": 462
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-407-two-models-8-pouring-a-bucket-of-water-over-1-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

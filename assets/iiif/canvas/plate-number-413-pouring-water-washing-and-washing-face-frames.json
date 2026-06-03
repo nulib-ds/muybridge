@@ -1,0 +1,484 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 413. Pouring water, washing and washing face"
+    ]
+  },
+  "height": 681,
+  "width": 395,
+  "duration": 2.4,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 395,
+    "height": 681,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-413-pouring-water-washing-and-washing-face.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 395,
+              "height": 681
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:27.6586,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:32.8310,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:38.0034,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:43.1759,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:48.3483,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:53.5207,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:58.6931,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:63.8656,27.4478,4.8300,11.1003/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 681,
+            "width": 395
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:27.7890,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:32.9773,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:38.1656,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:43.3539,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:48.5423,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:53.7306,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:58.9189,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:64.1072,39.1194,4.8092,12.0882/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 393
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:27.8212,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:33.0011,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:38.1810,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:43.3609,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:48.5408,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:53.7207,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:58.9006,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007571/pct:64.0805,51.9050,4.8741,11.2462/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 690,
+            "width": 399
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-413-pouring-water-washing-and-washing-face-frames.json#t=2.3,2.4"
+        }
+      ]
+    }
+  ]
+}

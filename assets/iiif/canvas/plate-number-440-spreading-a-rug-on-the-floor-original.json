@@ -1,0 +1,60 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json",
+  "type": "Canvas",
+  "label": {
+    "en": [
+      "Plate Number 440. Spreading a rug on the floor"
+    ]
+  },
+  "height": 6132,
+  "width": 8176,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/placeholder",
+    "type": "Canvas",
+    "width": 800,
+    "height": 600,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/full/800,/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 800,
+              "height": 600
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007596/full/1000,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 6132,
+            "width": 8176
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-440-spreading-a-rug-on-the-floor-original.json"
+        }
+      ]
+    }
+  ]
+}

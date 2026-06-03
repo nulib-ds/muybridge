@@ -1,0 +1,471 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-659-mule-a-b-bucking-and-kicking-ruth.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 659. Mule; A, B, bucking and kicking; Ruth"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "659"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-659-mule-a-b-bucking-and-kicking-ruth.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 659. Mule; A, B, bucking and kicking; Ruth"
+        ]
+      },
+      "height": 501,
+      "width": 693,
+      "duration": 1.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 693,
+        "height": 501,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-659-mule-a-b-bucking-and-kicking-ruth.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 693,
+                  "height": 501
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:28.2661,29.2623,8.4788,8.1684/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 501,
+                "width": 693
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:36.9162,29.2623,8.4788,8.1684/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 501,
+                "width": 693
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:45.5663,29.2623,8.4788,8.1684/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 501,
+                "width": 693
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:54.2163,29.2623,8.4788,8.1684/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 501,
+                "width": 693
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:28.2713,38.2731,8.4980,8.3860/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 514,
+                "width": 695
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:36.9284,38.2731,8.4980,8.3860/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 514,
+                "width": 695
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:45.5854,38.2731,8.4980,8.3860/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 514,
+                "width": 695
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:54.2425,38.2731,8.4980,8.3860/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 514,
+                "width": 695
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:28.3247,48.2305,8.4300,7.7068/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 689
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:36.9137,48.2305,8.4300,7.7068/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 689
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:45.5027,48.2305,8.4300,7.7068/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 689
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:54.0917,48.2305,8.4300,7.7068/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 473,
+                "width": 689
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:28.3068,56.9151,8.4460,8.1445/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 691
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:36.9118,56.9151,8.4460,8.1445/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 691
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:45.5168,56.9151,8.4460,8.1445/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 691
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/pct:54.1218,56.9151,8.4460,8.1445/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 499,
+                "width": 691
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-frames.json#t=1.5,1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 659. Mule; A, B, bucking and kicking; Ruth"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102127/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-659-mule-a-b-bucking-and-kicking-ruth-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

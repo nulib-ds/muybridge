@@ -1,0 +1,700 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json",
+  "type": "Canvas",
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "label": {
+    "en": [
+      "Plate Number 432. Washing clothes at tub"
+    ]
+  },
+  "height": 573,
+  "width": 318,
+  "duration": 3.6,
+  "placeholderCanvas": {
+    "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/placeholder",
+    "type": "Canvas",
+    "width": 318,
+    "height": 573,
+    "items": [
+      {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/placeholder/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/placeholder/page/1/annotation/1",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-432-washing-clothes-at-tub.gif",
+              "type": "Image",
+              "format": "image/gif",
+              "width": 318,
+              "height": 573
+            },
+            "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/placeholder"
+          }
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "1"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:23.9527,36.1600,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0,0.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/2",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "2"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:28.2173,36.1600,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.1,0.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/3",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "3"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:32.3080,36.1600,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.2,0.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/4",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "4"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:36.5353,36.1525,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.3,0.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/5",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "5"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:40.8277,36.2489,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.4,0.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/6",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "6"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:45.0631,36.2935,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.5,0.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/7",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "7"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:49.4112,36.4492,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.6,0.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/8",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "8"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:53.5725,36.6344,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.7,0.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/9",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "9"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:57.9355,36.6867,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.8,0.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/10",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "10"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:62.2386,36.7909,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=0.9,1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/11",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "11"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:66.3865,37.0050,4.2079,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 344
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1,1.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/12",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "12"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:70.8556,37.0940,3.8855,9.3473/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 573,
+            "width": 318
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.1,1.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/13",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "13"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:23.9021,46.0985,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.2,1.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/14",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "14"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:28.0327,46.0524,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.3,1.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/15",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "15"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:32.2787,46.1139,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.4,1.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/16",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "16"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:36.4093,46.1753,4.0261,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 329
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.5,1.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/17",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "17"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:40.8217,46.1279,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.6,1.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/18",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "18"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:45.0396,46.1907,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.7,1.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/19",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "19"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:49.3334,46.2061,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.8,1.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/20",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "20"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:53.5884,46.4192,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=1.9,2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/21",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "21"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:57.9017,46.5444,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2,2.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/22",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "22"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:62.1963,46.6818,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.1,2.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/23",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "23"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:66.5114,46.8056,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.2,2.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/24",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "24"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:70.7802,46.8614,3.8416,9.4141/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 577,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.3,2.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/25",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "25"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:23.9163,56.0492,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.4,2.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/26",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "26"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:28.1547,56.0492,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.5,2.6"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/27",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "27"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:32.2649,56.2200,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.6,2.7"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/28",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "28"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:36.4473,56.2411,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.7,2.8"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/29",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "29"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:40.7096,56.4335,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.8,2.9"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/30",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "30"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:44.9400,56.5829,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=2.9,3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/31",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "31"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:49.2679,56.7005,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3,3.1"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/32",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "32"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:53.5007,56.7217,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3.1,3.2"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/33",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "33"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:57.7881,56.7964,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3.2,3.3"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/34",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "34"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:62.0388,56.9048,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3.3,3.4"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/35",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "35"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:66.2998,56.8818,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3.4,3.5"
+        },
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json/page/1/annotation/36",
+          "type": "Annotation",
+          "motivation": "painting",
+          "label": {
+            "en": [
+              "36"
+            ]
+          },
+          "body": {
+            "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q007589/pct:70.5759,56.9423,3.8347,9.3186/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 571,
+            "width": 314
+          },
+          "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-432-washing-clothes-at-tub-frames.json#t=3.5,3.6"
+        }
+      ]
+    }
+  ]
+}

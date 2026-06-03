@@ -1,0 +1,543 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-666-ass-walking-bareback.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 666. Ass; walking; bareback"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "666"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Smithsonian Institution"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-666-ass-walking-bareback.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 666. Ass; walking; bareback"
+        ]
+      },
+      "height": 471,
+      "width": 514,
+      "duration": 2,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 514,
+        "height": 471,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-666-ass-walking-bareback.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 514,
+                  "height": 471
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:30.4401,28.1874,6.2895,7.6819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:37.0354,28.1874,6.2895,7.6819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:43.6307,28.1874,6.2895,7.6819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:50.2260,28.1874,6.2895,7.6819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:56.8213,28.1874,6.2895,7.6819/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 471,
+                "width": 514
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:30.4270,37.1512,6.2215,7.6552/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:37.0154,37.1512,6.2215,7.6552/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:43.6039,37.1512,6.2215,7.6552/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:50.1923,37.1512,6.2215,7.6552/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:56.7807,37.1512,6.2215,7.6552/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 469,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:30.3530,46.3059,6.2223,7.4299/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 456,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:36.9545,46.3059,6.2223,7.4299/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 456,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:43.5560,46.3059,6.2223,7.4299/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 456,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:50.1574,46.3059,6.2223,7.4299/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 456,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:56.7589,46.3059,6.2223,7.4299/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 456,
+                "width": 509
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:30.3838,55.0378,6.3375,7.5538/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 463,
+                "width": 518
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:36.9904,55.0378,6.3375,7.5538/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 463,
+                "width": 518
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:43.5971,55.0378,6.3375,7.5538/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 463,
+                "width": 518
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:50.2037,55.0378,6.3375,7.5538/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 463,
+                "width": 518
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/pct:56.8103,55.0378,6.3375,7.5538/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 463,
+                "width": 518
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-frames.json#t=1.9,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 666. Ass; walking; bareback"
+        ]
+      },
+      "height": 6132,
+      "width": 8176,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 600
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/NMAH-AHB2018q102149/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-666-ass-walking-bareback-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
