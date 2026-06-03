@@ -1,0 +1,863 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://nulib-ds.github.io/muybridge/iiif/plate-number-367-running-hitch-and-kick.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 367. Running, hitch and kick"
+    ]
+  },
+  "behavior": [
+    "repeat",
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1887"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Plate Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "367"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Frames"
+        ]
+      },
+      "value": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "Boston Public Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Animal"
+        ]
+      },
+      "value": {
+        "en": [
+          "Human"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Movement"
+        ]
+      },
+      "value": {
+        "en": [
+          "Running",
+          "Kicking"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-367-running-hitch-and-kick.gif",
+      "type": "Image",
+      "format": "image/gif"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json",
+      "type": "Canvas",
+      "behavior": [
+        "repeat",
+        "auto-advance"
+      ],
+      "label": {
+        "en": [
+          "Plate Number 367. Running, hitch and kick"
+        ]
+      },
+      "height": 429,
+      "width": 254,
+      "duration": 3.6,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/placeholder",
+        "type": "Canvas",
+        "width": 254,
+        "height": 429,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nulib-ds.github.io/muybridge/images/thumbnails/plate-number-367-running-hitch-and-kick.gif",
+                  "type": "Image",
+                  "format": "image/gif",
+                  "width": 254,
+                  "height": 429
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "1"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:77.7117,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0,0.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "2"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:72.2171,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.1,0.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "3"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:66.7225,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.2,0.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "4"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:61.2280,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.3,0.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "5"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:55.7334,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.4,0.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "6"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:50.2388,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.5,0.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "7"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:44.7442,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.6,0.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "8"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:39.2497,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.7,0.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "9"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:33.7551,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.8,0.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "10"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:28.2605,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=0.9,1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "11"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:22.7660,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1,1.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "12"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:17.2714,26.9971,5.1308,10.9057/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 429,
+                "width": 254
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.1,1.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "13"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:77.5322,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.2,1.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "14"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:72.0387,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.3,1.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "15"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:66.5452,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.4,1.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "16"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:61.0517,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.5,1.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "17"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:55.5582,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.6,1.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "18"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:50.0647,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.7,1.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "19"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:44.5713,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.8,1.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "20"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:39.0778,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=1.9,2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "21"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:33.5843,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2,2.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "22"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:28.0908,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.1,2.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "23"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:22.5973,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.2,2.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "24"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:17.1038,39.7295,5.2914,10.7169/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 262
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.3,2.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "25"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:77.4633,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.4,2.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "26"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:71.9939,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.5,2.6"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "27"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:66.5246,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.6,2.7"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "28"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:61.0553,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.7,2.8"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "29"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:55.5859,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.8,2.9"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "30"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:50.1166,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=2.9,3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "31"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:44.6473,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3,3.1"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "32"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:39.1780,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3.1,3.2"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "33"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:33.7086,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3.2,3.3"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "34"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:28.2393,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3.3,3.4"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "35"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:22.7700,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3.4,3.5"
+            },
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json/page/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "36"
+                ]
+              },
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/pct:17.3006,52.1927,5.2470,11.6803/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 460,
+                "width": 260
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-frames.json#t=3.5,3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 367. Running, hitch and kick"
+        ]
+      },
+      "height": 3936,
+      "width": 4948,
+      "placeholderCanvas": {
+        "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 636,
+        "items": [
+          {
+            "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/placeholder/page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/placeholder/page/1/annotation/1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/full/800,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 800,
+                  "height": 636
+                },
+                "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/placeholder"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3936,
+                "width": 4948,
+                "service": [
+                  {
+                    "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796085j",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nulib-ds.github.io/muybridge/iiif/canvas/plate-number-367-running-hitch-and-kick-original.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
