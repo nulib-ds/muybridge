@@ -43,7 +43,20 @@ function writeStoredAnnotations(key: string | null, annotations: ImageAnnotation
   try {
     window.localStorage.setItem(key, JSON.stringify(annotations));
   } catch (error) {
-    console.warn("[annotations] failed to write localStorage", error);
+    // Quota exceeded — evict the oldest muybridge annotation keys and retry once.
+    if (error instanceof DOMException && error.name === "QuotaExceededError") {
+      const muybridgeKeys = Object.keys(window.localStorage)
+        .filter((k) => k.startsWith("muybridge.annotations:"))
+        .filter((k) => k !== key);
+      muybridgeKeys.forEach((k) => window.localStorage.removeItem(k));
+      try {
+        window.localStorage.setItem(key, JSON.stringify(annotations));
+      } catch {
+        console.warn("[annotations] localStorage full even after eviction — annotations will not persist across reloads");
+      }
+    } else {
+      console.warn("[annotations] failed to write localStorage", error);
+    }
   }
 }
 

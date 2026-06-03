@@ -35,6 +35,33 @@ export function getIiifImageServiceUrl(infoUrl: string): string | null {
 }
 
 /**
+ * Returns true when the URL points to the Smithsonian IDS IIIF server.
+ * These plates cannot use the tiled image service due to CORS restrictions.
+ */
+export function isSmithsonianInfoUrl(url: string): boolean {
+  return url.includes("ids.si.edu");
+}
+
+/**
+ * Returns a single-image URL for a Smithsonian plate at the given pixel width.
+ * e.g. https://ids.si.edu/ids/iiif/NMAH-AHB2018q007304/info.json
+ *   →  https://ids.si.edu/ids/iiif/NMAH-AHB2018q007304/full/1000,/0/default.jpg
+ */
+export function getSmithsonianSingleImageUrl(infoUrl: string, width = 1000): string {
+  const service = getIiifImageServiceUrl(infoUrl);
+  return `${service}/full/${width},/0/default.jpg`;
+}
+
+/**
+ * Rewrites a Smithsonian IDS IIIF URL to go through the local Vite dev proxy,
+ * making it same-origin so OSD's WebGL renderer can use the image pixels.
+ * The published manifest still uses the real ids.si.edu URLs.
+ */
+export function toSmithsonianProxyUrl(url: string): string {
+  return url.replace("https://ids.si.edu/ids/iiif", "/iiif-si-proxy");
+}
+
+/**
  * Returns a thumbnail endpoint derived from an info.json URL.
  */
 export function getIiifThumbnailUrl(infoUrl: string, width = 240): string | null {

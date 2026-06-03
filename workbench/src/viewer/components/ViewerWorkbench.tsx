@@ -11,6 +11,7 @@ import {
 import type { ImageAnnotation } from "@annotorious/annotorious";
 import { AnnotationToolbar } from "../../annotations/AnnotationToolbar";
 import { getAnnotationPixelBounds } from "../../annotations/annotation-utils";
+import { isSmithsonianInfoUrl, getSmithsonianSingleImageUrl } from "../../lib/iiif";
 
 interface ViewerWorkbenchProps {
   infoUrl: string;
@@ -20,6 +21,10 @@ interface ViewerWorkbenchProps {
   onAnnotationAdd?: (annotation: ImageAnnotation) => void;
   onDuplicateAndOffset?: (count: number, offsetPx: number) => void;
   onAnnotationSelect?: (id: string | null) => void;
+  /** Pre-built tile source for plates that can't use info.json (e.g. Smithsonian). When
+   *  the plate is Smithsonian but this is not yet provided, OSD init is deferred until
+   *  the caller has resolved image dimensions. */
+  tileSource?: object | null;
 }
 
 function resolveCssColor(value: string | null | undefined) {
@@ -51,7 +56,7 @@ function ViewerConsumer({ onViewer }: { onViewer: (v: OpenSeadragon.Viewer | nul
 }
 
 export const ViewerWorkbench = memo(
-  ({ infoUrl, annotations, highlightedAnnotationId, selectedAnnotationId, onAnnotationAdd, onDuplicateAndOffset, onAnnotationSelect }: ViewerWorkbenchProps) => {
+  ({ infoUrl, annotations, highlightedAnnotationId, selectedAnnotationId, onAnnotationAdd, onDuplicateAndOffset, onAnnotationSelect, tileSource }: ViewerWorkbenchProps) => {
     const annotoriousRef = useRef<AnnotoriousOpenSeadragonAnnotator | null>(null);
     const [annotatorInstance, setAnnotatorInstance] =
       useState<AnnotoriousOpenSeadragonAnnotator | null>(null);
@@ -200,8 +205,29 @@ export const ViewerWorkbench = memo(
 
     const viewerOptions = useMemo(() => {
       const trimmed = infoUrl?.trim();
-      if (!trimmed) {
-        return null;
+      if (!trimmed) return null;
+
+      // For Smithsonian plates the tileSource prop must be supplied with explicit
+      // dimensions (a legacy-image-pyramid built in App.tsx once useIiifDimensions
+      // resolves). Returning null here defers OSD init until it arrives — without
+      // known dimensions OSD can't set up its viewport and renders nothing.
+      if (isSmithsonianInfoUrl(trimmed)) {
+        if (!tileSource) return null;
+        return {
+          tileSources: tileSource,
+          showNavigationControl: false,
+          showHomeControl: false,
+          showFullPageControl: false,
+          showRotationControl: false,
+          showFlipControl: false,
+          showZoomControl: false,
+          gestureSettingsMouse: {
+            clickToZoom: false,
+            dblClickToZoom: false,
+            pinchToZoom: false,
+            scrollToZoom: true,
+          },
+        };
       }
 
       return {
@@ -219,7 +245,7 @@ export const ViewerWorkbench = memo(
           scrollToZoom: true,
         },
       };
-    }, [infoUrl]);
+    }, [infoUrl, tileSource]);
 
     const selectedAnnotation = useMemo(
       () => (selectedAnnotationId ? (annotations.find((a) => a.id === selectedAnnotationId) ?? null) : null),

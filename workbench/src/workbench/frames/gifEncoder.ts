@@ -1,6 +1,6 @@
 import { GIFEncoder, applyPalette, quantize } from "gifenc";
 import type { ImageDimensions } from "../../annotations/annotation-utils";
-import { getIiifImageServiceUrl, sanitizeIiifUrl } from "../../lib/iiif";
+import { getIiifImageServiceUrl, sanitizeIiifUrl, isSmithsonianInfoUrl, toSmithsonianProxyUrl } from "../../lib/iiif";
 import type { FrameDescriptor } from "./types";
 
 const MAX_GIF_EDGE_PX = 500;
@@ -135,10 +135,15 @@ export async function encodeGifFromFrames(options: GifExportOptions): Promise<Gi
   }
 
   const sanitized = sanitizeIiifUrl(infoUrl);
-  const imageService = getIiifImageServiceUrl(sanitized);
-  if (!imageService) {
+  const rawImageService = getIiifImageServiceUrl(sanitized);
+  if (!rawImageService) {
     throw new Error("Unable to derive IIIF image service from info.json URL");
   }
+  // Route Smithsonian frame fetches through the local proxy so fetch() succeeds
+  // and canvas.getImageData() isn't blocked by the cross-origin taint restriction.
+  const imageService = isSmithsonianInfoUrl(rawImageService)
+    ? toSmithsonianProxyUrl(rawImageService)
+    : rawImageService;
 
   const plan = planGifRender(frames, dimensions, maxSize);
   const { renderWidth, renderHeight, frameSizes } = plan;

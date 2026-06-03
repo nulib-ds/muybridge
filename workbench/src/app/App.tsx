@@ -3,7 +3,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "@annotorious/react/annotorious-react.css";
 import { ViewerWorkbench } from "../viewer/components/ViewerWorkbench";
 import { CANOPY_BASE_URL, DEFAULT_INFO_URL, IIIF_BASE_URL, THUMBNAILS_BASE_URL } from "../config/iiif";
-import { sanitizeIiifUrl } from "../lib/iiif";
+import { sanitizeIiifUrl, isSmithsonianInfoUrl, getSmithsonianSingleImageUrl, toSmithsonianProxyUrl } from "../lib/iiif";
 import { FramesSidebar } from "../workbench/frames/FramesSidebar";
 import { useAnnotationStore } from "../workbench/frames/useFrameList";
 import { useIiifDimensions } from "../lib/useIiifDimensions";
@@ -77,6 +77,10 @@ function App() {
         ?.value,
     [activePlate],
   );
+  const siSingleImageUrl = useMemo(
+    () => (isSmithsonianInfoUrl(infoUrl) ? getSmithsonianSingleImageUrl(infoUrl) : undefined),
+    [infoUrl],
+  );
   const slug = useMemo(
     () => (activePlate ? toDownloadName(activePlate.label) : null),
     [activePlate],
@@ -93,6 +97,16 @@ function App() {
     reorderAnnotations,
   } = useAnnotationStore(infoUrl, slug);
   const { dimensions } = useIiifDimensions(infoUrl);
+  // Deferred until useIiifDimensions resolves — ViewerWorkbench holds off OSD init
+  // until this is non-null so it has explicit dimensions for the viewport.
+  // The proxy URL makes the image same-origin so OSD's WebGL renderer can use it.
+  const siTileSource = useMemo(() => {
+    if (!siSingleImageUrl || !dimensions) return null;
+    return {
+      type: "legacy-image-pyramid",
+      levels: [{ url: toSmithsonianProxyUrl(siSingleImageUrl), width: dimensions.width, height: dimensions.height }],
+    };
+  }, [siSingleImageUrl, dimensions]);
   const [animationDuration, setAnimationDuration] = useState(DEFAULT_FRAME_DURATION_SECONDS);
   const [hasCustomDuration, setHasCustomDuration] = useState(false);
   const [hoveredAnnotationId, setHoveredAnnotationId] = useState<string | null>(null);
@@ -309,6 +323,7 @@ function App() {
       provider: activePlateProvider,
       animal: animal || undefined,
       movement: movement || undefined,
+      singleImageUrl: siSingleImageUrl,
     });
 
     if (!manifest) return;
@@ -466,6 +481,7 @@ function App() {
         <ViewerWorkbench
           key={infoUrl}
           infoUrl={infoUrl}
+          tileSource={siTileSource}
           annotations={annotations}
           highlightedAnnotationId={highlightedAnnotationId}
           selectedAnnotationId={selectedAnnotationId}

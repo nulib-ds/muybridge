@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import type { ImageDimensions } from "../annotations/annotation-utils";
+import { isSmithsonianInfoUrl, toSmithsonianProxyUrl } from "./iiif";
 
 export function useIiifDimensions(infoUrl: string) {
   const [dimensions, setDimensions] = useState<ImageDimensions | null>(null);
@@ -22,8 +23,14 @@ export function useIiifDimensions(infoUrl: string) {
     const controller = new AbortController();
 
     const loadDimensions = async () => {
+      // Smithsonian IDS doesn't send CORS headers for direct fetch, so route
+      // through the local Vite proxy which makes the request same-origin.
+      const fetchUrl = isSmithsonianInfoUrl(trimmed)
+        ? toSmithsonianProxyUrl(trimmed)
+        : trimmed;
+
       try {
-        const response = await fetch(trimmed, { signal: controller.signal });
+        const response = await fetch(fetchUrl, { signal: controller.signal });
         if (!response.ok) {
           throw new Error(`HTTP ${response.status}`);
         }

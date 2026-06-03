@@ -18,6 +18,7 @@ interface ManifestBuildOptions {
   provider?: string;
   animal?: string;
   movement?: string;
+  singleImageUrl?: string;
 }
 
 interface IiifThumbnail {
@@ -140,6 +141,7 @@ export function buildManifestFromFrames({
   provider,
   animal,
   movement,
+  singleImageUrl,
 }: ManifestBuildOptions): IiifManifest | null {
   if (!frames.length || !dimensions) {
     return null;
@@ -240,20 +242,30 @@ export function buildManifestFromFrames({
     id: `${staticCanvasId}/page/1/annotation/1`,
     type: "Annotation",
     motivation: "painting",
-    body: {
-      id: `${imageService}/full/full/0/default.jpg`,
-      type: "Image",
-      format: "image/jpeg",
-      height: dimensions.height,
-      width: dimensions.width,
-      service: [
-        {
-          id: imageService,
-          type: "ImageService2",
-          profile: "level2",
+    body: singleImageUrl
+      ? {
+          // Smithsonian single-image mode: use the pre-built high-res URL directly.
+          // No service property — omitted intentionally to avoid CORS in downstream viewers.
+          id: singleImageUrl,
+          type: "Image",
+          format: "image/jpeg",
+          height: dimensions.height,
+          width: dimensions.width,
+        }
+      : {
+          id: `${imageService}/full/full/0/default.jpg`,
+          type: "Image",
+          format: "image/jpeg",
+          height: dimensions.height,
+          width: dimensions.width,
+          service: [
+            {
+              id: imageService,
+              type: "ImageService2",
+              profile: "level2",
+            },
+          ],
         },
-      ],
-    },
     target: staticCanvasId,
   };
 

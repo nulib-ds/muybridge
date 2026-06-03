@@ -332,6 +332,18 @@ function gifExportPlugin(): Plugin {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), gifExportPlugin(), manifestExportPlugin()],
+  server: {
+    proxy: {
+      // Proxy Smithsonian IDS IIIF requests through localhost so the browser
+      // treats them as same-origin. This lets OSD's WebGL renderer use the
+      // image pixels without hitting the cross-origin canvas security error.
+      "/iiif-si-proxy": {
+        target: "https://ids.si.edu",
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/iiif-si-proxy/, "/ids/iiif"),
+      },
+    },
+  },
   test: {
     globals: true,
     environment: "jsdom",
