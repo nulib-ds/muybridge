@@ -81,6 +81,20 @@ function parsePctRegionFromBodyUrl(
   return { x, y, w, h };
 }
 
+// Parses absolute pixel region from a IIIF image body URL:
+// "{imageService}/{x},{y},{w},{h}/full/0/default.jpg" → {x,y,w,h} in pixels
+// Used for Smithsonian plates where pct: is replaced with exact pixel coordinates.
+function parsePixelRegionFromBodyUrl(
+  url: string,
+): { x: number; y: number; w: number; h: number } | null {
+  if (url.includes("pct:")) return null;
+  const match = url.match(/\/(\d+),(\d+),(\d+),(\d+)\//);
+  if (!match) return null;
+  const [x, y, w, h] = match.slice(1).map(Number);
+  if ([x, y, w, h].some(Number.isNaN)) return null;
+  return { x, y, w, h };
+}
+
 // Extracts ImageAnnotation[] and duration from the manifest's first (animation) canvas.
 // Uses the static canvas (second item) to recover full image dimensions and the
 // image service URL so annotations can be reconstructed with pixel coordinates.
@@ -128,20 +142,27 @@ function parseManifestFirstCanvas(
       const bodyId = typeof body?.id === "string" ? body.id : null;
       if (!bodyId) return null;
 
-      const region = parsePctRegionFromBodyUrl(bodyId);
-      if (!region) return null;
+      const pctRegion   = parsePctRegionFromBodyUrl(bodyId);
+      const pixelRegion = pctRegion ? null : parsePixelRegionFromBodyUrl(bodyId);
+      if (!pctRegion && !pixelRegion) return null;
 
       const id =
         typeof annotation.id === "string" ? annotation.id : `frame-${index + 1}`;
-      const { x, y, w, h } = region;
 
       if (hasDimensions) {
         // Reconstruct in Annotorious' internal RECTANGLE format so setAnnotations
         // renders the overlays without requiring a W3C adapter.
-        const pixelX = Math.round((x / 100) * imageWidth);
-        const pixelY = Math.round((y / 100) * imageHeight);
-        const pixelW = Math.round((w / 100) * imageWidth);
-        const pixelH = Math.round((h / 100) * imageHeight);
+        let pixelX: number, pixelY: number, pixelW: number, pixelH: number;
+        if (pctRegion) {
+          // pct: values (0–100) → convert to pixels via image dimensions
+          pixelX = Math.round((pctRegion.x / 100) * imageWidth);
+          pixelY = Math.round((pctRegion.y / 100) * imageHeight);
+          pixelW = Math.round((pctRegion.w / 100) * imageWidth);
+          pixelH = Math.round((pctRegion.h / 100) * imageHeight);
+        } else {
+          // Absolute pixel coordinates (Smithsonian plates) — use directly
+          ({ x: pixelX, y: pixelY, w: pixelW, h: pixelH } = pixelRegion!);
+        }
         return {
           id,
           bodies: [],
@@ -168,6 +189,12 @@ function parseManifestFirstCanvas(
       }
 
       // Fallback when static canvas dimensions are absent.
+      const { x, y, w, h } = pctRegion ?? {
+        x: pixelRegion!.x,
+        y: pixelRegion!.y,
+        w: pixelRegion!.w,
+        h: pixelRegion!.h,
+      };
       return {
         id,
         bodies: [],
