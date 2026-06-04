@@ -96,8 +96,8 @@ export default function HeroAnimation({
             height: "100%",
             objectFit: "cover",
             objectPosition: "center center",
-            opacity: i === frame ? 0.3 : 0,
-            filter: "blur(10px)",
+            opacity: i === frame ? 0.382 : 0,
+            filter: "blur(1px)",
           }}
         />
       ))}
