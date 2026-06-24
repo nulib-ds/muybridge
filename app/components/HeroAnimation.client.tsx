@@ -3,6 +3,12 @@ import React, {useEffect, useRef, useState} from "react";
 const DEFAULT_MANIFEST_ID =
   "https://nulib-ds.github.io/muybridge/iiif/plate-number-613-nellie-rose-trotting-harnessed-to-sulky.json";
 
+function lqipSrcFromManifest(manifestUrl: string): string {
+  return manifestUrl
+    .replace("/iiif/", "/images/lqip/")
+    .replace(/\.json$/, ".gif");
+}
+
 interface Props {
   iiifContent?: string;
 }
@@ -13,9 +19,12 @@ export default function HeroAnimation({
   const [frames, setFrames] = useState<string[]>([]);
   const [intervalMs, setIntervalMs] = useState(100);
   const [frame, setFrame] = useState(0);
+  const [framesReady, setFramesReady] = useState(false);
   const [opacity, setOpacity] = useState(1);
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const rafRef = useRef<number | null>(null);
+
+  const lqipSrc = lqipSrcFromManifest(iiifContent);
 
   useEffect(() => {
     const onScroll = () => {
@@ -45,6 +54,19 @@ export default function HeroAnimation({
         setFrames(f);
         setIntervalMs(ms);
         setFrame(0);
+        // Preload all frame images before revealing them
+        Promise.all(
+          f.map(
+            (src) =>
+              new Promise<void>((resolve) => {
+                const img = new window.Image();
+                img.onload = img.onerror = () => resolve();
+                img.src = src;
+              }),
+          ),
+        ).then(() => {
+          if (!cancelled) setFramesReady(true);
+        });
       })
       .catch(() => {});
     return () => {
@@ -53,7 +75,7 @@ export default function HeroAnimation({
   }, [iiifContent]);
 
   useEffect(() => {
-    if (!frames.length) return;
+    if (!framesReady) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     let current = 0;
@@ -66,9 +88,7 @@ export default function HeroAnimation({
     return () => {
       if (timerRef.current !== null) clearTimeout(timerRef.current);
     };
-  }, [frames, intervalMs]);
-
-  if (!frames.length) return null;
+  }, [framesReady, frames, intervalMs]);
 
   return (
     <div
@@ -84,23 +104,50 @@ export default function HeroAnimation({
         opacity,
       }}
     >
-      {frames.map((src, i) => (
-        <img
-          key={i}
-          src={src}
-          alt=""
-          style={{
-            position: "absolute",
-            inset: 0,
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-            objectPosition: "center center",
-            opacity: i === frame ? 0.382 : 0,
-            filter: "blur(1px)",
-          }}
-        />
-      ))}
+      {/* LQIP: visible immediately, fades out once full frames are ready */}
+      <img
+        src={lqipSrc}
+        alt=""
+        style={{
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition: "center center",
+          opacity: framesReady ? 0 : 0.382,
+          filter: "blur(1px)",
+          transition: "opacity 0.6s ease",
+          imageRendering: "auto",
+        }}
+      />
+      {/* Full frames: fade in once preloaded */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          opacity: framesReady ? 1 : 0,
+          transition: "opacity 0.6s ease",
+        }}
+      >
+        {frames.map((src, i) => (
+          <img
+            key={i}
+            src={src}
+            alt=""
+            style={{
+              position: "absolute",
+              inset: 0,
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              objectPosition: "center center",
+              opacity: i === frame ? 0.382 : 0,
+              filter: "blur(1px)",
+            }}
+          />
+        ))}
+      </div>
       <div
         style={{
           position: "absolute",
