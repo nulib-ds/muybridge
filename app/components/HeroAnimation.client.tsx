@@ -127,6 +127,7 @@ export default function HeroAnimation({
           inset: 0,
           opacity: framesReady ? 1 : 0,
           transition: "opacity 0.6s ease",
+          backgroundColor: "var(--color-accent-100)",
         }}
       >
         {frames.map((src, i) => (
@@ -142,7 +143,6 @@ export default function HeroAnimation({
               objectFit: "cover",
               objectPosition: "center center",
               opacity: i === frame ? 0.382 : 0,
-              filter: "blur(1px)",
             }}
           />
         ))}

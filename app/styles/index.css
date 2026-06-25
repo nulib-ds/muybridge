@@ -38,11 +38,11 @@
   h4,
   .canopy-logo {
     font-family: var(--font-serif);
+    letter-spacing: -0.02em;
   }
 
   .canopy-logo {
     font-size: 1.382rem !important;
-    letter-spacing: -0.025em;
     position: relative;
 
     &::after {
@@ -147,7 +147,6 @@
     font-size: 2rem;
     margin-bottom: 2rem;
     font-weight: 700;
-    letter-spacing: 0em;
   }
 }
 

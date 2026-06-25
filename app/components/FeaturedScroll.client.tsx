@@ -1,7 +1,7 @@
 import React, {useEffect, useRef, useState} from "react";
 import cacheIndex from "../../.cache/iiif/index.json";
 
-import manifest700 from "../../assets/iiif/plate-number-700-buffalo-galloping.json";
+import manifest663 from "../../assets/iiif/plate-number-663-mule-miscellaneous-performances-denver.json";
 import manifest333 from "../../assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json";
 import manifest716 from "../../assets/iiif/plate-number-716-cat-walking-change-to-galloping.json";
 import manifest626 from "../../assets/iiif/plate-number-626-annie-g-galloping.json";
@@ -44,16 +44,16 @@ function extractItem(manifest: any, assetPath: string): FeaturedItemData {
 
 const FEATURED: FeaturedItemData[] = [
   extractItem(
-    manifest700,
-    "https://nulib-ds.github.io/muybridge/iiif/plate-number-700-buffalo-galloping.json",
+    manifest626,
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-626-annie-g-galloping.json",
   ),
   extractItem(
     manifest333,
     "https://nulib-ds.github.io/muybridge/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json",
   ),
   extractItem(
-    manifest626,
-    "https://nulib-ds.github.io/muybridge/iiif/plate-number-626-annie-g-galloping.json",
+    manifest663,
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-663-mule-miscellaneous-performances-denver.json",
   ),
   extractItem(
     manifest716,
