@@ -128,22 +128,8 @@ function FeaturedItem({
       </div>
 
       <div className="featured-item__content">
-        <p
-          style={{
-            fontFamily: "var(--font-sans, system-ui, sans-serif)",
-            fontSize: "0.65rem",
-            letterSpacing: "0.2em",
-            textTransform: "uppercase",
-            color: "var(--color-accent-default)",
-            margin: "0 0 1rem",
-          }}
-        >
-          Eadweard Muybridge · 1887
-        </p>
-
         <h2
           style={{
-            fontFamily: "var(--font-serif, 'Fraunces', Georgia, serif)",
             fontSize: "clamp(1.4rem, 2.2vw, 2rem)",
             fontWeight: 400,
             letterSpacing: "-0.02em",
@@ -161,17 +147,16 @@ function FeaturedItem({
             gridTemplateColumns: "auto 1fr",
             columnGap: "1.5rem",
             rowGap: "0.6rem",
+            alignItems: "baseline",
           }}
         >
           {metadata.map(({label: key, value}) => (
             <React.Fragment key={key}>
               <dt
                 style={{
-                  fontFamily: "var(--font-sans, system-ui, sans-serif)",
-                  fontSize: "0.7rem",
-                  letterSpacing: "0.12em",
+                  fontSize: "0.722rem",
                   textTransform: "uppercase",
-                  color: "var(--color-gray-500)",
+                  color: "var(--color-gray-700)",
                   alignSelf: "baseline",
                   paddingTop: "0.1em",
                 }}
@@ -180,7 +165,6 @@ function FeaturedItem({
               </dt>
               <dd
                 style={{
-                  fontFamily: "var(--font-serif)",
                   fontSize: "1rem",
                   fontWeight: 300,
                   margin: 0,
@@ -200,8 +184,6 @@ function FeaturedItem({
             gap: "0.4rem",
             textTransform: "uppercase",
             textDecoration: "none",
-            borderBottom: "2px solid var(--color-accent-200)",
-            paddingBottom: "0.15rem",
             width: "fit-content",
           }}
         >

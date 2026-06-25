@@ -115,8 +115,7 @@ export default function HeroAnimation({
           height: "100%",
           objectFit: "cover",
           objectPosition: "center center",
-          opacity: framesReady ? 0 : 0.382,
-          filter: "blur(1px)",
+          opacity: framesReady ? 0 : 1,
           transition: "opacity 0.6s ease",
           imageRendering: "auto",
         }}
