@@ -3,7 +3,7 @@ import cacheIndex from "../../.cache/iiif/index.json";
 
 import manifest663 from "../../assets/iiif/plate-number-663-mule-miscellaneous-performances-denver.json";
 import manifest333 from "../../assets/iiif/plate-number-333-boxing-one-man-knocking-the-other-one-down.json";
-import manifest716 from "../../assets/iiif/plate-number-716-cat-walking-change-to-galloping.json";
+import manifest717 from "../../assets/iiif/plate-number-717-cat-trotting.json";
 import manifest626 from "../../assets/iiif/plate-number-626-annie-g-galloping.json";
 
 interface MetadataEntry {
@@ -56,8 +56,8 @@ const FEATURED: FeaturedItemData[] = [
     "https://nulib-ds.github.io/muybridge/iiif/plate-number-663-mule-miscellaneous-performances-denver.json",
   ),
   extractItem(
-    manifest716,
-    "https://nulib-ds.github.io/muybridge/iiif/plate-number-716-cat-walking-change-to-galloping.json",
+    manifest717,
+    "https://nulib-ds.github.io/muybridge/iiif/plate-number-717-cat-trotting.json",
   ),
 ];
 

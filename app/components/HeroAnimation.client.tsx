@@ -100,6 +100,7 @@ export default function HeroAnimation({
         minHeight: "300px",
         marginTop: "-1rem",
         overflow: "hidden",
+        backgroundColor: "var(--color-accent-100)",
         zIndex: 0,
         opacity,
       }}
@@ -115,7 +116,7 @@ export default function HeroAnimation({
           height: "100%",
           objectFit: "cover",
           objectPosition: "center center",
-          opacity: framesReady ? 0 : 1,
+          opacity: framesReady ? 0 : 0.382,
           transition: "opacity 0.6s ease",
           imageRendering: "auto",
         }}
@@ -127,7 +128,6 @@ export default function HeroAnimation({
           inset: 0,
           opacity: framesReady ? 1 : 0,
           transition: "opacity 0.6s ease",
-          backgroundColor: "var(--color-accent-100)",
         }}
       >
         {frames.map((src, i) => (
