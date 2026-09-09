@@ -1,4 +1,4 @@
-/** 
+/**
  * Example custom color variables
  * @see https://canopy-iiif.github.io/app/docs/theming/tailwind#custom
  */
@@ -11,3 +11,37 @@
     --color-accent-default: var(--color-northwestern-purple);
   }
 } */
+
+/**
+ * Clover IIIF theme bridge.
+ *
+ * Clover's Viewer and Slider read `--clover-color-*` custom properties (not the
+ * legacy `--colors-*` names Canopy's base theme still emits) and fall back to
+ * Clover's own light-mode literals when nothing sets them. That's why the
+ * viewer/slider chrome was showing Clover's defaults instead of this site's
+ * palette. Mapping our existing Tailwind color tokens onto the `--clover-*`
+ * names here lets every Viewer/Slider inherit the site's dark violet/mauve
+ * theme instead.
+ * @see https://github.com/samvera-labs/clover-iiif/blob/main/src/styles/tokens.ts
+ */
+@layer properties {
+  :root,
+  :host {
+    /* Foreground ink (light text/icons on our dark theme). */
+    --clover-color-primary: var(--color-gray-900);
+    --clover-color-primary-alt: var(--color-gray-900);
+    --clover-color-primary-muted: var(--color-gray-800);
+
+    /* Chrome/background surfaces (dark, ascending toward "raised"). */
+    --clover-color-secondary: var(--color-gray-50);
+    --clover-color-secondary-muted: var(--color-gray-100);
+    --clover-color-secondary-alt: var(--color-gray-300);
+
+    /* Brand accent — matches the resting/hover purples Canopy's own buttons
+       and links use (`--color-accent-default` at rest, `--color-accent-600`
+       on hover; see `.canopy-button--primary` in @canopy-iiif/app/ui). */
+    --clover-color-accent: var(--color-accent-default);
+    --clover-color-accent-muted: var(--color-accent-900);
+    --clover-color-accent-alt: var(--color-accent-600);
+  }
+}
