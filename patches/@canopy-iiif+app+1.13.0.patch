@@ -1,0 +1,22 @@
+diff --git a/node_modules/@canopy-iiif/app/lib/build/mdx.js b/node_modules/@canopy-iiif/app/lib/build/mdx.js
+index 9f55535..b479362 100644
+--- a/node_modules/@canopy-iiif/app/lib/build/mdx.js
++++ b/node_modules/@canopy-iiif/app/lib/build/mdx.js
+@@ -1332,7 +1332,7 @@ async function buildCloverHydrationRuntimes() {
+     format: "esm",
+     splitting: true,
+     sourcemap: false,
+-    target: ["es2018"],
++    target: ["es2020"],
+     logLevel: "silent",
+     minify: true,
+     define: { "process.env.NODE_ENV": '"production"' },
+@@ -1446,7 +1446,7 @@ async function buildCustomClientRuntime(entries) {
+     outfile: outFile,
+     bundle: true,
+     platform: "browser",
+-    target: ["es2018"],
++    target: ["es2020"],
+     format: "esm",
+     sourcemap: false,
+     minify: true,

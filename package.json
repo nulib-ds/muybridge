@@ -5,6 +5,7 @@
   "private": true,
   "main": "app/scripts/canopy-build.mjs",
   "scripts": {
+    "postinstall": "patch-package",
     "prebuild": "tsx app/scripts/generate-frame-map.mts",
     "predev": "tsx app/scripts/generate-frame-map.mts",
     "build": "tsx app/scripts/canopy-build.mts",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.13",
+    "patch-package": "^8.0.1",
     "tailwindcss": "^4.1.13",
     "tsx": "^4.19.1"
   },
