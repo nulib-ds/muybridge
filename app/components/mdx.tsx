@@ -18,4 +18,5 @@ export const clientComponents = {
   HeroAnimation: './HeroAnimation.client.tsx',
   FramesViewer: './FramesViewer.client.tsx',
   CanvasCompare: './CanvasCompare.client.tsx',
+  RelatedItems: './RelatedItems.client.tsx',
 };
